@@ -1,0 +1,346 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.000", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "If"
+   ]
+  }, 
+  {
+   "begin": "0.000", 
+   "end": "0.360", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "0.360", 
+   "end": "0.720", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "monkey"
+   ]
+  }, 
+  {
+   "begin": "0.720", 
+   "end": "1.200", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "had"
+   ]
+  }, 
+  {
+   "begin": "1.200", 
+   "end": "1.960", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "not"
+   ]
+  }, 
+  {
+   "begin": "1.960", 
+   "end": "2.280", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "got"
+   ]
+  }, 
+  {
+   "begin": "2.280", 
+   "end": "3.000", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "in,"
+   ]
+  }, 
+  {
+   "begin": "3.000", 
+   "end": "3.400", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "he"
+   ]
+  }, 
+  {
+   "begin": "3.400", 
+   "end": "3.440", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "would"
+   ]
+  }, 
+  {
+   "begin": "3.440", 
+   "end": "3.680", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "not"
+   ]
+  }, 
+  {
+   "begin": "3.680", 
+   "end": "4.080", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "have"
+   ]
+  }, 
+  {
+   "begin": "4.080", 
+   "end": "4.640", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "eaten"
+   ]
+  }, 
+  {
+   "begin": "4.640", 
+   "end": "4.840", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "up"
+   ]
+  }, 
+  {
+   "begin": "4.840", 
+   "end": "5.400", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "all"
+   ]
+  }, 
+  {
+   "begin": "5.400", 
+   "end": "5.760", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "5.760", 
+   "end": "5.840", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "food.\n"
+   ]
+  }, 
+  {
+   "begin": "5.840", 
+   "end": "6.800", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "If"
+   ]
+  }, 
+  {
+   "begin": "6.800", 
+   "end": "7.680", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "he"
+   ]
+  }, 
+  {
+   "begin": "7.680", 
+   "end": "8.000", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "had"
+   ]
+  }, 
+  {
+   "begin": "8.000", 
+   "end": "8.040", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "not"
+   ]
+  }, 
+  {
+   "begin": "8.040", 
+   "end": "8.600", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "eaten"
+   ]
+  }, 
+  {
+   "begin": "8.600", 
+   "end": "8.800", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "up"
+   ]
+  }, 
+  {
+   "begin": "8.800", 
+   "end": "9.560", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "all"
+   ]
+  }, 
+  {
+   "begin": "9.560", 
+   "end": "10.240", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "10.240", 
+   "end": "10.600", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "food,"
+   ]
+  }, 
+  {
+   "begin": "10.600", 
+   "end": "10.880", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "my"
+   ]
+  }, 
+  {
+   "begin": "10.880", 
+   "end": "11.320", 
+   "id": "f000027", 
+   "language": "en", 
+   "lines": [
+    "father"
+   ]
+  }, 
+  {
+   "begin": "11.320", 
+   "end": "11.560", 
+   "id": "f000028", 
+   "language": "en", 
+   "lines": [
+    "would"
+   ]
+  }, 
+  {
+   "begin": "11.560", 
+   "end": "11.600", 
+   "id": "f000029", 
+   "language": "en", 
+   "lines": [
+    "not"
+   ]
+  }, 
+  {
+   "begin": "11.600", 
+   "end": "11.880", 
+   "id": "f000030", 
+   "language": "en", 
+   "lines": [
+    "have"
+   ]
+  }, 
+  {
+   "begin": "11.880", 
+   "end": "12.520", 
+   "id": "f000031", 
+   "language": "en", 
+   "lines": [
+    "bought"
+   ]
+  }, 
+  {
+   "begin": "12.520", 
+   "end": "13.280", 
+   "id": "f000032", 
+   "language": "en", 
+   "lines": [
+    "rotis"
+   ]
+  }, 
+  {
+   "begin": "13.280", 
+   "end": "13.480", 
+   "id": "f000033", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "13.480", 
+   "end": "13.720", 
+   "id": "f000034", 
+   "language": "en", 
+   "lines": [
+    "chicken"
+   ]
+  }, 
+  {
+   "begin": "13.720", 
+   "end": "14.000", 
+   "id": "f000035", 
+   "language": "en", 
+   "lines": [
+    "curry"
+   ]
+  }, 
+  {
+   "begin": "14.000", 
+   "end": "14.360", 
+   "id": "f000036", 
+   "language": "en", 
+   "lines": [
+    "at"
+   ]
+  }, 
+  {
+   "begin": "14.360", 
+   "end": "14.720", 
+   "id": "f000037", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "14.720", 
+   "end": "16.120", 
+   "id": "f000038", 
+   "language": "en", 
+   "lines": [
+    "tea-shop."
+   ]
+  }
+ ]
+}

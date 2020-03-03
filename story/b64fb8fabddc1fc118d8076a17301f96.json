@@ -1,0 +1,40 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.400", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "The"
+   ]
+  }, 
+  {
+   "begin": "0.400", 
+   "end": "0.880", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "snake"
+   ]
+  }, 
+  {
+   "begin": "0.880", 
+   "end": "1.480", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "chases"
+   ]
+  }, 
+  {
+   "begin": "1.480", 
+   "end": "2.160", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "them."
+   ]
+  }
+ ]
+}

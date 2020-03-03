@@ -1,0 +1,507 @@
+{
+	"fragments": [{
+			"begin": "0.280",
+			"end": "0.680",
+			"id": "f000006",
+			"language": "en",
+			"lines": [
+				"Just"
+			]
+		},
+		{
+			"begin": "0.680",
+			"end": "1.240",
+			"id": "f000007",
+			"language": "en",
+			"lines": [
+				"then"
+			]
+		},
+		{
+			"begin": "1.240",
+			"end": "1.720",
+			"id": "f000008",
+			"language": "en",
+			"lines": [
+				"Rehman"
+			]
+		},
+		{
+			"begin": "1.720",
+			"end": "2.120",
+			"id": "f000009",
+			"language": "en",
+			"lines": [
+				"Chacha"
+			]
+		},
+		{
+			"begin": "2.120",
+			"end": "2.320",
+			"id": "f000010",
+			"language": "en",
+			"lines": [
+				"laid"
+			]
+		},
+		{
+			"begin": "2.320",
+			"end": "2.600",
+			"id": "f000011",
+			"language": "en",
+			"lines": [
+				"his"
+			]
+		},
+		{
+			"begin": "2.600",
+			"end": "2.920",
+			"id": "f000012",
+			"language": "en",
+			"lines": [
+				"eyes"
+			]
+		},
+		{
+			"begin": "2.920",
+			"end": "3.120",
+			"id": "f000013",
+			"language": "en",
+			"lines": [
+				"on"
+			]
+		},
+		{
+			"begin": "3.120",
+			"end": "3.560",
+			"id": "f000014",
+			"language": "en",
+			"lines": [
+				"Aamir."
+			]
+		},
+		{
+			"begin": "3.560",
+			"end": "5.720",
+			"id": "f000015",
+			"language": "en",
+			"lines": [
+				"\u201cAha!"
+			]
+		},
+		{
+			"begin": "5.720",
+			"end": "6.120",
+			"id": "f000016",
+			"language": "en",
+			"lines": [
+				"Where"
+			]
+		},
+		{
+			"begin": "6.120",
+			"end": "6.200",
+			"id": "f000017",
+			"language": "en",
+			"lines": [
+				"is"
+			]
+		},
+		{
+			"begin": "6.200",
+			"end": "6.720",
+			"id": "f000018",
+			"language": "en",
+			"lines": [
+				"Ahmed,"
+			]
+		},
+		{
+			"begin": "6.720",
+			"end": "7.120",
+			"id": "f000019",
+			"language": "en",
+			"lines": [
+				"Aamir?"
+			]
+		},
+		{
+			"begin": "7.120",
+			"end": "7.960",
+			"id": "f000020",
+			"language": "en",
+			"lines": [
+				"He"
+			]
+		},
+		{
+			"begin": "7.960",
+			"end": "8.240",
+			"id": "f000021",
+			"language": "en",
+			"lines": [
+				"is"
+			]
+		},
+		{
+			"begin": "8.240",
+			"end": "8.480",
+			"id": "f000022",
+			"language": "en",
+			"lines": [
+				"not"
+			]
+		},
+		{
+			"begin": "8.480",
+			"end": "8.600",
+			"id": "f000023",
+			"language": "en",
+			"lines": [
+				"to"
+			]
+		},
+		{
+			"begin": "8.600",
+			"end": "8.800",
+			"id": "f000024",
+			"language": "en",
+			"lines": [
+				"be"
+			]
+		},
+		{
+			"begin": "8.800",
+			"end": "9.040",
+			"id": "f000025",
+			"language": "en",
+			"lines": [
+				"seen"
+			]
+		},
+		{
+			"begin": "9.040",
+			"end": "9.200",
+			"id": "f000026",
+			"language": "en",
+			"lines": [
+				"today.\u201d"
+			]
+		},
+		{
+			"begin": "9.200",
+			"end": "9.480",
+			"id": "f000027",
+			"language": "en",
+			"lines": [
+				"\n\n"
+			]
+		},
+		{
+			"begin": "9.480",
+			"end": "10.640",
+			"id": "f000028",
+			"language": "en",
+			"lines": [
+				"\u201cAhmed"
+			]
+		},
+		{
+			"begin": "10.640",
+			"end": "10.880",
+			"id": "f000029",
+			"language": "en",
+			"lines": [
+				"is"
+			]
+		},
+		{
+			"begin": "10.880",
+			"end": "11.120",
+			"id": "f000030",
+			"language": "en",
+			"lines": [
+				"not"
+			]
+		},
+		{
+			"begin": "11.120",
+			"end": "11.320",
+			"id": "f000031",
+			"language": "en",
+			"lines": [
+				"keeping"
+			]
+		},
+		{
+			"begin": "11.320",
+			"end": "11.640",
+			"id": "f000032",
+			"language": "en",
+			"lines": [
+				"too"
+			]
+		},
+		{
+			"begin": "11.640",
+			"end": "12.160",
+			"id": "f000033",
+			"language": "en",
+			"lines": [
+				"well,"
+			]
+		},
+		{
+			"begin": "12.160",
+			"end": "12.560",
+			"id": "f000034",
+			"language": "en",
+			"lines": [
+				"Rehman"
+			]
+		},
+		{
+			"begin": "12.560",
+			"end": "13.720",
+			"id": "f000035",
+			"language": "en",
+			"lines": [
+				"Chacha."
+			]
+		},
+		{
+			"begin": "13.720",
+			"end": "14.000",
+			"id": "f000036",
+			"language": "en",
+			"lines": [
+				"He"
+			]
+		},
+		{
+			"begin": "14.000",
+			"end": "14.000",
+			"id": "f000037",
+			"language": "en",
+			"lines": [
+				"is"
+			]
+		},
+		{
+			"begin": "14.000",
+			"end": "14.320",
+			"id": "f000038",
+			"language": "en",
+			"lines": [
+				"down"
+			]
+		},
+		{
+			"begin": "14.320",
+			"end": "14.480",
+			"id": "f000039",
+			"language": "en",
+			"lines": [
+				"with"
+			]
+		},
+		{
+			"begin": "14.480",
+			"end": "14.600",
+			"id": "f000040",
+			"language": "en",
+			"lines": [
+				"a"
+			]
+		},
+		{
+			"begin": "14.600",
+			"end": "15.120",
+			"id": "f000041",
+			"language": "en",
+			"lines": [
+				"cold"
+			]
+		},
+		{
+			"begin": "15.120",
+			"end": "15.160",
+			"id": "f000042",
+			"language": "en",
+			"lines": [
+				"and"
+			]
+		},
+		{
+			"begin": "15.160",
+			"end": "16.080",
+			"id": "f000043",
+			"language": "en",
+			"lines": [
+				"cough,\u201d"
+			]
+		},
+		{
+			"begin": "16.080",
+			"end": "16.440",
+			"id": "f000044",
+			"language": "en",
+			"lines": [
+				"Aamir"
+			]
+		},
+		{
+			"begin": "16.440",
+			"end": "17.280",
+			"id": "f000045",
+			"language": "en",
+			"lines": [
+				"answered,"
+			]
+		},
+		{
+			"begin": "17.280",
+			"end": "17.840",
+			"id": "f000046",
+			"language": "en",
+			"lines": [
+				"still"
+			]
+		},
+		{
+			"begin": "17.840",
+			"end": "18.000",
+			"id": "f000047",
+			"language": "en",
+			"lines": [
+				"looking"
+			]
+		},
+		{
+			"begin": "18.000",
+			"end": "18.400",
+			"id": "f000048",
+			"language": "en",
+			"lines": [
+				"down."
+			]
+		},
+		{
+			"begin": "18.400",
+			"end": "19.760",
+			"id": "f000049",
+			"language": "en",
+			"lines": [
+				"\n\n"
+			]
+		},
+		{
+			"begin": "19.760",
+			"end": "20.280",
+			"id": "f000050",
+			"language": "en",
+			"lines": [
+				"Suddenly,"
+			]
+		},
+		{
+			"begin": "20.280",
+			"end": "20.520",
+			"id": "f000051",
+			"language": "en",
+			"lines": [
+				"one"
+			]
+		},
+		{
+			"begin": "20.520",
+			"end": "20.880",
+			"id": "f000052",
+			"language": "en",
+			"lines": [
+				"by"
+			]
+		},
+		{
+			"begin": "20.880",
+			"end": "20.960",
+			"id": "f000053",
+			"language": "en",
+			"lines": [
+				"one"
+			]
+		},
+		{
+			"begin": "20.960",
+			"end": "21.400",
+			"id": "f000054",
+			"language": "en",
+			"lines": [
+				"everyone"
+			]
+		},
+		{
+			"begin": "21.400",
+			"end": "21.880",
+			"id": "f000055",
+			"language": "en",
+			"lines": [
+				"started"
+			]
+		},
+		{
+			"begin": "21.880",
+			"end": "22.320",
+			"id": "f000056",
+			"language": "en",
+			"lines": [
+				"giggling"
+			]
+		},
+		{
+			"begin": "22.320",
+			"end": "22.480",
+			"id": "f000057",
+			"language": "en",
+			"lines": [
+				"and"
+			]
+		},
+		{
+			"begin": "22.480",
+			"end": "22.720",
+			"id": "f000058",
+			"language": "en",
+			"lines": [
+				"then"
+			]
+		},
+		{
+			"begin": "22.720",
+			"end": "23.680",
+			"id": "f000059",
+			"language": "en",
+			"lines": [
+				"laughing,"
+			]
+		},
+		{
+			"begin": "23.680",
+			"end": "24.280",
+			"id": "f000060",
+			"language": "en",
+			"lines": [
+				"including"
+			]
+		},
+		{
+			"begin": "24.280",
+			"end": "25.080",
+			"id": "f000061",
+			"language": "en",
+			"lines": [
+				"Aamir."
+			]
+		}
+	]
+}

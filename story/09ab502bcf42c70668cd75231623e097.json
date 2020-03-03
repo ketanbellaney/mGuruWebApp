@@ -1,0 +1,175 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.360", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Or"
+   ]
+  }, 
+  {
+   "begin": "0.360", 
+   "end": "1.360", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "perhaps"
+   ]
+  }, 
+  {
+   "begin": "1.360", 
+   "end": "1.520", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "he"
+   ]
+  }, 
+  {
+   "begin": "1.520", 
+   "end": "1.720", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "would"
+   ]
+  }, 
+  {
+   "begin": "1.720", 
+   "end": "2.160", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "become"
+   ]
+  }, 
+  {
+   "begin": "2.160", 
+   "end": "2.200", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "2.200", 
+   "end": "2.680", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "wise"
+   ]
+  }, 
+  {
+   "begin": "2.680", 
+   "end": "3.840", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "teacher,"
+   ]
+  }, 
+  {
+   "begin": "3.840", 
+   "end": "4.120", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "4.120", 
+   "end": "4.600", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "teach"
+   ]
+  }, 
+  {
+   "begin": "4.600", 
+   "end": "4.800", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "other"
+   ]
+  }, 
+  {
+   "begin": "4.800", 
+   "end": "5.200", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "children"
+   ]
+  }, 
+  {
+   "begin": "5.200", 
+   "end": "5.440", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "like"
+   ]
+  }, 
+  {
+   "begin": "5.440", 
+   "end": "6.560", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "himself"
+   ]
+  }, 
+  {
+   "begin": "6.560", 
+   "end": "6.800", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "that"
+   ]
+  }, 
+  {
+   "begin": "6.800", 
+   "end": "7.240", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "dreams"
+   ]
+  }, 
+  {
+   "begin": "7.240", 
+   "end": "7.680", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "can"
+   ]
+  }, 
+  {
+   "begin": "7.680", 
+   "end": "7.960", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "come"
+   ]
+  }, 
+  {
+   "begin": "7.960", 
+   "end": "8.800", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "true."
+   ]
+  }
+ ]
+}

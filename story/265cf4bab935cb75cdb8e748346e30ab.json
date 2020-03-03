@@ -1,0 +1,346 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.440", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Where"
+   ]
+  }, 
+  {
+   "begin": "0.440", 
+   "end": "0.680", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "was"
+   ]
+  }, 
+  {
+   "begin": "0.680", 
+   "end": "1.000", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "their"
+   ]
+  }, 
+  {
+   "begin": "1.000", 
+   "end": "1.520", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "nice,"
+   ]
+  }, 
+  {
+   "begin": "1.520", 
+   "end": "2.080", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "grey,"
+   ]
+  }, 
+  {
+   "begin": "2.080", 
+   "end": "2.440", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "Rupa?\n"
+   ]
+  }, 
+  {
+   "begin": "2.440", 
+   "end": "3.360", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "Who"
+   ]
+  }, 
+  {
+   "begin": "3.360", 
+   "end": "3.880", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "was"
+   ]
+  }, 
+  {
+   "begin": "3.880", 
+   "end": "4.120", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "4.120", 
+   "end": "4.640", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "ugly,"
+   ]
+  }, 
+  {
+   "begin": "4.640", 
+   "end": "5.280", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "patchy,"
+   ]
+  }, 
+  {
+   "begin": "5.280", 
+   "end": "6.080", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "dotty,"
+   ]
+  }, 
+  {
+   "begin": "6.080", 
+   "end": "6.520", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "stripy,"
+   ]
+  }, 
+  {
+   "begin": "6.520", 
+   "end": "7.040", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "monster"
+   ]
+  }, 
+  {
+   "begin": "7.040", 
+   "end": "7.560", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "standing"
+   ]
+  }, 
+  {
+   "begin": "7.560", 
+   "end": "8.520", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "there?\n"
+   ]
+  }, 
+  {
+   "begin": "8.520", 
+   "end": "8.960", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "Some"
+   ]
+  }, 
+  {
+   "begin": "8.960", 
+   "end": "8.960", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "of"
+   ]
+  }, 
+  {
+   "begin": "8.960", 
+   "end": "9.040", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "9.040", 
+   "end": "9.400", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "little"
+   ]
+  }, 
+  {
+   "begin": "9.400", 
+   "end": "9.800", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "ones"
+   ]
+  }, 
+  {
+   "begin": "9.800", 
+   "end": "9.920", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "were"
+   ]
+  }, 
+  {
+   "begin": "9.920", 
+   "end": "10.640", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "frightened.\n"
+   ]
+  }, 
+  {
+   "begin": "10.640", 
+   "end": "10.640", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    ""
+   ]
+  }, 
+  {
+   "begin": "10.640", 
+   "end": "10.640", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "\"Boo,"
+   ]
+  }, 
+  {
+   "begin": "10.640", 
+   "end": "10.720", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "hoo!\""
+   ]
+  }, 
+  {
+   "begin": "10.720", 
+   "end": "10.760", 
+   "id": "f000027", 
+   "language": "en", 
+   "lines": [
+    "they"
+   ]
+  }, 
+  {
+   "begin": "10.760", 
+   "end": "12.640", 
+   "id": "f000028", 
+   "language": "en", 
+   "lines": [
+    "cried.\n"
+   ]
+  }, 
+  {
+   "begin": "12.640", 
+   "end": "12.640", 
+   "id": "f000029", 
+   "language": "en", 
+   "lines": [
+    ""
+   ]
+  }, 
+  {
+   "begin": "12.640", 
+   "end": "13.360", 
+   "id": "f000030", 
+   "language": "en", 
+   "lines": [
+    "\"Go"
+   ]
+  }, 
+  {
+   "begin": "13.360", 
+   "end": "13.800", 
+   "id": "f000031", 
+   "language": "en", 
+   "lines": [
+    "away"
+   ]
+  }, 
+  {
+   "begin": "13.800", 
+   "end": "14.400", 
+   "id": "f000032", 
+   "language": "en", 
+   "lines": [
+    "you"
+   ]
+  }, 
+  {
+   "begin": "14.400", 
+   "end": "15.560", 
+   "id": "f000033", 
+   "language": "en", 
+   "lines": [
+    "ugly"
+   ]
+  }, 
+  {
+   "begin": "15.560", 
+   "end": "16.400", 
+   "id": "f000034", 
+   "language": "en", 
+   "lines": [
+    "thing."
+   ]
+  }, 
+  {
+   "begin": "16.400", 
+   "end": "16.400", 
+   "id": "f000035", 
+   "language": "en", 
+   "lines": [
+    "We"
+   ]
+  }, 
+  {
+   "begin": "16.400", 
+   "end": "17.040", 
+   "id": "f000036", 
+   "language": "en", 
+   "lines": [
+    "want"
+   ]
+  }, 
+  {
+   "begin": "17.040", 
+   "end": "17.480", 
+   "id": "f000037", 
+   "language": "en", 
+   "lines": [
+    "our"
+   ]
+  }, 
+  {
+   "begin": "17.480", 
+   "end": "18.080", 
+   "id": "f000038", 
+   "language": "en", 
+   "lines": [
+    "Rupa!\""
+   ]
+  }
+ ]
+}

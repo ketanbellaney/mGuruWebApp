@@ -1,0 +1,193 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.000", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "She"
+   ]
+  }, 
+  {
+   "begin": "0.000", 
+   "end": "0.560", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "drew"
+   ]
+  }, 
+  {
+   "begin": "0.560", 
+   "end": "0.920", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "0.920", 
+   "end": "1.480", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "coach"
+   ]
+  }, 
+  {
+   "begin": "1.480", 
+   "end": "1.760", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "on"
+   ]
+  }, 
+  {
+   "begin": "1.760", 
+   "end": "2.240", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "2.240", 
+   "end": "2.720", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "floor."
+   ]
+  }, 
+  {
+   "begin": "2.720", 
+   "end": "4.400", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "Then"
+   ]
+  }, 
+  {
+   "begin": "4.400", 
+   "end": "4.520", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "4.520", 
+   "end": "5.160", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "second"
+   ]
+  }, 
+  {
+   "begin": "5.160", 
+   "end": "6.480", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "coach,"
+   ]
+  }, 
+  {
+   "begin": "6.480", 
+   "end": "7.280", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "then"
+   ]
+  }, 
+  {
+   "begin": "7.280", 
+   "end": "8.480", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "another,"
+   ]
+  }, 
+  {
+   "begin": "8.480", 
+   "end": "8.880", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "8.880", 
+   "end": "10.240", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "another,"
+   ]
+  }, 
+  {
+   "begin": "10.240", 
+   "end": "10.680", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "10.680", 
+   "end": "12.400", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "another..."
+   ]
+  }, 
+  {
+   "begin": "12.400", 
+   "end": "13.040", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "Nanhi"
+   ]
+  }, 
+  {
+   "begin": "13.040", 
+   "end": "13.680", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "just"
+   ]
+  }, 
+  {
+   "begin": "13.680", 
+   "end": "14.560", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "kept"
+   ]
+  }, 
+  {
+   "begin": "14.560", 
+   "end": "15.720", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "drawing."
+   ]
+  }
+ ]
+}

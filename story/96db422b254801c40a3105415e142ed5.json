@@ -1,0 +1,85 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.520", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "And"
+   ]
+  }, 
+  {
+   "begin": "0.520", 
+   "end": "1.080", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "that"
+   ]
+  }, 
+  {
+   "begin": "1.080", 
+   "end": "1.840", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "sound!"
+   ]
+  }, 
+  {
+   "begin": "1.840", 
+   "end": "3.640", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "Creak"
+   ]
+  }, 
+  {
+   "begin": "3.640", 
+   "end": "5.520", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "creak"
+   ]
+  }, 
+  {
+   "begin": "5.520", 
+   "end": "6.760", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "creak!\n"
+   ]
+  }, 
+  {
+   "begin": "6.760", 
+   "end": "6.880", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "What"
+   ]
+  }, 
+  {
+   "begin": "6.880", 
+   "end": "6.960", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "is"
+   ]
+  }, 
+  {
+   "begin": "6.960", 
+   "end": "7.600", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "it?"
+   ]
+  }
+ ]
+}

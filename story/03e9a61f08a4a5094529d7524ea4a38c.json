@@ -1,0 +1,76 @@
+{
+ "fragments": [
+  {
+   "begin": "1.520", 
+   "end": "1.640", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "1.640", 
+   "end": "1.640", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "like"
+   ]
+  }, 
+  {
+   "begin": "1.640", 
+   "end": "2.040", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "vegetable"
+   ]
+  }, 
+  {
+   "begin": "2.040", 
+   "end": "2.680", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "momo."
+   ]
+  }, 
+  {
+   "begin": "2.680", 
+   "end": "2.960", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "My"
+   ]
+  }, 
+  {
+   "begin": "2.960", 
+   "end": "3.200", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "brother"
+   ]
+  }, 
+  {
+   "begin": "3.200", 
+   "end": "3.840", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "likes"
+   ]
+  }, 
+  {
+   "begin": "3.840", 
+   "end": "4.640", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "mutton."
+   ]
+  }
+ ]
+}

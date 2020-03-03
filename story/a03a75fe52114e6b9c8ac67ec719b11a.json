@@ -1,0 +1,103 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "1.080", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "By"
+   ]
+  }, 
+  {
+   "begin": "1.080", 
+   "end": "1.800", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "now,"
+   ]
+  }, 
+  {
+   "begin": "1.800", 
+   "end": "2.160", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "Anil"
+   ]
+  }, 
+  {
+   "begin": "2.160", 
+   "end": "2.400", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "was"
+   ]
+  }, 
+  {
+   "begin": "2.400", 
+   "end": "2.960", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "crying"
+   ]
+  }, 
+  {
+   "begin": "2.960", 
+   "end": "4.520", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "loudly."
+   ]
+  }, 
+  {
+   "begin": "4.520", 
+   "end": "5.240", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "Everyone"
+   ]
+  }, 
+  {
+   "begin": "5.240", 
+   "end": "5.520", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "was"
+   ]
+  }, 
+  {
+   "begin": "5.520", 
+   "end": "6.000", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "looking"
+   ]
+  }, 
+  {
+   "begin": "6.000", 
+   "end": "6.280", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "at"
+   ]
+  }, 
+  {
+   "begin": "6.280", 
+   "end": "7.360", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "Anil."
+   ]
+  }
+ ]
+}

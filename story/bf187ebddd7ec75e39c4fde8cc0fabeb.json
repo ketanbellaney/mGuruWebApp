@@ -1,0 +1,166 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.080", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "0.080", 
+   "end": "0.480", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "have"
+   ]
+  }, 
+  {
+   "begin": "0.480", 
+   "end": "0.920", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "reached"
+   ]
+  }, 
+  {
+   "begin": "0.920", 
+   "end": "0.960", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "0.960", 
+   "end": "1.560", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "divider."
+   ]
+  }, 
+  {
+   "begin": "1.560", 
+   "end": "2.480", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "There"
+   ]
+  }, 
+  {
+   "begin": "2.480", 
+   "end": "2.840", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "is"
+   ]
+  }, 
+  {
+   "begin": "2.840", 
+   "end": "3.320", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "traffic"
+   ]
+  }, 
+  {
+   "begin": "3.320", 
+   "end": "3.320", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "in"
+   ]
+  }, 
+  {
+   "begin": "3.320", 
+   "end": "3.680", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "front."
+   ]
+  }, 
+  {
+   "begin": "3.680", 
+   "end": "4.640", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "There"
+   ]
+  }, 
+  {
+   "begin": "4.640", 
+   "end": "5.040", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "is"
+   ]
+  }, 
+  {
+   "begin": "5.040", 
+   "end": "5.600", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "traffic"
+   ]
+  }, 
+  {
+   "begin": "5.600", 
+   "end": "6.800", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "behind."
+   ]
+  }, 
+  {
+   "begin": "6.800", 
+   "end": "6.960", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "6.960", 
+   "end": "7.400", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "must"
+   ]
+  }, 
+  {
+   "begin": "7.400", 
+   "end": "7.680", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "be"
+   ]
+  }, 
+  {
+   "begin": "7.680", 
+   "end": "8.400", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "careful."
+   ]
+  }
+ ]
+}

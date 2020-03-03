@@ -1,0 +1,49 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.640", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "This"
+   ]
+  }, 
+  {
+   "begin": "0.640", 
+   "end": "1.040", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "is"
+   ]
+  }, 
+  {
+   "begin": "1.040", 
+   "end": "1.480", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "1.480", 
+   "end": "1.680", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "fat"
+   ]
+  }, 
+  {
+   "begin": "1.680", 
+   "end": "2.800", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "king."
+   ]
+  }
+ ]
+}

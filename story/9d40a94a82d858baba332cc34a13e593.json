@@ -1,0 +1,283 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.000", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "\u201cLook"
+   ]
+  }, 
+  {
+   "begin": "0.000", 
+   "end": "0.120", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "0.120", 
+   "end": "0.640", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "have"
+   ]
+  }, 
+  {
+   "begin": "0.640", 
+   "end": "1.560", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "hands!\u201d"
+   ]
+  }, 
+  {
+   "begin": "1.560", 
+   "end": "2.240", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "2.240", 
+   "end": "2.960", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "say.\n"
+   ]
+  }, 
+  {
+   "begin": "2.960", 
+   "end": "2.960", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    ""
+   ]
+  }, 
+  {
+   "begin": "2.960", 
+   "end": "2.960", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    ""
+   ]
+  }, 
+  {
+   "begin": "2.960", 
+   "end": "4.800", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "\u201cGrrrrrr\u2026\u201d"
+   ]
+  }, 
+  {
+   "begin": "4.800", 
+   "end": "5.760", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "Pepe"
+   ]
+  }, 
+  {
+   "begin": "5.760", 
+   "end": "6.640", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "says,"
+   ]
+  }, 
+  {
+   "begin": "6.640", 
+   "end": "6.840", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "6.840", 
+   "end": "7.400", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "turns"
+   ]
+  }, 
+  {
+   "begin": "7.400", 
+   "end": "7.520", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "7.520", 
+   "end": "8.080", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "show"
+   ]
+  }, 
+  {
+   "begin": "8.080", 
+   "end": "8.120", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "his"
+   ]
+  }, 
+  {
+   "begin": "8.120", 
+   "end": "8.560", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "little"
+   ]
+  }, 
+  {
+   "begin": "8.560", 
+   "end": "9.000", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "tail.\n"
+   ]
+  }, 
+  {
+   "begin": "9.000", 
+   "end": "9.000", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    ""
+   ]
+  }, 
+  {
+   "begin": "9.000", 
+   "end": "9.000", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    ""
+   ]
+  }, 
+  {
+   "begin": "9.000", 
+   "end": "10.280", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "That"
+   ]
+  }, 
+  {
+   "begin": "10.280", 
+   "end": "10.760", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "means"
+   ]
+  }, 
+  {
+   "begin": "10.760", 
+   "end": "10.840", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "he"
+   ]
+  }, 
+  {
+   "begin": "10.840", 
+   "end": "11.600", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "has"
+   ]
+  }, 
+  {
+   "begin": "11.600", 
+   "end": "11.720", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "11.720", 
+   "end": "12.160", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "tail"
+   ]
+  }, 
+  {
+   "begin": "12.160", 
+   "end": "12.560", 
+   "id": "f000027", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "12.560", 
+   "end": "13.080", 
+   "id": "f000028", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "13.080", 
+   "end": "13.400", 
+   "id": "f000029", 
+   "language": "en", 
+   "lines": [
+    "don\u2019t"
+   ]
+  }, 
+  {
+   "begin": "13.400", 
+   "end": "13.680", 
+   "id": "f000030", 
+   "language": "en", 
+   "lines": [
+    "have"
+   ]
+  }, 
+  {
+   "begin": "13.680", 
+   "end": "14.480", 
+   "id": "f000031", 
+   "language": "en", 
+   "lines": [
+    "one."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,157 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.560", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "They"
+   ]
+  }, 
+  {
+   "begin": "0.560", 
+   "end": "1.000", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "clapped"
+   ]
+  }, 
+  {
+   "begin": "1.000", 
+   "end": "1.520", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "their"
+   ]
+  }, 
+  {
+   "begin": "1.520", 
+   "end": "1.880", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "little"
+   ]
+  }, 
+  {
+   "begin": "1.880", 
+   "end": "2.520", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "hands!"
+   ]
+  }, 
+  {
+   "begin": "2.520", 
+   "end": "2.520", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    ""
+   ]
+  }, 
+  {
+   "begin": "2.520", 
+   "end": "2.520", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    ""
+   ]
+  }, 
+  {
+   "begin": "2.520", 
+   "end": "2.520", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    ""
+   ]
+  }, 
+  {
+   "begin": "2.520", 
+   "end": "3.400", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "\n\nThe"
+   ]
+  }, 
+  {
+   "begin": "3.400", 
+   "end": "3.600", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "eagle"
+   ]
+  }, 
+  {
+   "begin": "3.600", 
+   "end": "4.320", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "spread"
+   ]
+  }, 
+  {
+   "begin": "4.320", 
+   "end": "5.000", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "its"
+   ]
+  }, 
+  {
+   "begin": "5.000", 
+   "end": "5.520", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "big"
+   ]
+  }, 
+  {
+   "begin": "5.520", 
+   "end": "6.080", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "wings"
+   ]
+  }, 
+  {
+   "begin": "6.080", 
+   "end": "6.360", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "6.360", 
+   "end": "6.960", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "flew"
+   ]
+  }, 
+  {
+   "begin": "6.960", 
+   "end": "7.640", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "away."
+   ]
+  }
+ ]
+}

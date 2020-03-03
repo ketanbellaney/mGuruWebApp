@@ -1,0 +1,175 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.720", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "These"
+   ]
+  }, 
+  {
+   "begin": "0.720", 
+   "end": "1.360", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "clothes"
+   ]
+  }, 
+  {
+   "begin": "1.360", 
+   "end": "1.720", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "seem"
+   ]
+  }, 
+  {
+   "begin": "1.720", 
+   "end": "1.840", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "1.840", 
+   "end": "2.360", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "say,"
+   ]
+  }, 
+  {
+   "begin": "2.360", 
+   "end": "3.120", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "\u2018We"
+   ]
+  }, 
+  {
+   "begin": "3.120", 
+   "end": "3.600", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "shall"
+   ]
+  }, 
+  {
+   "begin": "3.600", 
+   "end": "4.080", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "trouble"
+   ]
+  }, 
+  {
+   "begin": "4.080", 
+   "end": "4.520", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "you"
+   ]
+  }, 
+  {
+   "begin": "4.520", 
+   "end": "5.040", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "all"
+   ]
+  }, 
+  {
+   "begin": "5.040", 
+   "end": "5.400", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "day.\u2019"
+   ]
+  }, 
+  {
+   "begin": "5.400", 
+   "end": "6.600", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "But"
+   ]
+  }, 
+  {
+   "begin": "6.600", 
+   "end": "6.800", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "6.800", 
+   "end": "7.520", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "have"
+   ]
+  }, 
+  {
+   "begin": "7.520", 
+   "end": "7.960", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "made"
+   ]
+  }, 
+  {
+   "begin": "7.960", 
+   "end": "8.040", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "up"
+   ]
+  }, 
+  {
+   "begin": "8.040", 
+   "end": "8.280", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "my"
+   ]
+  }, 
+  {
+   "begin": "8.280", 
+   "end": "8.640", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "mind"
+   ]
+  }, 
+  {
+   "begin": "8.640", 
+   "end": "9.600", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "today..."
+   ]
+  }
+ ]
+}

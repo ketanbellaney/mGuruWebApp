@@ -1,0 +1,10 @@
+{
+  "short_name": "mguruenglish.com",
+  "name": "mguruenglish.com",
+  "display": "standalone",
+  "start_url": "/stories/books",
+  "scope": "/",
+  "theme_color": "#a040a0",
+  "background_color": "#2196F3",
+  "theme_color": "#2196F3"
+}

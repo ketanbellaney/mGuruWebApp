@@ -1,0 +1,76 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.320", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Do"
+   ]
+  }, 
+  {
+   "begin": "0.320", 
+   "end": "0.680", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "you"
+   ]
+  }, 
+  {
+   "begin": "0.680", 
+   "end": "1.240", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "think"
+   ]
+  }, 
+  {
+   "begin": "1.240", 
+   "end": "1.480", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "1.480", 
+   "end": "1.960", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "sun"
+   ]
+  }, 
+  {
+   "begin": "1.960", 
+   "end": "2.360", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "needs"
+   ]
+  }, 
+  {
+   "begin": "2.360", 
+   "end": "2.400", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "2.400", 
+   "end": "3.440", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "hat?"
+   ]
+  }
+ ]
+}

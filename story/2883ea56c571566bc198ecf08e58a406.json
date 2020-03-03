@@ -1,0 +1,103 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.720", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "They"
+   ]
+  }, 
+  {
+   "begin": "0.720", 
+   "end": "1.520", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "run"
+   ]
+  }, 
+  {
+   "begin": "1.520", 
+   "end": "1.840", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "1.840", 
+   "end": "2.080", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "run."
+   ]
+  }, 
+  {
+   "begin": "2.080", 
+   "end": "3.560", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "They"
+   ]
+  }, 
+  {
+   "begin": "3.560", 
+   "end": "4.120", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "run"
+   ]
+  }, 
+  {
+   "begin": "4.120", 
+   "end": "4.480", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "4.480", 
+   "end": "5.280", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "run"
+   ]
+  }, 
+  {
+   "begin": "5.280", 
+   "end": "5.640", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "for"
+   ]
+  }, 
+  {
+   "begin": "5.640", 
+   "end": "6.000", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "many"
+   ]
+  }, 
+  {
+   "begin": "6.000", 
+   "end": "7.040", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "days."
+   ]
+  }
+ ]
+}

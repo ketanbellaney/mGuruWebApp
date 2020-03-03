@@ -1,0 +1,238 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.840", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Sringeri"
+   ]
+  }, 
+  {
+   "begin": "0.840", 
+   "end": "1.880", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "Srinivas"
+   ]
+  }, 
+  {
+   "begin": "1.880", 
+   "end": "2.520", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "only"
+   ]
+  }, 
+  {
+   "begin": "2.520", 
+   "end": "2.720", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "wanted"
+   ]
+  }, 
+  {
+   "begin": "2.720", 
+   "end": "4.560", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "silence."
+   ]
+  }, 
+  {
+   "begin": "4.560", 
+   "end": "5.160", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "Everyone"
+   ]
+  }, 
+  {
+   "begin": "5.160", 
+   "end": "5.520", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "tried"
+   ]
+  }, 
+  {
+   "begin": "5.520", 
+   "end": "5.680", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "5.680", 
+   "end": "6.120", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "help.\n"
+   ]
+  }, 
+  {
+   "begin": "6.120", 
+   "end": "6.120", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    ""
+   ]
+  }, 
+  {
+   "begin": "6.120", 
+   "end": "6.120", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    ""
+   ]
+  }, 
+  {
+   "begin": "6.120", 
+   "end": "7.520", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "Parvatamma"
+   ]
+  }, 
+  {
+   "begin": "7.520", 
+   "end": "8.160", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "stopped"
+   ]
+  }, 
+  {
+   "begin": "8.160", 
+   "end": "8.600", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "scolding"
+   ]
+  }, 
+  {
+   "begin": "8.600", 
+   "end": "8.720", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "8.720", 
+   "end": "9.960", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "children."
+   ]
+  }, 
+  {
+   "begin": "9.960", 
+   "end": "10.080", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "The"
+   ]
+  }, 
+  {
+   "begin": "10.080", 
+   "end": "10.560", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "children"
+   ]
+  }, 
+  {
+   "begin": "10.560", 
+   "end": "10.960", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "played"
+   ]
+  }, 
+  {
+   "begin": "10.960", 
+   "end": "11.400", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "cricket"
+   ]
+  }, 
+  {
+   "begin": "11.400", 
+   "end": "11.960", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "quietly"
+   ]
+  }, 
+  {
+   "begin": "11.960", 
+   "end": "12.200", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "with"
+   ]
+  }, 
+  {
+   "begin": "12.200", 
+   "end": "12.240", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "12.240", 
+   "end": "13.200", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "very"
+   ]
+  }, 
+  {
+   "begin": "13.200", 
+   "end": "13.680", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "soft"
+   ]
+  }, 
+  {
+   "begin": "13.680", 
+   "end": "14.480", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "ball."
+   ]
+  }
+ ]
+}

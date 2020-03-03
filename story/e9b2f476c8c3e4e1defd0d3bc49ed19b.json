@@ -1,0 +1,400 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.640", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "And"
+   ]
+  }, 
+  {
+   "begin": "0.640", 
+   "end": "1.080", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "every"
+   ]
+  }, 
+  {
+   "begin": "1.080", 
+   "end": "1.600", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "morning,"
+   ]
+  }, 
+  {
+   "begin": "1.600", 
+   "end": "2.440", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "2.440", 
+   "end": "2.880", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "sun\n"
+   ]
+  }, 
+  {
+   "begin": "2.880", 
+   "end": "3.280", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "Shrugs"
+   ]
+  }, 
+  {
+   "begin": "3.280", 
+   "end": "3.280", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "off"
+   ]
+  }, 
+  {
+   "begin": "3.280", 
+   "end": "3.640", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "his"
+   ]
+  }, 
+  {
+   "begin": "3.640", 
+   "end": "4.680", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "star-blanket,\n"
+   ]
+  }, 
+  {
+   "begin": "4.680", 
+   "end": "5.320", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "Paints"
+   ]
+  }, 
+  {
+   "begin": "5.320", 
+   "end": "5.480", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "5.480", 
+   "end": "5.520", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "dawn"
+   ]
+  }, 
+  {
+   "begin": "5.520", 
+   "end": "6.080", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "sky"
+   ]
+  }, 
+  {
+   "begin": "6.080", 
+   "end": "6.760", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "red"
+   ]
+  }, 
+  {
+   "begin": "6.760", 
+   "end": "6.840", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "with"
+   ]
+  }, 
+  {
+   "begin": "6.840", 
+   "end": "7.320", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "his"
+   ]
+  }, 
+  {
+   "begin": "7.320", 
+   "end": "8.000", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "sleepy"
+   ]
+  }, 
+  {
+   "begin": "8.000", 
+   "end": "8.960", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "eyes\n"
+   ]
+  }, 
+  {
+   "begin": "8.960", 
+   "end": "9.240", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "And"
+   ]
+  }, 
+  {
+   "begin": "9.240", 
+   "end": "9.680", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "gets"
+   ]
+  }, 
+  {
+   "begin": "9.680", 
+   "end": "9.920", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "back"
+   ]
+  }, 
+  {
+   "begin": "9.920", 
+   "end": "10.160", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "10.160", 
+   "end": "10.640", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "work.\n"
+   ]
+  }, 
+  {
+   "begin": "10.640", 
+   "end": "11.600", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "That\u2019s"
+   ]
+  }, 
+  {
+   "begin": "11.600", 
+   "end": "11.960", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "where"
+   ]
+  }, 
+  {
+   "begin": "11.960", 
+   "end": "12.280", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "12.280", 
+   "end": "12.560", 
+   "id": "f000027", 
+   "language": "en", 
+   "lines": [
+    "think"
+   ]
+  }, 
+  {
+   "begin": "12.560", 
+   "end": "12.680", 
+   "id": "f000028", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "12.680", 
+   "end": "13.040", 
+   "id": "f000029", 
+   "language": "en", 
+   "lines": [
+    "sun"
+   ]
+  }, 
+  {
+   "begin": "13.040", 
+   "end": "13.320", 
+   "id": "f000030", 
+   "language": "en", 
+   "lines": [
+    "goes"
+   ]
+  }, 
+  {
+   "begin": "13.320", 
+   "end": "13.560", 
+   "id": "f000031", 
+   "language": "en", 
+   "lines": [
+    "at"
+   ]
+  }, 
+  {
+   "begin": "13.560", 
+   "end": "14.600", 
+   "id": "f000032", 
+   "language": "en", 
+   "lines": [
+    "night.\n"
+   ]
+  }, 
+  {
+   "begin": "14.600", 
+   "end": "14.960", 
+   "id": "f000033", 
+   "language": "en", 
+   "lines": [
+    "Home"
+   ]
+  }, 
+  {
+   "begin": "14.960", 
+   "end": "15.120", 
+   "id": "f000034", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "15.120", 
+   "end": "15.400", 
+   "id": "f000035", 
+   "language": "en", 
+   "lines": [
+    "bed"
+   ]
+  }, 
+  {
+   "begin": "15.400", 
+   "end": "15.680", 
+   "id": "f000036", 
+   "language": "en", 
+   "lines": [
+    "until"
+   ]
+  }, 
+  {
+   "begin": "15.680", 
+   "end": "15.760", 
+   "id": "f000037", 
+   "language": "en", 
+   "lines": [
+    "it"
+   ]
+  }, 
+  {
+   "begin": "15.760", 
+   "end": "16.320", 
+   "id": "f000038", 
+   "language": "en", 
+   "lines": [
+    "is"
+   ]
+  }, 
+  {
+   "begin": "16.320", 
+   "end": "17.160", 
+   "id": "f000039", 
+   "language": "en", 
+   "lines": [
+    "light.\n"
+   ]
+  }, 
+  {
+   "begin": "17.160", 
+   "end": "17.440", 
+   "id": "f000040", 
+   "language": "en", 
+   "lines": [
+    "I\u2019m"
+   ]
+  }, 
+  {
+   "begin": "17.440", 
+   "end": "18.440", 
+   "id": "f000041", 
+   "language": "en", 
+   "lines": [
+    "clever,"
+   ]
+  }, 
+  {
+   "begin": "18.440", 
+   "end": "18.920", 
+   "id": "f000042", 
+   "language": "en", 
+   "lines": [
+    "aren\u2019t"
+   ]
+  }, 
+  {
+   "begin": "18.920", 
+   "end": "19.280", 
+   "id": "f000043", 
+   "language": "en", 
+   "lines": [
+    "I,"
+   ]
+  }, 
+  {
+   "begin": "19.280", 
+   "end": "20.280", 
+   "id": "f000044", 
+   "language": "en", 
+   "lines": [
+    "sister?"
+   ]
+  }
+ ]
+}

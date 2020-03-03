@@ -1,0 +1,157 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.520", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "When"
+   ]
+  }, 
+  {
+   "begin": "0.520", 
+   "end": "1.160", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "Pehelwaan"
+   ]
+  }, 
+  {
+   "begin": "1.160", 
+   "end": "1.640", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "kicked"
+   ]
+  }, 
+  {
+   "begin": "1.640", 
+   "end": "1.800", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "1.800", 
+   "end": "2.520", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "ball"
+   ]
+  }, 
+  {
+   "begin": "2.520", 
+   "end": "2.680", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "it"
+   ]
+  }, 
+  {
+   "begin": "2.680", 
+   "end": "3.400", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "almost"
+   ]
+  }, 
+  {
+   "begin": "3.400", 
+   "end": "4.920", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "burst."
+   ]
+  }, 
+  {
+   "begin": "4.920", 
+   "end": "5.360", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "When"
+   ]
+  }, 
+  {
+   "begin": "5.360", 
+   "end": "5.520", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "he"
+   ]
+  }, 
+  {
+   "begin": "5.520", 
+   "end": "5.800", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "kicked"
+   ]
+  }, 
+  {
+   "begin": "5.800", 
+   "end": "5.840", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "it"
+   ]
+  }, 
+  {
+   "begin": "5.840", 
+   "end": "5.960", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "again,"
+   ]
+  }, 
+  {
+   "begin": "5.960", 
+   "end": "7.080", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "7.080", 
+   "end": "7.760", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "goalkeeper"
+   ]
+  }, 
+  {
+   "begin": "7.760", 
+   "end": "8.160", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "went"
+   ]
+  }, 
+  {
+   "begin": "8.160", 
+   "end": "8.920", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "flying!"
+   ]
+  }
+ ]
+}

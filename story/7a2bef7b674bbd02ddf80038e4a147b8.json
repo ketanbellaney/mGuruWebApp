@@ -1,0 +1,211 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.880", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "He"
+   ]
+  }, 
+  {
+   "begin": "0.880", 
+   "end": "0.880", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "had"
+   ]
+  }, 
+  {
+   "begin": "0.880", 
+   "end": "0.960", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "0.960", 
+   "end": "1.680", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "terrible"
+   ]
+  }, 
+  {
+   "begin": "1.680", 
+   "end": "2.280", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "toothache"
+   ]
+  }, 
+  {
+   "begin": "2.280", 
+   "end": "2.720", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "since"
+   ]
+  }, 
+  {
+   "begin": "2.720", 
+   "end": "3.000", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "two"
+   ]
+  }, 
+  {
+   "begin": "3.000", 
+   "end": "3.520", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "days."
+   ]
+  }, 
+  {
+   "begin": "3.520", 
+   "end": "5.400", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "\u201cMaharaj,"
+   ]
+  }, 
+  {
+   "begin": "5.400", 
+   "end": "5.920", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "get"
+   ]
+  }, 
+  {
+   "begin": "5.920", 
+   "end": "6.160", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "this"
+   ]
+  }, 
+  {
+   "begin": "6.160", 
+   "end": "6.520", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "tooth"
+   ]
+  }, 
+  {
+   "begin": "6.520", 
+   "end": "7.440", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "extracted,\u201d"
+   ]
+  }, 
+  {
+   "begin": "7.440", 
+   "end": "8.720", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "suggested"
+   ]
+  }, 
+  {
+   "begin": "8.720", 
+   "end": "8.920", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "8.920", 
+   "end": "9.920", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "monkey,"
+   ]
+  }, 
+  {
+   "begin": "9.920", 
+   "end": "10.080", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "10.080", 
+   "end": "10.480", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "jungle"
+   ]
+  }, 
+  {
+   "begin": "10.480", 
+   "end": "11.240", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "physician.\n"
+   ]
+  }, 
+  {
+   "begin": "11.240", 
+   "end": "14.160", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "\u201cAlright,\u201d"
+   ]
+  }, 
+  {
+   "begin": "14.160", 
+   "end": "14.560", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "agreed"
+   ]
+  }, 
+  {
+   "begin": "14.560", 
+   "end": "14.720", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "14.720", 
+   "end": "15.720", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "lion."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,139 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.000", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "The"
+   ]
+  }, 
+  {
+   "begin": "0.000", 
+   "end": "1.080", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "priest"
+   ]
+  }, 
+  {
+   "begin": "1.080", 
+   "end": "1.840", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "asked"
+   ]
+  }, 
+  {
+   "begin": "1.840", 
+   "end": "2.000", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "him"
+   ]
+  }, 
+  {
+   "begin": "2.000", 
+   "end": "2.440", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "2.440", 
+   "end": "2.800", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "get"
+   ]
+  }, 
+  {
+   "begin": "2.800", 
+   "end": "4.360", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "108"
+   ]
+  }, 
+  {
+   "begin": "4.360", 
+   "end": "4.960", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "ripe"
+   ]
+  }, 
+  {
+   "begin": "4.960", 
+   "end": "5.720", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "bananas"
+   ]
+  }, 
+  {
+   "begin": "5.720", 
+   "end": "6.080", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "as"
+   ]
+  }, 
+  {
+   "begin": "6.080", 
+   "end": "6.480", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "an"
+   ]
+  }, 
+  {
+   "begin": "6.480", 
+   "end": "7.000", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "offering"
+   ]
+  }, 
+  {
+   "begin": "7.000", 
+   "end": "7.000", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "7.000", 
+   "end": "7.400", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "7.400", 
+   "end": "8.280", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "gods."
+   ]
+  }
+ ]
+}

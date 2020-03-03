@@ -1,0 +1,103 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.400", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "My"
+   ]
+  }, 
+  {
+   "begin": "0.400", 
+   "end": "0.800", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "brother"
+   ]
+  }, 
+  {
+   "begin": "0.800", 
+   "end": "1.000", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "1.000", 
+   "end": "1.560", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "1.560", 
+   "end": "2.040", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "like"
+   ]
+  }, 
+  {
+   "begin": "2.040", 
+   "end": "3.240", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "apples. We"
+   ]
+  }, 
+  {
+   "begin": "3.240", 
+   "end": "3.920", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "eat"
+   ]
+  }, 
+  {
+   "begin": "3.920", 
+   "end": "4.520", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "apples"
+   ]
+  }, 
+  {
+   "begin": "4.520", 
+   "end": "4.520", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "in"
+   ]
+  }, 
+  {
+   "begin": "4.520", 
+   "end": "4.600", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "4.600", 
+   "end": "5.520", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "morning.&nbsp;"
+   ]
+  }
+ ]
+}

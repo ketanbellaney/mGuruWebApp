@@ -1,0 +1,31 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "5.400", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "\ufeffWhy can't I swim about as freely as these fish?\" he asked himself.\n"
+   ]
+  }, 
+  {
+   "begin": "5.400", 
+   "end": "31.080", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "\"All my life I've been lazy---I never got up nor sat down. I did not walk or swim. I spent my whole life standing. Now I'll go and see new shores, new lands. I'll hear the music of flowing water and listen to th\u00e9 whisper of the waves. Floating along I'll meet the sea.\"\n"
+   ]
+  }, 
+  {
+   "begin": "31.080", 
+   "end": "39.880", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "Just as a tired child nods off to sleep and enters the garden of dreams, Mango gently became one with the stream."
+   ]
+  }
+ ]
+}

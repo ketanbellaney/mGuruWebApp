@@ -1,0 +1,40 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.480", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "We"
+   ]
+  }, 
+  {
+   "begin": "0.480", 
+   "end": "0.880", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "play"
+   ]
+  }, 
+  {
+   "begin": "0.880", 
+   "end": "1.240", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "together."
+   ]
+  }, 
+  {
+   "begin": "1.240", 
+   "end": "1.840", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "&nbsp;"
+   ]
+  }
+ ]
+}

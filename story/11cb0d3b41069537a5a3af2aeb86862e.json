@@ -1,0 +1,175 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "1.240", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "\u201cThe"
+   ]
+  }, 
+  {
+   "begin": "1.240", 
+   "end": "1.800", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "day"
+   ]
+  }, 
+  {
+   "begin": "1.800", 
+   "end": "1.960", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "is"
+   ]
+  }, 
+  {
+   "begin": "1.960", 
+   "end": "2.320", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "nearly"
+   ]
+  }, 
+  {
+   "begin": "2.320", 
+   "end": "3.040", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "over."
+   ]
+  }, 
+  {
+   "begin": "3.040", 
+   "end": "3.560", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "How"
+   ]
+  }, 
+  {
+   "begin": "3.560", 
+   "end": "4.280", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "can"
+   ]
+  }, 
+  {
+   "begin": "4.280", 
+   "end": "6.040", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "6.040", 
+   "end": "8.080", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "keep"
+   ]
+  }, 
+  {
+   "begin": "8.080", 
+   "end": "8.760", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "my"
+   ]
+  }, 
+  {
+   "begin": "8.760", 
+   "end": "10.320", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "promise"
+   ]
+  }, 
+  {
+   "begin": "10.320", 
+   "end": "10.560", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "10.560", 
+   "end": "11.120", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "cut"
+   ]
+  }, 
+  {
+   "begin": "11.120", 
+   "end": "11.680", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "my"
+   ]
+  }, 
+  {
+   "begin": "11.680", 
+   "end": "12.600", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "hair?"
+   ]
+  }, 
+  {
+   "begin": "12.600", 
+   "end": "12.840", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "Oh"
+   ]
+  }, 
+  {
+   "begin": "12.840", 
+   "end": "14.280", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "God,"
+   ]
+  }, 
+  {
+   "begin": "14.280", 
+   "end": "14.840", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "help"
+   ]
+  }, 
+  {
+   "begin": "14.840", 
+   "end": "15.800", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "me!\u201d"
+   ]
+  }
+ ]
+}

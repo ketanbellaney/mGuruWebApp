@@ -1,0 +1,526 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.200", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "The"
+   ]
+  }, 
+  {
+   "begin": "0.200", 
+   "end": "0.760", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "next"
+   ]
+  }, 
+  {
+   "begin": "0.760", 
+   "end": "1.000", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "day"
+   ]
+  }, 
+  {
+   "begin": "1.000", 
+   "end": "1.120", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "1.120", 
+   "end": "1.760", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "Headmaster"
+   ]
+  }, 
+  {
+   "begin": "1.760", 
+   "end": "2.280", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "called"
+   ]
+  }, 
+  {
+   "begin": "2.280", 
+   "end": "2.520", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "all"
+   ]
+  }, 
+  {
+   "begin": "2.520", 
+   "end": "2.640", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "2.640", 
+   "end": "3.160", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "teachers"
+   ]
+  }, 
+  {
+   "begin": "3.160", 
+   "end": "3.440", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "3.440", 
+   "end": "3.440", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "3.440", 
+   "end": "3.600", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "meeting."
+   ]
+  }, 
+  {
+   "begin": "3.600", 
+   "end": "3.920", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "He"
+   ]
+  }, 
+  {
+   "begin": "3.920", 
+   "end": "5.640", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "shared"
+   ]
+  }, 
+  {
+   "begin": "5.640", 
+   "end": "6.120", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "Abdul\u2019s"
+   ]
+  }, 
+  {
+   "begin": "6.120", 
+   "end": "6.680", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "ideas"
+   ]
+  }, 
+  {
+   "begin": "6.680", 
+   "end": "6.800", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "with"
+   ]
+  }, 
+  {
+   "begin": "6.800", 
+   "end": "7.000", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "7.000", 
+   "end": "7.600", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "group"
+   ]
+  }, 
+  {
+   "begin": "7.600", 
+   "end": "7.840", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "7.840", 
+   "end": "8.120", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "asked"
+   ]
+  }, 
+  {
+   "begin": "8.120", 
+   "end": "8.280", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "8.280", 
+   "end": "8.800", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "teachers"
+   ]
+  }, 
+  {
+   "begin": "8.800", 
+   "end": "8.960", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "what"
+   ]
+  }, 
+  {
+   "begin": "8.960", 
+   "end": "10.120", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "they"
+   ]
+  }, 
+  {
+   "begin": "10.120", 
+   "end": "10.360", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "felt."
+   ]
+  }, 
+  {
+   "begin": "10.360", 
+   "end": "11.040", 
+   "id": "f000027", 
+   "language": "en", 
+   "lines": [
+    "\u201cImpossible!\u201d"
+   ]
+  }, 
+  {
+   "begin": "11.040", 
+   "end": "12.200", 
+   "id": "f000028", 
+   "language": "en", 
+   "lines": [
+    "said"
+   ]
+  }, 
+  {
+   "begin": "12.200", 
+   "end": "12.320", 
+   "id": "f000029", 
+   "language": "en", 
+   "lines": [
+    "one"
+   ]
+  }, 
+  {
+   "begin": "12.320", 
+   "end": "12.320", 
+   "id": "f000030", 
+   "language": "en", 
+   "lines": [
+    "of"
+   ]
+  }, 
+  {
+   "begin": "12.320", 
+   "end": "12.320", 
+   "id": "f000031", 
+   "language": "en", 
+   "lines": [
+    "them."
+   ]
+  }, 
+  {
+   "begin": "12.320", 
+   "end": "12.520", 
+   "id": "f000032", 
+   "language": "en", 
+   "lines": [
+    "\u201cHow"
+   ]
+  }, 
+  {
+   "begin": "12.520", 
+   "end": "12.800", 
+   "id": "f000033", 
+   "language": "en", 
+   "lines": [
+    "can"
+   ]
+  }, 
+  {
+   "begin": "12.800", 
+   "end": "12.840", 
+   "id": "f000034", 
+   "language": "en", 
+   "lines": [
+    "we"
+   ]
+  }, 
+  {
+   "begin": "12.840", 
+   "end": "13.920", 
+   "id": "f000035", 
+   "language": "en", 
+   "lines": [
+    "have"
+   ]
+  }, 
+  {
+   "begin": "13.920", 
+   "end": "14.520", 
+   "id": "f000036", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "14.520", 
+   "end": "15.080", 
+   "id": "f000037", 
+   "language": "en", 
+   "lines": [
+    "disabled"
+   ]
+  }, 
+  {
+   "begin": "15.080", 
+   "end": "15.840", 
+   "id": "f000038", 
+   "language": "en", 
+   "lines": [
+    "child"
+   ]
+  }, 
+  {
+   "begin": "15.840", 
+   "end": "15.880", 
+   "id": "f000039", 
+   "language": "en", 
+   "lines": [
+    "in"
+   ]
+  }, 
+  {
+   "begin": "15.880", 
+   "end": "17.200", 
+   "id": "f000040", 
+   "language": "en", 
+   "lines": [
+    "our"
+   ]
+  }, 
+  {
+   "begin": "17.200", 
+   "end": "18.080", 
+   "id": "f000041", 
+   "language": "en", 
+   "lines": [
+    "school?"
+   ]
+  }, 
+  {
+   "begin": "18.080", 
+   "end": "18.520", 
+   "id": "f000042", 
+   "language": "en", 
+   "lines": [
+    "How"
+   ]
+  }, 
+  {
+   "begin": "18.520", 
+   "end": "18.680", 
+   "id": "f000043", 
+   "language": "en", 
+   "lines": [
+    "will"
+   ]
+  }, 
+  {
+   "begin": "18.680", 
+   "end": "19.480", 
+   "id": "f000044", 
+   "language": "en", 
+   "lines": [
+    "she"
+   ]
+  }, 
+  {
+   "begin": "19.480", 
+   "end": "19.680", 
+   "id": "f000045", 
+   "language": "en", 
+   "lines": [
+    "be"
+   ]
+  }, 
+  {
+   "begin": "19.680", 
+   "end": "20.080", 
+   "id": "f000046", 
+   "language": "en", 
+   "lines": [
+    "able"
+   ]
+  }, 
+  {
+   "begin": "20.080", 
+   "end": "20.400", 
+   "id": "f000047", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "20.400", 
+   "end": "20.760", 
+   "id": "f000048", 
+   "language": "en", 
+   "lines": [
+    "write,"
+   ]
+  }, 
+  {
+   "begin": "20.760", 
+   "end": "21.000", 
+   "id": "f000049", 
+   "language": "en", 
+   "lines": [
+    "play"
+   ]
+  }, 
+  {
+   "begin": "21.000", 
+   "end": "21.000", 
+   "id": "f000050", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "21.000", 
+   "end": "21.000", 
+   "id": "f000051", 
+   "language": "en", 
+   "lines": [
+    "go"
+   ]
+  }, 
+  {
+   "begin": "21.000", 
+   "end": "21.000", 
+   "id": "f000052", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "21.000", 
+   "end": "21.000", 
+   "id": "f000053", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "21.000", 
+   "end": "21.200", 
+   "id": "f000054", 
+   "language": "en", 
+   "lines": [
+    "toilet"
+   ]
+  }, 
+  {
+   "begin": "21.200", 
+   "end": "21.480", 
+   "id": "f000055", 
+   "language": "en", 
+   "lines": [
+    "like"
+   ]
+  }, 
+  {
+   "begin": "21.480", 
+   "end": "21.920", 
+   "id": "f000056", 
+   "language": "en", 
+   "lines": [
+    "the&nbsp;other"
+   ]
+  }, 
+  {
+   "begin": "21.920", 
+   "end": "22.240", 
+   "id": "f000057", 
+   "language": "en", 
+   "lines": [
+    "children"
+   ]
+  }, 
+  {
+   "begin": "22.240", 
+   "end": "22.520", 
+   "id": "f000058", 
+   "language": "en", 
+   "lines": [
+    "do?\u201d"
+   ]
+  }
+ ]
+}

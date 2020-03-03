@@ -1,0 +1,553 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.200", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "The"
+   ]
+  }, 
+  {
+   "begin": "0.200", 
+   "end": "0.800", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "next"
+   ]
+  }, 
+  {
+   "begin": "0.800", 
+   "end": "1.480", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "day,"
+   ]
+  }, 
+  {
+   "begin": "1.480", 
+   "end": "1.880", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "Abdul"
+   ]
+  }, 
+  {
+   "begin": "1.880", 
+   "end": "2.240", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "went"
+   ]
+  }, 
+  {
+   "begin": "2.240", 
+   "end": "2.560", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "straight"
+   ]
+  }, 
+  {
+   "begin": "2.560", 
+   "end": "2.760", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "2.760", 
+   "end": "2.880", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "2.880", 
+   "end": "3.800", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "Headmaster\u2019s"
+   ]
+  }, 
+  {
+   "begin": "3.800", 
+   "end": "4.000", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "room"
+   ]
+  }, 
+  {
+   "begin": "4.000", 
+   "end": "4.320", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "after"
+   ]
+  }, 
+  {
+   "begin": "4.320", 
+   "end": "4.960", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "assembly."
+   ]
+  }, 
+  {
+   "begin": "4.960", 
+   "end": "4.960", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    ""
+   ]
+  }, 
+  {
+   "begin": "4.960", 
+   "end": "4.960", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    ""
+   ]
+  }, 
+  {
+   "begin": "4.960", 
+   "end": "6.280", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "\u201cJulley,"
+   ]
+  }, 
+  {
+   "begin": "6.280", 
+   "end": "8.040", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "Azhang-ley!\u201d"
+   ]
+  }, 
+  {
+   "begin": "8.040", 
+   "end": "8.120", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "he"
+   ]
+  }, 
+  {
+   "begin": "8.120", 
+   "end": "8.520", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "said."
+   ]
+  }, 
+  {
+   "begin": "8.520", 
+   "end": "9.600", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "\u201cI"
+   ]
+  }, 
+  {
+   "begin": "9.600", 
+   "end": "9.600", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "want"
+   ]
+  }, 
+  {
+   "begin": "9.600", 
+   "end": "9.760", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "9.760", 
+   "end": "10.000", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "talk"
+   ]
+  }, 
+  {
+   "begin": "10.000", 
+   "end": "10.080", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "10.080", 
+   "end": "10.440", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "you"
+   ]
+  }, 
+  {
+   "begin": "10.440", 
+   "end": "10.720", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "about"
+   ]
+  }, 
+  {
+   "begin": "10.720", 
+   "end": "10.840", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "10.840", 
+   "end": "11.160", 
+   "id": "f000027", 
+   "language": "en", 
+   "lines": [
+    "girl"
+   ]
+  }, 
+  {
+   "begin": "11.160", 
+   "end": "11.440", 
+   "id": "f000028", 
+   "language": "en", 
+   "lines": [
+    "from"
+   ]
+  }, 
+  {
+   "begin": "11.440", 
+   "end": "11.560", 
+   "id": "f000029", 
+   "language": "en", 
+   "lines": [
+    "our"
+   ]
+  }, 
+  {
+   "begin": "11.560", 
+   "end": "12.000", 
+   "id": "f000030", 
+   "language": "en", 
+   "lines": [
+    "village"
+   ]
+  }, 
+  {
+   "begin": "12.000", 
+   "end": "12.280", 
+   "id": "f000031", 
+   "language": "en", 
+   "lines": [
+    "who"
+   ]
+  }, 
+  {
+   "begin": "12.280", 
+   "end": "12.680", 
+   "id": "f000032", 
+   "language": "en", 
+   "lines": [
+    "does"
+   ]
+  }, 
+  {
+   "begin": "12.680", 
+   "end": "12.920", 
+   "id": "f000033", 
+   "language": "en", 
+   "lines": [
+    "not"
+   ]
+  }, 
+  {
+   "begin": "12.920", 
+   "end": "13.200", 
+   "id": "f000034", 
+   "language": "en", 
+   "lines": [
+    "go"
+   ]
+  }, 
+  {
+   "begin": "13.200", 
+   "end": "13.320", 
+   "id": "f000035", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "13.320", 
+   "end": "13.800", 
+   "id": "f000036", 
+   "language": "en", 
+   "lines": [
+    "school."
+   ]
+  }, 
+  {
+   "begin": "13.800", 
+   "end": "14.320", 
+   "id": "f000037", 
+   "language": "en", 
+   "lines": [
+    "Her"
+   ]
+  }, 
+  {
+   "begin": "14.320", 
+   "end": "14.520", 
+   "id": "f000038", 
+   "language": "en", 
+   "lines": [
+    "name"
+   ]
+  }, 
+  {
+   "begin": "14.520", 
+   "end": "14.680", 
+   "id": "f000039", 
+   "language": "en", 
+   "lines": [
+    "is"
+   ]
+  }, 
+  {
+   "begin": "14.680", 
+   "end": "15.280", 
+   "id": "f000040", 
+   "language": "en", 
+   "lines": [
+    "Chuskit."
+   ]
+  }, 
+  {
+   "begin": "15.280", 
+   "end": "16.040", 
+   "id": "f000041", 
+   "language": "en", 
+   "lines": [
+    "She"
+   ]
+  }, 
+  {
+   "begin": "16.040", 
+   "end": "16.440", 
+   "id": "f000042", 
+   "language": "en", 
+   "lines": [
+    "is"
+   ]
+  }, 
+  {
+   "begin": "16.440", 
+   "end": "17.080", 
+   "id": "f000043", 
+   "language": "en", 
+   "lines": [
+    "Stobdan\u2019s"
+   ]
+  }, 
+  {
+   "begin": "17.080", 
+   "end": "17.640", 
+   "id": "f000044", 
+   "language": "en", 
+   "lines": [
+    "sister.\u201d\n\n"
+   ]
+  }, 
+  {
+   "begin": "17.640", 
+   "end": "17.640", 
+   "id": "f000045", 
+   "language": "en", 
+   "lines": [
+    ""
+   ]
+  }, 
+  {
+   "begin": "17.640", 
+   "end": "17.640", 
+   "id": "f000046", 
+   "language": "en", 
+   "lines": [
+    ""
+   ]
+  }, 
+  {
+   "begin": "17.640", 
+   "end": "17.640", 
+   "id": "f000047", 
+   "language": "en", 
+   "lines": [
+    ""
+   ]
+  }, 
+  {
+   "begin": "17.640", 
+   "end": "17.640", 
+   "id": "f000048", 
+   "language": "en", 
+   "lines": [
+    ""
+   ]
+  }, 
+  {
+   "begin": "17.640", 
+   "end": "18.800", 
+   "id": "f000049", 
+   "language": "en", 
+   "lines": [
+    "\u201cOh"
+   ]
+  }, 
+  {
+   "begin": "18.800", 
+   "end": "20.040", 
+   "id": "f000050", 
+   "language": "en", 
+   "lines": [
+    "yes,\u201d"
+   ]
+  }, 
+  {
+   "begin": "20.040", 
+   "end": "20.480", 
+   "id": "f000051", 
+   "language": "en", 
+   "lines": [
+    "replied"
+   ]
+  }, 
+  {
+   "begin": "20.480", 
+   "end": "20.640", 
+   "id": "f000052", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "20.640", 
+   "end": "21.400", 
+   "id": "f000053", 
+   "language": "en", 
+   "lines": [
+    "Headmaster."
+   ]
+  }, 
+  {
+   "begin": "21.400", 
+   "end": "22.280", 
+   "id": "f000054", 
+   "language": "en", 
+   "lines": [
+    "\u201cI"
+   ]
+  }, 
+  {
+   "begin": "22.280", 
+   "end": "22.560", 
+   "id": "f000055", 
+   "language": "en", 
+   "lines": [
+    "know"
+   ]
+  }, 
+  {
+   "begin": "22.560", 
+   "end": "23.080", 
+   "id": "f000056", 
+   "language": "en", 
+   "lines": [
+    "her."
+   ]
+  }, 
+  {
+   "begin": "23.080", 
+   "end": "23.440", 
+   "id": "f000057", 
+   "language": "en", 
+   "lines": [
+    "She"
+   ]
+  }, 
+  {
+   "begin": "23.440", 
+   "end": "23.440", 
+   "id": "f000058", 
+   "language": "en", 
+   "lines": [
+    "is"
+   ]
+  }, 
+  {
+   "begin": "23.440", 
+   "end": "24.320", 
+   "id": "f000059", 
+   "language": "en", 
+   "lines": [
+    "disabled,"
+   ]
+  }, 
+  {
+   "begin": "24.320", 
+   "end": "24.640", 
+   "id": "f000060", 
+   "language": "en", 
+   "lines": [
+    "isn\u2019t"
+   ]
+  }, 
+  {
+   "begin": "24.640", 
+   "end": "25.320", 
+   "id": "f000061", 
+   "language": "en", 
+   "lines": [
+    "she?\u201d"
+   ]
+  }
+ ]
+}

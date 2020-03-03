@@ -1,0 +1,184 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.200", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "There!"
+   ]
+  }, 
+  {
+   "begin": "0.200", 
+   "end": "0.320", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "0.320", 
+   "end": "0.920", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "can"
+   ]
+  }, 
+  {
+   "begin": "0.920", 
+   "end": "1.160", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "see"
+   ]
+  }, 
+  {
+   "begin": "1.160", 
+   "end": "1.440", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "my"
+   ]
+  }, 
+  {
+   "begin": "1.440", 
+   "end": "3.800", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "grandfather.&nbsp;"
+   ]
+  }, 
+  {
+   "begin": "3.800", 
+   "end": "4.240", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "He"
+   ]
+  }, 
+  {
+   "begin": "4.240", 
+   "end": "4.480", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "is"
+   ]
+  }, 
+  {
+   "begin": "4.480", 
+   "end": "4.760", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "walking"
+   ]
+  }, 
+  {
+   "begin": "4.760", 
+   "end": "6.400", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "slowly.&nbsp;"
+   ]
+  }, 
+  {
+   "begin": "6.400", 
+   "end": "6.960", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "He"
+   ]
+  }, 
+  {
+   "begin": "6.960", 
+   "end": "7.200", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "is"
+   ]
+  }, 
+  {
+   "begin": "7.200", 
+   "end": "7.760", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "looking"
+   ]
+  }, 
+  {
+   "begin": "7.760", 
+   "end": "7.920", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "for"
+   ]
+  }, 
+  {
+   "begin": "7.920", 
+   "end": "9.640", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "us.&nbsp;"
+   ]
+  }, 
+  {
+   "begin": "9.640", 
+   "end": "9.960", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "My"
+   ]
+  }, 
+  {
+   "begin": "9.960", 
+   "end": "11.000", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "grandmother"
+   ]
+  }, 
+  {
+   "begin": "11.000", 
+   "end": "11.240", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "is"
+   ]
+  }, 
+  {
+   "begin": "11.240", 
+   "end": "11.800", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "behind"
+   ]
+  }, 
+  {
+   "begin": "11.800", 
+   "end": "12.560", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "him."
+   ]
+  }
+ ]
+}

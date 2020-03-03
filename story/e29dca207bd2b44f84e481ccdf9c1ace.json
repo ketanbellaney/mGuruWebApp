@@ -1,0 +1,238 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.280", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "They"
+   ]
+  }, 
+  {
+   "begin": "0.280", 
+   "end": "0.520", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "come"
+   ]
+  }, 
+  {
+   "begin": "0.520", 
+   "end": "0.840", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "0.840", 
+   "end": "1.040", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "1.040", 
+   "end": "1.360", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "coconut"
+   ]
+  }, 
+  {
+   "begin": "1.360", 
+   "end": "2.480", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "tree."
+   ]
+  }, 
+  {
+   "begin": "2.480", 
+   "end": "3.240", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "Ah,"
+   ]
+  }, 
+  {
+   "begin": "3.240", 
+   "end": "3.680", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "what"
+   ]
+  }, 
+  {
+   "begin": "3.680", 
+   "end": "3.960", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "big"
+   ]
+  }, 
+  {
+   "begin": "3.960", 
+   "end": "4.600", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "fruits."
+   ]
+  }, 
+  {
+   "begin": "4.600", 
+   "end": "5.320", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "But"
+   ]
+  }, 
+  {
+   "begin": "5.320", 
+   "end": "5.800", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "Mana"
+   ]
+  }, 
+  {
+   "begin": "5.800", 
+   "end": "6.280", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "cannot"
+   ]
+  }, 
+  {
+   "begin": "6.280", 
+   "end": "6.600", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "reach"
+   ]
+  }, 
+  {
+   "begin": "6.600", 
+   "end": "7.480", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "them!"
+   ]
+  }, 
+  {
+   "begin": "7.480", 
+   "end": "7.480", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    ""
+   ]
+  }, 
+  {
+   "begin": "7.480", 
+   "end": "7.880", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "Appu"
+   ]
+  }, 
+  {
+   "begin": "7.880", 
+   "end": "8.160", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "lifts"
+   ]
+  }, 
+  {
+   "begin": "8.160", 
+   "end": "8.440", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "him"
+   ]
+  }, 
+  {
+   "begin": "8.440", 
+   "end": "8.600", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "with"
+   ]
+  }, 
+  {
+   "begin": "8.600", 
+   "end": "8.720", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "his"
+   ]
+  }, 
+  {
+   "begin": "8.720", 
+   "end": "9.880", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "trunk."
+   ]
+  }, 
+  {
+   "begin": "9.880", 
+   "end": "10.360", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "Mana"
+   ]
+  }, 
+  {
+   "begin": "10.360", 
+   "end": "10.720", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "plucks"
+   ]
+  }, 
+  {
+   "begin": "10.720", 
+   "end": "11.160", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "some"
+   ]
+  }, 
+  {
+   "begin": "11.160", 
+   "end": "12.320", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "coconuts."
+   ]
+  }
+ ]
+}

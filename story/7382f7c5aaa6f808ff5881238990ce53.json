@@ -1,0 +1,67 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.320", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "0.320", 
+   "end": "1.280", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "think"
+   ]
+  }, 
+  {
+   "begin": "1.280", 
+   "end": "1.320", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "he"
+   ]
+  }, 
+  {
+   "begin": "1.320", 
+   "end": "1.760", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "is"
+   ]
+  }, 
+  {
+   "begin": "1.760", 
+   "end": "2.200", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "missing"
+   ]
+  }, 
+  {
+   "begin": "2.200", 
+   "end": "2.520", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "his"
+   ]
+  }, 
+  {
+   "begin": "2.520", 
+   "end": "3.200", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "father."
+   ]
+  }
+ ]
+}

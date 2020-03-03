@@ -1,0 +1,76 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.000", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Soon"
+   ]
+  }, 
+  {
+   "begin": "0.000", 
+   "end": "1.000", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "1.000", 
+   "end": "1.520", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "whole"
+   ]
+  }, 
+  {
+   "begin": "1.520", 
+   "end": "2.240", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "village"
+   ]
+  }, 
+  {
+   "begin": "2.240", 
+   "end": "2.560", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "was"
+   ]
+  }, 
+  {
+   "begin": "2.560", 
+   "end": "3.400", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "laughing"
+   ]
+  }, 
+  {
+   "begin": "3.400", 
+   "end": "3.760", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "3.760", 
+   "end": "4.960", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "clapping."
+   ]
+  }
+ ]
+}

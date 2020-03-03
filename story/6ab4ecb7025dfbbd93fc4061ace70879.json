@@ -1,0 +1,715 @@
+{
+ "fragments": [
+  {
+   "begin": "0.840", 
+   "end": "0.960", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "Before"
+   ]
+  }, 
+  {
+   "begin": "0.960", 
+   "end": "1.160", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "1.160", 
+   "end": "1.480", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "workers"
+   ]
+  }, 
+  {
+   "begin": "1.480", 
+   "end": "1.800", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "left"
+   ]
+  }, 
+  {
+   "begin": "1.800", 
+   "end": "1.960", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "for"
+   ]
+  }, 
+  {
+   "begin": "1.960", 
+   "end": "2.320", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "home"
+   ]
+  }, 
+  {
+   "begin": "2.320", 
+   "end": "2.640", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "each"
+   ]
+  }, 
+  {
+   "begin": "2.640", 
+   "end": "3.640", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "evening,"
+   ]
+  }, 
+  {
+   "begin": "3.640", 
+   "end": "4.040", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "Rehman"
+   ]
+  }, 
+  {
+   "begin": "4.040", 
+   "end": "4.440", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "Chacha"
+   ]
+  }, 
+  {
+   "begin": "4.440", 
+   "end": "4.560", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "would"
+   ]
+  }, 
+  {
+   "begin": "4.560", 
+   "end": "5.040", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "count"
+   ]
+  }, 
+  {
+   "begin": "5.040", 
+   "end": "5.160", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "5.160", 
+   "end": "5.720", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "number"
+   ]
+  }, 
+  {
+   "begin": "5.720", 
+   "end": "5.880", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "of"
+   ]
+  }, 
+  {
+   "begin": "5.880", 
+   "end": "6.040", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "bats"
+   ]
+  }, 
+  {
+   "begin": "6.040", 
+   "end": "6.160", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "in"
+   ]
+  }, 
+  {
+   "begin": "6.160", 
+   "end": "6.360", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "his"
+   ]
+  }, 
+  {
+   "begin": "6.360", 
+   "end": "7.000", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "warehouse."
+   ]
+  }, 
+  {
+   "begin": "7.000", 
+   "end": "7.000", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "He"
+   ]
+  }, 
+  {
+   "begin": "7.000", 
+   "end": "8.040", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "was"
+   ]
+  }, 
+  {
+   "begin": "8.040", 
+   "end": "8.280", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "very"
+   ]
+  }, 
+  {
+   "begin": "8.280", 
+   "end": "9.000", 
+   "id": "f000027", 
+   "language": "en", 
+   "lines": [
+    "particular"
+   ]
+  }, 
+  {
+   "begin": "9.000", 
+   "end": "9.160", 
+   "id": "f000028", 
+   "language": "en", 
+   "lines": [
+    "about"
+   ]
+  }, 
+  {
+   "begin": "9.160", 
+   "end": "9.480", 
+   "id": "f000029", 
+   "language": "en", 
+   "lines": [
+    "his"
+   ]
+  }, 
+  {
+   "begin": "9.480", 
+   "end": "10.440", 
+   "id": "f000030", 
+   "language": "en", 
+   "lines": [
+    "stock."
+   ]
+  }, 
+  {
+   "begin": "10.440", 
+   "end": "10.600", 
+   "id": "f000031", 
+   "language": "en", 
+   "lines": [
+    "If"
+   ]
+  }, 
+  {
+   "begin": "10.600", 
+   "end": "10.720", 
+   "id": "f000032", 
+   "language": "en", 
+   "lines": [
+    "he"
+   ]
+  }, 
+  {
+   "begin": "10.720", 
+   "end": "11.000", 
+   "id": "f000033", 
+   "language": "en", 
+   "lines": [
+    "found"
+   ]
+  }, 
+  {
+   "begin": "11.000", 
+   "end": "11.080", 
+   "id": "f000034", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "11.080", 
+   "end": "11.400", 
+   "id": "f000035", 
+   "language": "en", 
+   "lines": [
+    "bat"
+   ]
+  }, 
+  {
+   "begin": "11.400", 
+   "end": "12.280", 
+   "id": "f000036", 
+   "language": "en", 
+   "lines": [
+    "missing,"
+   ]
+  }, 
+  {
+   "begin": "12.280", 
+   "end": "12.520", 
+   "id": "f000037", 
+   "language": "en", 
+   "lines": [
+    "he"
+   ]
+  }, 
+  {
+   "begin": "12.520", 
+   "end": "12.720", 
+   "id": "f000038", 
+   "language": "en", 
+   "lines": [
+    "would"
+   ]
+  }, 
+  {
+   "begin": "12.720", 
+   "end": "13.000", 
+   "id": "f000039", 
+   "language": "en", 
+   "lines": [
+    "start"
+   ]
+  }, 
+  {
+   "begin": "13.000", 
+   "end": "13.400", 
+   "id": "f000040", 
+   "language": "en", 
+   "lines": [
+    "playing"
+   ]
+  }, 
+  {
+   "begin": "13.400", 
+   "end": "13.960", 
+   "id": "f000041", 
+   "language": "en", 
+   "lines": [
+    "detective."
+   ]
+  }, 
+  {
+   "begin": "13.960", 
+   "end": "15.200", 
+   "id": "f000042", 
+   "language": "en", 
+   "lines": [
+    "\n\n"
+   ]
+  }, 
+  {
+   "begin": "15.200", 
+   "end": "15.480", 
+   "id": "f000043", 
+   "language": "en", 
+   "lines": [
+    "And"
+   ]
+  }, 
+  {
+   "begin": "15.480", 
+   "end": "15.520", 
+   "id": "f000044", 
+   "language": "en", 
+   "lines": [
+    "it"
+   ]
+  }, 
+  {
+   "begin": "15.520", 
+   "end": "16.640", 
+   "id": "f000045", 
+   "language": "en", 
+   "lines": [
+    "happened!"
+   ]
+  }, 
+  {
+   "begin": "16.640", 
+   "end": "16.800", 
+   "id": "f000046", 
+   "language": "en", 
+   "lines": [
+    "One"
+   ]
+  }, 
+  {
+   "begin": "16.800", 
+   "end": "17.080", 
+   "id": "f000047", 
+   "language": "en", 
+   "lines": [
+    "morning"
+   ]
+  }, 
+  {
+   "begin": "17.080", 
+   "end": "17.200", 
+   "id": "f000048", 
+   "language": "en", 
+   "lines": [
+    "when"
+   ]
+  }, 
+  {
+   "begin": "17.200", 
+   "end": "17.440", 
+   "id": "f000049", 
+   "language": "en", 
+   "lines": [
+    "Rehman"
+   ]
+  }, 
+  {
+   "begin": "17.440", 
+   "end": "17.880", 
+   "id": "f000050", 
+   "language": "en", 
+   "lines": [
+    "Chacha"
+   ]
+  }, 
+  {
+   "begin": "17.880", 
+   "end": "18.200", 
+   "id": "f000051", 
+   "language": "en", 
+   "lines": [
+    "opened"
+   ]
+  }, 
+  {
+   "begin": "18.200", 
+   "end": "18.440", 
+   "id": "f000052", 
+   "language": "en", 
+   "lines": [
+    "his"
+   ]
+  }, 
+  {
+   "begin": "18.440", 
+   "end": "18.920", 
+   "id": "f000053", 
+   "language": "en", 
+   "lines": [
+    "warehouse"
+   ]
+  }, 
+  {
+   "begin": "18.920", 
+   "end": "19.040", 
+   "id": "f000054", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "19.040", 
+   "end": "19.280", 
+   "id": "f000055", 
+   "language": "en", 
+   "lines": [
+    "take"
+   ]
+  }, 
+  {
+   "begin": "19.280", 
+   "end": "19.480", 
+   "id": "f000056", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "19.480", 
+   "end": "19.800", 
+   "id": "f000057", 
+   "language": "en", 
+   "lines": [
+    "stock"
+   ]
+  }, 
+  {
+   "begin": "19.800", 
+   "end": "20.040", 
+   "id": "f000058", 
+   "language": "en", 
+   "lines": [
+    "out"
+   ]
+  }, 
+  {
+   "begin": "20.040", 
+   "end": "20.200", 
+   "id": "f000059", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "20.200", 
+   "end": "20.400", 
+   "id": "f000060", 
+   "language": "en", 
+   "lines": [
+    "load"
+   ]
+  }, 
+  {
+   "begin": "20.400", 
+   "end": "20.600", 
+   "id": "f000061", 
+   "language": "en", 
+   "lines": [
+    "it"
+   ]
+  }, 
+  {
+   "begin": "20.600", 
+   "end": "20.920", 
+   "id": "f000062", 
+   "language": "en", 
+   "lines": [
+    "onto"
+   ]
+  }, 
+  {
+   "begin": "20.920", 
+   "end": "21.120", 
+   "id": "f000063", 
+   "language": "en", 
+   "lines": [
+    "his"
+   ]
+  }, 
+  {
+   "begin": "21.120", 
+   "end": "22.120", 
+   "id": "f000064", 
+   "language": "en", 
+   "lines": [
+    "truck,"
+   ]
+  }, 
+  {
+   "begin": "22.120", 
+   "end": "22.200", 
+   "id": "f000065", 
+   "language": "en", 
+   "lines": [
+    "he"
+   ]
+  }, 
+  {
+   "begin": "22.200", 
+   "end": "22.600", 
+   "id": "f000066", 
+   "language": "en", 
+   "lines": [
+    "found"
+   ]
+  }, 
+  {
+   "begin": "22.600", 
+   "end": "22.600", 
+   "id": "f000067", 
+   "language": "en", 
+   "lines": [
+    "that"
+   ]
+  }, 
+  {
+   "begin": "22.600", 
+   "end": "22.840", 
+   "id": "f000068", 
+   "language": "en", 
+   "lines": [
+    "there"
+   ]
+  }, 
+  {
+   "begin": "22.840", 
+   "end": "23.200", 
+   "id": "f000069", 
+   "language": "en", 
+   "lines": [
+    "was"
+   ]
+  }, 
+  {
+   "begin": "23.200", 
+   "end": "23.440", 
+   "id": "f000070", 
+   "language": "en", 
+   "lines": [
+    "one"
+   ]
+  }, 
+  {
+   "begin": "23.440", 
+   "end": "23.840", 
+   "id": "f000071", 
+   "language": "en", 
+   "lines": [
+    "bat"
+   ]
+  }, 
+  {
+   "begin": "23.840", 
+   "end": "24.880", 
+   "id": "f000072", 
+   "language": "en", 
+   "lines": [
+    "less."
+   ]
+  }, 
+  {
+   "begin": "24.880", 
+   "end": "25.120", 
+   "id": "f000073", 
+   "language": "en", 
+   "lines": [
+    "That"
+   ]
+  }, 
+  {
+   "begin": "25.120", 
+   "end": "25.480", 
+   "id": "f000074", 
+   "language": "en", 
+   "lines": [
+    "too,"
+   ]
+  }, 
+  {
+   "begin": "25.480", 
+   "end": "26.000", 
+   "id": "f000075", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "26.000", 
+   "end": "26.280", 
+   "id": "f000076", 
+   "language": "en", 
+   "lines": [
+    "one"
+   ]
+  }, 
+  {
+   "begin": "26.280", 
+   "end": "26.520", 
+   "id": "f000077", 
+   "language": "en", 
+   "lines": [
+    "that"
+   ]
+  }, 
+  {
+   "begin": "26.520", 
+   "end": "26.720", 
+   "id": "f000078", 
+   "language": "en", 
+   "lines": [
+    "was"
+   ]
+  }, 
+  {
+   "begin": "26.720", 
+   "end": "26.880", 
+   "id": "f000079", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "26.880", 
+   "end": "27.480", 
+   "id": "f000080", 
+   "language": "en", 
+   "lines": [
+    "biggest"
+   ]
+  }, 
+  {
+   "begin": "27.480", 
+   "end": "27.720", 
+   "id": "f000081", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "27.720", 
+   "end": "28.080", 
+   "id": "f000082", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "28.080", 
+   "end": "28.800", 
+   "id": "f000083", 
+   "language": "en", 
+   "lines": [
+    "lightest!"
+   ]
+  }
+ ]
+}

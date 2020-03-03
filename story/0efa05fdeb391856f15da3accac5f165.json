@@ -1,0 +1,490 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.600", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Inside"
+   ]
+  }, 
+  {
+   "begin": "0.600", 
+   "end": "0.840", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "0.840", 
+   "end": "1.160", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "school"
+   ]
+  }, 
+  {
+   "begin": "1.160", 
+   "end": "1.480", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    ","
+   ]
+  }, 
+  {
+   "begin": "1.480", 
+   "end": "1.640", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "1.640", 
+   "end": "1.960", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "bag"
+   ]
+  }, 
+  {
+   "begin": "1.960", 
+   "end": "2.200", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "was"
+   ]
+  }, 
+  {
+   "begin": "2.200", 
+   "end": "2.720", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "carefully"
+   ]
+  }, 
+  {
+   "begin": "2.720", 
+   "end": "2.920", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "put"
+   ]
+  }, 
+  {
+   "begin": "2.920", 
+   "end": "3.240", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "on"
+   ]
+  }, 
+  {
+   "begin": "3.240", 
+   "end": "3.360", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "3.360", 
+   "end": "3.760", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "teacher\u2019s"
+   ]
+  }, 
+  {
+   "begin": "3.760", 
+   "end": "4.160", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "table."
+   ]
+  }, 
+  {
+   "begin": "4.160", 
+   "end": "4.720", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "The"
+   ]
+  }, 
+  {
+   "begin": "4.720", 
+   "end": "5.200", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "teacher"
+   ]
+  }, 
+  {
+   "begin": "5.200", 
+   "end": "5.560", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "opened"
+   ]
+  }, 
+  {
+   "begin": "5.560", 
+   "end": "5.680", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "5.680", 
+   "end": "6.320", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "bag"
+   ]
+  }, 
+  {
+   "begin": "6.320", 
+   "end": "6.560", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "6.560", 
+   "end": "6.880", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "let"
+   ]
+  }, 
+  {
+   "begin": "6.880", 
+   "end": "7.280", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "Moru"
+   ]
+  }, 
+  {
+   "begin": "7.280", 
+   "end": "7.520", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "look"
+   ]
+  }, 
+  {
+   "begin": "7.520", 
+   "end": "8.640", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "inside."
+   ]
+  }, 
+  {
+   "begin": "8.640", 
+   "end": "9.160", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "There"
+   ]
+  }, 
+  {
+   "begin": "9.160", 
+   "end": "9.480", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "were"
+   ]
+  }, 
+  {
+   "begin": "9.480", 
+   "end": "9.760", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "many"
+   ]
+  }, 
+  {
+   "begin": "9.760", 
+   "end": "9.800", 
+   "id": "f000027", 
+   "language": "en", 
+   "lines": [
+    "many"
+   ]
+  }, 
+  {
+   "begin": "9.800", 
+   "end": "10.240", 
+   "id": "f000028", 
+   "language": "en", 
+   "lines": [
+    "books,"
+   ]
+  }, 
+  {
+   "begin": "10.240", 
+   "end": "11.040", 
+   "id": "f000029", 
+   "language": "en", 
+   "lines": [
+    "colourful"
+   ]
+  }, 
+  {
+   "begin": "11.040", 
+   "end": "11.360", 
+   "id": "f000030", 
+   "language": "en", 
+   "lines": [
+    "books"
+   ]
+  }, 
+  {
+   "begin": "11.360", 
+   "end": "11.560", 
+   "id": "f000031", 
+   "language": "en", 
+   "lines": [
+    "of"
+   ]
+  }, 
+  {
+   "begin": "11.560", 
+   "end": "11.800", 
+   "id": "f000032", 
+   "language": "en", 
+   "lines": [
+    "all"
+   ]
+  }, 
+  {
+   "begin": "11.800", 
+   "end": "12.360", 
+   "id": "f000033", 
+   "language": "en", 
+   "lines": [
+    "sizes"
+   ]
+  }, 
+  {
+   "begin": "12.360", 
+   "end": "12.560", 
+   "id": "f000034", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "12.560", 
+   "end": "13.480", 
+   "id": "f000035", 
+   "language": "en", 
+   "lines": [
+    "shapes."
+   ]
+  }, 
+  {
+   "begin": "13.480", 
+   "end": "13.920", 
+   "id": "f000036", 
+   "language": "en", 
+   "lines": [
+    "They"
+   ]
+  }, 
+  {
+   "begin": "13.920", 
+   "end": "13.960", 
+   "id": "f000037", 
+   "language": "en", 
+   "lines": [
+    "felt"
+   ]
+  }, 
+  {
+   "begin": "13.960", 
+   "end": "14.400", 
+   "id": "f000038", 
+   "language": "en", 
+   "lines": [
+    "shiny"
+   ]
+  }, 
+  {
+   "begin": "14.400", 
+   "end": "14.600", 
+   "id": "f000039", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "14.600", 
+   "end": "15.000", 
+   "id": "f000040", 
+   "language": "en", 
+   "lines": [
+    "smelt"
+   ]
+  }, 
+  {
+   "begin": "15.000", 
+   "end": "15.240", 
+   "id": "f000041", 
+   "language": "en", 
+   "lines": [
+    "new.\n\n"
+   ]
+  }, 
+  {
+   "begin": "15.240", 
+   "end": "15.240", 
+   "id": "f000042", 
+   "language": "en", 
+   "lines": [
+    ""
+   ]
+  }, 
+  {
+   "begin": "15.240", 
+   "end": "15.240", 
+   "id": "f000043", 
+   "language": "en", 
+   "lines": [
+    ""
+   ]
+  }, 
+  {
+   "begin": "15.240", 
+   "end": "16.480", 
+   "id": "f000044", 
+   "language": "en", 
+   "lines": [
+    "\u201cCan"
+   ]
+  }, 
+  {
+   "begin": "16.480", 
+   "end": "16.800", 
+   "id": "f000045", 
+   "language": "en", 
+   "lines": [
+    "you"
+   ]
+  }, 
+  {
+   "begin": "16.800", 
+   "end": "17.160", 
+   "id": "f000046", 
+   "language": "en", 
+   "lines": [
+    "help"
+   ]
+  }, 
+  {
+   "begin": "17.160", 
+   "end": "17.280", 
+   "id": "f000047", 
+   "language": "en", 
+   "lines": [
+    "me"
+   ]
+  }, 
+  {
+   "begin": "17.280", 
+   "end": "17.440", 
+   "id": "f000048", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "17.440", 
+   "end": "17.680", 
+   "id": "f000049", 
+   "language": "en", 
+   "lines": [
+    "take"
+   ]
+  }, 
+  {
+   "begin": "17.680", 
+   "end": "17.880", 
+   "id": "f000050", 
+   "language": "en", 
+   "lines": [
+    "them"
+   ]
+  }, 
+  {
+   "begin": "17.880", 
+   "end": "18.600", 
+   "id": "f000051", 
+   "language": "en", 
+   "lines": [
+    "out?\u201d"
+   ]
+  }, 
+  {
+   "begin": "18.600", 
+   "end": "18.920", 
+   "id": "f000052", 
+   "language": "en", 
+   "lines": [
+    "asked"
+   ]
+  }, 
+  {
+   "begin": "18.920", 
+   "end": "19.080", 
+   "id": "f000053", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "19.080", 
+   "end": "19.960", 
+   "id": "f000054", 
+   "language": "en", 
+   "lines": [
+    "teacher."
+   ]
+  }
+ ]
+}

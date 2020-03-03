@@ -1,0 +1,31 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.160", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "rubbing"
+   ]
+  }, 
+  {
+   "begin": "0.160", 
+   "end": "0.480", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "their"
+   ]
+  }, 
+  {
+   "begin": "0.480", 
+   "end": "1.960", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "noses...."
+   ]
+  }
+ ]
+}

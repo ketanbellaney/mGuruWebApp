@@ -1,0 +1,391 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.200", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "The"
+   ]
+  }, 
+  {
+   "begin": "0.200", 
+   "end": "0.560", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "young"
+   ]
+  }, 
+  {
+   "begin": "0.560", 
+   "end": "1.040", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "puppy"
+   ]
+  }, 
+  {
+   "begin": "1.040", 
+   "end": "1.600", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "replied,"
+   ]
+  }, 
+  {
+   "begin": "1.600", 
+   "end": "2.280", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "\"You"
+   ]
+  }, 
+  {
+   "begin": "2.280", 
+   "end": "3.120", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "can,"
+   ]
+  }, 
+  {
+   "begin": "3.120", 
+   "end": "3.320", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "if"
+   ]
+  }, 
+  {
+   "begin": "3.320", 
+   "end": "3.440", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "you"
+   ]
+  }, 
+  {
+   "begin": "3.440", 
+   "end": "3.720", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "want"
+   ]
+  }, 
+  {
+   "begin": "3.720", 
+   "end": "4.080", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "4.080", 
+   "end": "4.280", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "make"
+   ]
+  }, 
+  {
+   "begin": "4.280", 
+   "end": "4.560", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "dream"
+   ]
+  }, 
+  {
+   "begin": "4.560", 
+   "end": "4.920", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "true."
+   ]
+  }, 
+  {
+   "begin": "4.920", 
+   "end": "5.520", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "But"
+   ]
+  }, 
+  {
+   "begin": "5.520", 
+   "end": "6.240", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "before"
+   ]
+  }, 
+  {
+   "begin": "6.240", 
+   "end": "6.400", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "that"
+   ]
+  }, 
+  {
+   "begin": "6.400", 
+   "end": "6.480", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "you"
+   ]
+  }, 
+  {
+   "begin": "6.480", 
+   "end": "6.840", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "will"
+   ]
+  }, 
+  {
+   "begin": "6.840", 
+   "end": "7.000", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "have"
+   ]
+  }, 
+  {
+   "begin": "7.000", 
+   "end": "7.200", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "7.200", 
+   "end": "7.520", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "ask"
+   ]
+  }, 
+  {
+   "begin": "7.520", 
+   "end": "8.040", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "three"
+   ]
+  }, 
+  {
+   "begin": "8.040", 
+   "end": "8.920", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "creatures"
+   ]
+  }, 
+  {
+   "begin": "8.920", 
+   "end": "9.320", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "whether"
+   ]
+  }, 
+  {
+   "begin": "9.320", 
+   "end": "9.720", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "dreams"
+   ]
+  }, 
+  {
+   "begin": "9.720", 
+   "end": "10.000", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "come"
+   ]
+  }, 
+  {
+   "begin": "10.000", 
+   "end": "10.520", 
+   "id": "f000027", 
+   "language": "en", 
+   "lines": [
+    "true"
+   ]
+  }, 
+  {
+   "begin": "10.520", 
+   "end": "10.760", 
+   "id": "f000028", 
+   "language": "en", 
+   "lines": [
+    "or"
+   ]
+  }, 
+  {
+   "begin": "10.760", 
+   "end": "10.800", 
+   "id": "f000029", 
+   "language": "en", 
+   "lines": [
+    "not."
+   ]
+  }, 
+  {
+   "begin": "10.800", 
+   "end": "11.360", 
+   "id": "f000030", 
+   "language": "en", 
+   "lines": [
+    "If"
+   ]
+  }, 
+  {
+   "begin": "11.360", 
+   "end": "11.600", 
+   "id": "f000031", 
+   "language": "en", 
+   "lines": [
+    "they"
+   ]
+  }, 
+  {
+   "begin": "11.600", 
+   "end": "12.120", 
+   "id": "f000032", 
+   "language": "en", 
+   "lines": [
+    "say"
+   ]
+  }, 
+  {
+   "begin": "12.120", 
+   "end": "12.840", 
+   "id": "f000033", 
+   "language": "en", 
+   "lines": [
+    "yes"
+   ]
+  }, 
+  {
+   "begin": "12.840", 
+   "end": "13.120", 
+   "id": "f000034", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "13.120", 
+   "end": "13.640", 
+   "id": "f000035", 
+   "language": "en", 
+   "lines": [
+    "myself"
+   ]
+  }, 
+  {
+   "begin": "13.640", 
+   "end": "13.920", 
+   "id": "f000036", 
+   "language": "en", 
+   "lines": [
+    "will"
+   ]
+  }, 
+  {
+   "begin": "13.920", 
+   "end": "14.160", 
+   "id": "f000037", 
+   "language": "en", 
+   "lines": [
+    "offer"
+   ]
+  }, 
+  {
+   "begin": "14.160", 
+   "end": "14.440", 
+   "id": "f000038", 
+   "language": "en", 
+   "lines": [
+    "my"
+   ]
+  }, 
+  {
+   "begin": "14.440", 
+   "end": "14.760", 
+   "id": "f000039", 
+   "language": "en", 
+   "lines": [
+    "head.\"\n\n"
+   ]
+  }, 
+  {
+   "begin": "14.760", 
+   "end": "15.160", 
+   "id": "f000040", 
+   "language": "en", 
+   "lines": [
+    "The"
+   ]
+  }, 
+  {
+   "begin": "15.160", 
+   "end": "15.600", 
+   "id": "f000041", 
+   "language": "en", 
+   "lines": [
+    "wild"
+   ]
+  }, 
+  {
+   "begin": "15.600", 
+   "end": "16.040", 
+   "id": "f000042", 
+   "language": "en", 
+   "lines": [
+    "dog"
+   ]
+  }, 
+  {
+   "begin": "16.040", 
+   "end": "16.800", 
+   "id": "f000043", 
+   "language": "en", 
+   "lines": [
+    "agreed."
+   ]
+  }
+ ]
+}

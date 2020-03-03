@@ -1,0 +1,130 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.280", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "And"
+   ]
+  }, 
+  {
+   "begin": "0.280", 
+   "end": "0.880", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "people"
+   ]
+  }, 
+  {
+   "begin": "0.880", 
+   "end": "1.360", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "can"
+   ]
+  }, 
+  {
+   "begin": "1.360", 
+   "end": "1.760", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "never"
+   ]
+  }, 
+  {
+   "begin": "1.760", 
+   "end": "2.040", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "touch"
+   ]
+  }, 
+  {
+   "begin": "2.040", 
+   "end": "2.240", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "2.240", 
+   "end": "3.040", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "moon."
+   ]
+  }, 
+  {
+   "begin": "3.040", 
+   "end": "3.440", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "So"
+   ]
+  }, 
+  {
+   "begin": "3.440", 
+   "end": "3.800", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "stop"
+   ]
+  }, 
+  {
+   "begin": "3.800", 
+   "end": "4.560", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "dreaming,"
+   ]
+  }, 
+  {
+   "begin": "4.560", 
+   "end": "4.720", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "4.720", 
+   "end": "5.000", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "go"
+   ]
+  }, 
+  {
+   "begin": "5.000", 
+   "end": "5.560", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "5.560", 
+   "end": "5.920", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "sleep.\""
+   ]
+  }
+ ]
+}

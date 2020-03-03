@@ -1,0 +1,247 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.600", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Meetu"
+   ]
+  }, 
+  {
+   "begin": "0.600", 
+   "end": "1.000", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "started"
+   ]
+  }, 
+  {
+   "begin": "1.000", 
+   "end": "1.720", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "crying."
+   ]
+  }, 
+  {
+   "begin": "1.720", 
+   "end": "2.520", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "\"Don't"
+   ]
+  }, 
+  {
+   "begin": "2.520", 
+   "end": "3.080", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "worry."
+   ]
+  }, 
+  {
+   "begin": "3.080", 
+   "end": "3.560", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "Today"
+   ]
+  }, 
+  {
+   "begin": "3.560", 
+   "end": "3.920", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "is"
+   ]
+  }, 
+  {
+   "begin": "3.920", 
+   "end": "4.160", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "my"
+   ]
+  }, 
+  {
+   "begin": "4.160", 
+   "end": "5.240", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "birthday,"
+   ]
+  }, 
+  {
+   "begin": "5.240", 
+   "end": "5.520", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "5.520", 
+   "end": "5.800", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "for"
+   ]
+  }, 
+  {
+   "begin": "5.800", 
+   "end": "5.960", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "today,"
+   ]
+  }, 
+  {
+   "begin": "5.960", 
+   "end": "6.600", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "you're"
+   ]
+  }, 
+  {
+   "begin": "6.600", 
+   "end": "7.200", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "my"
+   ]
+  }, 
+  {
+   "begin": "7.200", 
+   "end": "7.800", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "friend."
+   ]
+  }, 
+  {
+   "begin": "7.800", 
+   "end": "8.440", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "This"
+   ]
+  }, 
+  {
+   "begin": "8.440", 
+   "end": "9.000", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "is"
+   ]
+  }, 
+  {
+   "begin": "9.000", 
+   "end": "9.400", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "for"
+   ]
+  }, 
+  {
+   "begin": "9.400", 
+   "end": "9.440", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "you.\""
+   ]
+  }, 
+  {
+   "begin": "9.440", 
+   "end": "10.360", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "Chikku"
+   ]
+  }, 
+  {
+   "begin": "10.360", 
+   "end": "10.640", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "gave"
+   ]
+  }, 
+  {
+   "begin": "10.640", 
+   "end": "10.880", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "Meetu"
+   ]
+  }, 
+  {
+   "begin": "10.880", 
+   "end": "11.320", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "11.320", 
+   "end": "12.000", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "large"
+   ]
+  }, 
+  {
+   "begin": "12.000", 
+   "end": "12.440", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "piece"
+   ]
+  }, 
+  {
+   "begin": "12.440", 
+   "end": "12.440", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "of"
+   ]
+  }, 
+  {
+   "begin": "12.440", 
+   "end": "13.200", 
+   "id": "f000027", 
+   "language": "en", 
+   "lines": [
+    "cheese."
+   ]
+  }
+ ]
+}

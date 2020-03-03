@@ -1,0 +1,175 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.320", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "0.320", 
+   "end": "0.680", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "am"
+   ]
+  }, 
+  {
+   "begin": "0.680", 
+   "end": "1.200", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "thirsty."
+   ]
+  }, 
+  {
+   "begin": "1.200", 
+   "end": "1.600", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "Can"
+   ]
+  }, 
+  {
+   "begin": "1.600", 
+   "end": "2.240", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "2.240", 
+   "end": "2.360", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "have"
+   ]
+  }, 
+  {
+   "begin": "2.360", 
+   "end": "2.600", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "2.600", 
+   "end": "3.000", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "cold"
+   ]
+  }, 
+  {
+   "begin": "3.000", 
+   "end": "3.040", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "drink?"
+   ]
+  }, 
+  {
+   "begin": "3.040", 
+   "end": "4.680", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "\n"
+   ]
+  }, 
+  {
+   "begin": "4.680", 
+   "end": "5.000", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "My"
+   ]
+  }, 
+  {
+   "begin": "5.000", 
+   "end": "5.640", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "brother"
+   ]
+  }, 
+  {
+   "begin": "5.640", 
+   "end": "6.040", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "is"
+   ]
+  }, 
+  {
+   "begin": "6.040", 
+   "end": "7.200", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "hungry."
+   ]
+  }, 
+  {
+   "begin": "7.200", 
+   "end": "7.680", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "He"
+   ]
+  }, 
+  {
+   "begin": "7.680", 
+   "end": "7.880", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "wants"
+   ]
+  }, 
+  {
+   "begin": "7.880", 
+   "end": "8.120", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "8.120", 
+   "end": "8.480", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "eat"
+   ]
+  }, 
+  {
+   "begin": "8.480", 
+   "end": "9.680", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "chips."
+   ]
+  }
+ ]
+}

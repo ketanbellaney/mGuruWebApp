@@ -1,0 +1,139 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.000", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "0.000", 
+   "end": "0.000", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "live"
+   ]
+  }, 
+  {
+   "begin": "0.000", 
+   "end": "0.480", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "on"
+   ]
+  }, 
+  {
+   "begin": "0.480", 
+   "end": "0.920", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "0.920", 
+   "end": "1.840", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "mountain"
+   ]
+  }, 
+  {
+   "begin": "1.840", 
+   "end": "2.000", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "with"
+   ]
+  }, 
+  {
+   "begin": "2.000", 
+   "end": "2.320", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "my"
+   ]
+  }, 
+  {
+   "begin": "2.320", 
+   "end": "3.480", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "family."
+   ]
+  }, 
+  {
+   "begin": "3.480", 
+   "end": "3.880", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "3.880", 
+   "end": "4.040", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "want"
+   ]
+  }, 
+  {
+   "begin": "4.040", 
+   "end": "4.280", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "4.280", 
+   "end": "4.680", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "introduce"
+   ]
+  }, 
+  {
+   "begin": "4.680", 
+   "end": "5.040", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "Tibetan"
+   ]
+  }, 
+  {
+   "begin": "5.040", 
+   "end": "5.440", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "daily"
+   ]
+  }, 
+  {
+   "begin": "5.440", 
+   "end": "6.000", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "life."
+   ]
+  }
+ ]
+}

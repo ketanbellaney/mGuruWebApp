@@ -1,0 +1,373 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.480", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "We"
+   ]
+  }, 
+  {
+   "begin": "0.480", 
+   "end": "0.480", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "do"
+   ]
+  }, 
+  {
+   "begin": "0.480", 
+   "end": "0.560", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "not"
+   ]
+  }, 
+  {
+   "begin": "0.560", 
+   "end": "1.120", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "know"
+   ]
+  }, 
+  {
+   "begin": "1.120", 
+   "end": "1.520", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "which"
+   ]
+  }, 
+  {
+   "begin": "1.520", 
+   "end": "1.840", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "book"
+   ]
+  }, 
+  {
+   "begin": "1.840", 
+   "end": "2.000", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "2.000", 
+   "end": "2.560", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "buy."
+   ]
+  }, 
+  {
+   "begin": "2.560", 
+   "end": "3.120", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "The"
+   ]
+  }, 
+  {
+   "begin": "3.120", 
+   "end": "3.680", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "man"
+   ]
+  }, 
+  {
+   "begin": "3.680", 
+   "end": "3.840", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "in"
+   ]
+  }, 
+  {
+   "begin": "3.840", 
+   "end": "3.960", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "3.960", 
+   "end": "4.440", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "shop"
+   ]
+  }, 
+  {
+   "begin": "4.440", 
+   "end": "5.080", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "smiled"
+   ]
+  }, 
+  {
+   "begin": "5.080", 
+   "end": "5.360", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "at"
+   ]
+  }, 
+  {
+   "begin": "5.360", 
+   "end": "5.760", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "us."
+   ]
+  }, 
+  {
+   "begin": "5.760", 
+   "end": "7.640", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "\u201cRelax,"
+   ]
+  }, 
+  {
+   "begin": "7.640", 
+   "end": "8.120", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "come"
+   ]
+  }, 
+  {
+   "begin": "8.120", 
+   "end": "8.360", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "with"
+   ]
+  }, 
+  {
+   "begin": "8.360", 
+   "end": "8.720", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "me,\u201d"
+   ]
+  }, 
+  {
+   "begin": "8.720", 
+   "end": "9.640", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "he"
+   ]
+  }, 
+  {
+   "begin": "9.640", 
+   "end": "10.480", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "said."
+   ]
+  }, 
+  {
+   "begin": "10.480", 
+   "end": "11.800", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "\u201cThese"
+   ]
+  }, 
+  {
+   "begin": "11.800", 
+   "end": "12.240", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "books"
+   ]
+  }, 
+  {
+   "begin": "12.240", 
+   "end": "12.520", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "are"
+   ]
+  }, 
+  {
+   "begin": "12.520", 
+   "end": "12.960", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "about"
+   ]
+  }, 
+  {
+   "begin": "12.960", 
+   "end": "14.080", 
+   "id": "f000027", 
+   "language": "en", 
+   "lines": [
+    "animals."
+   ]
+  }, 
+  {
+   "begin": "14.080", 
+   "end": "14.800", 
+   "id": "f000028", 
+   "language": "en", 
+   "lines": [
+    "Those"
+   ]
+  }, 
+  {
+   "begin": "14.800", 
+   "end": "14.880", 
+   "id": "f000029", 
+   "language": "en", 
+   "lines": [
+    "are"
+   ]
+  }, 
+  {
+   "begin": "14.880", 
+   "end": "15.400", 
+   "id": "f000030", 
+   "language": "en", 
+   "lines": [
+    "about"
+   ]
+  }, 
+  {
+   "begin": "15.400", 
+   "end": "16.720", 
+   "id": "f000031", 
+   "language": "en", 
+   "lines": [
+    "machines."
+   ]
+  }, 
+  {
+   "begin": "16.720", 
+   "end": "17.200", 
+   "id": "f000032", 
+   "language": "en", 
+   "lines": [
+    "Those"
+   ]
+  }, 
+  {
+   "begin": "17.200", 
+   "end": "17.480", 
+   "id": "f000033", 
+   "language": "en", 
+   "lines": [
+    "over"
+   ]
+  }, 
+  {
+   "begin": "17.480", 
+   "end": "17.880", 
+   "id": "f000034", 
+   "language": "en", 
+   "lines": [
+    "there"
+   ]
+  }, 
+  {
+   "begin": "17.880", 
+   "end": "18.120", 
+   "id": "f000035", 
+   "language": "en", 
+   "lines": [
+    "are"
+   ]
+  }, 
+  {
+   "begin": "18.120", 
+   "end": "18.560", 
+   "id": "f000036", 
+   "language": "en", 
+   "lines": [
+    "about"
+   ]
+  }, 
+  {
+   "begin": "18.560", 
+   "end": "19.160", 
+   "id": "f000037", 
+   "language": "en", 
+   "lines": [
+    "wars."
+   ]
+  }, 
+  {
+   "begin": "19.160", 
+   "end": "19.800", 
+   "id": "f000038", 
+   "language": "en", 
+   "lines": [
+    "Take"
+   ]
+  }, 
+  {
+   "begin": "19.800", 
+   "end": "20.040", 
+   "id": "f000039", 
+   "language": "en", 
+   "lines": [
+    "what"
+   ]
+  }, 
+  {
+   "begin": "20.040", 
+   "end": "20.280", 
+   "id": "f000040", 
+   "language": "en", 
+   "lines": [
+    "you"
+   ]
+  }, 
+  {
+   "begin": "20.280", 
+   "end": "21.280", 
+   "id": "f000041", 
+   "language": "en", 
+   "lines": [
+    "want.\u201d"
+   ]
+  }
+ ]
+}

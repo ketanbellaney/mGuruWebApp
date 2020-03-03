@@ -1,0 +1,49 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.000", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "The"
+   ]
+  }, 
+  {
+   "begin": "0.000", 
+   "end": "1.120", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "king"
+   ]
+  }, 
+  {
+   "begin": "1.120", 
+   "end": "1.960", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "catches"
+   ]
+  }, 
+  {
+   "begin": "1.960", 
+   "end": "2.080", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "2.080", 
+   "end": "3.200", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "dog."
+   ]
+  }
+ ]
+}

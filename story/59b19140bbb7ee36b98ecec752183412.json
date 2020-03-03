@@ -1,0 +1,121 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.840", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Now,"
+   ]
+  }, 
+  {
+   "begin": "0.840", 
+   "end": "1.880", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "Sringeri"
+   ]
+  }, 
+  {
+   "begin": "1.880", 
+   "end": "2.600", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "Srinivas"
+   ]
+  }, 
+  {
+   "begin": "2.600", 
+   "end": "2.920", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "will"
+   ]
+  }, 
+  {
+   "begin": "2.920", 
+   "end": "3.280", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "not"
+   ]
+  }, 
+  {
+   "begin": "3.280", 
+   "end": "3.720", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "need"
+   ]
+  }, 
+  {
+   "begin": "3.720", 
+   "end": "3.960", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "3.960", 
+   "end": "4.200", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "haircut"
+   ]
+  }, 
+  {
+   "begin": "4.200", 
+   "end": "4.560", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "for"
+   ]
+  }, 
+  {
+   "begin": "4.560", 
+   "end": "4.840", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "4.840", 
+   "end": "5.240", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "very"
+   ]
+  }, 
+  {
+   "begin": "5.240", 
+   "end": "5.560", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "long"
+   ]
+  }, 
+  {
+   "begin": "5.560", 
+   "end": "6.280", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "time."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,634 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.880", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "\u201cHere"
+   ]
+  }, 
+  {
+   "begin": "0.880", 
+   "end": "0.880", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "are"
+   ]
+  }, 
+  {
+   "begin": "0.880", 
+   "end": "1.280", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "twelve"
+   ]
+  }, 
+  {
+   "begin": "1.280", 
+   "end": "2.480", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "rupees."
+   ]
+  }, 
+  {
+   "begin": "2.480", 
+   "end": "2.800", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "Ask"
+   ]
+  }, 
+  {
+   "begin": "2.800", 
+   "end": "3.160", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "for"
+   ]
+  }, 
+  {
+   "begin": "3.160", 
+   "end": "3.560", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "half"
+   ]
+  }, 
+  {
+   "begin": "3.560", 
+   "end": "3.560", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "3.560", 
+   "end": "3.960", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "kilo"
+   ]
+  }, 
+  {
+   "begin": "3.960", 
+   "end": "4.080", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "of"
+   ]
+  }, 
+  {
+   "begin": "4.080", 
+   "end": "4.640", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "sooji."
+   ]
+  }, 
+  {
+   "begin": "4.640", 
+   "end": "5.680", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "Take"
+   ]
+  }, 
+  {
+   "begin": "5.680", 
+   "end": "6.160", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "Mouchak"
+   ]
+  }, 
+  {
+   "begin": "6.160", 
+   "end": "6.360", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "with"
+   ]
+  }, 
+  {
+   "begin": "6.360", 
+   "end": "7.000", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "you,"
+   ]
+  }, 
+  {
+   "begin": "7.000", 
+   "end": "7.400", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "7.400", 
+   "end": "7.680", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "don\u2019t"
+   ]
+  }, 
+  {
+   "begin": "7.680", 
+   "end": "7.960", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "talk"
+   ]
+  }, 
+  {
+   "begin": "7.960", 
+   "end": "8.280", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "8.280", 
+   "end": "8.760", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "any"
+   ]
+  }, 
+  {
+   "begin": "8.760", 
+   "end": "9.320", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "strangers"
+   ]
+  }, 
+  {
+   "begin": "9.320", 
+   "end": "9.480", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "on"
+   ]
+  }, 
+  {
+   "begin": "9.480", 
+   "end": "9.600", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "9.600", 
+   "end": "10.520", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "way,\u201d"
+   ]
+  }, 
+  {
+   "begin": "10.520", 
+   "end": "11.160", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "she"
+   ]
+  }, 
+  {
+   "begin": "11.160", 
+   "end": "11.280", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "said."
+   ]
+  }, 
+  {
+   "begin": "11.280", 
+   "end": "12.360", 
+   "id": "f000027", 
+   "language": "en", 
+   "lines": [
+    "\u201cAnd"
+   ]
+  }, 
+  {
+   "begin": "12.360", 
+   "end": "12.760", 
+   "id": "f000028", 
+   "language": "en", 
+   "lines": [
+    "don\u2019t"
+   ]
+  }, 
+  {
+   "begin": "12.760", 
+   "end": "13.040", 
+   "id": "f000029", 
+   "language": "en", 
+   "lines": [
+    "go"
+   ]
+  }, 
+  {
+   "begin": "13.040", 
+   "end": "13.640", 
+   "id": "f000030", 
+   "language": "en", 
+   "lines": [
+    "climbing"
+   ]
+  }, 
+  {
+   "begin": "13.640", 
+   "end": "14.880", 
+   "id": "f000031", 
+   "language": "en", 
+   "lines": [
+    "trees,\u201d"
+   ]
+  }, 
+  {
+   "begin": "14.880", 
+   "end": "15.200", 
+   "id": "f000032", 
+   "language": "en", 
+   "lines": [
+    "she"
+   ]
+  }, 
+  {
+   "begin": "15.200", 
+   "end": "15.680", 
+   "id": "f000033", 
+   "language": "en", 
+   "lines": [
+    "added"
+   ]
+  }, 
+  {
+   "begin": "15.680", 
+   "end": "15.680", 
+   "id": "f000034", 
+   "language": "en", 
+   "lines": [
+    "as"
+   ]
+  }, 
+  {
+   "begin": "15.680", 
+   "end": "16.920", 
+   "id": "f000035", 
+   "language": "en", 
+   "lines": [
+    "Samira"
+   ]
+  }, 
+  {
+   "begin": "16.920", 
+   "end": "17.160", 
+   "id": "f000036", 
+   "language": "en", 
+   "lines": [
+    "set"
+   ]
+  }, 
+  {
+   "begin": "17.160", 
+   "end": "17.560", 
+   "id": "f000037", 
+   "language": "en", 
+   "lines": [
+    "out"
+   ]
+  }, 
+  {
+   "begin": "17.560", 
+   "end": "17.760", 
+   "id": "f000038", 
+   "language": "en", 
+   "lines": [
+    "with"
+   ]
+  }, 
+  {
+   "begin": "17.760", 
+   "end": "18.320", 
+   "id": "f000039", 
+   "language": "en", 
+   "lines": [
+    "Mouchak"
+   ]
+  }, 
+  {
+   "begin": "18.320", 
+   "end": "18.720", 
+   "id": "f000040", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "18.720", 
+   "end": "19.120", 
+   "id": "f000041", 
+   "language": "en", 
+   "lines": [
+    "buy"
+   ]
+  }, 
+  {
+   "begin": "19.120", 
+   "end": "19.480", 
+   "id": "f000042", 
+   "language": "en", 
+   "lines": [
+    "half"
+   ]
+  }, 
+  {
+   "begin": "19.480", 
+   "end": "19.520", 
+   "id": "f000043", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "19.520", 
+   "end": "19.880", 
+   "id": "f000044", 
+   "language": "en", 
+   "lines": [
+    "kilo"
+   ]
+  }, 
+  {
+   "begin": "19.880", 
+   "end": "20.080", 
+   "id": "f000045", 
+   "language": "en", 
+   "lines": [
+    "of"
+   ]
+  }, 
+  {
+   "begin": "20.080", 
+   "end": "20.360", 
+   "id": "f000046", 
+   "language": "en", 
+   "lines": [
+    "sooji."
+   ]
+  }, 
+  {
+   "begin": "20.360", 
+   "end": "21.520", 
+   "id": "f000047", 
+   "language": "en", 
+   "lines": [
+    "&nbsp;"
+   ]
+  }, 
+  {
+   "begin": "21.520", 
+   "end": "21.680", 
+   "id": "f000048", 
+   "language": "en", 
+   "lines": [
+    "It"
+   ]
+  }, 
+  {
+   "begin": "21.680", 
+   "end": "21.960", 
+   "id": "f000049", 
+   "language": "en", 
+   "lines": [
+    "was"
+   ]
+  }, 
+  {
+   "begin": "21.960", 
+   "end": "22.000", 
+   "id": "f000050", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "22.000", 
+   "end": "22.720", 
+   "id": "f000051", 
+   "language": "en", 
+   "lines": [
+    "pleasant"
+   ]
+  }, 
+  {
+   "begin": "22.720", 
+   "end": "23.400", 
+   "id": "f000052", 
+   "language": "en", 
+   "lines": [
+    "February"
+   ]
+  }, 
+  {
+   "begin": "23.400", 
+   "end": "24.840", 
+   "id": "f000053", 
+   "language": "en", 
+   "lines": [
+    "day."
+   ]
+  }, 
+  {
+   "begin": "24.840", 
+   "end": "25.440", 
+   "id": "f000054", 
+   "language": "en", 
+   "lines": [
+    "Samira"
+   ]
+  }, 
+  {
+   "begin": "25.440", 
+   "end": "25.960", 
+   "id": "f000055", 
+   "language": "en", 
+   "lines": [
+    "sang,"
+   ]
+  }, 
+  {
+   "begin": "25.960", 
+   "end": "26.960", 
+   "id": "f000056", 
+   "language": "en", 
+   "lines": [
+    "\u201cTra"
+   ]
+  }, 
+  {
+   "begin": "26.960", 
+   "end": "27.520", 
+   "id": "f000057", 
+   "language": "en", 
+   "lines": [
+    "la"
+   ]
+  }, 
+  {
+   "begin": "27.520", 
+   "end": "27.840", 
+   "id": "f000058", 
+   "language": "en", 
+   "lines": [
+    "la"
+   ]
+  }, 
+  {
+   "begin": "27.840", 
+   "end": "27.840", 
+   "id": "f000059", 
+   "language": "en", 
+   "lines": [
+    "la"
+   ]
+  }, 
+  {
+   "begin": "27.840", 
+   "end": "28.240", 
+   "id": "f000060", 
+   "language": "en", 
+   "lines": [
+    "la,\u201d"
+   ]
+  }, 
+  {
+   "begin": "28.240", 
+   "end": "28.920", 
+   "id": "f000061", 
+   "language": "en", 
+   "lines": [
+    "as"
+   ]
+  }, 
+  {
+   "begin": "28.920", 
+   "end": "29.160", 
+   "id": "f000062", 
+   "language": "en", 
+   "lines": [
+    "she"
+   ]
+  }, 
+  {
+   "begin": "29.160", 
+   "end": "29.360", 
+   "id": "f000063", 
+   "language": "en", 
+   "lines": [
+    "skipped"
+   ]
+  }, 
+  {
+   "begin": "29.360", 
+   "end": "29.800", 
+   "id": "f000064", 
+   "language": "en", 
+   "lines": [
+    "along."
+   ]
+  }, 
+  {
+   "begin": "29.800", 
+   "end": "29.960", 
+   "id": "f000065", 
+   "language": "en", 
+   "lines": [
+    "&nbsp;\n"
+   ]
+  }, 
+  {
+   "begin": "29.960", 
+   "end": "31.320", 
+   "id": "f000066", 
+   "language": "en", 
+   "lines": [
+    "\u201cWoof!"
+   ]
+  }, 
+  {
+   "begin": "31.320", 
+   "end": "32.560", 
+   "id": "f000067", 
+   "language": "en", 
+   "lines": [
+    "Woof!\u201d"
+   ]
+  }, 
+  {
+   "begin": "32.560", 
+   "end": "32.960", 
+   "id": "f000068", 
+   "language": "en", 
+   "lines": [
+    "said"
+   ]
+  }, 
+  {
+   "begin": "32.960", 
+   "end": "33.760", 
+   "id": "f000069", 
+   "language": "en", 
+   "lines": [
+    "Mouchak"
+   ]
+  }, 
+  {
+   "begin": "33.760", 
+   "end": "35.520", 
+   "id": "f000070", 
+   "language": "en", 
+   "lines": [
+    "friskily."
+   ]
+  }
+ ]
+}

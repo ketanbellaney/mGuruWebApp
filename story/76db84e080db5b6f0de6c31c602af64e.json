@@ -1,0 +1,346 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.960", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "\u201cNocturnal"
+   ]
+  }, 
+  {
+   "begin": "0.960", 
+   "end": "1.960", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "animals"
+   ]
+  }, 
+  {
+   "begin": "1.960", 
+   "end": "2.520", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "eat,"
+   ]
+  }, 
+  {
+   "begin": "2.520", 
+   "end": "3.720", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "play"
+   ]
+  }, 
+  {
+   "begin": "3.720", 
+   "end": "3.960", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "3.960", 
+   "end": "4.520", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "work"
+   ]
+  }, 
+  {
+   "begin": "4.520", 
+   "end": "4.760", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "at"
+   ]
+  }, 
+  {
+   "begin": "4.760", 
+   "end": "5.920", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "night."
+   ]
+  }, 
+  {
+   "begin": "5.920", 
+   "end": "6.240", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "They"
+   ]
+  }, 
+  {
+   "begin": "6.240", 
+   "end": "6.600", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "rest"
+   ]
+  }, 
+  {
+   "begin": "6.600", 
+   "end": "6.960", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "during"
+   ]
+  }, 
+  {
+   "begin": "6.960", 
+   "end": "7.120", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "7.120", 
+   "end": "8.200", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "day."
+   ]
+  }, 
+  {
+   "begin": "8.200", 
+   "end": "8.360", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "You"
+   ]
+  }, 
+  {
+   "begin": "8.360", 
+   "end": "8.720", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "must"
+   ]
+  }, 
+  {
+   "begin": "8.720", 
+   "end": "9.280", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "sleep"
+   ]
+  }, 
+  {
+   "begin": "9.280", 
+   "end": "10.160", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "now."
+   ]
+  }, 
+  {
+   "begin": "10.160", 
+   "end": "10.720", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "Sleep"
+   ]
+  }, 
+  {
+   "begin": "10.720", 
+   "end": "10.920", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "will"
+   ]
+  }, 
+  {
+   "begin": "10.920", 
+   "end": "11.080", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "give"
+   ]
+  }, 
+  {
+   "begin": "11.080", 
+   "end": "11.320", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "you"
+   ]
+  }, 
+  {
+   "begin": "11.320", 
+   "end": "11.600", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "energy"
+   ]
+  }, 
+  {
+   "begin": "11.600", 
+   "end": "11.880", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "11.880", 
+   "end": "12.040", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "play"
+   ]
+  }, 
+  {
+   "begin": "12.040", 
+   "end": "12.120", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "with"
+   ]
+  }, 
+  {
+   "begin": "12.120", 
+   "end": "12.760", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "your"
+   ]
+  }, 
+  {
+   "begin": "12.760", 
+   "end": "13.280", 
+   "id": "f000027", 
+   "language": "en", 
+   "lines": [
+    "day-time"
+   ]
+  }, 
+  {
+   "begin": "13.280", 
+   "end": "13.720", 
+   "id": "f000028", 
+   "language": "en", 
+   "lines": [
+    "friends"
+   ]
+  }, 
+  {
+   "begin": "13.720", 
+   "end": "14.320", 
+   "id": "f000029", 
+   "language": "en", 
+   "lines": [
+    "tomorrow."
+   ]
+  }, 
+  {
+   "begin": "14.320", 
+   "end": "15.200", 
+   "id": "f000030", 
+   "language": "en", 
+   "lines": [
+    "Good"
+   ]
+  }, 
+  {
+   "begin": "15.200", 
+   "end": "15.800", 
+   "id": "f000031", 
+   "language": "en", 
+   "lines": [
+    "night,"
+   ]
+  }, 
+  {
+   "begin": "15.800", 
+   "end": "15.960", 
+   "id": "f000032", 
+   "language": "en", 
+   "lines": [
+    "little"
+   ]
+  }, 
+  {
+   "begin": "15.960", 
+   "end": "17.000", 
+   "id": "f000033", 
+   "language": "en", 
+   "lines": [
+    "one!\u201d"
+   ]
+  }, 
+  {
+   "begin": "17.000", 
+   "end": "17.240", 
+   "id": "f000034", 
+   "language": "en", 
+   "lines": [
+    "she"
+   ]
+  }, 
+  {
+   "begin": "17.240", 
+   "end": "17.960", 
+   "id": "f000035", 
+   "language": "en", 
+   "lines": [
+    "said,"
+   ]
+  }, 
+  {
+   "begin": "17.960", 
+   "end": "18.360", 
+   "id": "f000036", 
+   "language": "en", 
+   "lines": [
+    "hugging"
+   ]
+  }, 
+  {
+   "begin": "18.360", 
+   "end": "18.640", 
+   "id": "f000037", 
+   "language": "en", 
+   "lines": [
+    "him"
+   ]
+  }, 
+  {
+   "begin": "18.640", 
+   "end": "19.400", 
+   "id": "f000038", 
+   "language": "en", 
+   "lines": [
+    "tight."
+   ]
+  }
+ ]
+}

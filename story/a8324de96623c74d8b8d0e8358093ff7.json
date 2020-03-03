@@ -1,0 +1,301 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.400", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Amma"
+   ]
+  }, 
+  {
+   "begin": "0.400", 
+   "end": "1.560", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "says"
+   ]
+  }, 
+  {
+   "begin": "1.560", 
+   "end": "2.560", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "people"
+   ]
+  }, 
+  {
+   "begin": "2.560", 
+   "end": "2.640", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "in"
+   ]
+  }, 
+  {
+   "begin": "2.640", 
+   "end": "3.560", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "Gujarat"
+   ]
+  }, 
+  {
+   "begin": "3.560", 
+   "end": "3.960", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "have"
+   ]
+  }, 
+  {
+   "begin": "3.960", 
+   "end": "3.960", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "3.960", 
+   "end": "4.360", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "Ponkh"
+   ]
+  }, 
+  {
+   "begin": "4.360", 
+   "end": "5.160", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "festival"
+   ]
+  }, 
+  {
+   "begin": "5.160", 
+   "end": "5.320", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "in"
+   ]
+  }, 
+  {
+   "begin": "5.320", 
+   "end": "6.840", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "winter."
+   ]
+  }, 
+  {
+   "begin": "6.840", 
+   "end": "7.920", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "Farmers"
+   ]
+  }, 
+  {
+   "begin": "7.920", 
+   "end": "8.600", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "roast"
+   ]
+  }, 
+  {
+   "begin": "8.600", 
+   "end": "9.360", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "bundles"
+   ]
+  }, 
+  {
+   "begin": "9.360", 
+   "end": "9.680", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "of"
+   ]
+  }, 
+  {
+   "begin": "9.680", 
+   "end": "10.440", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "millet"
+   ]
+  }, 
+  {
+   "begin": "10.440", 
+   "end": "10.720", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "on"
+   ]
+  }, 
+  {
+   "begin": "10.720", 
+   "end": "11.120", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "coal"
+   ]
+  }, 
+  {
+   "begin": "11.120", 
+   "end": "13.000", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "stoves."
+   ]
+  }, 
+  {
+   "begin": "13.000", 
+   "end": "13.800", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "Everyone"
+   ]
+  }, 
+  {
+   "begin": "13.800", 
+   "end": "14.160", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "eats"
+   ]
+  }, 
+  {
+   "begin": "14.160", 
+   "end": "14.320", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "14.320", 
+   "end": "15.520", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "fresh,"
+   ]
+  }, 
+  {
+   "begin": "15.520", 
+   "end": "15.800", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "green,"
+   ]
+  }, 
+  {
+   "begin": "15.800", 
+   "end": "16.760", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "plump"
+   ]
+  }, 
+  {
+   "begin": "16.760", 
+   "end": "17.120", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "17.120", 
+   "end": "17.720", 
+   "id": "f000027", 
+   "language": "en", 
+   "lines": [
+    "tender"
+   ]
+  }, 
+  {
+   "begin": "17.720", 
+   "end": "18.640", 
+   "id": "f000028", 
+   "language": "en", 
+   "lines": [
+    "beads"
+   ]
+  }, 
+  {
+   "begin": "18.640", 
+   "end": "18.880", 
+   "id": "f000029", 
+   "language": "en", 
+   "lines": [
+    "of"
+   ]
+  }, 
+  {
+   "begin": "18.880", 
+   "end": "19.360", 
+   "id": "f000030", 
+   "language": "en", 
+   "lines": [
+    "millet"
+   ]
+  }, 
+  {
+   "begin": "19.360", 
+   "end": "19.960", 
+   "id": "f000031", 
+   "language": "en", 
+   "lines": [
+    "grains"
+   ]
+  }, 
+  {
+   "begin": "19.960", 
+   "end": "20.800", 
+   "id": "f000032", 
+   "language": "en", 
+   "lines": [
+    "called"
+   ]
+  }, 
+  {
+   "begin": "20.800", 
+   "end": "22.080", 
+   "id": "f000033", 
+   "language": "en", 
+   "lines": [
+    "ponkh."
+   ]
+  }
+ ]
+}

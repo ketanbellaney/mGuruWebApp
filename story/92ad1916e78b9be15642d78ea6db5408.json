@@ -1,0 +1,94 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.000", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "To"
+   ]
+  }, 
+  {
+   "begin": "0.000", 
+   "end": "0.560", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "save"
+   ]
+  }, 
+  {
+   "begin": "0.560", 
+   "end": "1.040", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "himself"
+   ]
+  }, 
+  {
+   "begin": "1.040", 
+   "end": "1.240", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "from"
+   ]
+  }, 
+  {
+   "begin": "1.240", 
+   "end": "1.360", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "1.360", 
+   "end": "1.920", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "charging"
+   ]
+  }, 
+  {
+   "begin": "1.920", 
+   "end": "2.200", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "hornbill,"
+   ]
+  }, 
+  {
+   "begin": "2.200", 
+   "end": "2.520", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "2.520", 
+   "end": "3.400", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "frog"
+   ]
+  }, 
+  {
+   "begin": "3.400", 
+   "end": "4.240", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "leaps."
+   ]
+  }
+ ]
+}

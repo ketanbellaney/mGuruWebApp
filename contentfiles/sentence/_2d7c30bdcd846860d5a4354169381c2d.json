@@ -1,0 +1,697 @@
+{
+ "fragments": [
+  {
+   "begin": "6.320", 
+   "end": "6.680", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "With"
+   ]
+  }, 
+  {
+   "begin": "6.680", 
+   "end": "7.280", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "my"
+   ]
+  }, 
+  {
+   "begin": "7.280", 
+   "end": "7.760", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "puppy"
+   ]
+  }, 
+  {
+   "begin": "7.760", 
+   "end": "7.840", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "small"
+   ]
+  }, 
+  {
+   "begin": "7.840", 
+   "end": "8.200", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "8.200", 
+   "end": "8.360", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "funny"
+   ]
+  }, 
+  {
+   "begin": "8.360", 
+   "end": "11.720", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "11.720", 
+   "end": "12.360", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "go"
+   ]
+  }, 
+  {
+   "begin": "12.360", 
+   "end": "12.720", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "walking"
+   ]
+  }, 
+  {
+   "begin": "12.720", 
+   "end": "13.180", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "every"
+   ]
+  }, 
+  {
+   "begin": "13.180", 
+   "end": "13.280", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "day\n"
+   ]
+  }, 
+  {
+   "begin": "13.280", 
+   "end": "13.460", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "In"
+   ]
+  }, 
+  {
+   "begin": "13.460", 
+   "end": "13.740", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "13.740", 
+   "end": "13.900", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "garden,"
+   ]
+  }, 
+  {
+   "begin": "13.900", 
+   "end": "14.180", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "so"
+   ]
+  }, 
+  {
+   "begin": "14.180", 
+   "end": "14.320", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "green"
+   ]
+  }, 
+  {
+   "begin": "14.320", 
+   "end": "14.680", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "14.680", 
+   "end": "14.980", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "sunny\n"
+   ]
+  }, 
+  {
+   "begin": "14.980", 
+   "end": "15.160", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "My"
+   ]
+  }, 
+  {
+   "begin": "15.160", 
+   "end": "15.680", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "puppy"
+   ]
+  }, 
+  {
+   "begin": "15.680", 
+   "end": "15.840", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "15.840", 
+   "end": "16.340", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "16.340", 
+   "end": "16.760", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "love"
+   ]
+  }, 
+  {
+   "begin": "16.760", 
+   "end": "17.320", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "17.320", 
+   "end": "17.760", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "play\n\n"
+   ]
+  }, 
+  {
+   "begin": "17.760", 
+   "end": "17.760", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    ""
+   ]
+  }, 
+  {
+   "begin": "17.760", 
+   "end": "18.080", 
+   "id": "f000027", 
+   "language": "en", 
+   "lines": [
+    "With"
+   ]
+  }, 
+  {
+   "begin": "18.080", 
+   "end": "18.760", 
+   "id": "f000028", 
+   "language": "en", 
+   "lines": [
+    "my"
+   ]
+  }, 
+  {
+   "begin": "18.760", 
+   "end": "19.080", 
+   "id": "f000029", 
+   "language": "en", 
+   "lines": [
+    "puppy"
+   ]
+  }, 
+  {
+   "begin": "19.080", 
+   "end": "19.840", 
+   "id": "f000030", 
+   "language": "en", 
+   "lines": [
+    "small"
+   ]
+  }, 
+  {
+   "begin": "19.840", 
+   "end": "20.400", 
+   "id": "f000031", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "20.400", 
+   "end": "20.800", 
+   "id": "f000032", 
+   "language": "en", 
+   "lines": [
+    "funny"
+   ]
+  }, 
+  {
+   "begin": "20.800", 
+   "end": "21.360", 
+   "id": "f000033", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "21.360", 
+   "end": "21.640", 
+   "id": "f000034", 
+   "language": "en", 
+   "lines": [
+    "go"
+   ]
+  }, 
+  {
+   "begin": "21.640", 
+   "end": "22.160", 
+   "id": "f000035", 
+   "language": "en", 
+   "lines": [
+    "walking"
+   ]
+  }, 
+  {
+   "begin": "22.160", 
+   "end": "22.520", 
+   "id": "f000036", 
+   "language": "en", 
+   "lines": [
+    "every"
+   ]
+  }, 
+  {
+   "begin": "22.520", 
+   "end": "23.120", 
+   "id": "f000037", 
+   "language": "en", 
+   "lines": [
+    "day\n"
+   ]
+  }, 
+  {
+   "begin": "23.120", 
+   "end": "23.680", 
+   "id": "f000038", 
+   "language": "en", 
+   "lines": [
+    "In"
+   ]
+  }, 
+  {
+   "begin": "23.680", 
+   "end": "24.160", 
+   "id": "f000039", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "24.160", 
+   "end": "25.040", 
+   "id": "f000040", 
+   "language": "en", 
+   "lines": [
+    "garden,"
+   ]
+  }, 
+  {
+   "begin": "25.040", 
+   "end": "25.800", 
+   "id": "f000041", 
+   "language": "en", 
+   "lines": [
+    "so"
+   ]
+  }, 
+  {
+   "begin": "25.800", 
+   "end": "26.280", 
+   "id": "f000042", 
+   "language": "en", 
+   "lines": [
+    "green"
+   ]
+  }, 
+  {
+   "begin": "26.280", 
+   "end": "26.760", 
+   "id": "f000043", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "26.760", 
+   "end": "27.280", 
+   "id": "f000044", 
+   "language": "en", 
+   "lines": [
+    "sunny\n"
+   ]
+  }, 
+  {
+   "begin": "27.280", 
+   "end": "28.160", 
+   "id": "f000045", 
+   "language": "en", 
+   "lines": [
+    "My"
+   ]
+  }, 
+  {
+   "begin": "28.160", 
+   "end": "29.120", 
+   "id": "f000046", 
+   "language": "en", 
+   "lines": [
+    "puppy"
+   ]
+  }, 
+  {
+   "begin": "29.120", 
+   "end": "29.320", 
+   "id": "f000047", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "29.320", 
+   "end": "29.500", 
+   "id": "f000048", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "29.500", 
+   "end": "29.760", 
+   "id": "f000049", 
+   "language": "en", 
+   "lines": [
+    "love"
+   ]
+  }, 
+  {
+   "begin": "29.760", 
+   "end": "29.920", 
+   "id": "f000050", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "29.920",   ///////
+   "end": "30.760", 
+   "id": "f000051", 
+   "language": "en", 
+   "lines": [
+    "play\n\n"
+   ]
+  }, 
+  {
+   "begin": "30.760", 
+   "end": "30.760", 
+   "id": "f000052", 
+   "language": "en", 
+   "lines": [
+    ""
+   ]
+  }, 
+  {
+   "begin": "30.760",    
+   "end": "31.280", 
+   "id": "f000053", 
+   "language": "en", 
+   "lines": [
+    "With"
+   ]
+  }, 
+  {
+   "begin": "31.280", 
+   "end": "31.760", 
+   "id": "f000054", 
+   "language": "en", 
+   "lines": [
+    "my"
+   ]
+  }, 
+  {
+   "begin": "31.760", 
+   "end": "32.480", 
+   "id": "f000055", 
+   "language": "en", 
+   "lines": [
+    "puppy"
+   ]
+  }, 
+  {
+   "begin": "32.480", 
+   "end": "33.280", 
+   "id": "f000056", 
+   "language": "en", 
+   "lines": [
+    "small"
+   ]
+  }, 
+  {
+   "begin": "33.280", 
+   "end": "34.000", 
+   "id": "f000057", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "34.000", 
+   "end": "34.520", 
+   "id": "f000058", 
+   "language": "en", 
+   "lines": [
+    "funny"
+   ]
+  }, 
+  {
+   "begin": "34.520", 
+   "end": "36.080", 
+   "id": "f000059", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "36.080", 
+   "end": "36.320", 
+   "id": "f000060", 
+   "language": "en", 
+   "lines": [
+    "go"
+   ]
+  }, 
+  {
+   "begin": "36.320", 
+   "end": "36.560", 
+   "id": "f000061", 
+   "language": "en", 
+   "lines": [
+    "walking"
+   ]
+  }, 
+  {
+   "begin": "36.560", 
+   "end": "36.860", 
+   "id": "f000062", 
+   "language": "en", 
+   "lines": [
+    "every"
+   ]
+  }, 
+  {
+   "begin": "36.860", 
+   "end": "37.180", 
+   "id": "f000063", 
+   "language": "en", 
+   "lines": [
+    "day\n"
+   ]
+  }, 
+  {
+   "begin": "37.180", 
+   "end": "37.480", 
+   "id": "f000064", 
+   "language": "en", 
+   "lines": [
+    "In"
+   ]
+  }, 
+  {
+   "begin": "37.480", 
+   "end": "37.700", 
+   "id": "f000065", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "37.700", 
+   "end": "38.120", 
+   "id": "f000066", 
+   "language": "en", 
+   "lines": [
+    "garden,"
+   ]
+  }, 
+  {
+   "begin": "38.120", 
+   "end": "38.400", 
+   "id": "f000067", 
+   "language": "en", 
+   "lines": [
+    "so"
+   ]
+  }, 
+  {
+   "begin": "38.400", 
+   "end": "38.760", 
+   "id": "f000068", 
+   "language": "en", 
+   "lines": [
+    "green"
+   ]
+  }, 
+  {
+   "begin": "38.760", 
+   "end": "39.160", 
+   "id": "f000069", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "39.160", 
+   "end": "39.420", 
+   "id": "f000070", 
+   "language": "en", 
+   "lines": [
+    "sunny\n"
+   ]
+  }, 
+  {
+   "begin": "39.420", 
+   "end": "39.720", 
+   "id": "f000071", 
+   "language": "en", 
+   "lines": [
+    "My"
+   ]
+  }, 
+  {
+   "begin": "39.720", 
+   "end": "40.100", 
+   "id": "f000072", 
+   "language": "en", 
+   "lines": [
+    "puppy"
+   ]
+  }, 
+  {
+   "begin": "40.100", 
+   "end": "40.460", 
+   "id": "f000073", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "40.460", 
+   "end": "40.720", 
+   "id": "f000074", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "40.720", 
+   "end": "41.240", 
+   "id": "f000075", 
+   "language": "en", 
+   "lines": [
+    "love"
+   ]
+  }, 
+  {
+   "begin": "41.240", 
+   "end": "41.520", 
+   "id": "f000076", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "41.520", 
+   "end": "41.880", 
+   "id": "f000077", 
+   "language": "en", 
+   "lines": [
+    "play"
+   ]
+  }
+ ]
+}

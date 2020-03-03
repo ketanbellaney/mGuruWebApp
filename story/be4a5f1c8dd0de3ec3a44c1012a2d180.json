@@ -1,0 +1,238 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.400", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "At"
+   ]
+  }, 
+  {
+   "begin": "0.400", 
+   "end": "1.360", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "last"
+   ]
+  }, 
+  {
+   "begin": "1.360", 
+   "end": "1.720", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "they"
+   ]
+  }, 
+  {
+   "begin": "1.720", 
+   "end": "2.240", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "finished."
+   ]
+  }, 
+  {
+   "begin": "2.240", 
+   "end": "3.120", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "They"
+   ]
+  }, 
+  {
+   "begin": "3.120", 
+   "end": "3.720", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "wiped"
+   ]
+  }, 
+  {
+   "begin": "3.720", 
+   "end": "3.960", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "off"
+   ]
+  }, 
+  {
+   "begin": "3.960", 
+   "end": "4.080", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "4.080", 
+   "end": "5.000", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "paint"
+   ]
+  }, 
+  {
+   "begin": "5.000", 
+   "end": "5.200", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "that"
+   ]
+  }, 
+  {
+   "begin": "5.200", 
+   "end": "5.520", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "had"
+   ]
+  }, 
+  {
+   "begin": "5.520", 
+   "end": "5.920", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "splashed"
+   ]
+  }, 
+  {
+   "begin": "5.920", 
+   "end": "5.920", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "on"
+   ]
+  }, 
+  {
+   "begin": "5.920", 
+   "end": "6.320", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "6.320", 
+   "end": "7.840", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "ground."
+   ]
+  }, 
+  {
+   "begin": "7.840", 
+   "end": "8.120", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "They"
+   ]
+  }, 
+  {
+   "begin": "8.120", 
+   "end": "8.480", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "wiped"
+   ]
+  }, 
+  {
+   "begin": "8.480", 
+   "end": "8.720", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "off"
+   ]
+  }, 
+  {
+   "begin": "8.720", 
+   "end": "8.920", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "8.920", 
+   "end": "9.520", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "paint"
+   ]
+  }, 
+  {
+   "begin": "9.520", 
+   "end": "10.040", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "that"
+   ]
+  }, 
+  {
+   "begin": "10.040", 
+   "end": "10.440", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "had"
+   ]
+  }, 
+  {
+   "begin": "10.440", 
+   "end": "10.960", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "splashed"
+   ]
+  }, 
+  {
+   "begin": "10.960", 
+   "end": "11.120", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "on"
+   ]
+  }, 
+  {
+   "begin": "11.120", 
+   "end": "11.280", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "11.280", 
+   "end": "11.920", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "wall."
+   ]
+  }
+ ]
+}

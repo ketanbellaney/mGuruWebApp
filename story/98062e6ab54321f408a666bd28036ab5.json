@@ -1,0 +1,67 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.000", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "A"
+   ]
+  }, 
+  {
+   "begin": "0.000", 
+   "end": "0.760", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "fawn"
+   ]
+  }, 
+  {
+   "begin": "0.760", 
+   "end": "1.080", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "was"
+   ]
+  }, 
+  {
+   "begin": "1.080", 
+   "end": "1.560", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "racing"
+   ]
+  }, 
+  {
+   "begin": "1.560", 
+   "end": "1.600", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "in"
+   ]
+  }, 
+  {
+   "begin": "1.600", 
+   "end": "1.880", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "1.880", 
+   "end": "3.160", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "forest."
+   ]
+  }
+ ]
+}

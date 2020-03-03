@@ -1,0 +1,121 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.440", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "The"
+   ]
+  }, 
+  {
+   "begin": "0.440", 
+   "end": "0.800", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "bird"
+   ]
+  }, 
+  {
+   "begin": "0.800", 
+   "end": "1.760", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "sings"
+   ]
+  }, 
+  {
+   "begin": "1.760", 
+   "end": "2.120", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "2.120", 
+   "end": "2.200", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "sweet"
+   ]
+  }, 
+  {
+   "begin": "2.200", 
+   "end": "3.720", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "song.\n"
+   ]
+  }, 
+  {
+   "begin": "3.720", 
+   "end": "3.960", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "3.960", 
+   "end": "4.280", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "can"
+   ]
+  }, 
+  {
+   "begin": "4.280", 
+   "end": "4.840", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "hear"
+   ]
+  }, 
+  {
+   "begin": "4.840", 
+   "end": "5.440", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "it"
+   ]
+  }, 
+  {
+   "begin": "5.440", 
+   "end": "5.640", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "with"
+   ]
+  }, 
+  {
+   "begin": "5.640", 
+   "end": "6.240", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "my"
+   ]
+  }, 
+  {
+   "begin": "6.240", 
+   "end": "7.040", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "ears."
+   ]
+  }
+ ]
+}

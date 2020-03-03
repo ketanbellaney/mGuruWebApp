@@ -1,0 +1,472 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.320", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "He"
+   ]
+  }, 
+  {
+   "begin": "0.320", 
+   "end": "0.720", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "told"
+   ]
+  }, 
+  {
+   "begin": "0.720", 
+   "end": "1.000", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "us"
+   ]
+  }, 
+  {
+   "begin": "1.000", 
+   "end": "1.240", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "that"
+   ]
+  }, 
+  {
+   "begin": "1.240", 
+   "end": "1.720", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "he"
+   ]
+  }, 
+  {
+   "begin": "1.720", 
+   "end": "1.800", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "had"
+   ]
+  }, 
+  {
+   "begin": "1.800", 
+   "end": "2.280", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "2.280", 
+   "end": "2.600", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "drink"
+   ]
+  }, 
+  {
+   "begin": "2.600", 
+   "end": "3.200", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "lots"
+   ]
+  }, 
+  {
+   "begin": "3.200", 
+   "end": "3.440", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "of"
+   ]
+  }, 
+  {
+   "begin": "3.440", 
+   "end": "3.800", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "nimbu"
+   ]
+  }, 
+  {
+   "begin": "3.800", 
+   "end": "4.320", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "pani"
+   ]
+  }, 
+  {
+   "begin": "4.320", 
+   "end": "4.840", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "4.840", 
+   "end": "5.280", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "replace"
+   ]
+  }, 
+  {
+   "begin": "5.280", 
+   "end": "5.280", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "5.280", 
+   "end": "5.880", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "water"
+   ]
+  }, 
+  {
+   "begin": "5.880", 
+   "end": "6.080", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "in"
+   ]
+  }, 
+  {
+   "begin": "6.080", 
+   "end": "6.600", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "his"
+   ]
+  }, 
+  {
+   "begin": "6.600", 
+   "end": "7.120", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "body"
+   ]
+  }, 
+  {
+   "begin": "7.120", 
+   "end": "8.120", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "because"
+   ]
+  }, 
+  {
+   "begin": "8.120", 
+   "end": "8.440", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "you"
+   ]
+  }, 
+  {
+   "begin": "8.440", 
+   "end": "8.920", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "sweat"
+   ]
+  }, 
+  {
+   "begin": "8.920", 
+   "end": "9.120", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "9.120", 
+   "end": "9.560", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "lot"
+   ]
+  }, 
+  {
+   "begin": "9.560", 
+   "end": "9.920", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "in"
+   ]
+  }, 
+  {
+   "begin": "9.920", 
+   "end": "10.120", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "10.120", 
+   "end": "10.160", 
+   "id": "f000027", 
+   "language": "en", 
+   "lines": [
+    "heat"
+   ]
+  }, 
+  {
+   "begin": "10.160", 
+   "end": "10.440", 
+   "id": "f000028", 
+   "language": "en", 
+   "lines": [
+    "of"
+   ]
+  }, 
+  {
+   "begin": "10.440", 
+   "end": "10.680", 
+   "id": "f000029", 
+   "language": "en", 
+   "lines": [
+    "Delhi."
+   ]
+  }, 
+  {
+   "begin": "10.680", 
+   "end": "11.600", 
+   "id": "f000030", 
+   "language": "en", 
+   "lines": [
+    "He"
+   ]
+  }, 
+  {
+   "begin": "11.600", 
+   "end": "12.240", 
+   "id": "f000031", 
+   "language": "en", 
+   "lines": [
+    "says"
+   ]
+  }, 
+  {
+   "begin": "12.240", 
+   "end": "12.640", 
+   "id": "f000032", 
+   "language": "en", 
+   "lines": [
+    "he"
+   ]
+  }, 
+  {
+   "begin": "12.640", 
+   "end": "13.400", 
+   "id": "f000033", 
+   "language": "en", 
+   "lines": [
+    "will"
+   ]
+  }, 
+  {
+   "begin": "13.400", 
+   "end": "13.720", 
+   "id": "f000034", 
+   "language": "en", 
+   "lines": [
+    "bring"
+   ]
+  }, 
+  {
+   "begin": "13.720", 
+   "end": "13.760", 
+   "id": "f000035", 
+   "language": "en", 
+   "lines": [
+    "lovely"
+   ]
+  }, 
+  {
+   "begin": "13.760", 
+   "end": "14.360", 
+   "id": "f000036", 
+   "language": "en", 
+   "lines": [
+    "Dussehri"
+   ]
+  }, 
+  {
+   "begin": "14.360", 
+   "end": "14.960", 
+   "id": "f000037", 
+   "language": "en", 
+   "lines": [
+    "mangoes"
+   ]
+  }, 
+  {
+   "begin": "14.960", 
+   "end": "15.040", 
+   "id": "f000038", 
+   "language": "en", 
+   "lines": [
+    "for"
+   ]
+  }, 
+  {
+   "begin": "15.040", 
+   "end": "15.800", 
+   "id": "f000039", 
+   "language": "en", 
+   "lines": [
+    "us"
+   ]
+  }, 
+  {
+   "begin": "15.800", 
+   "end": "16.600", 
+   "id": "f000040", 
+   "language": "en", 
+   "lines": [
+    "from"
+   ]
+  }, 
+  {
+   "begin": "16.600", 
+   "end": "16.600", 
+   "id": "f000041", 
+   "language": "en", 
+   "lines": [
+    "Delhi."
+   ]
+  }, 
+  {
+   "begin": "16.600", 
+   "end": "17.480", 
+   "id": "f000042", 
+   "language": "en", 
+   "lines": [
+    "The"
+   ]
+  }, 
+  {
+   "begin": "17.480", 
+   "end": "17.880", 
+   "id": "f000043", 
+   "language": "en", 
+   "lines": [
+    "summer"
+   ]
+  }, 
+  {
+   "begin": "17.880", 
+   "end": "18.400", 
+   "id": "f000044", 
+   "language": "en", 
+   "lines": [
+    "brings"
+   ]
+  }, 
+  {
+   "begin": "18.400", 
+   "end": "18.800", 
+   "id": "f000045", 
+   "language": "en", 
+   "lines": [
+    "heat"
+   ]
+  }, 
+  {
+   "begin": "18.800", 
+   "end": "19.040", 
+   "id": "f000046", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "19.040", 
+   "end": "19.440", 
+   "id": "f000047", 
+   "language": "en", 
+   "lines": [
+    "dust"
+   ]
+  }, 
+  {
+   "begin": "19.440", 
+   "end": "19.840", 
+   "id": "f000048", 
+   "language": "en", 
+   "lines": [
+    "but"
+   ]
+  }, 
+  {
+   "begin": "19.840", 
+   "end": "20.160", 
+   "id": "f000049", 
+   "language": "en", 
+   "lines": [
+    "it"
+   ]
+  }, 
+  {
+   "begin": "20.160", 
+   "end": "20.680", 
+   "id": "f000050", 
+   "language": "en", 
+   "lines": [
+    "also"
+   ]
+  }, 
+  {
+   "begin": "20.680", 
+   "end": "21.360", 
+   "id": "f000051", 
+   "language": "en", 
+   "lines": [
+    "brings"
+   ]
+  }, 
+  {
+   "begin": "21.360", 
+   "end": "21.960", 
+   "id": "f000052", 
+   "language": "en", 
+   "lines": [
+    "mangoes!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,328 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.320", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "As"
+   ]
+  }, 
+  {
+   "begin": "0.320", 
+   "end": "0.760", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "0.760", 
+   "end": "1.160", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "rain"
+   ]
+  }, 
+  {
+   "begin": "1.160", 
+   "end": "1.600", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "came"
+   ]
+  }, 
+  {
+   "begin": "1.600", 
+   "end": "2.240", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "pouring"
+   ]
+  }, 
+  {
+   "begin": "2.240", 
+   "end": "3.240", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "down,"
+   ]
+  }, 
+  {
+   "begin": "3.240", 
+   "end": "3.720", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "Sukhiya"
+   ]
+  }, 
+  {
+   "begin": "3.720", 
+   "end": "4.160", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "Kaka"
+   ]
+  }, 
+  {
+   "begin": "4.160", 
+   "end": "4.400", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "4.400", 
+   "end": "5.120", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "Dinoo"
+   ]
+  }, 
+  {
+   "begin": "5.120", 
+   "end": "5.520", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "shared"
+   ]
+  }, 
+  {
+   "begin": "5.520", 
+   "end": "5.760", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "5.760", 
+   "end": "6.360", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "small"
+   ]
+  }, 
+  {
+   "begin": "6.360", 
+   "end": "7.000", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "umbrella."
+   ]
+  }, 
+  {
+   "begin": "7.000", 
+   "end": "8.120", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "Then"
+   ]
+  }, 
+  {
+   "begin": "8.120", 
+   "end": "8.440", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "off"
+   ]
+  }, 
+  {
+   "begin": "8.440", 
+   "end": "8.680", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "they"
+   ]
+  }, 
+  {
+   "begin": "8.680", 
+   "end": "9.000", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "went"
+   ]
+  }, 
+  {
+   "begin": "9.000", 
+   "end": "9.200", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "9.200", 
+   "end": "10.200", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "Jhalaura"
+   ]
+  }, 
+  {
+   "begin": "10.200", 
+   "end": "10.680", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "following"
+   ]
+  }, 
+  {
+   "begin": "10.680", 
+   "end": "10.800", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "10.800", 
+   "end": "11.280", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "smell"
+   ]
+  }, 
+  {
+   "begin": "11.280", 
+   "end": "11.680", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "of"
+   ]
+  }, 
+  {
+   "begin": "11.680", 
+   "end": "11.960", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "yummy"
+   ]
+  }, 
+  {
+   "begin": "11.960", 
+   "end": "13.040", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "pakoras,"
+   ]
+  }, 
+  {
+   "begin": "13.040", 
+   "end": "14.600", 
+   "id": "f000027", 
+   "language": "en", 
+   "lines": [
+    "singing"
+   ]
+  }, 
+  {
+   "begin": "14.600", 
+   "end": "14.760", 
+   "id": "f000028", 
+   "language": "en", 
+   "lines": [
+    "...O"
+   ]
+  }, 
+  {
+   "begin": "14.760", 
+   "end": "15.040", 
+   "id": "f000029", 
+   "language": "en", 
+   "lines": [
+    "thank"
+   ]
+  }, 
+  {
+   "begin": "15.040", 
+   "end": "15.520", 
+   "id": "f000030", 
+   "language": "en", 
+   "lines": [
+    "you"
+   ]
+  }, 
+  {
+   "begin": "15.520", 
+   "end": "16.040", 
+   "id": "f000031", 
+   "language": "en", 
+   "lines": [
+    "for"
+   ]
+  }, 
+  {
+   "begin": "16.040", 
+   "end": "16.520", 
+   "id": "f000032", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "16.520", 
+   "end": "17.080", 
+   "id": "f000033", 
+   "language": "en", 
+   "lines": [
+    "lovely"
+   ]
+  }, 
+  {
+   "begin": "17.080", 
+   "end": "19.880", 
+   "id": "f000034", 
+   "language": "en", 
+   "lines": [
+    "rain...O..la"
+   ]
+  }, 
+  {
+   "begin": "19.880", 
+   "end": "20.240", 
+   "id": "f000035", 
+   "language": "en", 
+   "lines": [
+    "la"
+   ]
+  }, 
+  {
+   "begin": "20.240", 
+   "end": "20.520", 
+   "id": "f000036", 
+   "language": "en", 
+   "lines": [
+    "la."
+   ]
+  }
+ ]
+}

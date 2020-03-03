@@ -1,0 +1,265 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.520", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "\u201cWhat\u2019s"
+   ]
+  }, 
+  {
+   "begin": "0.520", 
+   "end": "1.240", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "wrong"
+   ]
+  }, 
+  {
+   "begin": "1.240", 
+   "end": "2.520", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "Grandpa,"
+   ]
+  }, 
+  {
+   "begin": "2.520", 
+   "end": "3.400", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "why"
+   ]
+  }, 
+  {
+   "begin": "3.400", 
+   "end": "3.800", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "are"
+   ]
+  }, 
+  {
+   "begin": "3.800", 
+   "end": "3.800", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "you"
+   ]
+  }, 
+  {
+   "begin": "3.800", 
+   "end": "3.800", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "not"
+   ]
+  }, 
+  {
+   "begin": "3.800", 
+   "end": "3.800", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "reading"
+   ]
+  }, 
+  {
+   "begin": "3.800", 
+   "end": "3.840", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "3.840", 
+   "end": "5.000", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "newspaper?\u201d"
+   ]
+  }, 
+  {
+   "begin": "5.000", 
+   "end": "5.560", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "asked"
+   ]
+  }, 
+  {
+   "begin": "5.560", 
+   "end": "5.920", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "Gulli"
+   ]
+  }, 
+  {
+   "begin": "5.920", 
+   "end": "6.200", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "one"
+   ]
+  }, 
+  {
+   "begin": "6.200", 
+   "end": "6.760", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "morning."
+   ]
+  }, 
+  {
+   "begin": "6.760", 
+   "end": "7.920", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "\u201cOh"
+   ]
+  }, 
+  {
+   "begin": "7.920", 
+   "end": "8.800", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "dear,"
+   ]
+  }, 
+  {
+   "begin": "8.800", 
+   "end": "9.040", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "9.040", 
+   "end": "9.240", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "broke"
+   ]
+  }, 
+  {
+   "begin": "9.240", 
+   "end": "9.480", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "my"
+   ]
+  }, 
+  {
+   "begin": "9.480", 
+   "end": "9.800", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "reading"
+   ]
+  }, 
+  {
+   "begin": "9.800", 
+   "end": "10.720", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "glasses,"
+   ]
+  }, 
+  {
+   "begin": "10.720", 
+   "end": "11.080", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "11.080", 
+   "end": "11.360", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "11.360", 
+   "end": "11.640", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "can\u2019t"
+   ]
+  }, 
+  {
+   "begin": "11.640", 
+   "end": "11.840", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "read"
+   ]
+  }, 
+  {
+   "begin": "11.840", 
+   "end": "12.320", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "anything"
+   ]
+  }, 
+  {
+   "begin": "12.320", 
+   "end": "12.560", 
+   "id": "f000027", 
+   "language": "en", 
+   "lines": [
+    "without"
+   ]
+  }, 
+  {
+   "begin": "12.560", 
+   "end": "14.040", 
+   "id": "f000028", 
+   "language": "en", 
+   "lines": [
+    "them,\u201dsaid"
+   ]
+  }, 
+  {
+   "begin": "14.040", 
+   "end": "15.120", 
+   "id": "f000029", 
+   "language": "en", 
+   "lines": [
+    "Grandpa."
+   ]
+  }
+ ]
+}

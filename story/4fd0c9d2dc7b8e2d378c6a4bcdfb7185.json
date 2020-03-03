@@ -1,0 +1,103 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.960", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "\u201cBut"
+   ]
+  }, 
+  {
+   "begin": "0.960", 
+   "end": "1.680", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "Manu,\u201d"
+   ]
+  }, 
+  {
+   "begin": "1.680", 
+   "end": "2.440", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "called"
+   ]
+  }, 
+  {
+   "begin": "2.440", 
+   "end": "3.080", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "Ma,"
+   ]
+  }, 
+  {
+   "begin": "3.080", 
+   "end": "3.480", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "running"
+   ]
+  }, 
+  {
+   "begin": "3.480", 
+   "end": "3.840", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "after"
+   ]
+  }, 
+  {
+   "begin": "3.840", 
+   "end": "4.200", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "him,"
+   ]
+  }, 
+  {
+   "begin": "4.200", 
+   "end": "4.960", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "\u201cyou"
+   ]
+  }, 
+  {
+   "begin": "4.960", 
+   "end": "5.960", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "forgot"
+   ]
+  }, 
+  {
+   "begin": "5.960", 
+   "end": "6.360", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "your"
+   ]
+  }, 
+  {
+   "begin": "6.360", 
+   "end": "7.360", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "raincoat!\u201d"
+   ]
+  }
+ ]
+}

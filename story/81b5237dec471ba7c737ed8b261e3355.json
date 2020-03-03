@@ -1,0 +1,247 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.920", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "First,"
+   ]
+  }, 
+  {
+   "begin": "0.920", 
+   "end": "1.080", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "he"
+   ]
+  }, 
+  {
+   "begin": "1.080", 
+   "end": "1.320", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "went"
+   ]
+  }, 
+  {
+   "begin": "1.320", 
+   "end": "1.560", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "1.560", 
+   "end": "1.600", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "1.600", 
+   "end": "2.160", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "tiger"
+   ]
+  }, 
+  {
+   "begin": "2.160", 
+   "end": "2.400", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "2.400", 
+   "end": "2.800", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "said,"
+   ]
+  }, 
+  {
+   "begin": "2.800", 
+   "end": "3.680", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "\"Sheroo"
+   ]
+  }, 
+  {
+   "begin": "3.680", 
+   "end": "4.400", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "Bhaiyya,"
+   ]
+  }, 
+  {
+   "begin": "4.400", 
+   "end": "4.600", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "will"
+   ]
+  }, 
+  {
+   "begin": "4.600", 
+   "end": "4.760", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "you"
+   ]
+  }, 
+  {
+   "begin": "4.760", 
+   "end": "5.000", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "come"
+   ]
+  }, 
+  {
+   "begin": "5.000", 
+   "end": "5.360", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "for"
+   ]
+  }, 
+  {
+   "begin": "5.360", 
+   "end": "5.560", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "my"
+   ]
+  }, 
+  {
+   "begin": "5.560", 
+   "end": "5.840", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "birthday"
+   ]
+  }, 
+  {
+   "begin": "5.840", 
+   "end": "6.360", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "party?"
+   ]
+  }, 
+  {
+   "begin": "6.360", 
+   "end": "7.520", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "Tomorrow,"
+   ]
+  }, 
+  {
+   "begin": "7.520", 
+   "end": "7.840", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "in"
+   ]
+  }, 
+  {
+   "begin": "7.840", 
+   "end": "7.880", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "7.880", 
+   "end": "8.280", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "evening"
+   ]
+  }, 
+  {
+   "begin": "8.280", 
+   "end": "8.480", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "at"
+   ]
+  }, 
+  {
+   "begin": "8.480", 
+   "end": "8.800", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "4"
+   ]
+  }, 
+  {
+   "begin": "8.800", 
+   "end": "9.720", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "p.m.?"
+   ]
+  }, 
+  {
+   "begin": "9.720", 
+   "end": "10.000", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "At"
+   ]
+  }, 
+  {
+   "begin": "10.000", 
+   "end": "10.360", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "my"
+   ]
+  }, 
+  {
+   "begin": "10.360", 
+   "end": "11.280", 
+   "id": "f000027", 
+   "language": "en", 
+   "lines": [
+    "place?\""
+   ]
+  }
+ ]
+}

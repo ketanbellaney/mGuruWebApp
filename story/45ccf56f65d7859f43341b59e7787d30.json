@@ -1,0 +1,58 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.360", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "He"
+   ]
+  }, 
+  {
+   "begin": "0.360", 
+   "end": "1.200", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "leapt"
+   ]
+  }, 
+  {
+   "begin": "1.200", 
+   "end": "1.400", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "1.400", 
+   "end": "2.120", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "cleared"
+   ]
+  }, 
+  {
+   "begin": "2.120", 
+   "end": "2.160", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "2.160", 
+   "end": "3.360", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "stream."
+   ]
+  }
+ ]
+}

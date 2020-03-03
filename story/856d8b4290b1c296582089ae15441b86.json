@@ -1,0 +1,301 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.280", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Dear"
+   ]
+  }, 
+  {
+   "begin": "0.280", 
+   "end": "0.880", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "Reader,"
+   ]
+  }, 
+  {
+   "begin": "0.880", 
+   "end": "1.600", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "Have"
+   ]
+  }, 
+  {
+   "begin": "1.600", 
+   "end": "2.240", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "you"
+   ]
+  }, 
+  {
+   "begin": "2.240", 
+   "end": "2.560", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "ever"
+   ]
+  }, 
+  {
+   "begin": "2.560", 
+   "end": "2.960", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "seen"
+   ]
+  }, 
+  {
+   "begin": "2.960", 
+   "end": "3.120", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "3.120", 
+   "end": "4.720", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "dinosaur?"
+   ]
+  }, 
+  {
+   "begin": "4.720", 
+   "end": "4.720", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "Do"
+   ]
+  }, 
+  {
+   "begin": "4.720", 
+   "end": "4.800", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "you"
+   ]
+  }, 
+  {
+   "begin": "4.800", 
+   "end": "5.520", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "think"
+   ]
+  }, 
+  {
+   "begin": "5.520", 
+   "end": "5.600", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "they"
+   ]
+  }, 
+  {
+   "begin": "5.600", 
+   "end": "5.640", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "would"
+   ]
+  }, 
+  {
+   "begin": "5.640", 
+   "end": "6.560", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "have&nbsp;sung"
+   ]
+  }, 
+  {
+   "begin": "6.560", 
+   "end": "8.200", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "songs?"
+   ]
+  }, 
+  {
+   "begin": "8.200", 
+   "end": "8.440", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "What"
+   ]
+  }, 
+  {
+   "begin": "8.440", 
+   "end": "8.520", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "do"
+   ]
+  }, 
+  {
+   "begin": "8.520", 
+   "end": "8.840", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "you"
+   ]
+  }, 
+  {
+   "begin": "8.840", 
+   "end": "9.240", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "like"
+   ]
+  }, 
+  {
+   "begin": "9.240", 
+   "end": "9.240", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "9.240", 
+   "end": "9.360", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "do"
+   ]
+  }, 
+  {
+   "begin": "9.360", 
+   "end": "9.440", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "in"
+   ]
+  }, 
+  {
+   "begin": "9.440", 
+   "end": "9.920", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "9.920", 
+   "end": "11.400", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "rain?"
+   ]
+  }, 
+  {
+   "begin": "11.400", 
+   "end": "12.120", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "What"
+   ]
+  }, 
+  {
+   "begin": "12.120", 
+   "end": "12.200", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "do"
+   ]
+  }, 
+  {
+   "begin": "12.200", 
+   "end": "12.480", 
+   "id": "f000027", 
+   "language": "en", 
+   "lines": [
+    "you"
+   ]
+  }, 
+  {
+   "begin": "12.480", 
+   "end": "12.760", 
+   "id": "f000028", 
+   "language": "en", 
+   "lines": [
+    "like"
+   ]
+  }, 
+  {
+   "begin": "12.760", 
+   "end": "12.880", 
+   "id": "f000029", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "12.880", 
+   "end": "13.080", 
+   "id": "f000030", 
+   "language": "en", 
+   "lines": [
+    "eat"
+   ]
+  }, 
+  {
+   "begin": "13.080", 
+   "end": "13.360", 
+   "id": "f000031", 
+   "language": "en", 
+   "lines": [
+    "when"
+   ]
+  }, 
+  {
+   "begin": "13.360", 
+   "end": "13.480", 
+   "id": "f000032", 
+   "language": "en", 
+   "lines": [
+    "it"
+   ]
+  }, 
+  {
+   "begin": "13.480", 
+   "end": "14.600", 
+   "id": "f000033", 
+   "language": "en", 
+   "lines": [
+    "rains?"
+   ]
+  }
+ ]
+}

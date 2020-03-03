@@ -1,0 +1,319 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "1.560", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Old Mother Hubbard"
+   ]
+  }, 
+  {
+   "begin": "1.560", 
+   "end": "2.920", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "Went to the cupboard"
+   ]
+  }, 
+  {
+   "begin": "2.920", 
+   "end": "5.680", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "To fetch her poor dog a bone;"
+   ]
+  }, 
+  {
+   "begin": "5.680", 
+   "end": "7.120", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "But when she came there"
+   ]
+  }, 
+  {
+   "begin": "7.120", 
+   "end": "8.520", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "The cupboard was bare,"
+   ]
+  }, 
+  {
+   "begin": "8.520", 
+   "end": "10.960", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "And so the poor dog had none."
+   ]
+  }, 
+  {
+   "begin": "10.960", 
+   "end": "10.960", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    ""
+   ]
+  }, 
+  {
+   "begin": "10.960", 
+   "end": "12.760", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "She took a clean dish"
+   ]
+  }, 
+  {
+   "begin": "12.760", 
+   "end": "14.120", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "To get him some tripe;"
+   ]
+  }, 
+  {
+   "begin": "14.120", 
+   "end": "15.320", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "But when she came back"
+   ]
+  }, 
+  {
+   "begin": "15.320", 
+   "end": "17.240", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "He was smoking a pipe."
+   ]
+  }, 
+  {
+   "begin": "17.240", 
+   "end": "18.760", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "She went to the grocer's"
+   ]
+  }, 
+  {
+   "begin": "18.760", 
+   "end": "20.320", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "To buy him some fruit;"
+   ]
+  }, 
+  {
+   "begin": "20.320", 
+   "end": "22.240", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "But when she came back"
+   ]
+  }, 
+  {
+   "begin": "22.240", 
+   "end": "23.800", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "He was playing the flute."
+   ]
+  }, 
+  {
+   "begin": "23.800", 
+   "end": "23.800", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    ""
+   ]
+  }, 
+  {
+   "begin": "23.800", 
+   "end": "25.160", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "She went to the baker's"
+   ]
+  }, 
+  {
+   "begin": "25.160", 
+   "end": "26.480", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "To buy him some bread;"
+   ]
+  }, 
+  {
+   "begin": "26.480", 
+   "end": "27.760", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "But when she came back"
+   ]
+  }, 
+  {
+   "begin": "27.760", 
+   "end": "29.240", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "The poor dog was dead."
+   ]
+  }, 
+  {
+   "begin": "29.240", 
+   "end": "29.240", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    ""
+   ]
+  }, 
+  {
+   "begin": "29.240", 
+   "end": "30.960", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "She went to the undertaker's"
+   ]
+  }, 
+  {
+   "begin": "30.960", 
+   "end": "32.320", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "To buy him a coffin;"
+   ]
+  }, 
+  {
+   "begin": "32.320", 
+   "end": "33.760", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "But when she came back"
+   ]
+  }, 
+  {
+   "begin": "33.760", 
+   "end": "35.600", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "The poor dog was laughing."
+   ]
+  }, 
+  {
+   "begin": "35.600", 
+   "end": "35.600", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    ""
+   ]
+  }, 
+  {
+   "begin": "35.600", 
+   "end": "36.960", 
+   "id": "f000027", 
+   "language": "en", 
+   "lines": [
+    "She went to the hatter's"
+   ]
+  }, 
+  {
+   "begin": "36.960", 
+   "end": "38.320", 
+   "id": "f000028", 
+   "language": "en", 
+   "lines": [
+    "To buy him a hat;"
+   ]
+  }, 
+  {
+   "begin": "38.320", 
+   "end": "39.840", 
+   "id": "f000029", 
+   "language": "en", 
+   "lines": [
+    "But when she came back"
+   ]
+  }, 
+  {
+   "begin": "39.840", 
+   "end": "41.000", 
+   "id": "f000030", 
+   "language": "en", 
+   "lines": [
+    "He was feeding the cat."
+   ]
+  }, 
+  {
+   "begin": "41.000", 
+   "end": "41.000", 
+   "id": "f000031", 
+   "language": "en", 
+   "lines": [
+    ""
+   ]
+  }, 
+  {
+   "begin": "41.000", 
+   "end": "42.480", 
+   "id": "f000032", 
+   "language": "en", 
+   "lines": [
+    "The dame made a curtsey,"
+   ]
+  }, 
+  {
+   "begin": "42.480", 
+   "end": "43.920", 
+   "id": "f000033", 
+   "language": "en", 
+   "lines": [
+    "The dog made a bow;"
+   ]
+  }, 
+  {
+   "begin": "43.920", 
+   "end": "45.440", 
+   "id": "f000034", 
+   "language": "en", 
+   "lines": [
+    "The dame said, \"Your servant.\""
+   ]
+  }, 
+  {
+   "begin": "45.440", 
+   "end": "46.800", 
+   "id": "f000035", 
+   "language": "en", 
+   "lines": [
+    "The dog said, \"Bow wow!\""
+   ]
+  }
+ ]
+}

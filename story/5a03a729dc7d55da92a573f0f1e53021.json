@@ -1,0 +1,112 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.280", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "This"
+   ]
+  }, 
+  {
+   "begin": "0.280", 
+   "end": "0.880", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "is"
+   ]
+  }, 
+  {
+   "begin": "0.880", 
+   "end": "1.600", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "my"
+   ]
+  }, 
+  {
+   "begin": "1.600", 
+   "end": "2.800", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "house."
+   ]
+  }, 
+  {
+   "begin": "2.800", 
+   "end": "3.200", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "Ma,"
+   ]
+  }, 
+  {
+   "begin": "3.200", 
+   "end": "3.720", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "Pa"
+   ]
+  }, 
+  {
+   "begin": "3.720", 
+   "end": "4.240", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "4.240", 
+   "end": "4.320", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "Cheena"
+   ]
+  }, 
+  {
+   "begin": "4.320", 
+   "end": "4.560", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "also"
+   ]
+  }, 
+  {
+   "begin": "4.560", 
+   "end": "4.680", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "live"
+   ]
+  }, 
+  {
+   "begin": "4.680", 
+   "end": "5.640", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "here."
+   ]
+  }, 
+  {
+   "begin": "5.640", 
+   "end": "6.880", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "&nbsp;"
+   ]
+  }
+ ]
+}

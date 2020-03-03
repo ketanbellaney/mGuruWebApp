@@ -1,0 +1,130 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "1.120", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Pehelwaan"
+   ]
+  }, 
+  {
+   "begin": "1.120", 
+   "end": "1.360", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "ji"
+   ]
+  }, 
+  {
+   "begin": "1.360", 
+   "end": "1.560", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "lifted"
+   ]
+  }, 
+  {
+   "begin": "1.560", 
+   "end": "1.760", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "1.760", 
+   "end": "2.040", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "bat."
+   ]
+  }, 
+  {
+   "begin": "2.040", 
+   "end": "2.960", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "He"
+   ]
+  }, 
+  {
+   "begin": "2.960", 
+   "end": "3.880", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "lost"
+   ]
+  }, 
+  {
+   "begin": "3.880", 
+   "end": "5.480", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "his"
+   ]
+  }, 
+  {
+   "begin": "5.480", 
+   "end": "6.120", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "balance.The"
+   ]
+  }, 
+  {
+   "begin": "6.120", 
+   "end": "6.280", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "ball"
+   ]
+  }, 
+  {
+   "begin": "6.280", 
+   "end": "6.560", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "hit"
+   ]
+  }, 
+  {
+   "begin": "6.560", 
+   "end": "6.640", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "his"
+   ]
+  }, 
+  {
+   "begin": "6.640", 
+   "end": "7.560", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "head."
+   ]
+  }, 
+  {
+   "begin": "7.560", 
+   "end": "8.760", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "Ouch!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,175 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.000", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "If"
+   ]
+  }, 
+  {
+   "begin": "0.000", 
+   "end": "1.200", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "she"
+   ]
+  }, 
+  {
+   "begin": "1.200", 
+   "end": "1.400", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "had"
+   ]
+  }, 
+  {
+   "begin": "1.400", 
+   "end": "1.640", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "not"
+   ]
+  }, 
+  {
+   "begin": "1.640", 
+   "end": "1.880", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "got"
+   ]
+  }, 
+  {
+   "begin": "1.880", 
+   "end": "2.160", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "stuck"
+   ]
+  }, 
+  {
+   "begin": "2.160", 
+   "end": "2.480", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "on"
+   ]
+  }, 
+  {
+   "begin": "2.480", 
+   "end": "2.520", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "2.520", 
+   "end": "3.280", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "tree,"
+   ]
+  }, 
+  {
+   "begin": "3.280", 
+   "end": "3.680", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "3.680", 
+   "end": "3.720", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "would"
+   ]
+  }, 
+  {
+   "begin": "3.720", 
+   "end": "4.040", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "not"
+   ]
+  }, 
+  {
+   "begin": "4.040", 
+   "end": "4.200", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "have"
+   ]
+  }, 
+  {
+   "begin": "4.200", 
+   "end": "4.400", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "taken"
+   ]
+  }, 
+  {
+   "begin": "4.400", 
+   "end": "4.960", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "4.960", 
+   "end": "5.480", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "ladder"
+   ]
+  }, 
+  {
+   "begin": "5.480", 
+   "end": "5.480", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "5.480", 
+   "end": "5.960", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "climb"
+   ]
+  }, 
+  {
+   "begin": "5.960", 
+   "end": "6.920", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "it."
+   ]
+  }
+ ]
+}

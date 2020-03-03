@@ -1,0 +1,157 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "2.160", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "PHAAATTT!"
+   ]
+  }, 
+  {
+   "begin": "2.160", 
+   "end": "2.600", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "Both"
+   ]
+  }, 
+  {
+   "begin": "2.600", 
+   "end": "2.920", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "2.920", 
+   "end": "3.120", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "rods"
+   ]
+  }, 
+  {
+   "begin": "3.120", 
+   "end": "3.120", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "broke.\n"
+   ]
+  }, 
+  {
+   "begin": "3.120", 
+   "end": "4.640", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "THUDDD!"
+   ]
+  }, 
+  {
+   "begin": "4.640", 
+   "end": "5.600", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "Kicchu"
+   ]
+  }, 
+  {
+   "begin": "5.600", 
+   "end": "5.880", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "fell"
+   ]
+  }, 
+  {
+   "begin": "5.880", 
+   "end": "6.240", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "6.240", 
+   "end": "6.560", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "6.560", 
+   "end": "7.920", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "ground.\n"
+   ]
+  }, 
+  {
+   "begin": "7.920", 
+   "end": "9.440", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "SSSPPLAASH!"
+   ]
+  }, 
+  {
+   "begin": "9.440", 
+   "end": "10.440", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "Choru"
+   ]
+  }, 
+  {
+   "begin": "10.440", 
+   "end": "10.880", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "fell"
+   ]
+  }, 
+  {
+   "begin": "10.880", 
+   "end": "11.000", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "into"
+   ]
+  }, 
+  {
+   "begin": "11.000", 
+   "end": "11.320", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "11.320", 
+   "end": "12.240", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "water."
+   ]
+  }
+ ]
+}

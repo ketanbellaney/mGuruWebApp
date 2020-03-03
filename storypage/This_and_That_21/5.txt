@@ -1,0 +1,15 @@
+Then
+when
+I
+run
+after
+my
+beeping
+car,
+Bekku
+scoots
+out
+through
+the
+door
+ajar.

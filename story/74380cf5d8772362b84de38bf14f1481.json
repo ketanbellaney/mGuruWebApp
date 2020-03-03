@@ -1,0 +1,247 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.440", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Hyena"
+   ]
+  }, 
+  {
+   "begin": "0.440", 
+   "end": "1.120", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "1.120", 
+   "end": "1.480", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "Raven"
+   ]
+  }, 
+  {
+   "begin": "1.480", 
+   "end": "2.000", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "were"
+   ]
+  }, 
+  {
+   "begin": "2.000", 
+   "end": "2.680", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "once"
+   ]
+  }, 
+  {
+   "begin": "2.680", 
+   "end": "3.000", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "great"
+   ]
+  }, 
+  {
+   "begin": "3.000", 
+   "end": "4.440", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "friends,\n"
+   ]
+  }, 
+  {
+   "begin": "4.440", 
+   "end": "4.440", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    ""
+   ]
+  }, 
+  {
+   "begin": "4.440", 
+   "end": "4.800", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "even"
+   ]
+  }, 
+  {
+   "begin": "4.800", 
+   "end": "5.440", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "though"
+   ]
+  }, 
+  {
+   "begin": "5.440", 
+   "end": "5.800", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "they"
+   ]
+  }, 
+  {
+   "begin": "5.800", 
+   "end": "6.080", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "were"
+   ]
+  }, 
+  {
+   "begin": "6.080", 
+   "end": "6.240", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "quite"
+   ]
+  }, 
+  {
+   "begin": "6.240", 
+   "end": "6.840", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "different"
+   ]
+  }, 
+  {
+   "begin": "6.840", 
+   "end": "6.960", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "in"
+   ]
+  }, 
+  {
+   "begin": "6.960", 
+   "end": "7.240", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "some"
+   ]
+  }, 
+  {
+   "begin": "7.240", 
+   "end": "8.600", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "ways."
+   ]
+  }, 
+  {
+   "begin": "8.600", 
+   "end": "9.000", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "Raven"
+   ]
+  }, 
+  {
+   "begin": "9.000", 
+   "end": "9.200", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "could"
+   ]
+  }, 
+  {
+   "begin": "9.200", 
+   "end": "10.160", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "fly"
+   ]
+  }, 
+  {
+   "begin": "10.160", 
+   "end": "10.280", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "but"
+   ]
+  }, 
+  {
+   "begin": "10.280", 
+   "end": "10.840", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "Hyena"
+   ]
+  }, 
+  {
+   "begin": "10.840", 
+   "end": "11.200", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "was"
+   ]
+  }, 
+  {
+   "begin": "11.200", 
+   "end": "11.520", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "only"
+   ]
+  }, 
+  {
+   "begin": "11.520", 
+   "end": "11.840", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "able"
+   ]
+  }, 
+  {
+   "begin": "11.840", 
+   "end": "12.000", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "12.000", 
+   "end": "13.200", 
+   "id": "f000027", 
+   "language": "en", 
+   "lines": [
+    "walk."
+   ]
+  }
+ ]
+}

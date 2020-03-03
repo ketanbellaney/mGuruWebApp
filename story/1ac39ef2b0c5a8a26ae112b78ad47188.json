@@ -1,0 +1,256 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.280", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "The"
+   ]
+  }, 
+  {
+   "begin": "0.280", 
+   "end": "1.000", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "kangaroo's"
+   ]
+  }, 
+  {
+   "begin": "1.000", 
+   "end": "1.560", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "tail"
+   ]
+  }, 
+  {
+   "begin": "1.560", 
+   "end": "1.960", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "is"
+   ]
+  }, 
+  {
+   "begin": "1.960", 
+   "end": "2.600", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "thick"
+   ]
+  }, 
+  {
+   "begin": "2.600", 
+   "end": "3.080", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "3.080", 
+   "end": "3.640", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "strong."
+   ]
+  }, 
+  {
+   "begin": "3.640", 
+   "end": "4.280", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "It"
+   ]
+  }, 
+  {
+   "begin": "4.280", 
+   "end": "4.840", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "uses"
+   ]
+  }, 
+  {
+   "begin": "4.840", 
+   "end": "4.960", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "it"
+   ]
+  }, 
+  {
+   "begin": "4.960", 
+   "end": "5.200", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "5.200", 
+   "end": "5.600", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "keep"
+   ]
+  }, 
+  {
+   "begin": "5.600", 
+   "end": "6.240", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "balance"
+   ]
+  }, 
+  {
+   "begin": "6.240", 
+   "end": "6.440", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "when"
+   ]
+  }, 
+  {
+   "begin": "6.440", 
+   "end": "6.480", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "it"
+   ]
+  }, 
+  {
+   "begin": "6.480", 
+   "end": "7.000", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "takes"
+   ]
+  }, 
+  {
+   "begin": "7.000", 
+   "end": "7.320", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "long"
+   ]
+  }, 
+  {
+   "begin": "7.320", 
+   "end": "8.160", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "jumps"
+   ]
+  }, 
+  {
+   "begin": "8.160", 
+   "end": "8.440", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "as"
+   ]
+  }, 
+  {
+   "begin": "8.440", 
+   "end": "8.600", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "well"
+   ]
+  }, 
+  {
+   "begin": "8.600", 
+   "end": "8.960", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "as"
+   ]
+  }, 
+  {
+   "begin": "8.960", 
+   "end": "9.280", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "9.280", 
+   "end": "9.760", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "rest"
+   ]
+  }, 
+  {
+   "begin": "9.760", 
+   "end": "10.080", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "its"
+   ]
+  }, 
+  {
+   "begin": "10.080", 
+   "end": "10.840", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "body"
+   ]
+  }, 
+  {
+   "begin": "10.840", 
+   "end": "11.120", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "when"
+   ]
+  }, 
+  {
+   "begin": "11.120", 
+   "end": "11.600", 
+   "id": "f000027", 
+   "language": "en", 
+   "lines": [
+    "sitting"
+   ]
+  }, 
+  {
+   "begin": "11.600", 
+   "end": "12.360", 
+   "id": "f000028", 
+   "language": "en", 
+   "lines": [
+    "down."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,436 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.400", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Anu"
+   ]
+  }, 
+  {
+   "begin": "0.400", 
+   "end": "1.680", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "wonders"
+   ]
+  }, 
+  {
+   "begin": "1.680", 
+   "end": "2.360", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "why"
+   ]
+  }, 
+  {
+   "begin": "2.360", 
+   "end": "2.360", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "2.360", 
+   "end": "2.800", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "moustache"
+   ]
+  }, 
+  {
+   "begin": "2.800", 
+   "end": "3.200", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "doesn\u2019t"
+   ]
+  }, 
+  {
+   "begin": "3.200", 
+   "end": "3.480", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "grow"
+   ]
+  }, 
+  {
+   "begin": "3.480", 
+   "end": "3.800", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "under"
+   ]
+  }, 
+  {
+   "begin": "3.800", 
+   "end": "4.120", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "her"
+   ]
+  }, 
+  {
+   "begin": "4.120", 
+   "end": "5.520", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "nose."
+   ]
+  }, 
+  {
+   "begin": "5.520", 
+   "end": "6.000", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "Every"
+   ]
+  }, 
+  {
+   "begin": "6.000", 
+   "end": "6.480", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "morning"
+   ]
+  }, 
+  {
+   "begin": "6.480", 
+   "end": "6.760", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "she"
+   ]
+  }, 
+  {
+   "begin": "6.760", 
+   "end": "6.960", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "wets"
+   ]
+  }, 
+  {
+   "begin": "6.960", 
+   "end": "7.240", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "her"
+   ]
+  }, 
+  {
+   "begin": "7.240", 
+   "end": "7.680", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "soap,"
+   ]
+  }, 
+  {
+   "begin": "7.680", 
+   "end": "8.280", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "makes"
+   ]
+  }, 
+  {
+   "begin": "8.280", 
+   "end": "8.600", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "8.600", 
+   "end": "9.360", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "lot"
+   ]
+  }, 
+  {
+   "begin": "9.360", 
+   "end": "9.600", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "of"
+   ]
+  }, 
+  {
+   "begin": "9.600", 
+   "end": "10.320", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "lather"
+   ]
+  }, 
+  {
+   "begin": "10.320", 
+   "end": "10.560", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "10.560", 
+   "end": "10.920", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "gives"
+   ]
+  }, 
+  {
+   "begin": "10.920", 
+   "end": "11.360", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "herself"
+   ]
+  }, 
+  {
+   "begin": "11.360", 
+   "end": "11.800", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "many"
+   ]
+  }, 
+  {
+   "begin": "11.800", 
+   "end": "12.240", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "different"
+   ]
+  }, 
+  {
+   "begin": "12.240", 
+   "end": "12.640", 
+   "id": "f000027", 
+   "language": "en", 
+   "lines": [
+    "kinds"
+   ]
+  }, 
+  {
+   "begin": "12.640", 
+   "end": "12.760", 
+   "id": "f000028", 
+   "language": "en", 
+   "lines": [
+    "of"
+   ]
+  }, 
+  {
+   "begin": "12.760", 
+   "end": "13.520", 
+   "id": "f000029", 
+   "language": "en", 
+   "lines": [
+    "moustaches."
+   ]
+  }, 
+  {
+   "begin": "13.520", 
+   "end": "15.000", 
+   "id": "f000030", 
+   "language": "en", 
+   "lines": [
+    "\u201cMy"
+   ]
+  }, 
+  {
+   "begin": "15.000", 
+   "end": "15.560", 
+   "id": "f000031", 
+   "language": "en", 
+   "lines": [
+    "moustache"
+   ]
+  }, 
+  {
+   "begin": "15.560", 
+   "end": "15.800", 
+   "id": "f000032", 
+   "language": "en", 
+   "lines": [
+    "is"
+   ]
+  }, 
+  {
+   "begin": "15.800", 
+   "end": "16.160", 
+   "id": "f000033", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "16.160", 
+   "end": "17.160", 
+   "id": "f000034", 
+   "language": "en", 
+   "lines": [
+    "best,\u201d"
+   ]
+  }, 
+  {
+   "begin": "17.160", 
+   "end": "17.440", 
+   "id": "f000035", 
+   "language": "en", 
+   "lines": [
+    "she"
+   ]
+  }, 
+  {
+   "begin": "17.440", 
+   "end": "18.080", 
+   "id": "f000036", 
+   "language": "en", 
+   "lines": [
+    "says."
+   ]
+  }, 
+  {
+   "begin": "18.080", 
+   "end": "18.840", 
+   "id": "f000037", 
+   "language": "en", 
+   "lines": [
+    "\u201cIt\u2019s"
+   ]
+  }, 
+  {
+   "begin": "18.840", 
+   "end": "19.440", 
+   "id": "f000038", 
+   "language": "en", 
+   "lines": [
+    "pure"
+   ]
+  }, 
+  {
+   "begin": "19.440", 
+   "end": "20.440", 
+   "id": "f000039", 
+   "language": "en", 
+   "lines": [
+    "white,"
+   ]
+  }, 
+  {
+   "begin": "20.440", 
+   "end": "20.960", 
+   "id": "f000040", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "20.960", 
+   "end": "21.520", 
+   "id": "f000041", 
+   "language": "en", 
+   "lines": [
+    "so"
+   ]
+  }, 
+  {
+   "begin": "21.520", 
+   "end": "22.360", 
+   "id": "f000042", 
+   "language": "en", 
+   "lines": [
+    "soft!"
+   ]
+  }, 
+  {
+   "begin": "22.360", 
+   "end": "22.840", 
+   "id": "f000043", 
+   "language": "en", 
+   "lines": [
+    "Isn\u2019t"
+   ]
+  }, 
+  {
+   "begin": "22.840", 
+   "end": "22.960", 
+   "id": "f000044", 
+   "language": "en", 
+   "lines": [
+    "it"
+   ]
+  }, 
+  {
+   "begin": "22.960", 
+   "end": "24.080", 
+   "id": "f000045", 
+   "language": "en", 
+   "lines": [
+    "nice?\u201d"
+   ]
+  }, 
+  {
+   "begin": "24.080", 
+   "end": "24.440", 
+   "id": "f000046", 
+   "language": "en", 
+   "lines": [
+    "she"
+   ]
+  }, 
+  {
+   "begin": "24.440", 
+   "end": "25.240", 
+   "id": "f000047", 
+   "language": "en", 
+   "lines": [
+    "asks,"
+   ]
+  }, 
+  {
+   "begin": "25.240", 
+   "end": "26.080", 
+   "id": "f000048", 
+   "language": "en", 
+   "lines": [
+    "happily."
+   ]
+  }
+ ]
+}

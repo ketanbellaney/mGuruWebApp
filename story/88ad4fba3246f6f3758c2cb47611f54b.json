@@ -1,0 +1,337 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.240", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Then"
+   ]
+  }, 
+  {
+   "begin": "0.240", 
+   "end": "0.960", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "Mouchak"
+   ]
+  }, 
+  {
+   "begin": "0.960", 
+   "end": "1.760", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "pulled"
+   ]
+  }, 
+  {
+   "begin": "1.760", 
+   "end": "2.000", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "at"
+   ]
+  }, 
+  {
+   "begin": "2.000", 
+   "end": "2.200", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "her"
+   ]
+  }, 
+  {
+   "begin": "2.200", 
+   "end": "2.640", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "dress"
+   ]
+  }, 
+  {
+   "begin": "2.640", 
+   "end": "3.560", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "saying,"
+   ]
+  }, 
+  {
+   "begin": "3.560", 
+   "end": "4.440", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "\u201cBow"
+   ]
+  }, 
+  {
+   "begin": "4.440", 
+   "end": "4.760", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "bow,\u201d"
+   ]
+  }, 
+  {
+   "begin": "4.760", 
+   "end": "5.600", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "(which"
+   ]
+  }, 
+  {
+   "begin": "5.600", 
+   "end": "6.080", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "meant"
+   ]
+  }, 
+  {
+   "begin": "6.080", 
+   "end": "7.040", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "\u201cCome,"
+   ]
+  }, 
+  {
+   "begin": "7.040", 
+   "end": "7.680", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "come,\u201d)"
+   ]
+  }, 
+  {
+   "begin": "7.680", 
+   "end": "8.360", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "till"
+   ]
+  }, 
+  {
+   "begin": "8.360", 
+   "end": "8.640", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "at"
+   ]
+  }, 
+  {
+   "begin": "8.640", 
+   "end": "9.360", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "last"
+   ]
+  }, 
+  {
+   "begin": "9.360", 
+   "end": "9.640", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "she"
+   ]
+  }, 
+  {
+   "begin": "9.640", 
+   "end": "10.040", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "looked"
+   ]
+  }, 
+  {
+   "begin": "10.040", 
+   "end": "10.560", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "up"
+   ]
+  }, 
+  {
+   "begin": "10.560", 
+   "end": "10.880", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "10.880", 
+   "end": "11.200", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "dabbed"
+   ]
+  }, 
+  {
+   "begin": "11.200", 
+   "end": "11.480", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "her"
+   ]
+  }, 
+  {
+   "begin": "11.480", 
+   "end": "12.720", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "eyes."
+   ]
+  }, 
+  {
+   "begin": "12.720", 
+   "end": "13.040", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "Off"
+   ]
+  }, 
+  {
+   "begin": "13.040", 
+   "end": "13.280", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "they"
+   ]
+  }, 
+  {
+   "begin": "13.280", 
+   "end": "13.680", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "both"
+   ]
+  }, 
+  {
+   "begin": "13.680", 
+   "end": "14.040", 
+   "id": "f000027", 
+   "language": "en", 
+   "lines": [
+    "went"
+   ]
+  }, 
+  {
+   "begin": "14.040", 
+   "end": "15.160", 
+   "id": "f000028", 
+   "language": "en", 
+   "lines": [
+    "then,"
+   ]
+  }, 
+  {
+   "begin": "15.160", 
+   "end": "15.920", 
+   "id": "f000029", 
+   "language": "en", 
+   "lines": [
+    "Samira"
+   ]
+  }, 
+  {
+   "begin": "15.920", 
+   "end": "16.560", 
+   "id": "f000030", 
+   "language": "en", 
+   "lines": [
+    "sniffing"
+   ]
+  }, 
+  {
+   "begin": "16.560", 
+   "end": "16.800", 
+   "id": "f000031", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "16.800", 
+   "end": "17.080", 
+   "id": "f000032", 
+   "language": "en", 
+   "lines": [
+    "little"
+   ]
+  }, 
+  {
+   "begin": "17.080", 
+   "end": "17.120", 
+   "id": "f000033", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "17.120", 
+   "end": "18.120", 
+   "id": "f000034", 
+   "language": "en", 
+   "lines": [
+    "dropping"
+   ]
+  }, 
+  {
+   "begin": "18.120", 
+   "end": "18.600", 
+   "id": "f000035", 
+   "language": "en", 
+   "lines": [
+    "half"
+   ]
+  }, 
+  {
+   "begin": "18.600", 
+   "end": "19.160", 
+   "id": "f000036", 
+   "language": "en", 
+   "lines": [
+    "her"
+   ]
+  }, 
+  {
+   "begin": "19.160", 
+   "end": "20.680", 
+   "id": "f000037", 
+   "language": "en", 
+   "lines": [
+    "flowers."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,292 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.280", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Who"
+   ]
+  }, 
+  {
+   "begin": "0.280", 
+   "end": "0.920", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "would"
+   ]
+  }, 
+  {
+   "begin": "0.920", 
+   "end": "1.360", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "extract"
+   ]
+  }, 
+  {
+   "begin": "1.360", 
+   "end": "1.880", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "1.880", 
+   "end": "2.400", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "lion\u2019s"
+   ]
+  }, 
+  {
+   "begin": "2.400", 
+   "end": "2.760", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "tooth?"
+   ]
+  }, 
+  {
+   "begin": "2.760", 
+   "end": "3.760", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "They"
+   ]
+  }, 
+  {
+   "begin": "3.760", 
+   "end": "4.320", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "were"
+   ]
+  }, 
+  {
+   "begin": "4.320", 
+   "end": "4.440", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "all"
+   ]
+  }, 
+  {
+   "begin": "4.440", 
+   "end": "5.400", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "terrified"
+   ]
+  }, 
+  {
+   "begin": "5.400", 
+   "end": "5.800", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "of"
+   ]
+  }, 
+  {
+   "begin": "5.800", 
+   "end": "5.920", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "him!"
+   ]
+  }, 
+  {
+   "begin": "5.920", 
+   "end": "7.560", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "\u201cMaharaj,"
+   ]
+  }, 
+  {
+   "begin": "7.560", 
+   "end": "8.040", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "8.040", 
+   "end": "8.080", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "will"
+   ]
+  }, 
+  {
+   "begin": "8.080", 
+   "end": "8.280", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "give"
+   ]
+  }, 
+  {
+   "begin": "8.280", 
+   "end": "8.560", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "you"
+   ]
+  }, 
+  {
+   "begin": "8.560", 
+   "end": "8.680", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "8.680", 
+   "end": "8.880", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "kick"
+   ]
+  }, 
+  {
+   "begin": "8.880", 
+   "end": "9.000", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "with"
+   ]
+  }, 
+  {
+   "begin": "9.000", 
+   "end": "9.440", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "my"
+   ]
+  }, 
+  {
+   "begin": "9.440", 
+   "end": "9.840", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "hind"
+   ]
+  }, 
+  {
+   "begin": "9.840", 
+   "end": "10.640", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "legs."
+   ]
+  }, 
+  {
+   "begin": "10.640", 
+   "end": "10.800", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "The"
+   ]
+  }, 
+  {
+   "begin": "10.800", 
+   "end": "11.120", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "tooth"
+   ]
+  }, 
+  {
+   "begin": "11.120", 
+   "end": "11.400", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "will"
+   ]
+  }, 
+  {
+   "begin": "11.400", 
+   "end": "11.760", 
+   "id": "f000027", 
+   "language": "en", 
+   "lines": [
+    "pop"
+   ]
+  }, 
+  {
+   "begin": "11.760", 
+   "end": "12.240", 
+   "id": "f000028", 
+   "language": "en", 
+   "lines": [
+    "out,\u201d"
+   ]
+  }, 
+  {
+   "begin": "12.240", 
+   "end": "13.240", 
+   "id": "f000029", 
+   "language": "en", 
+   "lines": [
+    "said"
+   ]
+  }, 
+  {
+   "begin": "13.240", 
+   "end": "13.360", 
+   "id": "f000030", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "13.360", 
+   "end": "13.920", 
+   "id": "f000031", 
+   "language": "en", 
+   "lines": [
+    "foolish"
+   ]
+  }, 
+  {
+   "begin": "13.920", 
+   "end": "15.040", 
+   "id": "f000032", 
+   "language": "en", 
+   "lines": [
+    "donkey."
+   ]
+  }
+ ]
+}

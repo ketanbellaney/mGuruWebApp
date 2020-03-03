@@ -1,0 +1,103 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.440", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "When"
+   ]
+  }, 
+  {
+   "begin": "0.440", 
+   "end": "0.880", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "two"
+   ]
+  }, 
+  {
+   "begin": "0.880", 
+   "end": "1.400", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "ants"
+   ]
+  }, 
+  {
+   "begin": "1.400", 
+   "end": "2.240", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "meet,\n"
+   ]
+  }, 
+  {
+   "begin": "2.240", 
+   "end": "2.520", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "they"
+   ]
+  }, 
+  {
+   "begin": "2.520", 
+   "end": "3.280", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "greet"
+   ]
+  }, 
+  {
+   "begin": "3.280", 
+   "end": "3.440", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "by"
+   ]
+  }, 
+  {
+   "begin": "3.440", 
+   "end": "3.960", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "touching\n"
+   ]
+  }, 
+  {
+   "begin": "3.960", 
+   "end": "4.400", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "each"
+   ]
+  }, 
+  {
+   "begin": "4.400", 
+   "end": "4.760", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "other's"
+   ]
+  }, 
+  {
+   "begin": "4.760", 
+   "end": "5.880", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "antennae."
+   ]
+  }
+ ]
+}

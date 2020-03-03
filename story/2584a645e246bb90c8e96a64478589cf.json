@@ -1,0 +1,139 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.440", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "..."
+   ]
+  }, 
+  {
+   "begin": "0.440", 
+   "end": "1.040", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "running"
+   ]
+  }, 
+  {
+   "begin": "1.040", 
+   "end": "1.160", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "in"
+   ]
+  }, 
+  {
+   "begin": "1.160", 
+   "end": "1.280", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "between"
+   ]
+  }, 
+  {
+   "begin": "1.280", 
+   "end": "1.280", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "1.280", 
+   "end": "1.280", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "curtains,"
+   ]
+  }, 
+  {
+   "begin": "1.280", 
+   "end": "1.640", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "scurrying"
+   ]
+  }, 
+  {
+   "begin": "1.640", 
+   "end": "1.680", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "over"
+   ]
+  }, 
+  {
+   "begin": "1.680", 
+   "end": "1.680", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "1.680", 
+   "end": "2.440", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "plates,&nbsp;"
+   ]
+  }, 
+  {
+   "begin": "2.440", 
+   "end": "2.720", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "2.720", 
+   "end": "3.240", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "out&nbsp;"
+   ]
+  }, 
+  {
+   "begin": "3.240", 
+   "end": "4.680", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "of&nbsp;"
+   ]
+  }, 
+  {
+   "begin": "4.680", 
+   "end": "5.600", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "the&nbsp;"
+   ]
+  }, 
+  {
+   "begin": "5.600", 
+   "end": "5.960", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "door!"
+   ]
+  }
+ ]
+}

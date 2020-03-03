@@ -1,0 +1,40 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.160", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "..."
+   ]
+  }, 
+  {
+   "begin": "0.160", 
+   "end": "0.920", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "monkeys"
+   ]
+  }, 
+  {
+   "begin": "0.920", 
+   "end": "1.400", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "can't"
+   ]
+  }, 
+  {
+   "begin": "1.400", 
+   "end": "2.200", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "cook!"
+   ]
+  }
+ ]
+}

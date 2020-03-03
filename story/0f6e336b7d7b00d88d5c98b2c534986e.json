@@ -1,0 +1,94 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.960", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Soon"
+   ]
+  }, 
+  {
+   "begin": "0.960", 
+   "end": "1.040", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "it"
+   ]
+  }, 
+  {
+   "begin": "1.040", 
+   "end": "1.400", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "became"
+   ]
+  }, 
+  {
+   "begin": "1.400", 
+   "end": "1.920", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "time"
+   ]
+  }, 
+  {
+   "begin": "1.920", 
+   "end": "2.120", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "2.120", 
+   "end": "2.760", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "offer"
+   ]
+  }, 
+  {
+   "begin": "2.760", 
+   "end": "3.160", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "bananas"
+   ]
+  }, 
+  {
+   "begin": "3.160", 
+   "end": "3.160", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "3.160", 
+   "end": "3.520", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "3.520", 
+   "end": "4.360", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "gods."
+   ]
+  }
+ ]
+}

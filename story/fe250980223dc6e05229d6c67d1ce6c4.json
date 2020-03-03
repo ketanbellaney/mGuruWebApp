@@ -1,0 +1,337 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.720", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "\u201cForget"
+   ]
+  }, 
+  {
+   "begin": "0.720", 
+   "end": "1.440", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "it."
+   ]
+  }, 
+  {
+   "begin": "1.440", 
+   "end": "1.800", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "1.800", 
+   "end": "2.160", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "don\u2019t"
+   ]
+  }, 
+  {
+   "begin": "2.160", 
+   "end": "2.440", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "want"
+   ]
+  }, 
+  {
+   "begin": "2.440", 
+   "end": "2.560", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "2.560", 
+   "end": "3.880", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "play!\u201d"
+   ]
+  }, 
+  {
+   "begin": "3.880", 
+   "end": "4.240", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "said"
+   ]
+  }, 
+  {
+   "begin": "4.240", 
+   "end": "4.600", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "Pehelwaan"
+   ]
+  }, 
+  {
+   "begin": "4.600", 
+   "end": "4.880", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "ji.\n\n"
+   ]
+  }, 
+  {
+   "begin": "4.880", 
+   "end": "4.880", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    ""
+   ]
+  }, 
+  {
+   "begin": "4.880", 
+   "end": "4.880", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    ""
+   ]
+  }, 
+  {
+   "begin": "4.880", 
+   "end": "4.920", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    ""
+   ]
+  }, 
+  {
+   "begin": "4.920", 
+   "end": "4.920", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    ""
+   ]
+  }, 
+  {
+   "begin": "4.920", 
+   "end": "6.280", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "He"
+   ]
+  }, 
+  {
+   "begin": "6.280", 
+   "end": "6.880", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "was"
+   ]
+  }, 
+  {
+   "begin": "6.880", 
+   "end": "6.960", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "in"
+   ]
+  }, 
+  {
+   "begin": "6.960", 
+   "end": "7.360", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "bad"
+   ]
+  }, 
+  {
+   "begin": "7.360", 
+   "end": "7.800", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "shape"
+   ]
+  }, 
+  {
+   "begin": "7.800", 
+   "end": "7.960", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "as"
+   ]
+  }, 
+  {
+   "begin": "7.960", 
+   "end": "8.200", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "he"
+   ]
+  }, 
+  {
+   "begin": "8.200", 
+   "end": "8.480", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "ran"
+   ]
+  }, 
+  {
+   "begin": "8.480", 
+   "end": "9.440", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "away."
+   ]
+  }, 
+  {
+   "begin": "9.440", 
+   "end": "9.840", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "Gappu"
+   ]
+  }, 
+  {
+   "begin": "9.840", 
+   "end": "10.120", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "pulled"
+   ]
+  }, 
+  {
+   "begin": "10.120", 
+   "end": "10.360", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "out"
+   ]
+  }, 
+  {
+   "begin": "10.360", 
+   "end": "10.480", 
+   "id": "f000027", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "10.480", 
+   "end": "10.880", 
+   "id": "f000028", 
+   "language": "en", 
+   "lines": [
+    "new"
+   ]
+  }, 
+  {
+   "begin": "10.880", 
+   "end": "11.720", 
+   "id": "f000029", 
+   "language": "en", 
+   "lines": [
+    "ball"
+   ]
+  }, 
+  {
+   "begin": "11.720", 
+   "end": "12.040", 
+   "id": "f000030", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "12.040", 
+   "end": "12.760", 
+   "id": "f000031", 
+   "language": "en", 
+   "lines": [
+    "everybody"
+   ]
+  }, 
+  {
+   "begin": "12.760", 
+   "end": "13.080", 
+   "id": "f000032", 
+   "language": "en", 
+   "lines": [
+    "went"
+   ]
+  }, 
+  {
+   "begin": "13.080", 
+   "end": "13.320", 
+   "id": "f000033", 
+   "language": "en", 
+   "lines": [
+    "back"
+   ]
+  }, 
+  {
+   "begin": "13.320", 
+   "end": "13.480", 
+   "id": "f000034", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "13.480", 
+   "end": "13.640", 
+   "id": "f000035", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "13.640", 
+   "end": "14.000", 
+   "id": "f000036", 
+   "language": "en", 
+   "lines": [
+    "game"
+   ]
+  }, 
+  {
+   "begin": "14.000", 
+   "end": "15.000", 
+   "id": "f000037", 
+   "language": "en", 
+   "lines": [
+    "peacefully."
+   ]
+  }
+ ]
+}

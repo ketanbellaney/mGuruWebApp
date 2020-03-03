@@ -1,0 +1,301 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.440", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Toto"
+   ]
+  }, 
+  {
+   "begin": "0.440", 
+   "end": "1.200", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "flung"
+   ]
+  }, 
+  {
+   "begin": "1.200", 
+   "end": "1.480", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "open"
+   ]
+  }, 
+  {
+   "begin": "1.480", 
+   "end": "1.680", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "1.680", 
+   "end": "1.880", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "door"
+   ]
+  }, 
+  {
+   "begin": "1.880", 
+   "end": "2.000", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "of"
+   ]
+  }, 
+  {
+   "begin": "2.000", 
+   "end": "2.160", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "2.160", 
+   "end": "3.400", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "store."
+   ]
+  }, 
+  {
+   "begin": "3.400", 
+   "end": "3.800", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "There"
+   ]
+  }, 
+  {
+   "begin": "3.800", 
+   "end": "4.280", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "was"
+   ]
+  }, 
+  {
+   "begin": "4.280", 
+   "end": "5.200", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "Gogo,"
+   ]
+  }, 
+  {
+   "begin": "5.200", 
+   "end": "5.920", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "happily"
+   ]
+  }, 
+  {
+   "begin": "5.920", 
+   "end": "6.320", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "munching"
+   ]
+  }, 
+  {
+   "begin": "6.320", 
+   "end": "6.760", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "on"
+   ]
+  }, 
+  {
+   "begin": "6.760", 
+   "end": "8.080", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "bananas."
+   ]
+  }, 
+  {
+   "begin": "8.080", 
+   "end": "8.480", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "What"
+   ]
+  }, 
+  {
+   "begin": "8.480", 
+   "end": "8.600", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "8.600", 
+   "end": "8.960", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "big"
+   ]
+  }, 
+  {
+   "begin": "8.960", 
+   "end": "9.320", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "mess"
+   ]
+  }, 
+  {
+   "begin": "9.320", 
+   "end": "9.680", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "Gogo"
+   ]
+  }, 
+  {
+   "begin": "9.680", 
+   "end": "9.920", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "had"
+   ]
+  }, 
+  {
+   "begin": "9.920", 
+   "end": "10.360", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "made!"
+   ]
+  }, 
+  {
+   "begin": "10.360", 
+   "end": "11.760", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "Toto"
+   ]
+  }, 
+  {
+   "begin": "11.760", 
+   "end": "12.360", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "just"
+   ]
+  }, 
+  {
+   "begin": "12.360", 
+   "end": "12.680", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "stared"
+   ]
+  }, 
+  {
+   "begin": "12.680", 
+   "end": "12.840", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "at"
+   ]
+  }, 
+  {
+   "begin": "12.840", 
+   "end": "13.640", 
+   "id": "f000027", 
+   "language": "en", 
+   "lines": [
+    "him,"
+   ]
+  }, 
+  {
+   "begin": "13.640", 
+   "end": "13.960", 
+   "id": "f000028", 
+   "language": "en", 
+   "lines": [
+    "not"
+   ]
+  }, 
+  {
+   "begin": "13.960", 
+   "end": "14.120", 
+   "id": "f000029", 
+   "language": "en", 
+   "lines": [
+    "able"
+   ]
+  }, 
+  {
+   "begin": "14.120", 
+   "end": "14.400", 
+   "id": "f000030", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "14.400", 
+   "end": "14.640", 
+   "id": "f000031", 
+   "language": "en", 
+   "lines": [
+    "say"
+   ]
+  }, 
+  {
+   "begin": "14.640", 
+   "end": "14.800", 
+   "id": "f000032", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "14.800", 
+   "end": "15.520", 
+   "id": "f000033", 
+   "language": "en", 
+   "lines": [
+    "word!"
+   ]
+  }
+ ]
+}

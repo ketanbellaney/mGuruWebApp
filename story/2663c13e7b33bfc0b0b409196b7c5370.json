@@ -1,0 +1,436 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.240", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "The"
+   ]
+  }, 
+  {
+   "begin": "0.240", 
+   "end": "0.760", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "teachers"
+   ]
+  }, 
+  {
+   "begin": "0.760", 
+   "end": "1.120", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "divided"
+   ]
+  }, 
+  {
+   "begin": "1.120", 
+   "end": "1.400", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "the&nbsp;"
+   ]
+  }, 
+  {
+   "begin": "1.400", 
+   "end": "1.400", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    ""
+   ]
+  }, 
+  {
+   "begin": "1.400", 
+   "end": "1.920", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "children"
+   ]
+  }, 
+  {
+   "begin": "1.920", 
+   "end": "2.240", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "into"
+   ]
+  }, 
+  {
+   "begin": "2.240", 
+   "end": "3.280", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "groups."
+   ]
+  }, 
+  {
+   "begin": "3.280", 
+   "end": "3.560", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "One"
+   ]
+  }, 
+  {
+   "begin": "3.560", 
+   "end": "3.880", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "group"
+   ]
+  }, 
+  {
+   "begin": "3.880", 
+   "end": "4.200", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "worked"
+   ]
+  }, 
+  {
+   "begin": "4.200", 
+   "end": "4.360", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "in"
+   ]
+  }, 
+  {
+   "begin": "4.360", 
+   "end": "4.640", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "front"
+   ]
+  }, 
+  {
+   "begin": "4.640", 
+   "end": "4.720", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "of"
+   ]
+  }, 
+  {
+   "begin": "4.720", 
+   "end": "5.160", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "Chuskit's"
+   ]
+  }, 
+  {
+   "begin": "5.160", 
+   "end": "6.080", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "house"
+   ]
+  }, 
+  {
+   "begin": "6.080", 
+   "end": "6.360", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "6.360", 
+   "end": "6.800", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "another"
+   ]
+  }, 
+  {
+   "begin": "6.800", 
+   "end": "7.040", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "on"
+   ]
+  }, 
+  {
+   "begin": "7.040", 
+   "end": "7.040", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "7.040", 
+   "end": "7.480", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "path"
+   ]
+  }, 
+  {
+   "begin": "7.480", 
+   "end": "8.080", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "along&nbsp;the"
+   ]
+  }, 
+  {
+   "begin": "8.080", 
+   "end": "8.720", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "stream."
+   ]
+  }, 
+  {
+   "begin": "8.720", 
+   "end": "8.920", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "A"
+   ]
+  }, 
+  {
+   "begin": "8.920", 
+   "end": "9.280", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "third"
+   ]
+  }, 
+  {
+   "begin": "9.280", 
+   "end": "9.600", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "group"
+   ]
+  }, 
+  {
+   "begin": "9.600", 
+   "end": "9.680", 
+   "id": "f000027", 
+   "language": "en", 
+   "lines": [
+    "with"
+   ]
+  }, 
+  {
+   "begin": "9.680", 
+   "end": "10.080", 
+   "id": "f000028", 
+   "language": "en", 
+   "lines": [
+    "some"
+   ]
+  }, 
+  {
+   "begin": "10.080", 
+   "end": "10.160", 
+   "id": "f000029", 
+   "language": "en", 
+   "lines": [
+    "of"
+   ]
+  }, 
+  {
+   "begin": "10.160", 
+   "end": "10.320", 
+   "id": "f000030", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "10.320", 
+   "end": "10.680", 
+   "id": "f000031", 
+   "language": "en", 
+   "lines": [
+    "older"
+   ]
+  }, 
+  {
+   "begin": "10.680", 
+   "end": "11.480", 
+   "id": "f000032", 
+   "language": "en", 
+   "lines": [
+    "children"
+   ]
+  }, 
+  {
+   "begin": "11.480", 
+   "end": "11.720", 
+   "id": "f000033", 
+   "language": "en", 
+   "lines": [
+    "worked"
+   ]
+  }, 
+  {
+   "begin": "11.720", 
+   "end": "12.040", 
+   "id": "f000034", 
+   "language": "en", 
+   "lines": [
+    "hard"
+   ]
+  }, 
+  {
+   "begin": "12.040", 
+   "end": "12.080", 
+   "id": "f000035", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "12.080", 
+   "end": "12.560", 
+   "id": "f000036", 
+   "language": "en", 
+   "lines": [
+    "help"
+   ]
+  }, 
+  {
+   "begin": "12.560", 
+   "end": "12.920", 
+   "id": "f000037", 
+   "language": "en", 
+   "lines": [
+    "some"
+   ]
+  }, 
+  {
+   "begin": "12.920", 
+   "end": "12.960", 
+   "id": "f000038", 
+   "language": "en", 
+   "lines": [
+    "of"
+   ]
+  }, 
+  {
+   "begin": "12.960", 
+   "end": "13.120", 
+   "id": "f000039", 
+   "language": "en", 
+   "lines": [
+    "their"
+   ]
+  }, 
+  {
+   "begin": "13.120", 
+   "end": "13.400", 
+   "id": "f000040", 
+   "language": "en", 
+   "lines": [
+    "teachers"
+   ]
+  }, 
+  {
+   "begin": "13.400", 
+   "end": "14.040", 
+   "id": "f000041", 
+   "language": "en", 
+   "lines": [
+    "build"
+   ]
+  }, 
+  {
+   "begin": "14.040", 
+   "end": "14.280", 
+   "id": "f000042", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "14.280", 
+   "end": "14.840", 
+   "id": "f000043", 
+   "language": "en", 
+   "lines": [
+    "strong"
+   ]
+  }, 
+  {
+   "begin": "14.840", 
+   "end": "15.240", 
+   "id": "f000044", 
+   "language": "en", 
+   "lines": [
+    "wooden"
+   ]
+  }, 
+  {
+   "begin": "15.240", 
+   "end": "15.560", 
+   "id": "f000045", 
+   "language": "en", 
+   "lines": [
+    "bridge"
+   ]
+  }, 
+  {
+   "begin": "15.560", 
+   "end": "15.960", 
+   "id": "f000046", 
+   "language": "en", 
+   "lines": [
+    "across"
+   ]
+  }, 
+  {
+   "begin": "15.960", 
+   "end": "16.240", 
+   "id": "f000047", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "16.240", 
+   "end": "16.960", 
+   "id": "f000048", 
+   "language": "en", 
+   "lines": [
+    "stream."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,337 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.840", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "That"
+   ]
+  }, 
+  {
+   "begin": "0.840", 
+   "end": "1.640", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "night,"
+   ]
+  }, 
+  {
+   "begin": "1.640", 
+   "end": "2.120", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "Ramya"
+   ]
+  }, 
+  {
+   "begin": "2.120", 
+   "end": "2.360", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "took"
+   ]
+  }, 
+  {
+   "begin": "2.360", 
+   "end": "2.600", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "off"
+   ]
+  }, 
+  {
+   "begin": "2.600", 
+   "end": "2.800", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "her"
+   ]
+  }, 
+  {
+   "begin": "2.800", 
+   "end": "3.720", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "earrings"
+   ]
+  }, 
+  {
+   "begin": "3.720", 
+   "end": "3.960", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "3.960", 
+   "end": "4.400", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "placed"
+   ]
+  }, 
+  {
+   "begin": "4.400", 
+   "end": "4.760", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "them"
+   ]
+  }, 
+  {
+   "begin": "4.760", 
+   "end": "5.680", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "carefully"
+   ]
+  }, 
+  {
+   "begin": "5.680", 
+   "end": "5.960", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "under"
+   ]
+  }, 
+  {
+   "begin": "5.960", 
+   "end": "6.160", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "her"
+   ]
+  }, 
+  {
+   "begin": "6.160", 
+   "end": "7.520", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "pillow."
+   ]
+  }, 
+  {
+   "begin": "7.520", 
+   "end": "7.800", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "She"
+   ]
+  }, 
+  {
+   "begin": "7.800", 
+   "end": "8.120", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "hoped"
+   ]
+  }, 
+  {
+   "begin": "8.120", 
+   "end": "8.240", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "8.240", 
+   "end": "8.840", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "fairy"
+   ]
+  }, 
+  {
+   "begin": "8.840", 
+   "end": "8.960", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "would"
+   ]
+  }, 
+  {
+   "begin": "8.960", 
+   "end": "9.160", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "return"
+   ]
+  }, 
+  {
+   "begin": "9.160", 
+   "end": "9.560", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "9.560", 
+   "end": "10.080", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "stars"
+   ]
+  }, 
+  {
+   "begin": "10.080", 
+   "end": "10.080", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "10.080", 
+   "end": "10.320", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "10.320", 
+   "end": "10.440", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "sky."
+   ]
+  }, 
+  {
+   "begin": "10.440", 
+   "end": "11.880", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "&nbsp;"
+   ]
+  }, 
+  {
+   "begin": "11.880", 
+   "end": "12.320", 
+   "id": "f000027", 
+   "language": "en", 
+   "lines": [
+    "In"
+   ]
+  }, 
+  {
+   "begin": "12.320", 
+   "end": "12.600", 
+   "id": "f000028", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "12.600", 
+   "end": "12.640", 
+   "id": "f000029", 
+   "language": "en", 
+   "lines": [
+    "middle"
+   ]
+  }, 
+  {
+   "begin": "12.640", 
+   "end": "12.640", 
+   "id": "f000030", 
+   "language": "en", 
+   "lines": [
+    "of"
+   ]
+  }, 
+  {
+   "begin": "12.640", 
+   "end": "12.680", 
+   "id": "f000031", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "12.680", 
+   "end": "13.640", 
+   "id": "f000032", 
+   "language": "en", 
+   "lines": [
+    "night,"
+   ]
+  }, 
+  {
+   "begin": "13.640", 
+   "end": "14.080", 
+   "id": "f000033", 
+   "language": "en", 
+   "lines": [
+    "Ramya"
+   ]
+  }, 
+  {
+   "begin": "14.080", 
+   "end": "14.360", 
+   "id": "f000034", 
+   "language": "en", 
+   "lines": [
+    "had"
+   ]
+  }, 
+  {
+   "begin": "14.360", 
+   "end": "14.600", 
+   "id": "f000035", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "14.600", 
+   "end": "15.320", 
+   "id": "f000036", 
+   "language": "en", 
+   "lines": [
+    "beautiful"
+   ]
+  }, 
+  {
+   "begin": "15.320", 
+   "end": "16.200", 
+   "id": "f000037", 
+   "language": "en", 
+   "lines": [
+    "dream."
+   ]
+  }
+ ]
+}

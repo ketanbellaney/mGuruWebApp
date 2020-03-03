@@ -1,0 +1,166 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.520", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "It"
+   ]
+  }, 
+  {
+   "begin": "0.520", 
+   "end": "0.880", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "is"
+   ]
+  }, 
+  {
+   "begin": "0.880", 
+   "end": "1.280", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "bath"
+   ]
+  }, 
+  {
+   "begin": "1.280", 
+   "end": "1.640", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "time"
+   ]
+  }, 
+  {
+   "begin": "1.640", 
+   "end": "1.880", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "for"
+   ]
+  }, 
+  {
+   "begin": "1.880", 
+   "end": "2.240", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "Chunnu"
+   ]
+  }, 
+  {
+   "begin": "2.240", 
+   "end": "2.560", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "2.560", 
+   "end": "4.000", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "Munnu,"
+   ]
+  }, 
+  {
+   "begin": "4.000", 
+   "end": "4.400", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "Mama"
+   ]
+  }, 
+  {
+   "begin": "4.400", 
+   "end": "5.080", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "washes"
+   ]
+  }, 
+  {
+   "begin": "5.080", 
+   "end": "5.480", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "all"
+   ]
+  }, 
+  {
+   "begin": "5.480", 
+   "end": "5.720", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "5.720", 
+   "end": "6.080", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "dirt"
+   ]
+  }, 
+  {
+   "begin": "6.080", 
+   "end": "6.360", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "off"
+   ]
+  }, 
+  {
+   "begin": "6.360", 
+   "end": "6.680", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "Chunnu"
+   ]
+  }, 
+  {
+   "begin": "6.680", 
+   "end": "7.040", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "7.040", 
+   "end": "7.960", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "Munnu"
+   ]
+  }, 
+  {
+   "begin": "7.960", 
+   "end": "9.320", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "Scrub-a-dub-a-dub\u2026"
+   ]
+  }
+ ]
+}

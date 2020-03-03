@@ -1,0 +1,292 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.200", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "And"
+   ]
+  }, 
+  {
+   "begin": "0.200", 
+   "end": "0.520", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "if"
+   ]
+  }, 
+  {
+   "begin": "0.520", 
+   "end": "0.560", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "you"
+   ]
+  }, 
+  {
+   "begin": "0.560", 
+   "end": "0.840", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "want"
+   ]
+  }, 
+  {
+   "begin": "0.840", 
+   "end": "0.920", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "0.920", 
+   "end": "1.360", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "see"
+   ]
+  }, 
+  {
+   "begin": "1.360", 
+   "end": "1.600", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "what"
+   ]
+  }, 
+  {
+   "begin": "1.600", 
+   "end": "1.840", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "there"
+   ]
+  }, 
+  {
+   "begin": "1.840", 
+   "end": "2.160", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "is"
+   ]
+  }, 
+  {
+   "begin": "2.160", 
+   "end": "2.400", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "on"
+   ]
+  }, 
+  {
+   "begin": "2.400", 
+   "end": "2.600", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "2.600", 
+   "end": "2.800", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "other"
+   ]
+  }, 
+  {
+   "begin": "2.800", 
+   "end": "3.120", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "end"
+   ]
+  }, 
+  {
+   "begin": "3.120", 
+   "end": "3.200", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "of"
+   ]
+  }, 
+  {
+   "begin": "3.200", 
+   "end": "3.320", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "3.320", 
+   "end": "4.040", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "ocean,"
+   ]
+  }, 
+  {
+   "begin": "4.040", 
+   "end": "4.800", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "why,"
+   ]
+  }, 
+  {
+   "begin": "4.800", 
+   "end": "4.920", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "you"
+   ]
+  }, 
+  {
+   "begin": "4.920", 
+   "end": "5.080", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "can"
+   ]
+  }, 
+  {
+   "begin": "5.080", 
+   "end": "5.520", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "sail"
+   ]
+  }, 
+  {
+   "begin": "5.520", 
+   "end": "5.640", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "in"
+   ]
+  }, 
+  {
+   "begin": "5.640", 
+   "end": "5.760", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "5.760", 
+   "end": "6.200", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "grand"
+   ]
+  }, 
+  {
+   "begin": "6.200", 
+   "end": "6.600", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "ocean"
+   ]
+  }, 
+  {
+   "begin": "6.600", 
+   "end": "7.600", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "liner,"
+   ]
+  }, 
+  {
+   "begin": "7.600", 
+   "end": "7.920", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "7.920", 
+   "end": "8.280", 
+   "id": "f000027", 
+   "language": "en", 
+   "lines": [
+    "never"
+   ]
+  }, 
+  {
+   "begin": "8.280", 
+   "end": "8.480", 
+   "id": "f000028", 
+   "language": "en", 
+   "lines": [
+    "be"
+   ]
+  }, 
+  {
+   "begin": "8.480", 
+   "end": "8.840", 
+   "id": "f000029", 
+   "language": "en", 
+   "lines": [
+    "afraid"
+   ]
+  }, 
+  {
+   "begin": "8.840", 
+   "end": "9.000", 
+   "id": "f000030", 
+   "language": "en", 
+   "lines": [
+    "of"
+   ]
+  }, 
+  {
+   "begin": "9.000", 
+   "end": "9.120", 
+   "id": "f000031", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "9.120", 
+   "end": "9.880", 
+   "id": "f000032", 
+   "language": "en", 
+   "lines": [
+    "waves."
+   ]
+  }
+ ]
+}

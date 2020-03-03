@@ -1,0 +1,157 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.200", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "When"
+   ]
+  }, 
+  {
+   "begin": "0.200", 
+   "end": "0.680", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "we"
+   ]
+  }, 
+  {
+   "begin": "0.680", 
+   "end": "1.080", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "came"
+   ]
+  }, 
+  {
+   "begin": "1.080", 
+   "end": "1.400", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "back,"
+   ]
+  }, 
+  {
+   "begin": "1.400", 
+   "end": "1.960", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "we"
+   ]
+  }, 
+  {
+   "begin": "1.960", 
+   "end": "2.400", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "met"
+   ]
+  }, 
+  {
+   "begin": "2.400", 
+   "end": "4.720", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "some&nbsp;Buddhist&nbsp;pilgrims."
+   ]
+  }, 
+  {
+   "begin": "4.720", 
+   "end": "5.040", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "They"
+   ]
+  }, 
+  {
+   "begin": "5.040", 
+   "end": "5.440", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "made"
+   ]
+  }, 
+  {
+   "begin": "5.440", 
+   "end": "6.240", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "offering"
+   ]
+  }, 
+  {
+   "begin": "6.240", 
+   "end": "6.480", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "of"
+   ]
+  }, 
+  {
+   "begin": "6.480", 
+   "end": "7.000", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "lotus"
+   ]
+  }, 
+  {
+   "begin": "7.000", 
+   "end": "7.280", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "7.280", 
+   "end": "7.880", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "orange"
+   ]
+  }, 
+  {
+   "begin": "7.880", 
+   "end": "8.160", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "in"
+   ]
+  }, 
+  {
+   "begin": "8.160", 
+   "end": "8.440", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "8.440", 
+   "end": "9.000", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "temple."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.000", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "0.000", 
+   "end": "0.560", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "can"
+   ]
+  }, 
+  {
+   "begin": "0.560", 
+   "end": "0.840", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "sing."
+   ]
+  }, 
+  {
+   "begin": "0.840", 
+   "end": "1.600", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "Should"
+   ]
+  }, 
+  {
+   "begin": "1.600", 
+   "end": "2.480", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "2.480", 
+   "end": "2.760", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "sing"
+   ]
+  }, 
+  {
+   "begin": "2.760", 
+   "end": "3.280", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "you"
+   ]
+  }, 
+  {
+   "begin": "3.280", 
+   "end": "3.800", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "3.800", 
+   "end": "4.560", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "song?"
+   ]
+  }
+ ]
+}

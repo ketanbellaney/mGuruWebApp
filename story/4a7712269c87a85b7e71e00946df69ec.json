@@ -1,0 +1,103 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "1.640", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Ha\u2026Ha\u2026Hee\u2026Hee\u2026Hoo\u2026Hoo\u2026"
+   ]
+  }, 
+  {
+   "begin": "1.640", 
+   "end": "1.640", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    ""
+   ]
+  }, 
+  {
+   "begin": "1.640", 
+   "end": "3.280", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "Pehelwaan"
+   ]
+  }, 
+  {
+   "begin": "3.280", 
+   "end": "4.040", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "ji"
+   ]
+  }, 
+  {
+   "begin": "4.040", 
+   "end": "4.520", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "rolled"
+   ]
+  }, 
+  {
+   "begin": "4.520", 
+   "end": "4.960", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "about"
+   ]
+  }, 
+  {
+   "begin": "4.960", 
+   "end": "5.880", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "helplessly."
+   ]
+  }, 
+  {
+   "begin": "5.880", 
+   "end": "6.760", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "And"
+   ]
+  }, 
+  {
+   "begin": "6.760", 
+   "end": "7.440", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "he"
+   ]
+  }, 
+  {
+   "begin": "7.440", 
+   "end": "7.680", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "ran"
+   ]
+  }, 
+  {
+   "begin": "7.680", 
+   "end": "8.960", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "away."
+   ]
+  }
+ ]
+}

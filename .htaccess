@@ -1,0 +1,14 @@
+RewriteEngine on
+# Hide the application and system directories by redirecting the request to index.php
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php/$1 [L]  
+
+<Files "index.php">
+AcceptPathInfo On
+</Files>  
+
+
+AddType text/cache-manifest .manifest
+

@@ -1,0 +1,40 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "2.960", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "He brought a big sack and began to fill it.\n"
+   ]
+  }, 
+  {
+   "begin": "2.960", 
+   "end": "6.040", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "\"Stop!\" cried the monkeys.\n"
+   ]
+  }, 
+  {
+   "begin": "6.040", 
+   "end": "8.920", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "\"Stop!\" cried the birds.\n"
+   ]
+  }, 
+  {
+   "begin": "8.920", 
+   "end": "14.240", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "\"Stop! Stop! Those mangoes are for everyone!\""
+   ]
+  }
+ ]
+}

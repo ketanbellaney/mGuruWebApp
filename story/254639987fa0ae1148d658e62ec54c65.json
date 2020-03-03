@@ -1,0 +1,238 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.920", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Now"
+   ]
+  }, 
+  {
+   "begin": "0.920", 
+   "end": "0.960", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "it"
+   ]
+  }, 
+  {
+   "begin": "0.960", 
+   "end": "1.160", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "is"
+   ]
+  }, 
+  {
+   "begin": "1.160", 
+   "end": "1.640", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "time"
+   ]
+  }, 
+  {
+   "begin": "1.640", 
+   "end": "2.080", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "for"
+   ]
+  }, 
+  {
+   "begin": "2.080", 
+   "end": "3.640", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "stories."
+   ]
+  }, 
+  {
+   "begin": "3.640", 
+   "end": "3.960", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "Our"
+   ]
+  }, 
+  {
+   "begin": "3.960", 
+   "end": "4.720", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "teacher"
+   ]
+  }, 
+  {
+   "begin": "4.720", 
+   "end": "5.200", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "has"
+   ]
+  }, 
+  {
+   "begin": "5.200", 
+   "end": "6.000", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "puppets.\n"
+   ]
+  }, 
+  {
+   "begin": "6.000", 
+   "end": "6.920", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "The"
+   ]
+  }, 
+  {
+   "begin": "6.920", 
+   "end": "7.680", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "teacher"
+   ]
+  }, 
+  {
+   "begin": "7.680", 
+   "end": "8.280", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "uses"
+   ]
+  }, 
+  {
+   "begin": "8.280", 
+   "end": "8.600", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "8.600", 
+   "end": "9.080", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "puppets"
+   ]
+  }, 
+  {
+   "begin": "9.080", 
+   "end": "9.480", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "9.480", 
+   "end": "9.760", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "tell"
+   ]
+  }, 
+  {
+   "begin": "9.760", 
+   "end": "10.080", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "us"
+   ]
+  }, 
+  {
+   "begin": "10.080", 
+   "end": "11.520", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "stories.\n"
+   ]
+  }, 
+  {
+   "begin": "11.520", 
+   "end": "11.920", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "The"
+   ]
+  }, 
+  {
+   "begin": "11.920", 
+   "end": "12.360", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "puppets"
+   ]
+  }, 
+  {
+   "begin": "12.360", 
+   "end": "12.760", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "speak"
+   ]
+  }, 
+  {
+   "begin": "12.760", 
+   "end": "13.280", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "in"
+   ]
+  }, 
+  {
+   "begin": "13.280", 
+   "end": "13.600", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "13.600", 
+   "end": "14.000", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "funny"
+   ]
+  }, 
+  {
+   "begin": "14.000", 
+   "end": "14.640", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "voice."
+   ]
+  }
+ ]
+}

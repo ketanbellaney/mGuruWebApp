@@ -1,0 +1,256 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.840", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Toto"
+   ]
+  }, 
+  {
+   "begin": "0.840", 
+   "end": "1.280", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "loved"
+   ]
+  }, 
+  {
+   "begin": "1.280", 
+   "end": "2.040", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "animals."
+   ]
+  }, 
+  {
+   "begin": "2.040", 
+   "end": "3.320", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "He"
+   ]
+  }, 
+  {
+   "begin": "3.320", 
+   "end": "3.640", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "worked"
+   ]
+  }, 
+  {
+   "begin": "3.640", 
+   "end": "3.800", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "in"
+   ]
+  }, 
+  {
+   "begin": "3.800", 
+   "end": "3.960", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "3.960", 
+   "end": "5.200", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "zoo."
+   ]
+  }, 
+  {
+   "begin": "5.200", 
+   "end": "5.560", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "One"
+   ]
+  }, 
+  {
+   "begin": "5.560", 
+   "end": "5.760", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "day"
+   ]
+  }, 
+  {
+   "begin": "5.760", 
+   "end": "5.960", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "he"
+   ]
+  }, 
+  {
+   "begin": "5.960", 
+   "end": "6.320", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "saw"
+   ]
+  }, 
+  {
+   "begin": "6.320", 
+   "end": "6.680", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "that"
+   ]
+  }, 
+  {
+   "begin": "6.680", 
+   "end": "7.320", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "Gogo,"
+   ]
+  }, 
+  {
+   "begin": "7.320", 
+   "end": "7.520", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "7.520", 
+   "end": "8.200", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "gorilla's"
+   ]
+  }, 
+  {
+   "begin": "8.200", 
+   "end": "8.560", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "cage"
+   ]
+  }, 
+  {
+   "begin": "8.560", 
+   "end": "8.920", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "was"
+   ]
+  }, 
+  {
+   "begin": "8.920", 
+   "end": "9.480", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "empty."
+   ]
+  }, 
+  {
+   "begin": "9.480", 
+   "end": "10.760", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "Toto"
+   ]
+  }, 
+  {
+   "begin": "10.760", 
+   "end": "10.960", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "was"
+   ]
+  }, 
+  {
+   "begin": "10.960", 
+   "end": "11.720", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "shocked."
+   ]
+  }, 
+  {
+   "begin": "11.720", 
+   "end": "12.360", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "He"
+   ]
+  }, 
+  {
+   "begin": "12.360", 
+   "end": "12.880", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "set"
+   ]
+  }, 
+  {
+   "begin": "12.880", 
+   "end": "13.120", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "off"
+   ]
+  }, 
+  {
+   "begin": "13.120", 
+   "end": "13.240", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "13.240", 
+   "end": "13.600", 
+   "id": "f000027", 
+   "language": "en", 
+   "lines": [
+    "find"
+   ]
+  }, 
+  {
+   "begin": "13.600", 
+   "end": "14.120", 
+   "id": "f000028", 
+   "language": "en", 
+   "lines": [
+    "him."
+   ]
+  }
+ ]
+}

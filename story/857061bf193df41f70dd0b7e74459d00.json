@@ -1,0 +1,58 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.160", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Why"
+   ]
+  }, 
+  {
+   "begin": "0.160", 
+   "end": "0.160", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "is"
+   ]
+  }, 
+  {
+   "begin": "0.160", 
+   "end": "0.320", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "0.320", 
+   "end": "1.120", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "old"
+   ]
+  }, 
+  {
+   "begin": "1.120", 
+   "end": "1.800", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "man"
+   ]
+  }, 
+  {
+   "begin": "1.800", 
+   "end": "2.680", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "laughing?"
+   ]
+  }
+ ]
+}

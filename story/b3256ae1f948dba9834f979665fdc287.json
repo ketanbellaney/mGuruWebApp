@@ -1,0 +1,112 @@
+{
+ "fragments": [ 
+  {
+   "begin": "4.600", 
+   "end": "5.000", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "Pleese"
+   ]
+  }, 
+  {
+   "begin": "5.000", 
+   "end": "6.280", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "Pleece"
+   ]
+  }, 
+  {
+   "begin": "6.280", 
+   "end": "7.840", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "PLEASE"
+   ]
+  }, 
+  {
+   "begin": "7.840", 
+   "end": "8.760", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "PLIS"
+   ]
+  }, 
+  {
+   "begin": "8.760", 
+   "end": "9.200", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "pleej"
+   ]
+  }, 
+  {
+   "begin": "9.200", 
+   "end": "10.600", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "pleece&nbsp;Please"
+   ]
+  }, 
+  {
+   "begin": "10.600", 
+   "end": "12.000", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "pleej"
+   ]
+  }, 
+  {
+   "begin": "12.000", 
+   "end": "13.040", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "PLIS"
+   ]
+  }, 
+  {
+   "begin": "13.040", 
+   "end": "14.760", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "pleece"
+   ]
+  }, 
+  {
+   "begin": "14.760", 
+   "end": "16.080", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "PLEASE"
+   ]
+  }, 
+  {
+   "begin": "16.080", 
+   "end": "17.760", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "Pleeese"
+   ]
+  }, 
+  {
+   "begin": "17.760", 
+   "end": "19.800", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "PLEASE"
+   ]
+  }
+ ]
+}

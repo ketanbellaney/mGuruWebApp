@@ -1,0 +1,193 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.240", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "The"
+   ]
+  }, 
+  {
+   "begin": "0.240", 
+   "end": "0.680", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "teacher"
+   ]
+  }, 
+  {
+   "begin": "0.680", 
+   "end": "0.920", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "taught"
+   ]
+  }, 
+  {
+   "begin": "0.920", 
+   "end": "1.160", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "him"
+   ]
+  }, 
+  {
+   "begin": "1.160", 
+   "end": "1.560", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "many"
+   ]
+  }, 
+  {
+   "begin": "1.560", 
+   "end": "1.720", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "new"
+   ]
+  }, 
+  {
+   "begin": "1.720", 
+   "end": "3.040", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "things."
+   ]
+  }, 
+  {
+   "begin": "3.040", 
+   "end": "3.200", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "He"
+   ]
+  }, 
+  {
+   "begin": "3.200", 
+   "end": "3.560", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "taught"
+   ]
+  }, 
+  {
+   "begin": "3.560", 
+   "end": "3.760", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "him"
+   ]
+  }, 
+  {
+   "begin": "3.760", 
+   "end": "3.840", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "3.840", 
+   "end": "4.400", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "read"
+   ]
+  }, 
+  {
+   "begin": "4.400", 
+   "end": "4.680", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "4.680", 
+   "end": "5.120", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "write,"
+   ]
+  }, 
+  {
+   "begin": "5.120", 
+   "end": "5.600", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "5.600", 
+   "end": "6.080", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "paint"
+   ]
+  }, 
+  {
+   "begin": "6.080", 
+   "end": "6.280", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "6.280", 
+   "end": "7.160", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "sing."
+   ]
+  }, 
+  {
+   "begin": "7.160", 
+   "end": "7.360", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "He"
+   ]
+  }, 
+  {
+   "begin": "7.360", 
+   "end": "7.800", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "told"
+   ]
+  }, 
+  {
+   "begin": "7.800", 
+   "end": "8.520", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "Muthu"
+   ]
+  }
+ ]
+}

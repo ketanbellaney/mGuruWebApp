@@ -1,0 +1,418 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.000", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "A"
+   ]
+  }, 
+  {
+   "begin": "0.000", 
+   "end": "1.120", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "brown"
+   ]
+  }, 
+  {
+   "begin": "1.120", 
+   "end": "1.400", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "cat"
+   ]
+  }, 
+  {
+   "begin": "1.400", 
+   "end": "1.440", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "with"
+   ]
+  }, 
+  {
+   "begin": "1.440", 
+   "end": "1.840", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "grey"
+   ]
+  }, 
+  {
+   "begin": "1.840", 
+   "end": "2.760", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "stripes"
+   ]
+  }, 
+  {
+   "begin": "2.760", 
+   "end": "3.080", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "ran"
+   ]
+  }, 
+  {
+   "begin": "3.080", 
+   "end": "4.080", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "across"
+   ]
+  }, 
+  {
+   "begin": "4.080", 
+   "end": "4.360", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "4.360", 
+   "end": "4.840", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "Mouchak"
+   ]
+  }, 
+  {
+   "begin": "4.840", 
+   "end": "5.200", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "began"
+   ]
+  }, 
+  {
+   "begin": "5.200", 
+   "end": "5.360", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "5.360", 
+   "end": "5.880", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "chase"
+   ]
+  }, 
+  {
+   "begin": "5.880", 
+   "end": "6.680", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "it,"
+   ]
+  }, 
+  {
+   "begin": "6.680", 
+   "end": "7.320", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "saying,"
+   ]
+  }, 
+  {
+   "begin": "7.320", 
+   "end": "7.840", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "\u201cBow"
+   ]
+  }, 
+  {
+   "begin": "7.840", 
+   "end": "8.040", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "wow,"
+   ]
+  }, 
+  {
+   "begin": "8.040", 
+   "end": "9.240", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "bow"
+   ]
+  }, 
+  {
+   "begin": "9.240", 
+   "end": "9.560", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "wow"
+   ]
+  }, 
+  {
+   "begin": "9.560", 
+   "end": "9.920", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "wow"
+   ]
+  }, 
+  {
+   "begin": "9.920", 
+   "end": "10.920", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "!\u201d"
+   ]
+  }, 
+  {
+   "begin": "10.920", 
+   "end": "10.920", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "And"
+   ]
+  }, 
+  {
+   "begin": "10.920", 
+   "end": "11.520", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "behind"
+   ]
+  }, 
+  {
+   "begin": "11.520", 
+   "end": "11.960", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "Mouchak"
+   ]
+  }, 
+  {
+   "begin": "11.960", 
+   "end": "12.240", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "ran"
+   ]
+  }, 
+  {
+   "begin": "12.240", 
+   "end": "12.960", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "Samira,"
+   ]
+  }, 
+  {
+   "begin": "12.960", 
+   "end": "14.680", 
+   "id": "f000027", 
+   "language": "en", 
+   "lines": [
+    "breathless."
+   ]
+  }, 
+  {
+   "begin": "14.680", 
+   "end": "14.880", 
+   "id": "f000028", 
+   "language": "en", 
+   "lines": [
+    "The"
+   ]
+  }, 
+  {
+   "begin": "14.880", 
+   "end": "15.920", 
+   "id": "f000029", 
+   "language": "en", 
+   "lines": [
+    "brown-and-grey"
+   ]
+  }, 
+  {
+   "begin": "15.920", 
+   "end": "16.360", 
+   "id": "f000030", 
+   "language": "en", 
+   "lines": [
+    "cat"
+   ]
+  }, 
+  {
+   "begin": "16.360", 
+   "end": "16.840", 
+   "id": "f000031", 
+   "language": "en", 
+   "lines": [
+    "leapt"
+   ]
+  }, 
+  {
+   "begin": "16.840", 
+   "end": "17.040", 
+   "id": "f000032", 
+   "language": "en", 
+   "lines": [
+    "over"
+   ]
+  }, 
+  {
+   "begin": "17.040", 
+   "end": "17.320", 
+   "id": "f000033", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "17.320", 
+   "end": "17.720", 
+   "id": "f000034", 
+   "language": "en", 
+   "lines": [
+    "wall"
+   ]
+  }, 
+  {
+   "begin": "17.720", 
+   "end": "18.120", 
+   "id": "f000035", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "18.120", 
+   "end": "19.760", 
+   "id": "f000036", 
+   "language": "en", 
+   "lines": [
+    "disappeared."
+   ]
+  }, 
+  {
+   "begin": "19.760", 
+   "end": "20.280", 
+   "id": "f000037", 
+   "language": "en", 
+   "lines": [
+    "Mouchak"
+   ]
+  }, 
+  {
+   "begin": "20.280", 
+   "end": "20.520", 
+   "id": "f000038", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "20.520", 
+   "end": "21.280", 
+   "id": "f000039", 
+   "language": "en", 
+   "lines": [
+    "Samira"
+   ]
+  }, 
+  {
+   "begin": "21.280", 
+   "end": "22.280", 
+   "id": "f000040", 
+   "language": "en", 
+   "lines": [
+    "stopped,"
+   ]
+  }, 
+  {
+   "begin": "22.280", 
+   "end": "22.640", 
+   "id": "f000041", 
+   "language": "en", 
+   "lines": [
+    "looked"
+   ]
+  }, 
+  {
+   "begin": "22.640", 
+   "end": "22.920", 
+   "id": "f000042", 
+   "language": "en", 
+   "lines": [
+    "at"
+   ]
+  }, 
+  {
+   "begin": "22.920", 
+   "end": "23.200", 
+   "id": "f000043", 
+   "language": "en", 
+   "lines": [
+    "each"
+   ]
+  }, 
+  {
+   "begin": "23.200", 
+   "end": "23.880", 
+   "id": "f000044", 
+   "language": "en", 
+   "lines": [
+    "other"
+   ]
+  }, 
+  {
+   "begin": "23.880", 
+   "end": "24.240", 
+   "id": "f000045", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "24.240", 
+   "end": "25.440", 
+   "id": "f000046", 
+   "language": "en", 
+   "lines": [
+    "laughed."
+   ]
+  }
+ ]
+}

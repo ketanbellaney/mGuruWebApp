@@ -1,0 +1,634 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.760", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Gubbi"
+   ]
+  }, 
+  {
+   "begin": "0.760", 
+   "end": "1.200", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "went"
+   ]
+  }, 
+  {
+   "begin": "1.200", 
+   "end": "1.520", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "straight"
+   ]
+  }, 
+  {
+   "begin": "1.520", 
+   "end": "1.600", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "1.600", 
+   "end": "1.880", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "1.880", 
+   "end": "2.360", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "cow"
+   ]
+  }, 
+  {
+   "begin": "2.360", 
+   "end": "2.560", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "that"
+   ]
+  }, 
+  {
+   "begin": "2.560", 
+   "end": "2.800", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "was"
+   ]
+  }, 
+  {
+   "begin": "2.800", 
+   "end": "3.280", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "grazing"
+   ]
+  }, 
+  {
+   "begin": "3.280", 
+   "end": "3.320", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "in"
+   ]
+  }, 
+  {
+   "begin": "3.320", 
+   "end": "3.560", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "3.560", 
+   "end": "4.160", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "farmer\u2019s"
+   ]
+  }, 
+  {
+   "begin": "4.160", 
+   "end": "4.840", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "pasture."
+   ]
+  }, 
+  {
+   "begin": "4.840", 
+   "end": "5.600", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "She"
+   ]
+  }, 
+  {
+   "begin": "5.600", 
+   "end": "6.000", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "said,"
+   ]
+  }, 
+  {
+   "begin": "6.000", 
+   "end": "7.520", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "\u201cI"
+   ]
+  }, 
+  {
+   "begin": "7.520", 
+   "end": "7.640", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "dropped"
+   ]
+  }, 
+  {
+   "begin": "7.640", 
+   "end": "7.920", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "my"
+   ]
+  }, 
+  {
+   "begin": "7.920", 
+   "end": "8.400", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "fruit"
+   ]
+  }, 
+  {
+   "begin": "8.400", 
+   "end": "8.720", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "in"
+   ]
+  }, 
+  {
+   "begin": "8.720", 
+   "end": "8.720", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "8.720", 
+   "end": "9.080", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "clump"
+   ]
+  }, 
+  {
+   "begin": "9.080", 
+   "end": "9.360", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "of"
+   ]
+  }, 
+  {
+   "begin": "9.360", 
+   "end": "10.600", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "thorns."
+   ]
+  }, 
+  {
+   "begin": "10.600", 
+   "end": "11.080", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "11.080", 
+   "end": "11.320", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "asked"
+   ]
+  }, 
+  {
+   "begin": "11.320", 
+   "end": "11.560", 
+   "id": "f000027", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "11.560", 
+   "end": "11.920", 
+   "id": "f000028", 
+   "language": "en", 
+   "lines": [
+    "boy"
+   ]
+  }, 
+  {
+   "begin": "11.920", 
+   "end": "12.120", 
+   "id": "f000029", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "12.120", 
+   "end": "12.600", 
+   "id": "f000030", 
+   "language": "en", 
+   "lines": [
+    "help"
+   ]
+  }, 
+  {
+   "begin": "12.600", 
+   "end": "13.200", 
+   "id": "f000031", 
+   "language": "en", 
+   "lines": [
+    "me"
+   ]
+  }, 
+  {
+   "begin": "13.200", 
+   "end": "13.400", 
+   "id": "f000032", 
+   "language": "en", 
+   "lines": [
+    "but"
+   ]
+  }, 
+  {
+   "begin": "13.400", 
+   "end": "13.720", 
+   "id": "f000033", 
+   "language": "en", 
+   "lines": [
+    "he"
+   ]
+  }, 
+  {
+   "begin": "13.720", 
+   "end": "15.160", 
+   "id": "f000034", 
+   "language": "en", 
+   "lines": [
+    "didn\u2019t."
+   ]
+  }, 
+  {
+   "begin": "15.160", 
+   "end": "15.600", 
+   "id": "f000035", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "15.600", 
+   "end": "15.800", 
+   "id": "f000036", 
+   "language": "en", 
+   "lines": [
+    "asked"
+   ]
+  }, 
+  {
+   "begin": "15.800", 
+   "end": "15.960", 
+   "id": "f000037", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "15.960", 
+   "end": "16.600", 
+   "id": "f000038", 
+   "language": "en", 
+   "lines": [
+    "farmer"
+   ]
+  }, 
+  {
+   "begin": "16.600", 
+   "end": "17.440", 
+   "id": "f000039", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "17.440", 
+   "end": "17.680", 
+   "id": "f000040", 
+   "language": "en", 
+   "lines": [
+    "give"
+   ]
+  }, 
+  {
+   "begin": "17.680", 
+   "end": "17.680", 
+   "id": "f000041", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "17.680", 
+   "end": "17.800", 
+   "id": "f000042", 
+   "language": "en", 
+   "lines": [
+    "boy"
+   ]
+  }, 
+  {
+   "begin": "17.800", 
+   "end": "18.040", 
+   "id": "f000043", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "18.040", 
+   "end": "18.640", 
+   "id": "f000044", 
+   "language": "en", 
+   "lines": [
+    "beating"
+   ]
+  }, 
+  {
+   "begin": "18.640", 
+   "end": "19.240", 
+   "id": "f000045", 
+   "language": "en", 
+   "lines": [
+    "but"
+   ]
+  }, 
+  {
+   "begin": "19.240", 
+   "end": "19.640", 
+   "id": "f000046", 
+   "language": "en", 
+   "lines": [
+    "he"
+   ]
+  }, 
+  {
+   "begin": "19.640", 
+   "end": "20.400", 
+   "id": "f000047", 
+   "language": "en", 
+   "lines": [
+    "didn\u2019t."
+   ]
+  }, 
+  {
+   "begin": "20.400", 
+   "end": "20.880", 
+   "id": "f000048", 
+   "language": "en", 
+   "lines": [
+    "Now"
+   ]
+  }, 
+  {
+   "begin": "20.880", 
+   "end": "21.400", 
+   "id": "f000049", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "21.400", 
+   "end": "21.440", 
+   "id": "f000050", 
+   "language": "en", 
+   "lines": [
+    "want"
+   ]
+  }, 
+  {
+   "begin": "21.440", 
+   "end": "21.680", 
+   "id": "f000051", 
+   "language": "en", 
+   "lines": [
+    "you"
+   ]
+  }, 
+  {
+   "begin": "21.680", 
+   "end": "21.880", 
+   "id": "f000052", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "21.880", 
+   "end": "22.360", 
+   "id": "f000053", 
+   "language": "en", 
+   "lines": [
+    "go"
+   ]
+  }, 
+  {
+   "begin": "22.360", 
+   "end": "22.400", 
+   "id": "f000054", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "22.400", 
+   "end": "22.760", 
+   "id": "f000055", 
+   "language": "en", 
+   "lines": [
+    "eat"
+   ]
+  }, 
+  {
+   "begin": "22.760", 
+   "end": "22.960", 
+   "id": "f000056", 
+   "language": "en", 
+   "lines": [
+    "up"
+   ]
+  }, 
+  {
+   "begin": "22.960", 
+   "end": "23.400", 
+   "id": "f000057", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "23.400", 
+   "end": "24.040", 
+   "id": "f000058", 
+   "language": "en", 
+   "lines": [
+    "farmer\u2019s"
+   ]
+  }, 
+  {
+   "begin": "24.040", 
+   "end": "24.720", 
+   "id": "f000059", 
+   "language": "en", 
+   "lines": [
+    "crops.\u201d"
+   ]
+  }, 
+  {
+   "begin": "24.720", 
+   "end": "25.960", 
+   "id": "f000060", 
+   "language": "en", 
+   "lines": [
+    "\u201cCan\u2019t"
+   ]
+  }, 
+  {
+   "begin": "25.960", 
+   "end": "26.360", 
+   "id": "f000061", 
+   "language": "en", 
+   "lines": [
+    "do"
+   ]
+  }, 
+  {
+   "begin": "26.360", 
+   "end": "27.600", 
+   "id": "f000062", 
+   "language": "en", 
+   "lines": [
+    "it,\u201d"
+   ]
+  }, 
+  {
+   "begin": "27.600", 
+   "end": "27.920", 
+   "id": "f000063", 
+   "language": "en", 
+   "lines": [
+    "said"
+   ]
+  }, 
+  {
+   "begin": "27.920", 
+   "end": "28.080", 
+   "id": "f000064", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "28.080", 
+   "end": "28.200", 
+   "id": "f000065", 
+   "language": "en", 
+   "lines": [
+    "cow,"
+   ]
+  }, 
+  {
+   "begin": "28.200", 
+   "end": "28.480", 
+   "id": "f000066", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "28.480", 
+   "end": "29.120", 
+   "id": "f000067", 
+   "language": "en", 
+   "lines": [
+    "turned"
+   ]
+  }, 
+  {
+   "begin": "29.120", 
+   "end": "29.640", 
+   "id": "f000068", 
+   "language": "en", 
+   "lines": [
+    "her"
+   ]
+  }, 
+  {
+   "begin": "29.640", 
+   "end": "29.960", 
+   "id": "f000069", 
+   "language": "en", 
+   "lines": [
+    "head"
+   ]
+  }, 
+  {
+   "begin": "29.960", 
+   "end": "30.920", 
+   "id": "f000070", 
+   "language": "en", 
+   "lines": [
+    "away."
+   ]
+  }
+ ]
+}

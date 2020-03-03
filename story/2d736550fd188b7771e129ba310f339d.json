@@ -1,0 +1,103 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.320", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Are"
+   ]
+  }, 
+  {
+   "begin": "0.320", 
+   "end": "0.600", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "you"
+   ]
+  }, 
+  {
+   "begin": "0.600", 
+   "end": "1.200", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "Chinku\u2019s"
+   ]
+  }, 
+  {
+   "begin": "1.200", 
+   "end": "1.880", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "friend?"
+   ]
+  }, 
+  {
+   "begin": "1.880", 
+   "end": "2.760", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "Then"
+   ]
+  }, 
+  {
+   "begin": "2.760", 
+   "end": "3.200", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "you"
+   ]
+  }, 
+  {
+   "begin": "3.200", 
+   "end": "3.520", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "are"
+   ]
+  }, 
+  {
+   "begin": "3.520", 
+   "end": "3.880", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "my"
+   ]
+  }, 
+  {
+   "begin": "3.880", 
+   "end": "4.440", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "friend"
+   ]
+  }, 
+  {
+   "begin": "4.440", 
+   "end": "4.440", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "too."
+   ]
+  }, 
+  {
+   "begin": "4.440", 
+   "end": "5.120", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "&nbsp;"
+   ]
+  }
+ ]
+}

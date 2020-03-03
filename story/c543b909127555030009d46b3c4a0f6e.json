@@ -1,0 +1,31 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "5.040", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "\ufeffAt first his head sank down, then he began to swim.\n"
+   ]
+  }, 
+  {
+   "begin": "5.040", 
+   "end": "18.040", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "The trees lining the banks looked askance, some thought him mad, others were alarmed at the sight. But Mango was unaware of them. He was lost in his own thoughts.\n"
+   ]
+  }, 
+  {
+   "begin": "18.040", 
+   "end": "29.800", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "Mad Mango had embarked on his travels to seek a new life---to see new lands. This madness, this spirit of adventure would always be part of Mango."
+   ]
+  }
+ ]
+}

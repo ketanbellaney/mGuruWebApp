@@ -1,0 +1,40 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "2.840", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "\ufeffHow much he loved them all!\n"
+   ]
+  }, 
+  {
+   "begin": "2.840", 
+   "end": "18.960", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "Mango gently pulled out his feet from the ground. The wind blowing across the plains whispered encouragingly, \"Come! Let's see the world and its marvels.\" Mango's branches swayed with the wind, as if full of joy.\n"
+   ]
+  }, 
+  {
+   "begin": "18.960", 
+   "end": "30.840", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "Night fell. Stars began to twinkle and lamps were lit. The twittering of young birds grew fainter and the chirping of cicadas became louder.\n"
+   ]
+  }, 
+  {
+   "begin": "30.840", 
+   "end": "47.800", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "It was at this time that Mad Mango left his home and his friends. Nobody noticed his departure. In the morning they would rub their eyes in astonishment and ask each other, \"Where's mango? Where has Mad Mango disappeared?\""
+   ]
+  }
+ ]
+}

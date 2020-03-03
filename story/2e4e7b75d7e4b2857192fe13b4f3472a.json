@@ -1,0 +1,184 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.440", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "The"
+   ]
+  }, 
+  {
+   "begin": "0.440", 
+   "end": "0.920", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "fawn"
+   ]
+  }, 
+  {
+   "begin": "0.920", 
+   "end": "1.360", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "said,"
+   ]
+  }, 
+  {
+   "begin": "1.360", 
+   "end": "2.400", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "\u201cOh,"
+   ]
+  }, 
+  {
+   "begin": "2.400", 
+   "end": "3.000", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "don\u2019t"
+   ]
+  }, 
+  {
+   "begin": "3.000", 
+   "end": "3.000", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "do"
+   ]
+  }, 
+  {
+   "begin": "3.000", 
+   "end": "3.480", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "that"
+   ]
+  }, 
+  {
+   "begin": "3.480", 
+   "end": "3.600", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "or"
+   ]
+  }, 
+  {
+   "begin": "3.600", 
+   "end": "3.880", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "he"
+   ]
+  }, 
+  {
+   "begin": "3.880", 
+   "end": "4.560", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "will"
+   ]
+  }, 
+  {
+   "begin": "4.560", 
+   "end": "5.000", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "also"
+   ]
+  }, 
+  {
+   "begin": "5.000", 
+   "end": "5.320", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "start"
+   ]
+  }, 
+  {
+   "begin": "5.320", 
+   "end": "7.040", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "crying.\u201d"
+   ]
+  }, 
+  {
+   "begin": "7.040", 
+   "end": "7.280", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "His"
+   ]
+  }, 
+  {
+   "begin": "7.280", 
+   "end": "7.680", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "mother"
+   ]
+  }, 
+  {
+   "begin": "7.680", 
+   "end": "8.680", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "laughed."
+   ]
+  }, 
+  {
+   "begin": "8.680", 
+   "end": "9.080", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "So"
+   ]
+  }, 
+  {
+   "begin": "9.080", 
+   "end": "9.240", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "did"
+   ]
+  }, 
+  {
+   "begin": "9.240", 
+   "end": "9.400", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "9.400", 
+   "end": "10.520", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "fawn."
+   ]
+  }
+ ]
+}

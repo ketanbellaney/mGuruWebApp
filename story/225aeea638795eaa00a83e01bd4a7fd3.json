@@ -1,0 +1,94 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.000", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Brother"
+   ]
+  }, 
+  {
+   "begin": "0.000", 
+   "end": "1.120", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "Bear"
+   ]
+  }, 
+  {
+   "begin": "1.120", 
+   "end": "1.560", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "picked"
+   ]
+  }, 
+  {
+   "begin": "1.560", 
+   "end": "2.000", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "him"
+   ]
+  }, 
+  {
+   "begin": "2.000", 
+   "end": "2.320", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "up."
+   ]
+  }, 
+  {
+   "begin": "2.320", 
+   "end": "3.120", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "The"
+   ]
+  }, 
+  {
+   "begin": "3.120", 
+   "end": "3.680", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "fawn"
+   ]
+  }, 
+  {
+   "begin": "3.680", 
+   "end": "4.280", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "didn't"
+   ]
+  }, 
+  {
+   "begin": "4.280", 
+   "end": "4.600", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "stop"
+   ]
+  }, 
+  {
+   "begin": "4.600", 
+   "end": "6.000", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "crying."
+   ]
+  }
+ ]
+}

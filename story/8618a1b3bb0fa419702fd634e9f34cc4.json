@@ -1,0 +1,58 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.440", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "He"
+   ]
+  }, 
+  {
+   "begin": "0.440", 
+   "end": "1.000", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "was"
+   ]
+  }, 
+  {
+   "begin": "1.000", 
+   "end": "1.520", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "ahead"
+   ]
+  }, 
+  {
+   "begin": "1.520", 
+   "end": "1.680", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "of"
+   ]
+  }, 
+  {
+   "begin": "1.680", 
+   "end": "1.920", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "1.920", 
+   "end": "3.360", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "elephant."
+   ]
+  }
+ ]
+}

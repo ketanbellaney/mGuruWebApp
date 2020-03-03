@@ -1,0 +1,148 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.440", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "\"You"
+   ]
+  }, 
+  {
+   "begin": "0.440", 
+   "end": "2.400", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "can\u2019t,\""
+   ]
+  }, 
+  {
+   "begin": "2.400", 
+   "end": "2.760", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "Ammu"
+   ]
+  }, 
+  {
+   "begin": "2.760", 
+   "end": "3.120", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "said."
+   ]
+  }, 
+  {
+   "begin": "3.120", 
+   "end": "3.120", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    ""
+   ]
+  }, 
+  {
+   "begin": "3.120", 
+   "end": "6.080", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "\"Why?\""
+   ]
+  }, 
+  {
+   "begin": "6.080", 
+   "end": "6.560", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "asked"
+   ]
+  }, 
+  {
+   "begin": "6.560", 
+   "end": "7.040", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "Unni."
+   ]
+  }, 
+  {
+   "begin": "7.040", 
+   "end": "7.040", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    ""
+   ]
+  }, 
+  {
+   "begin": "7.040", 
+   "end": "8.520", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "\"Because"
+   ]
+  }, 
+  {
+   "begin": "8.520", 
+   "end": "8.800", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "we\u2019re"
+   ]
+  }, 
+  {
+   "begin": "8.800", 
+   "end": "9.280", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "going"
+   ]
+  }, 
+  {
+   "begin": "9.280", 
+   "end": "9.560", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "out"
+   ]
+  }, 
+  {
+   "begin": "9.560", 
+   "end": "10.680", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "today,\""
+   ]
+  }, 
+  {
+   "begin": "10.680", 
+   "end": "11.120", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "said"
+   ]
+  }, 
+  {
+   "begin": "11.120", 
+   "end": "11.800", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "Ammu."
+   ]
+  }
+ ]
+}

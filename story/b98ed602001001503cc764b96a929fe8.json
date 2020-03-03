@@ -1,0 +1,76 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "1.000", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "&nbsp;"
+   ]
+  }, 
+  {
+   "begin": "1.000", 
+   "end": "1.200", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "1.200", 
+   "end": "1.200", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "am"
+   ]
+  }, 
+  {
+   "begin": "1.200", 
+   "end": "1.440", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "not"
+   ]
+  }, 
+  {
+   "begin": "1.440", 
+   "end": "1.760", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "afraid"
+   ]
+  }, 
+  {
+   "begin": "1.760", 
+   "end": "2.160", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "of"
+   ]
+  }, 
+  {
+   "begin": "2.160", 
+   "end": "2.640", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "anything!"
+   ]
+  }, 
+  {
+   "begin": "2.640", 
+   "end": "3.320", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "&nbsp;"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,247 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.760", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Immediately"
+   ]
+  }, 
+  {
+   "begin": "0.760", 
+   "end": "1.160", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "1.160", 
+   "end": "1.520", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "guards"
+   ]
+  }, 
+  {
+   "begin": "1.520", 
+   "end": "2.080", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "called"
+   ]
+  }, 
+  {
+   "begin": "2.080", 
+   "end": "2.440", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "Ranveer"
+   ]
+  }, 
+  {
+   "begin": "2.440", 
+   "end": "2.960", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "Singh,"
+   ]
+  }, 
+  {
+   "begin": "2.960", 
+   "end": "3.120", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "3.120", 
+   "end": "3.600", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "captain"
+   ]
+  }, 
+  {
+   "begin": "3.600", 
+   "end": "3.720", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "of"
+   ]
+  }, 
+  {
+   "begin": "3.720", 
+   "end": "3.840", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "3.840", 
+   "end": "4.200", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "army."
+   ]
+  }, 
+  {
+   "begin": "4.200", 
+   "end": "4.880", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "He"
+   ]
+  }, 
+  {
+   "begin": "4.880", 
+   "end": "5.480", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "was"
+   ]
+  }, 
+  {
+   "begin": "5.480", 
+   "end": "5.600", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "six"
+   ]
+  }, 
+  {
+   "begin": "5.600", 
+   "end": "5.840", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "feet"
+   ]
+  }, 
+  {
+   "begin": "5.840", 
+   "end": "6.400", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "tall"
+   ]
+  }, 
+  {
+   "begin": "6.400", 
+   "end": "6.440", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "6.440", 
+   "end": "6.960", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "three"
+   ]
+  }, 
+  {
+   "begin": "6.960", 
+   "end": "7.000", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "feet"
+   ]
+  }, 
+  {
+   "begin": "7.000", 
+   "end": "7.720", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "wide"
+   ]
+  }, 
+  {
+   "begin": "7.720", 
+   "end": "7.880", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "7.880", 
+   "end": "8.200", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "his"
+   ]
+  }, 
+  {
+   "begin": "8.200", 
+   "end": "8.640", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "long"
+   ]
+  }, 
+  {
+   "begin": "8.640", 
+   "end": "9.080", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "curling"
+   ]
+  }, 
+  {
+   "begin": "9.080", 
+   "end": "9.920", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "mustache"
+   ]
+  }, 
+  {
+   "begin": "9.920", 
+   "end": "10.600", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "frightened"
+   ]
+  }, 
+  {
+   "begin": "10.600", 
+   "end": "11.600", 
+   "id": "f000027", 
+   "language": "en", 
+   "lines": [
+    "everybody."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.840", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "My"
+   ]
+  }, 
+  {
+   "begin": "0.840", 
+   "end": "0.840", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "mom"
+   ]
+  }, 
+  {
+   "begin": "0.840", 
+   "end": "0.840", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "makes"
+   ]
+  }, 
+  {
+   "begin": "0.840", 
+   "end": "0.840", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "milk"
+   ]
+  }, 
+  {
+   "begin": "0.840", 
+   "end": "1.040", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "tea"
+   ]
+  }, 
+  {
+   "begin": "1.040", 
+   "end": "1.320", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "everyday."
+   ]
+  }
+ ]
+}

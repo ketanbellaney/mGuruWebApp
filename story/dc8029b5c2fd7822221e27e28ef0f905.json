@@ -1,0 +1,391 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.480", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Sher"
+   ]
+  }, 
+  {
+   "begin": "0.480", 
+   "end": "0.880", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "Khan"
+   ]
+  }, 
+  {
+   "begin": "0.880", 
+   "end": "1.360", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "feels"
+   ]
+  }, 
+  {
+   "begin": "1.360", 
+   "end": "1.720", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "thirsty"
+   ]
+  }, 
+  {
+   "begin": "1.720", 
+   "end": "1.720", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "in"
+   ]
+  }, 
+  {
+   "begin": "1.720", 
+   "end": "2.160", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "2.160", 
+   "end": "3.240", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "forest."
+   ]
+  }, 
+  {
+   "begin": "3.240", 
+   "end": "3.400", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "Where"
+   ]
+  }, 
+  {
+   "begin": "3.400", 
+   "end": "3.560", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "is"
+   ]
+  }, 
+  {
+   "begin": "3.560", 
+   "end": "3.680", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "3.680", 
+   "end": "4.080", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "pond"
+   ]
+  }, 
+  {
+   "begin": "4.080", 
+   "end": "4.920", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "water?"
+   ]
+  }, 
+  {
+   "begin": "4.920", 
+   "end": "5.240", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "Only"
+   ]
+  }, 
+  {
+   "begin": "5.240", 
+   "end": "5.840", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "puddles"
+   ]
+  }, 
+  {
+   "begin": "5.840", 
+   "end": "6.240", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "remain."
+   ]
+  }, 
+  {
+   "begin": "6.240", 
+   "end": "6.240", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "The"
+   ]
+  }, 
+  {
+   "begin": "6.240", 
+   "end": "6.840", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "deer"
+   ]
+  }, 
+  {
+   "begin": "6.840", 
+   "end": "7.600", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "shake"
+   ]
+  }, 
+  {
+   "begin": "7.600", 
+   "end": "7.880", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "their"
+   ]
+  }, 
+  {
+   "begin": "7.880", 
+   "end": "8.320", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "heads"
+   ]
+  }, 
+  {
+   "begin": "8.320", 
+   "end": "8.440", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "in"
+   ]
+  }, 
+  {
+   "begin": "8.440", 
+   "end": "9.560", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "despair.\n\n"
+   ]
+  }, 
+  {
+   "begin": "9.560", 
+   "end": "9.720", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "\"The"
+   ]
+  }, 
+  {
+   "begin": "9.720", 
+   "end": "10.200", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "pond"
+   ]
+  }, 
+  {
+   "begin": "10.200", 
+   "end": "10.680", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "needs"
+   ]
+  }, 
+  {
+   "begin": "10.680", 
+   "end": "10.920", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "water."
+   ]
+  }, 
+  {
+   "begin": "10.920", 
+   "end": "11.760", 
+   "id": "f000027", 
+   "language": "en", 
+   "lines": [
+    "There"
+   ]
+  }, 
+  {
+   "begin": "11.760", 
+   "end": "12.160", 
+   "id": "f000028", 
+   "language": "en", 
+   "lines": [
+    "is"
+   ]
+  }, 
+  {
+   "begin": "12.160", 
+   "end": "12.200", 
+   "id": "f000029", 
+   "language": "en", 
+   "lines": [
+    "no"
+   ]
+  }, 
+  {
+   "begin": "12.200", 
+   "end": "13.280", 
+   "id": "f000030", 
+   "language": "en", 
+   "lines": [
+    "rain,\""
+   ]
+  }, 
+  {
+   "begin": "13.280", 
+   "end": "13.760", 
+   "id": "f000031", 
+   "language": "en", 
+   "lines": [
+    "state"
+   ]
+  }, 
+  {
+   "begin": "13.760", 
+   "end": "13.960", 
+   "id": "f000032", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "13.960", 
+   "end": "14.720", 
+   "id": "f000033", 
+   "language": "en", 
+   "lines": [
+    "elephants."
+   ]
+  }, 
+  {
+   "begin": "14.720", 
+   "end": "15.920", 
+   "id": "f000034", 
+   "language": "en", 
+   "lines": [
+    "\"Nona"
+   ]
+  }, 
+  {
+   "begin": "15.920", 
+   "end": "16.000", 
+   "id": "f000035", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "16.000", 
+   "end": "16.320", 
+   "id": "f000036", 
+   "language": "en", 
+   "lines": [
+    "her"
+   ]
+  }, 
+  {
+   "begin": "16.320", 
+   "end": "16.840", 
+   "id": "f000037", 
+   "language": "en", 
+   "lines": [
+    "Grandpa"
+   ]
+  }, 
+  {
+   "begin": "16.840", 
+   "end": "17.040", 
+   "id": "f000038", 
+   "language": "en", 
+   "lines": [
+    "did"
+   ]
+  }, 
+  {
+   "begin": "17.040", 
+   "end": "17.960", 
+   "id": "f000039", 
+   "language": "en", 
+   "lines": [
+    "this."
+   ]
+  }, 
+  {
+   "begin": "17.960", 
+   "end": "18.320", 
+   "id": "f000040", 
+   "language": "en", 
+   "lines": [
+    "Let's"
+   ]
+  }, 
+  {
+   "begin": "18.320", 
+   "end": "18.560", 
+   "id": "f000041", 
+   "language": "en", 
+   "lines": [
+    "go"
+   ]
+  }, 
+  {
+   "begin": "18.560", 
+   "end": "18.800", 
+   "id": "f000042", 
+   "language": "en", 
+   "lines": [
+    "see"
+   ]
+  }, 
+  {
+   "begin": "18.800", 
+   "end": "19.440", 
+   "id": "f000043", 
+   "language": "en", 
+   "lines": [
+    "them.\""
+   ]
+  }
+ ]
+}

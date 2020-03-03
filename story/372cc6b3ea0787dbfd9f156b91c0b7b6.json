@@ -1,0 +1,265 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.720", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Dogs'"
+   ]
+  }, 
+  {
+   "begin": "0.720", 
+   "end": "1.320", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "tails"
+   ]
+  }, 
+  {
+   "begin": "1.320", 
+   "end": "1.760", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "vary"
+   ]
+  }, 
+  {
+   "begin": "1.760", 
+   "end": "1.920", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "in"
+   ]
+  }, 
+  {
+   "begin": "1.920", 
+   "end": "2.400", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "length,"
+   ]
+  }, 
+  {
+   "begin": "2.400", 
+   "end": "3.400", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "shape"
+   ]
+  }, 
+  {
+   "begin": "3.400", 
+   "end": "3.560", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "3.560", 
+   "end": "4.520", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "size"
+   ]
+  }, 
+  {
+   "begin": "4.520", 
+   "end": "5.000", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "depending"
+   ]
+  }, 
+  {
+   "begin": "5.000", 
+   "end": "5.160", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "on"
+   ]
+  }, 
+  {
+   "begin": "5.160", 
+   "end": "5.320", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "5.320", 
+   "end": "6.400", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "breed."
+   ]
+  }, 
+  {
+   "begin": "6.400", 
+   "end": "6.840", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "Dogs"
+   ]
+  }, 
+  {
+   "begin": "6.840", 
+   "end": "7.200", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "wag"
+   ]
+  }, 
+  {
+   "begin": "7.200", 
+   "end": "7.440", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "their"
+   ]
+  }, 
+  {
+   "begin": "7.440", 
+   "end": "7.920", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "tails"
+   ]
+  }, 
+  {
+   "begin": "7.920", 
+   "end": "7.960", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "7.960", 
+   "end": "8.400", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "show"
+   ]
+  }, 
+  {
+   "begin": "8.400", 
+   "end": "9.000", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "pleasure"
+   ]
+  }, 
+  {
+   "begin": "9.000", 
+   "end": "9.640", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "but,"
+   ]
+  }, 
+  {
+   "begin": "9.640", 
+   "end": "9.880", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "when"
+   ]
+  }, 
+  {
+   "begin": "9.880", 
+   "end": "10.840", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "frightened,"
+   ]
+  }, 
+  {
+   "begin": "10.840", 
+   "end": "11.040", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "they"
+   ]
+  }, 
+  {
+   "begin": "11.040", 
+   "end": "11.240", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "put"
+   ]
+  }, 
+  {
+   "begin": "11.240", 
+   "end": "11.480", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "their"
+   ]
+  }, 
+  {
+   "begin": "11.480", 
+   "end": "12.000", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "tails"
+   ]
+  }, 
+  {
+   "begin": "12.000", 
+   "end": "12.120", 
+   "id": "f000027", 
+   "language": "en", 
+   "lines": [
+    "between"
+   ]
+  }, 
+  {
+   "begin": "12.120", 
+   "end": "12.640", 
+   "id": "f000028", 
+   "language": "en", 
+   "lines": [
+    "their"
+   ]
+  }, 
+  {
+   "begin": "12.640", 
+   "end": "13.440", 
+   "id": "f000029", 
+   "language": "en", 
+   "lines": [
+    "legs."
+   ]
+  }
+ ]
+}

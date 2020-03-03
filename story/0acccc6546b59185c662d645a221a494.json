@@ -1,0 +1,184 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.400", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "'If"
+   ]
+  }, 
+  {
+   "begin": "0.400", 
+   "end": "0.640", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "0.640", 
+   "end": "1.080", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "take"
+   ]
+  }, 
+  {
+   "begin": "1.080", 
+   "end": "1.440", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "all"
+   ]
+  }, 
+  {
+   "begin": "1.440", 
+   "end": "1.720", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "these"
+   ]
+  }, 
+  {
+   "begin": "1.720", 
+   "end": "2.360", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "mangoes"
+   ]
+  }, 
+  {
+   "begin": "2.360", 
+   "end": "2.560", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "2.560", 
+   "end": "2.880", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "sell"
+   ]
+  }, 
+  {
+   "begin": "2.880", 
+   "end": "3.240", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "them"
+   ]
+  }, 
+  {
+   "begin": "3.240", 
+   "end": "3.240", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "in"
+   ]
+  }, 
+  {
+   "begin": "3.240", 
+   "end": "3.800", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "town,'"
+   ]
+  }, 
+  {
+   "begin": "3.800", 
+   "end": "4.640", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "he"
+   ]
+  }, 
+  {
+   "begin": "4.640", 
+   "end": "5.640", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "thought,"
+   ]
+  }, 
+  {
+   "begin": "5.640", 
+   "end": "5.840", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "'I"
+   ]
+  }, 
+  {
+   "begin": "5.840", 
+   "end": "6.040", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "can"
+   ]
+  }, 
+  {
+   "begin": "6.040", 
+   "end": "6.280", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "make"
+   ]
+  }, 
+  {
+   "begin": "6.280", 
+   "end": "6.680", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "6.680", 
+   "end": "7.120", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "lot"
+   ]
+  }, 
+  {
+   "begin": "7.120", 
+   "end": "7.480", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "of"
+   ]
+  }, 
+  {
+   "begin": "7.480", 
+   "end": "7.640", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "money!'"
+   ]
+  }
+ ]
+}

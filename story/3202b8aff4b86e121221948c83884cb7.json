@@ -1,0 +1,184 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.840", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "After"
+   ]
+  }, 
+  {
+   "begin": "0.840", 
+   "end": "1.400", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "school"
+   ]
+  }, 
+  {
+   "begin": "1.400", 
+   "end": "1.600", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "1.600", 
+   "end": "2.200", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "next"
+   ]
+  }, 
+  {
+   "begin": "2.200", 
+   "end": "3.080", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "day,"
+   ]
+  }, 
+  {
+   "begin": "3.080", 
+   "end": "3.440", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "my"
+   ]
+  }, 
+  {
+   "begin": "3.440", 
+   "end": "3.600", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "mother"
+   ]
+  }, 
+  {
+   "begin": "3.600", 
+   "end": "4.000", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "gave"
+   ]
+  }, 
+  {
+   "begin": "4.000", 
+   "end": "4.400", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "me"
+   ]
+  }, 
+  {
+   "begin": "4.400", 
+   "end": "4.720", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "4.720", 
+   "end": "5.640", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "shiny"
+   ]
+  }, 
+  {
+   "begin": "5.640", 
+   "end": "5.840", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "new"
+   ]
+  }, 
+  {
+   "begin": "5.840", 
+   "end": "6.640", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "red"
+   ]
+  }, 
+  {
+   "begin": "6.640", 
+   "end": "7.080", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "cap."
+   ]
+  }, 
+  {
+   "begin": "7.080", 
+   "end": "7.920", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "\u201cThe"
+   ]
+  }, 
+  {
+   "begin": "7.920", 
+   "end": "8.440", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "moon"
+   ]
+  }, 
+  {
+   "begin": "8.440", 
+   "end": "8.800", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "sent"
+   ]
+  }, 
+  {
+   "begin": "8.800", 
+   "end": "9.040", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "it,\u201d"
+   ]
+  }, 
+  {
+   "begin": "9.040", 
+   "end": "9.720", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "she"
+   ]
+  }, 
+  {
+   "begin": "9.720", 
+   "end": "11.160", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "said."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.480", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "He"
+   ]
+  }, 
+  {
+   "begin": "0.480", 
+   "end": "1.240", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "lifts"
+   ]
+  }, 
+  {
+   "begin": "1.240", 
+   "end": "1.800", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "weights"
+   ]
+  }, 
+  {
+   "begin": "1.800", 
+   "end": "1.800", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "of"
+   ]
+  }, 
+  {
+   "begin": "1.800", 
+   "end": "2.040", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "2.040", 
+   "end": "2.880", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "hundred"
+   ]
+  }, 
+  {
+   "begin": "2.880", 
+   "end": "4.040", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "kilos."
+   ]
+  }
+ ]
+}

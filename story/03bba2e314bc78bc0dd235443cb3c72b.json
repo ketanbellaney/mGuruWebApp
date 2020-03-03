@@ -1,0 +1,112 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.000", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Not"
+   ]
+  }, 
+  {
+   "begin": "0.000", 
+   "end": "0.960", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "0.960", 
+   "end": "1.400", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "his"
+   ]
+  }, 
+  {
+   "begin": "1.400", 
+   "end": "2.800", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "family."
+   ]
+  }, 
+  {
+   "begin": "2.800", 
+   "end": "3.200", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "Not"
+   ]
+  }, 
+  {
+   "begin": "3.200", 
+   "end": "3.400", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "3.400", 
+   "end": "3.920", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "his"
+   ]
+  }, 
+  {
+   "begin": "3.920", 
+   "end": "4.200", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "neighbour."
+   ]
+  }, 
+  {
+   "begin": "4.200", 
+   "end": "4.640", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "Not"
+   ]
+  }, 
+  {
+   "begin": "4.640", 
+   "end": "5.920", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "5.920", 
+   "end": "6.200", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "his"
+   ]
+  }, 
+  {
+   "begin": "6.200", 
+   "end": "7.760", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "friends."
+   ]
+  }
+ ]
+}

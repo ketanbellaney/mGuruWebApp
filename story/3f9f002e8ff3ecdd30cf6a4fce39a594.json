@@ -1,0 +1,247 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.280", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Soon"
+   ]
+  }, 
+  {
+   "begin": "0.280", 
+   "end": "0.800", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "we"
+   ]
+  }, 
+  {
+   "begin": "0.800", 
+   "end": "1.000", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "will"
+   ]
+  }, 
+  {
+   "begin": "1.000", 
+   "end": "1.160", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "be"
+   ]
+  }, 
+  {
+   "begin": "1.160", 
+   "end": "2.160", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "celebrating"
+   ]
+  }, 
+  {
+   "begin": "2.160", 
+   "end": "4.080", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "Sankranti."
+   ]
+  }, 
+  {
+   "begin": "4.080", 
+   "end": "4.480", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "Janu"
+   ]
+  }, 
+  {
+   "begin": "4.480", 
+   "end": "5.160", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "says"
+   ]
+  }, 
+  {
+   "begin": "5.160", 
+   "end": "5.480", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "her"
+   ]
+  }, 
+  {
+   "begin": "5.480", 
+   "end": "6.040", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "family"
+   ]
+  }, 
+  {
+   "begin": "6.040", 
+   "end": "6.480", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "makes"
+   ]
+  }, 
+  {
+   "begin": "6.480", 
+   "end": "7.880", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "tilgud."
+   ]
+  }, 
+  {
+   "begin": "7.880", 
+   "end": "8.360", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "Rohan"
+   ]
+  }, 
+  {
+   "begin": "8.360", 
+   "end": "8.880", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "says"
+   ]
+  }, 
+  {
+   "begin": "8.880", 
+   "end": "9.160", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "his"
+   ]
+  }, 
+  {
+   "begin": "9.160", 
+   "end": "9.840", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "family"
+   ]
+  }, 
+  {
+   "begin": "9.840", 
+   "end": "10.280", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "makes"
+   ]
+  }, 
+  {
+   "begin": "10.280", 
+   "end": "11.480", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "yellu."
+   ]
+  }, 
+  {
+   "begin": "11.480", 
+   "end": "12.240", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "Narsi"
+   ]
+  }, 
+  {
+   "begin": "12.240", 
+   "end": "12.520", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "says"
+   ]
+  }, 
+  {
+   "begin": "12.520", 
+   "end": "12.680", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "he"
+   ]
+  }, 
+  {
+   "begin": "12.680", 
+   "end": "13.200", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "has"
+   ]
+  }, 
+  {
+   "begin": "13.200", 
+   "end": "13.720", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "chigdi"
+   ]
+  }, 
+  {
+   "begin": "13.720", 
+   "end": "13.760", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "during"
+   ]
+  }, 
+  {
+   "begin": "13.760", 
+   "end": "13.960", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "13.960", 
+   "end": "15.200", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "Sankranti"
+   ]
+  }, 
+  {
+   "begin": "15.200", 
+   "end": "16.120", 
+   "id": "f000027", 
+   "language": "en", 
+   "lines": [
+    "season."
+   ]
+  }
+ ]
+}

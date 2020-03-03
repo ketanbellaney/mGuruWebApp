@@ -1,0 +1,67 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.000", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "0.000", 
+   "end": "0.000", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "am"
+   ]
+  }, 
+  {
+   "begin": "0.000", 
+   "end": "0.000", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "0.000", 
+   "end": "0.280", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "big"
+   ]
+  }, 
+  {
+   "begin": "0.280", 
+   "end": "1.000", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "girl"
+   ]
+  }, 
+  {
+   "begin": "1.000", 
+   "end": "1.480", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "now."
+   ]
+  }, 
+  {
+   "begin": "1.480", 
+   "end": "2.680", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "&nbsp;"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,76 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.000", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Not"
+   ]
+  }, 
+  {
+   "begin": "0.000", 
+   "end": "0.320", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "on"
+   ]
+  }, 
+  {
+   "begin": "0.320", 
+   "end": "0.920", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "0.920", 
+   "end": "2.520", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "sofa."
+   ]
+  }, 
+  {
+   "begin": "2.520", 
+   "end": "3.040", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "Not"
+   ]
+  }, 
+  {
+   "begin": "3.040", 
+   "end": "3.280", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "under"
+   ]
+  }, 
+  {
+   "begin": "3.280", 
+   "end": "3.520", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "3.520", 
+   "end": "4.480", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "cot."
+   ]
+  }
+ ]
+}

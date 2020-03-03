@@ -1,0 +1,337 @@
+{
+ "fragments": [ 
+  {
+   "begin": "0.760", 
+   "end": "0.760", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "\u201cI"
+   ]
+  }, 
+  {
+   "begin": "0.760", 
+   "end": "0.760", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "will"
+   ]
+  }, 
+  {
+   "begin": "0.760", 
+   "end": "0.840", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "go"
+   ]
+  }, 
+  {
+   "begin": "0.840", 
+   "end": "1.480", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "away"
+   ]
+  }, 
+  {
+   "begin": "1.480", 
+   "end": "1.760", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "from"
+   ]
+  }, 
+  {
+   "begin": "1.760", 
+   "end": "2.000", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "this"
+   ]
+  }, 
+  {
+   "begin": "2.000", 
+   "end": "2.920", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "place,\u201d"
+   ]
+  }, 
+  {
+   "begin": "2.920", 
+   "end": "3.280", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "he"
+   ]
+  }, 
+  {
+   "begin": "3.280", 
+   "end": "3.600", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "declared"
+   ]
+  }, 
+  {
+   "begin": "3.600", 
+   "end": "3.680", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "one"
+   ]
+  }, 
+  {
+   "begin": "3.680", 
+   "end": "4.040", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "morning."
+   ]
+  }, 
+  {
+   "begin": "4.040", 
+   "end": "4.560", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "&nbsp;"
+   ]
+  }, 
+  {
+   "begin": "4.560", 
+   "end": "6.080", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "\u201cPlease"
+   ]
+  }, 
+  {
+   "begin": "6.080", 
+   "end": "7.240", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "don\u2019t,\u201d"
+   ]
+  }, 
+  {
+   "begin": "7.240", 
+   "end": "7.680", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "said"
+   ]
+  }, 
+  {
+   "begin": "7.680", 
+   "end": "8.080", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "Parvatamma."
+   ]
+  }, 
+  {
+   "begin": "8.080", 
+   "end": "9.160", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "\u201cWhere"
+   ]
+  }, 
+  {
+   "begin": "9.160", 
+   "end": "9.720", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "will"
+   ]
+  }, 
+  {
+   "begin": "9.720", 
+   "end": "9.880", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "you"
+   ]
+  }, 
+  {
+   "begin": "9.880", 
+   "end": "10.240", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "find"
+   ]
+  }, 
+  {
+   "begin": "10.240", 
+   "end": "11.600", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "silence?\u201d\n"
+   ]
+  }, 
+  {
+   "begin": "11.600", 
+   "end": "11.600", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    ""
+   ]
+  }, 
+  {
+   "begin": "11.600", 
+   "end": "11.600", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    ""
+   ]
+  }, 
+  {
+   "begin": "11.600", 
+   "end": "12.240", 
+   "id": "f000027", 
+   "language": "en", 
+   "lines": [
+    "Sringeri"
+   ]
+  }, 
+  {
+   "begin": "12.240", 
+   "end": "13.160", 
+   "id": "f000028", 
+   "language": "en", 
+   "lines": [
+    "Srinivas"
+   ]
+  }, 
+  {
+   "begin": "13.160", 
+   "end": "13.600", 
+   "id": "f000029", 
+   "language": "en", 
+   "lines": [
+    "simply"
+   ]
+  }, 
+  {
+   "begin": "13.600", 
+   "end": "14.240", 
+   "id": "f000030", 
+   "language": "en", 
+   "lines": [
+    "frowned"
+   ]
+  }, 
+  {
+   "begin": "14.240", 
+   "end": "14.280", 
+   "id": "f000031", 
+   "language": "en", 
+   "lines": [
+    "at"
+   ]
+  }, 
+  {
+   "begin": "14.280", 
+   "end": "15.000", 
+   "id": "f000032", 
+   "language": "en", 
+   "lines": [
+    "her"
+   ]
+  }, 
+  {
+   "begin": "15.000", 
+   "end": "15.320", 
+   "id": "f000033", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "15.320", 
+   "end": "15.640", 
+   "id": "f000034", 
+   "language": "en", 
+   "lines": [
+    "started"
+   ]
+  }, 
+  {
+   "begin": "15.640", 
+   "end": "15.680", 
+   "id": "f000035", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "15.680", 
+   "end": "16.280", 
+   "id": "f000036", 
+   "language": "en", 
+   "lines": [
+    "walk"
+   ]
+  }, 
+  {
+   "begin": "16.280", 
+   "end": "16.640", 
+   "id": "f000037", 
+   "language": "en", 
+   "lines": [
+    "away"
+   ]
+  }, 
+  {
+   "begin": "16.640", 
+   "end": "16.920", 
+   "id": "f000038", 
+   "language": "en", 
+   "lines": [
+    "from"
+   ]
+  }, 
+  {
+   "begin": "16.920", 
+   "end": "17.160", 
+   "id": "f000039", 
+   "language": "en", 
+   "lines": [
+    "his"
+   ]
+  }, 
+  {
+   "begin": "17.160", 
+   "end": "18.120", 
+   "id": "f000040", 
+   "language": "en", 
+   "lines": [
+    "village."
+   ]
+  }
+ ]
+}

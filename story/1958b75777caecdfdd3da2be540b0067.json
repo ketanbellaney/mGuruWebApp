@@ -1,0 +1,58 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "1.400", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Pehelwaan"
+   ]
+  }, 
+  {
+   "begin": "1.400", 
+   "end": "1.640", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "ji"
+   ]
+  }, 
+  {
+   "begin": "1.640", 
+   "end": "1.640", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "caught"
+   ]
+  }, 
+  {
+   "begin": "1.640", 
+   "end": "2.360", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "hold"
+   ]
+  }, 
+  {
+   "begin": "2.360", 
+   "end": "2.520", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "of"
+   ]
+  }, 
+  {
+   "begin": "2.520", 
+   "end": "4.080", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "Gappu."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,139 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.520", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "\"He\u2019s"
+   ]
+  }, 
+  {
+   "begin": "0.520", 
+   "end": "0.880", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "not"
+   ]
+  }, 
+  {
+   "begin": "0.880", 
+   "end": "1.400", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "afraid"
+   ]
+  }, 
+  {
+   "begin": "1.400", 
+   "end": "1.400", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "of"
+   ]
+  }, 
+  {
+   "begin": "1.400", 
+   "end": "2.880", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "crowds,\""
+   ]
+  }, 
+  {
+   "begin": "2.880", 
+   "end": "3.320", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "said"
+   ]
+  }, 
+  {
+   "begin": "3.320", 
+   "end": "3.880", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "Abdul."
+   ]
+  }, 
+  {
+   "begin": "3.880", 
+   "end": "3.880", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    ""
+   ]
+  }, 
+  {
+   "begin": "3.880", 
+   "end": "5.160", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "\"Oh,\""
+   ]
+  }, 
+  {
+   "begin": "5.160", 
+   "end": "5.920", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "said"
+   ]
+  }, 
+  {
+   "begin": "5.920", 
+   "end": "6.400", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "Ammu."
+   ]
+  }, 
+  {
+   "begin": "6.400", 
+   "end": "7.280", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "\"I"
+   ]
+  }, 
+  {
+   "begin": "7.280", 
+   "end": "7.480", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "made"
+   ]
+  }, 
+  {
+   "begin": "7.480", 
+   "end": "8.040", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "that"
+   ]
+  }, 
+  {
+   "begin": "8.040", 
+   "end": "8.120", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "up!\""
+   ]
+  }
+ ]
+}

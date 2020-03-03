@@ -1,0 +1,193 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "1.000", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "\u201cYes,"
+   ]
+  }, 
+  {
+   "begin": "1.000", 
+   "end": "1.120", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "you"
+   ]
+  }, 
+  {
+   "begin": "1.120", 
+   "end": "1.480", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "are"
+   ]
+  }, 
+  {
+   "begin": "1.480", 
+   "end": "2.120", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "right."
+   ]
+  }, 
+  {
+   "begin": "2.120", 
+   "end": "2.920", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "But"
+   ]
+  }, 
+  {
+   "begin": "2.920", 
+   "end": "3.320", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "please"
+   ]
+  }, 
+  {
+   "begin": "3.320", 
+   "end": "3.600", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "don\u2019t"
+   ]
+  }, 
+  {
+   "begin": "3.600", 
+   "end": "3.960", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "tell"
+   ]
+  }, 
+  {
+   "begin": "3.960", 
+   "end": "4.440", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "anybody"
+   ]
+  }, 
+  {
+   "begin": "4.440", 
+   "end": "5.200", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "or"
+   ]
+  }, 
+  {
+   "begin": "5.200", 
+   "end": "5.440", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "they"
+   ]
+  }, 
+  {
+   "begin": "5.440", 
+   "end": "5.880", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "will"
+   ]
+  }, 
+  {
+   "begin": "5.880", 
+   "end": "6.520", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "say"
+   ]
+  }, 
+  {
+   "begin": "6.520", 
+   "end": "6.800", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "their"
+   ]
+  }, 
+  {
+   "begin": "6.800", 
+   "end": "7.160", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "king"
+   ]
+  }, 
+  {
+   "begin": "7.160", 
+   "end": "7.520", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "doesn\u2019t"
+   ]
+  }, 
+  {
+   "begin": "7.520", 
+   "end": "7.840", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "keep"
+   ]
+  }, 
+  {
+   "begin": "7.840", 
+   "end": "8.560", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "clean\u2026\u201d"
+   ]
+  }, 
+  {
+   "begin": "8.560", 
+   "end": "9.280", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "pleaded"
+   ]
+  }, 
+  {
+   "begin": "9.280", 
+   "end": "9.600", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "9.600", 
+   "end": "10.600", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "lion."
+   ]
+  }
+ ]
+}

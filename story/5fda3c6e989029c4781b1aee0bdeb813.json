@@ -1,0 +1,256 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.200", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "The"
+   ]
+  }, 
+  {
+   "begin": "0.200", 
+   "end": "0.800", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "strange"
+   ]
+  }, 
+  {
+   "begin": "0.800", 
+   "end": "1.160", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "man"
+   ]
+  }, 
+  {
+   "begin": "1.160", 
+   "end": "1.480", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "came"
+   ]
+  }, 
+  {
+   "begin": "1.480", 
+   "end": "1.640", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "1.640", 
+   "end": "1.760", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "1.760", 
+   "end": "2.080", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "village."
+   ]
+  }, 
+  {
+   "begin": "2.080", 
+   "end": "3.280", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "He"
+   ]
+  }, 
+  {
+   "begin": "3.280", 
+   "end": "3.680", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "was"
+   ]
+  }, 
+  {
+   "begin": "3.680", 
+   "end": "5.240", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "thirsty."
+   ]
+  }, 
+  {
+   "begin": "5.240", 
+   "end": "5.640", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "So"
+   ]
+  }, 
+  {
+   "begin": "5.640", 
+   "end": "5.640", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "5.640", 
+   "end": "6.040", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "village"
+   ]
+  }, 
+  {
+   "begin": "6.040", 
+   "end": "6.400", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "woman"
+   ]
+  }, 
+  {
+   "begin": "6.400", 
+   "end": "6.600", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "gave"
+   ]
+  }, 
+  {
+   "begin": "6.600", 
+   "end": "6.800", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "him"
+   ]
+  }, 
+  {
+   "begin": "6.800", 
+   "end": "6.960", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "6.960", 
+   "end": "7.520", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "glass"
+   ]
+  }, 
+  {
+   "begin": "7.520", 
+   "end": "7.720", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "of"
+   ]
+  }, 
+  {
+   "begin": "7.720", 
+   "end": "7.840", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "water"
+   ]
+  }, 
+  {
+   "begin": "7.840", 
+   "end": "8.040", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "8.040", 
+   "end": "9.280", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "drink."
+   ]
+  }, 
+  {
+   "begin": "9.280", 
+   "end": "9.520", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "Her"
+   ]
+  }, 
+  {
+   "begin": "9.520", 
+   "end": "10.280", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "grandson"
+   ]
+  }, 
+  {
+   "begin": "10.280", 
+   "end": "10.680", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "offered"
+   ]
+  }, 
+  {
+   "begin": "10.680", 
+   "end": "10.960", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "him"
+   ]
+  }, 
+  {
+   "begin": "10.960", 
+   "end": "11.000", 
+   "id": "f000027", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "11.000", 
+   "end": "12.080", 
+   "id": "f000028", 
+   "language": "en", 
+   "lines": [
+    "mango."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,130 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.000", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "It"
+   ]
+  }, 
+  {
+   "begin": "0.000", 
+   "end": "1.480", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "tried"
+   ]
+  }, 
+  {
+   "begin": "1.480", 
+   "end": "1.720", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "on"
+   ]
+  }, 
+  {
+   "begin": "1.720", 
+   "end": "2.120", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "my"
+   ]
+  }, 
+  {
+   "begin": "2.120", 
+   "end": "3.000", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "cap."
+   ]
+  }, 
+  {
+   "begin": "3.000", 
+   "end": "3.360", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "The"
+   ]
+  }, 
+  {
+   "begin": "3.360", 
+   "end": "3.640", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "moon"
+   ]
+  }, 
+  {
+   "begin": "3.640", 
+   "end": "4.440", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "smiled"
+   ]
+  }, 
+  {
+   "begin": "4.440", 
+   "end": "5.160", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "happily."
+   ]
+  }, 
+  {
+   "begin": "5.160", 
+   "end": "5.920", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "5.920", 
+   "end": "6.440", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "had"
+   ]
+  }, 
+  {
+   "begin": "6.440", 
+   "end": "6.640", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "6.640", 
+   "end": "7.320", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "smile"
+   ]
+  }, 
+  {
+   "begin": "7.320", 
+   "end": "8.360", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "too."
+   ]
+  }
+ ]
+}

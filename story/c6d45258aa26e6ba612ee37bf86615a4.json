@@ -1,0 +1,58 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.400", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Both"
+   ]
+  }, 
+  {
+   "begin": "0.400", 
+   "end": "0.800", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "of"
+   ]
+  }, 
+  {
+   "begin": "0.800", 
+   "end": "1.160", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "them"
+   ]
+  }, 
+  {
+   "begin": "1.160", 
+   "end": "1.760", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "slapped"
+   ]
+  }, 
+  {
+   "begin": "1.760", 
+   "end": "2.080", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "their"
+   ]
+  }, 
+  {
+   "begin": "2.080", 
+   "end": "3.520", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "thighs!"
+   ]
+  }
+ ]
+}

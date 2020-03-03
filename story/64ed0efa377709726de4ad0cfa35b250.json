@@ -1,0 +1,67 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.440", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "We"
+   ]
+  }, 
+  {
+   "begin": "0.440", 
+   "end": "1.000", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "do"
+   ]
+  }, 
+  {
+   "begin": "1.000", 
+   "end": "1.640", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "everything"
+   ]
+  }, 
+  {
+   "begin": "1.640", 
+   "end": "3.440", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "together."
+   ]
+  }, 
+  {
+   "begin": "3.440", 
+   "end": "3.760", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "We"
+   ]
+  }, 
+  {
+   "begin": "3.760", 
+   "end": "4.120", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "work"
+   ]
+  }, 
+  {
+   "begin": "4.120", 
+   "end": "4.760", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "together."
+   ]
+  }
+ ]
+}

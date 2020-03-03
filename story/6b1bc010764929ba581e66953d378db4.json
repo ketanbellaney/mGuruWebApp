@@ -1,0 +1,220 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.400", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "There"
+   ]
+  }, 
+  {
+   "begin": "0.400", 
+   "end": "0.800", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "was"
+   ]
+  }, 
+  {
+   "begin": "0.800", 
+   "end": "0.920", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "0.920", 
+   "end": "1.280", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "jungle"
+   ]
+  }, 
+  {
+   "begin": "1.280", 
+   "end": "1.440", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "by"
+   ]
+  }, 
+  {
+   "begin": "1.440", 
+   "end": "1.560", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "1.560", 
+   "end": "1.960", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "side"
+   ]
+  }, 
+  {
+   "begin": "1.960", 
+   "end": "2.280", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "of"
+   ]
+  }, 
+  {
+   "begin": "2.280", 
+   "end": "2.480", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "2.480", 
+   "end": "3.320", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "village."
+   ]
+  }, 
+  {
+   "begin": "3.320", 
+   "end": "3.600", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "A"
+   ]
+  }, 
+  {
+   "begin": "3.600", 
+   "end": "3.840", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "stray"
+   ]
+  }, 
+  {
+   "begin": "3.840", 
+   "end": "4.160", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "dog"
+   ]
+  }, 
+  {
+   "begin": "4.160", 
+   "end": "4.320", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "of"
+   ]
+  }, 
+  {
+   "begin": "4.320", 
+   "end": "4.480", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "4.480", 
+   "end": "5.280", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "village"
+   ]
+  }, 
+  {
+   "begin": "5.280", 
+   "end": "5.520", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "gave"
+   ]
+  }, 
+  {
+   "begin": "5.520", 
+   "end": "5.960", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "birth"
+   ]
+  }, 
+  {
+   "begin": "5.960", 
+   "end": "6.160", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "6.160", 
+   "end": "6.480", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "three"
+   ]
+  }, 
+  {
+   "begin": "6.480", 
+   "end": "6.880", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "pups"
+   ]
+  }, 
+  {
+   "begin": "6.880", 
+   "end": "7.000", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "in"
+   ]
+  }, 
+  {
+   "begin": "7.000", 
+   "end": "7.360", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "that"
+   ]
+  }, 
+  {
+   "begin": "7.360", 
+   "end": "8.080", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "jungle."
+   ]
+  }
+ ]
+}

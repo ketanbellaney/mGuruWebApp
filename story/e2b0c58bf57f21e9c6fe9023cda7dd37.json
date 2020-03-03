@@ -1,0 +1,94 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.240", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Look"
+   ]
+  }, 
+  {
+   "begin": "0.240", 
+   "end": "0.800", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "at"
+   ]
+  }, 
+  {
+   "begin": "0.800", 
+   "end": "1.720", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "us.\n"
+   ]
+  }, 
+  {
+   "begin": "1.720", 
+   "end": "1.880", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "Do"
+   ]
+  }, 
+  {
+   "begin": "1.880", 
+   "end": "2.360", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "you"
+   ]
+  }, 
+  {
+   "begin": "2.360", 
+   "end": "3.040", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "want"
+   ]
+  }, 
+  {
+   "begin": "3.040", 
+   "end": "3.080", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "3.080", 
+   "end": "3.440", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "be"
+   ]
+  }, 
+  {
+   "begin": "3.440", 
+   "end": "3.560", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "our"
+   ]
+  }, 
+  {
+   "begin": "3.560", 
+   "end": "3.720", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "friend?"
+   ]
+  }
+ ]
+}

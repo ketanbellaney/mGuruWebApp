@@ -1,0 +1,256 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.360", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "After"
+   ]
+  }, 
+  {
+   "begin": "0.360", 
+   "end": "0.720", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "their"
+   ]
+  }, 
+  {
+   "begin": "0.720", 
+   "end": "1.400", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "bath"
+   ]
+  }, 
+  {
+   "begin": "1.400", 
+   "end": "1.840", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "Mana"
+   ]
+  }, 
+  {
+   "begin": "1.840", 
+   "end": "2.320", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "stands"
+   ]
+  }, 
+  {
+   "begin": "2.320", 
+   "end": "2.560", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "up."
+   ]
+  }, 
+  {
+   "begin": "2.560", 
+   "end": "3.560", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "Holding"
+   ]
+  }, 
+  {
+   "begin": "3.560", 
+   "end": "4.120", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "Appu's"
+   ]
+  }, 
+  {
+   "begin": "4.120", 
+   "end": "4.840", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "ears,"
+   ]
+  }, 
+  {
+   "begin": "4.840", 
+   "end": "5.040", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "he"
+   ]
+  }, 
+  {
+   "begin": "5.040", 
+   "end": "5.520", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "climbs"
+   ]
+  }, 
+  {
+   "begin": "5.520", 
+   "end": "5.560", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "up"
+   ]
+  }, 
+  {
+   "begin": "5.560", 
+   "end": "5.720", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "5.720", 
+   "end": "6.160", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "trunk"
+   ]
+  }, 
+  {
+   "begin": "6.160", 
+   "end": "6.360", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "6.360", 
+   "end": "6.920", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "sits"
+   ]
+  }, 
+  {
+   "begin": "6.920", 
+   "end": "7.200", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "on"
+   ]
+  }, 
+  {
+   "begin": "7.200", 
+   "end": "7.720", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "Appu's"
+   ]
+  }, 
+  {
+   "begin": "7.720", 
+   "end": "8.080", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "back."
+   ]
+  }, 
+  {
+   "begin": "8.080", 
+   "end": "8.080", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "The"
+   ]
+  }, 
+  {
+   "begin": "8.080", 
+   "end": "8.800", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "two"
+   ]
+  }, 
+  {
+   "begin": "8.800", 
+   "end": "9.560", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "friends"
+   ]
+  }, 
+  {
+   "begin": "9.560", 
+   "end": "9.960", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "now"
+   ]
+  }, 
+  {
+   "begin": "9.960", 
+   "end": "10.000", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "go"
+   ]
+  }, 
+  {
+   "begin": "10.000", 
+   "end": "10.320", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "all"
+   ]
+  }, 
+  {
+   "begin": "10.320", 
+   "end": "10.840", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "over"
+   ]
+  }, 
+  {
+   "begin": "10.840", 
+   "end": "10.960", 
+   "id": "f000027", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "10.960", 
+   "end": "11.880", 
+   "id": "f000028", 
+   "language": "en", 
+   "lines": [
+    "forest."
+   ]
+  }
+ ]
+}

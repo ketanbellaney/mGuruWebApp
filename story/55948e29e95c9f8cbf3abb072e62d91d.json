@@ -1,0 +1,292 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.520", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Bani"
+   ]
+  }, 
+  {
+   "begin": "0.520", 
+   "end": "1.080", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "is"
+   ]
+  }, 
+  {
+   "begin": "1.080", 
+   "end": "1.120", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "1.120", 
+   "end": "1.680", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "little"
+   ]
+  }, 
+  {
+   "begin": "1.680", 
+   "end": "2.040", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "girl"
+   ]
+  }, 
+  {
+   "begin": "2.040", 
+   "end": "2.040", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "of"
+   ]
+  }, 
+  {
+   "begin": "2.040", 
+   "end": "2.680", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "four.\n"
+   ]
+  }, 
+  {
+   "begin": "2.680", 
+   "end": "2.680", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    ""
+   ]
+  }, 
+  {
+   "begin": "2.680", 
+   "end": "2.680", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    ""
+   ]
+  }, 
+  {
+   "begin": "2.680", 
+   "end": "4.000", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "She"
+   ]
+  }, 
+  {
+   "begin": "4.000", 
+   "end": "4.000", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "lives"
+   ]
+  }, 
+  {
+   "begin": "4.000", 
+   "end": "4.120", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "in"
+   ]
+  }, 
+  {
+   "begin": "4.120", 
+   "end": "4.360", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "4.360", 
+   "end": "4.840", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "house"
+   ]
+  }, 
+  {
+   "begin": "4.840", 
+   "end": "4.920", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "with"
+   ]
+  }, 
+  {
+   "begin": "4.920", 
+   "end": "5.040", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "5.040", 
+   "end": "5.440", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "green"
+   ]
+  }, 
+  {
+   "begin": "5.440", 
+   "end": "5.800", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "door.\n"
+   ]
+  }, 
+  {
+   "begin": "5.800", 
+   "end": "6.560", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    ""
+   ]
+  }, 
+  {
+   "begin": "6.560", 
+   "end": "6.560", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    ""
+   ]
+  }, 
+  {
+   "begin": "6.560", 
+   "end": "6.760", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "She"
+   ]
+  }, 
+  {
+   "begin": "6.760", 
+   "end": "7.080", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "goes"
+   ]
+  }, 
+  {
+   "begin": "7.080", 
+   "end": "7.280", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "7.280", 
+   "end": "7.480", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "7.480", 
+   "end": "7.840", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "school"
+   ]
+  }, 
+  {
+   "begin": "7.840", 
+   "end": "8.120", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "with"
+   ]
+  }, 
+  {
+   "begin": "8.120", 
+   "end": "8.480", 
+   "id": "f000027", 
+   "language": "en", 
+   "lines": [
+    "bright"
+   ]
+  }, 
+  {
+   "begin": "8.480", 
+   "end": "9.000", 
+   "id": "f000028", 
+   "language": "en", 
+   "lines": [
+    "yellow"
+   ]
+  }, 
+  {
+   "begin": "9.000", 
+   "end": "9.880", 
+   "id": "f000029", 
+   "language": "en", 
+   "lines": [
+    "windows"
+   ]
+  }, 
+  {
+   "begin": "9.880", 
+   "end": "10.480", 
+   "id": "f000030", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "10.480", 
+   "end": "10.560", 
+   "id": "f000031", 
+   "language": "en", 
+   "lines": [
+    "red"
+   ]
+  }, 
+  {
+   "begin": "10.560", 
+   "end": "11.320", 
+   "id": "f000032", 
+   "language": "en", 
+   "lines": [
+    "doors."
+   ]
+  }
+ ]
+}

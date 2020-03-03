@@ -1,0 +1,319 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.640", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "But,"
+   ]
+  }, 
+  {
+   "begin": "0.640", 
+   "end": "1.800", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "today,"
+   ]
+  }, 
+  {
+   "begin": "1.800", 
+   "end": "2.080", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "what"
+   ]
+  }, 
+  {
+   "begin": "2.080", 
+   "end": "2.200", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "did"
+   ]
+  }, 
+  {
+   "begin": "2.200", 
+   "end": "2.680", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "Chinchi"
+   ]
+  }, 
+  {
+   "begin": "2.680", 
+   "end": "3.640", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "see?\n"
+   ]
+  }, 
+  {
+   "begin": "3.640", 
+   "end": "4.280", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "Rupa,"
+   ]
+  }, 
+  {
+   "begin": "4.280", 
+   "end": "4.440", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "4.440", 
+   "end": "5.320", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "Elephant,"
+   ]
+  }, 
+  {
+   "begin": "5.320", 
+   "end": "5.640", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "was"
+   ]
+  }, 
+  {
+   "begin": "5.640", 
+   "end": "6.400", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "sighing"
+   ]
+  }, 
+  {
+   "begin": "6.400", 
+   "end": "6.640", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "6.640", 
+   "end": "7.360", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "sobbing."
+   ]
+  }, 
+  {
+   "begin": "7.360", 
+   "end": "8.200", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "She"
+   ]
+  }, 
+  {
+   "begin": "8.200", 
+   "end": "8.400", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "stood"
+   ]
+  }, 
+  {
+   "begin": "8.400", 
+   "end": "8.480", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "in"
+   ]
+  }, 
+  {
+   "begin": "8.480", 
+   "end": "8.720", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "8.720", 
+   "end": "9.600", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "corner"
+   ]
+  }, 
+  {
+   "begin": "9.600", 
+   "end": "9.920", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "while"
+   ]
+  }, 
+  {
+   "begin": "9.920", 
+   "end": "10.520", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "tears"
+   ]
+  }, 
+  {
+   "begin": "10.520", 
+   "end": "10.800", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "rolled"
+   ]
+  }, 
+  {
+   "begin": "10.800", 
+   "end": "11.240", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "own"
+   ]
+  }, 
+  {
+   "begin": "11.240", 
+   "end": "11.520", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "her"
+   ]
+  }, 
+  {
+   "begin": "11.520", 
+   "end": "11.680", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "chicks"
+   ]
+  }, 
+  {
+   "begin": "11.680", 
+   "end": "11.920", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "into"
+   ]
+  }, 
+  {
+   "begin": "11.920", 
+   "end": "12.080", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "12.080", 
+   "end": "12.720", 
+   "id": "f000027", 
+   "language": "en", 
+   "lines": [
+    "grass.\n"
+   ]
+  }, 
+  {
+   "begin": "12.720", 
+   "end": "14.320", 
+   "id": "f000028", 
+   "language": "en", 
+   "lines": [
+    "\"Why,"
+   ]
+  }, 
+  {
+   "begin": "14.320", 
+   "end": "15.000", 
+   "id": "f000029", 
+   "language": "en", 
+   "lines": [
+    "Rupa,"
+   ]
+  }, 
+  {
+   "begin": "15.000", 
+   "end": "15.680", 
+   "id": "f000030", 
+   "language": "en", 
+   "lines": [
+    "whatever"
+   ]
+  }, 
+  {
+   "begin": "15.680", 
+   "end": "15.760", 
+   "id": "f000031", 
+   "language": "en", 
+   "lines": [
+    "is"
+   ]
+  }, 
+  {
+   "begin": "15.760", 
+   "end": "16.040", 
+   "id": "f000032", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "16.040", 
+   "end": "16.320", 
+   "id": "f000033", 
+   "language": "en", 
+   "lines": [
+    "matter?\""
+   ]
+  }, 
+  {
+   "begin": "16.320", 
+   "end": "17.320", 
+   "id": "f000034", 
+   "language": "en", 
+   "lines": [
+    "chirped"
+   ]
+  }, 
+  {
+   "begin": "17.320", 
+   "end": "18.160", 
+   "id": "f000035", 
+   "language": "en", 
+   "lines": [
+    "Chinchi."
+   ]
+  }
+ ]
+}

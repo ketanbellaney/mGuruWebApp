@@ -1,0 +1,337 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.640", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "0.640", 
+   "end": "1.280", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "like"
+   ]
+  }, 
+  {
+   "begin": "1.280", 
+   "end": "1.600", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "1.600", 
+   "end": "2.960", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "count."
+   ]
+  }, 
+  {
+   "begin": "2.960", 
+   "end": "3.440", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "Mannu"
+   ]
+  }, 
+  {
+   "begin": "3.440", 
+   "end": "3.800", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "plays"
+   ]
+  }, 
+  {
+   "begin": "3.800", 
+   "end": "4.120", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "with"
+   ]
+  }, 
+  {
+   "begin": "4.120", 
+   "end": "5.040", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "blocks"
+   ]
+  }, 
+  {
+   "begin": "5.040", 
+   "end": "5.240", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "5.240", 
+   "end": "5.760", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "puts"
+   ]
+  }, 
+  {
+   "begin": "5.760", 
+   "end": "6.280", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "different"
+   ]
+  }, 
+  {
+   "begin": "6.280", 
+   "end": "6.840", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "shapes"
+   ]
+  }, 
+  {
+   "begin": "6.840", 
+   "end": "8.360", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "together."
+   ]
+  }, 
+  {
+   "begin": "8.360", 
+   "end": "8.600", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "He"
+   ]
+  }, 
+  {
+   "begin": "8.600", 
+   "end": "9.000", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "likes"
+   ]
+  }, 
+  {
+   "begin": "9.000", 
+   "end": "9.280", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "9.280", 
+   "end": "9.800", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "play"
+   ]
+  }, 
+  {
+   "begin": "9.800", 
+   "end": "9.880", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "with"
+   ]
+  }, 
+  {
+   "begin": "9.880", 
+   "end": "11.240", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "beads."
+   ]
+  }, 
+  {
+   "begin": "11.240", 
+   "end": "11.720", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "11.720", 
+   "end": "11.840", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "like"
+   ]
+  }, 
+  {
+   "begin": "11.840", 
+   "end": "12.040", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "12.040", 
+   "end": "12.800", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "cards"
+   ]
+  }, 
+  {
+   "begin": "12.800", 
+   "end": "12.960", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "with"
+   ]
+  }, 
+  {
+   "begin": "12.960", 
+   "end": "14.280", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "dots."
+   ]
+  }, 
+  {
+   "begin": "14.280", 
+   "end": "14.520", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "Our"
+   ]
+  }, 
+  {
+   "begin": "14.520", 
+   "end": "15.080", 
+   "id": "f000027", 
+   "language": "en", 
+   "lines": [
+    "teacher"
+   ]
+  }, 
+  {
+   "begin": "15.080", 
+   "end": "15.800", 
+   "id": "f000028", 
+   "language": "en", 
+   "lines": [
+    "says"
+   ]
+  }, 
+  {
+   "begin": "15.800", 
+   "end": "16.600", 
+   "id": "f000029", 
+   "language": "en", 
+   "lines": [
+    "playing"
+   ]
+  }, 
+  {
+   "begin": "16.600", 
+   "end": "16.880", 
+   "id": "f000030", 
+   "language": "en", 
+   "lines": [
+    "with"
+   ]
+  }, 
+  {
+   "begin": "16.880", 
+   "end": "17.200", 
+   "id": "f000031", 
+   "language": "en", 
+   "lines": [
+    "these"
+   ]
+  }, 
+  {
+   "begin": "17.200", 
+   "end": "18.000", 
+   "id": "f000032", 
+   "language": "en", 
+   "lines": [
+    "toys"
+   ]
+  }, 
+  {
+   "begin": "18.000", 
+   "end": "18.440", 
+   "id": "f000033", 
+   "language": "en", 
+   "lines": [
+    "is"
+   ]
+  }, 
+  {
+   "begin": "18.440", 
+   "end": "18.840", 
+   "id": "f000034", 
+   "language": "en", 
+   "lines": [
+    "good"
+   ]
+  }, 
+  {
+   "begin": "18.840", 
+   "end": "19.080", 
+   "id": "f000035", 
+   "language": "en", 
+   "lines": [
+    "for"
+   ]
+  }, 
+  {
+   "begin": "19.080", 
+   "end": "19.240", 
+   "id": "f000036", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "19.240", 
+   "end": "20.600", 
+   "id": "f000037", 
+   "language": "en", 
+   "lines": [
+    "brain."
+   ]
+  }
+ ]
+}

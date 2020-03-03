@@ -1,0 +1,103 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.440", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "And"
+   ]
+  }, 
+  {
+   "begin": "0.440", 
+   "end": "1.280", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "soon"
+   ]
+  }, 
+  {
+   "begin": "1.280", 
+   "end": "1.720", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "Mitha's"
+   ]
+  }, 
+  {
+   "begin": "1.720", 
+   "end": "2.360", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "friends"
+   ]
+  }, 
+  {
+   "begin": "2.360", 
+   "end": "2.720", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "grow"
+   ]
+  }, 
+  {
+   "begin": "2.720", 
+   "end": "3.480", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "jealous"
+   ]
+  }, 
+  {
+   "begin": "3.480", 
+   "end": "3.840", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "3.840", 
+   "end": "4.120", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "stop"
+   ]
+  }, 
+  {
+   "begin": "4.120", 
+   "end": "4.480", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "speaking"
+   ]
+  }, 
+  {
+   "begin": "4.480", 
+   "end": "4.720", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "4.720", 
+   "end": "5.440", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "her."
+   ]
+  }
+ ]
+}

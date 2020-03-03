@@ -1,0 +1,67 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.760", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Guess"
+   ]
+  }, 
+  {
+   "begin": "0.760", 
+   "end": "1.200", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "which"
+   ]
+  }, 
+  {
+   "begin": "1.200", 
+   "end": "1.720", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "cap"
+   ]
+  }, 
+  {
+   "begin": "1.720", 
+   "end": "2.160", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "2.160", 
+   "end": "2.240", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "am"
+   ]
+  }, 
+  {
+   "begin": "2.240", 
+   "end": "2.800", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "wearing"
+   ]
+  }, 
+  {
+   "begin": "2.800", 
+   "end": "3.760", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "today!"
+   ]
+  }
+ ]
+}

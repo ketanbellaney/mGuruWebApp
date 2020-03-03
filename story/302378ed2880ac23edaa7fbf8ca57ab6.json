@@ -1,0 +1,49 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.200", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "He"
+   ]
+  }, 
+  {
+   "begin": "0.200", 
+   "end": "0.640", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "read"
+   ]
+  }, 
+  {
+   "begin": "0.640", 
+   "end": "0.800", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "0.800", 
+   "end": "1.120", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "good"
+   ]
+  }, 
+  {
+   "begin": "1.120", 
+   "end": "1.800", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "joke."
+   ]
+  }
+ ]
+}

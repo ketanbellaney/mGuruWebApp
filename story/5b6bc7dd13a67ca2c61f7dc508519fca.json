@@ -1,0 +1,238 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.480", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Bittu"
+   ]
+  }, 
+  {
+   "begin": "0.480", 
+   "end": "1.400", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "finished"
+   ]
+  }, 
+  {
+   "begin": "1.400", 
+   "end": "1.880", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "singing"
+   ]
+  }, 
+  {
+   "begin": "1.880", 
+   "end": "2.040", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "2.040", 
+   "end": "2.520", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "film"
+   ]
+  }, 
+  {
+   "begin": "2.520", 
+   "end": "3.280", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "song"
+   ]
+  }, 
+  {
+   "begin": "3.280", 
+   "end": "3.440", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "very"
+   ]
+  }, 
+  {
+   "begin": "3.440", 
+   "end": "5.800", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "loudly.&nbsp;"
+   ]
+  }, 
+  {
+   "begin": "5.800", 
+   "end": "6.240", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "Manju"
+   ]
+  }, 
+  {
+   "begin": "6.240", 
+   "end": "6.440", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "took"
+   ]
+  }, 
+  {
+   "begin": "6.440", 
+   "end": "6.640", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "6.640", 
+   "end": "7.200", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "crumpled"
+   ]
+  }, 
+  {
+   "begin": "7.200", 
+   "end": "7.560", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "paper"
+   ]
+  }, 
+  {
+   "begin": "7.560", 
+   "end": "8.080", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "from"
+   ]
+  }, 
+  {
+   "begin": "8.080", 
+   "end": "8.360", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "Bittus"
+   ]
+  }, 
+  {
+   "begin": "8.360", 
+   "end": "8.920", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "hands.\n"
+   ]
+  }, 
+  {
+   "begin": "8.920", 
+   "end": "9.960", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    ""
+   ]
+  }, 
+  {
+   "begin": "9.960", 
+   "end": "9.960", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    ""
+   ]
+  }, 
+  {
+   "begin": "9.960", 
+   "end": "10.360", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "She"
+   ]
+  }, 
+  {
+   "begin": "10.360", 
+   "end": "10.960", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "smoothened"
+   ]
+  }, 
+  {
+   "begin": "10.960", 
+   "end": "11.080", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "11.080", 
+   "end": "11.400", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "paper"
+   ]
+  }, 
+  {
+   "begin": "11.400", 
+   "end": "11.840", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "11.840", 
+   "end": "12.240", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "made"
+   ]
+  }, 
+  {
+   "begin": "12.240", 
+   "end": "12.560", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "12.560", 
+   "end": "13.320", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "boat."
+   ]
+  }
+ ]
+}

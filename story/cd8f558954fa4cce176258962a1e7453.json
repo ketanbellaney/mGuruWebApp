@@ -1,0 +1,85 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.400", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Another"
+   ]
+  }, 
+  {
+   "begin": "0.400", 
+   "end": "1.000", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "smell"
+   ]
+  }, 
+  {
+   "begin": "1.000", 
+   "end": "1.400", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "says,"
+   ]
+  }, 
+  {
+   "begin": "1.400", 
+   "end": "2.200", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "\u201cDanger!"
+   ]
+  }, 
+  {
+   "begin": "2.200", 
+   "end": "3.400", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "Do"
+   ]
+  }, 
+  {
+   "begin": "3.400", 
+   "end": "4.200", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "not"
+   ]
+  }, 
+  {
+   "begin": "4.200", 
+   "end": "4.600", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "go"
+   ]
+  }, 
+  {
+   "begin": "4.600", 
+   "end": "4.920", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "there.\u201d"
+   ]
+  }, 
+  {
+   "begin": "4.920", 
+   "end": "6.480", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "&nbsp;"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+CACHE MANIFEST
+
+# rev 1
+
+NETWORK:
+stories/books
+
+CACHE:
+stories/books
+webapp_asset/images/logo.png
+webapp_asset/css/animate.css
+webapp_asset/css/icomoon.css
+webapp_asset/css/bootstrap.css
+webapp_asset/css/style_web.css
+webapp_asset/js/modernizr-2.6.2.min.js
+webapp_asset/js/jquery.min.js
+webapp_asset/js/jquery.easing.1.3.js
+webapp_asset/js/bootstrap.min.js
+webapp_asset/js/jquery.waypoints.min.js
+webapp_asset/js/circle-progress.min.js
+webapp_asset/js/main.js
+webapp_asset/*
+contentfiles/*
+css/*
+fonts/*
+images/*
+js/*
+question/*
+rhymes/*
+story/*
+
+FALLBACK:
+/offline

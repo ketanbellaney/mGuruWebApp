@@ -1,0 +1,49 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "1.040", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Pehelwaan"
+   ]
+  }, 
+  {
+   "begin": "1.040", 
+   "end": "1.560", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "ji"
+   ]
+  }, 
+  {
+   "begin": "1.560", 
+   "end": "2.440", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "exercised"
+   ]
+  }, 
+  {
+   "begin": "2.440", 
+   "end": "2.680", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "every"
+   ]
+  }, 
+  {
+   "begin": "2.680", 
+   "end": "3.440", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "day."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,148 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.640", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "&nbsp;&nbsp;"
+   ]
+  }, 
+  {
+   "begin": "0.640", 
+   "end": "1.360", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "&nbsp;"
+   ]
+  }, 
+  {
+   "begin": "1.360", 
+   "end": "1.880", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "&nbsp;Hello"
+   ]
+  }, 
+  {
+   "begin": "1.880", 
+   "end": "1.880", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "1.880", 
+   "end": "1.880", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "am"
+   ]
+  }, 
+  {
+   "begin": "1.880", 
+   "end": "3.080", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "Tashi."
+   ]
+  }, 
+  {
+   "begin": "3.080", 
+   "end": "3.600", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "3.600", 
+   "end": "3.880", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "am"
+   ]
+  }, 
+  {
+   "begin": "3.880", 
+   "end": "4.000", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "4.000", 
+   "end": "4.560", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "Tibetan"
+   ]
+  }, 
+  {
+   "begin": "4.560", 
+   "end": "4.560", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "boy."
+   ]
+  }, 
+  {
+   "begin": "4.560", 
+   "end": "4.560", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "4.560", 
+   "end": "5.200", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "am"
+   ]
+  }, 
+  {
+   "begin": "5.200", 
+   "end": "5.840", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "9"
+   ]
+  }, 
+  {
+   "begin": "5.840", 
+   "end": "6.440", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "years"
+   ]
+  }, 
+  {
+   "begin": "6.440", 
+   "end": "6.880", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "old."
+   ]
+  }
+ ]
+}

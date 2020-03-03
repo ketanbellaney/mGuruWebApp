@@ -1,0 +1,58 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "1.280", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Kicchu"
+   ]
+  }, 
+  {
+   "begin": "1.280", 
+   "end": "2.720", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "pulled"
+   ]
+  }, 
+  {
+   "begin": "2.720", 
+   "end": "3.720", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "hard..."
+   ]
+  }, 
+  {
+   "begin": "3.720", 
+   "end": "6.240", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "Choru"
+   ]
+  }, 
+  {
+   "begin": "6.240", 
+   "end": "6.600", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "pulled"
+   ]
+  }, 
+  {
+   "begin": "6.600", 
+   "end": "8.000", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "harder..."
+   ]
+  }
+ ]
+}

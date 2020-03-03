@@ -1,0 +1,67 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.400", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Spla...a...a...sh"
+   ]
+  }, 
+  {
+   "begin": "0.400", 
+   "end": "1.840", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "!"
+   ]
+  }, 
+  {
+   "begin": "1.840", 
+   "end": "2.440", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "Mana"
+   ]
+  }, 
+  {
+   "begin": "2.440", 
+   "end": "2.800", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "falls"
+   ]
+  }, 
+  {
+   "begin": "2.800", 
+   "end": "2.960", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "into"
+   ]
+  }, 
+  {
+   "begin": "2.960", 
+   "end": "3.240", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "3.240", 
+   "end": "4.080", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "river."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,94 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.320", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "0.320", 
+   "end": "1.120", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "see"
+   ]
+  }, 
+  {
+   "begin": "1.120", 
+   "end": "1.560", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "1.560", 
+   "end": "1.960", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "yellow"
+   ]
+  }, 
+  {
+   "begin": "1.960", 
+   "end": "2.240", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "bee"
+   ]
+  }, 
+  {
+   "begin": "2.240", 
+   "end": "2.960", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "drinking"
+   ]
+  }, 
+  {
+   "begin": "2.960", 
+   "end": "3.120", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "3.120", 
+   "end": "3.400", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "cup"
+   ]
+  }, 
+  {
+   "begin": "3.400", 
+   "end": "3.440", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "of"
+   ]
+  }, 
+  {
+   "begin": "3.440", 
+   "end": "4.120", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "tea"
+   ]
+  }
+ ]
+}

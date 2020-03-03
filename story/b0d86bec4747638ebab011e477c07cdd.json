@@ -1,0 +1,193 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.680", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Until"
+   ]
+  }, 
+  {
+   "begin": "0.680", 
+   "end": "0.920", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "her"
+   ]
+  }, 
+  {
+   "begin": "0.920", 
+   "end": "1.280", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "chalk"
+   ]
+  }, 
+  {
+   "begin": "1.280", 
+   "end": "1.800", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "got"
+   ]
+  }, 
+  {
+   "begin": "1.800", 
+   "end": "2.840", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "over."
+   ]
+  }, 
+  {
+   "begin": "2.840", 
+   "end": "3.320", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "Nanhi"
+   ]
+  }, 
+  {
+   "begin": "3.320", 
+   "end": "3.600", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "got"
+   ]
+  }, 
+  {
+   "begin": "3.600", 
+   "end": "4.080", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "up"
+   ]
+  }, 
+  {
+   "begin": "4.080", 
+   "end": "4.240", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "4.240", 
+   "end": "4.440", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "took"
+   ]
+  }, 
+  {
+   "begin": "4.440", 
+   "end": "4.640", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "4.640", 
+   "end": "5.920", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "look."
+   ]
+  }, 
+  {
+   "begin": "5.920", 
+   "end": "7.200", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "Wow!"
+   ]
+  }, 
+  {
+   "begin": "7.200", 
+   "end": "7.520", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "Her"
+   ]
+  }, 
+  {
+   "begin": "7.520", 
+   "end": "8.000", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "train"
+   ]
+  }, 
+  {
+   "begin": "8.000", 
+   "end": "8.600", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "was"
+   ]
+  }, 
+  {
+   "begin": "8.600", 
+   "end": "9.120", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "as"
+   ]
+  }, 
+  {
+   "begin": "9.120", 
+   "end": "9.680", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "long"
+   ]
+  }, 
+  {
+   "begin": "9.680", 
+   "end": "9.960", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "as"
+   ]
+  }, 
+  {
+   "begin": "9.960", 
+   "end": "9.960", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "9.960", 
+   "end": "11.440", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "verandah!"
+   ]
+  }
+ ]
+}

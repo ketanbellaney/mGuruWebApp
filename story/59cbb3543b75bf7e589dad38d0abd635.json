@@ -1,0 +1,166 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.320", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "The"
+   ]
+  }, 
+  {
+   "begin": "0.320", 
+   "end": "0.840", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "next"
+   ]
+  }, 
+  {
+   "begin": "0.840", 
+   "end": "1.520", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "day,"
+   ]
+  }, 
+  {
+   "begin": "1.520", 
+   "end": "1.640", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "1.640", 
+   "end": "2.160", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "children"
+   ]
+  }, 
+  {
+   "begin": "2.160", 
+   "end": "2.440", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "came"
+   ]
+  }, 
+  {
+   "begin": "2.440", 
+   "end": "2.720", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "2.720", 
+   "end": "3.080", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "3.080", 
+   "end": "3.320", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "zoo"
+   ]
+  }, 
+  {
+   "begin": "3.320", 
+   "end": "3.600", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "for"
+   ]
+  }, 
+  {
+   "begin": "3.600", 
+   "end": "3.920", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "their"
+   ]
+  }, 
+  {
+   "begin": "3.920", 
+   "end": "4.200", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "elephant"
+   ]
+  }, 
+  {
+   "begin": "4.200", 
+   "end": "4.560", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "ride."
+   ]
+  }, 
+  {
+   "begin": "4.560", 
+   "end": "6.120", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "But"
+   ]
+  }, 
+  {
+   "begin": "6.120", 
+   "end": "7.040", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "goodness,"
+   ]
+  }, 
+  {
+   "begin": "7.040", 
+   "end": "7.440", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "what"
+   ]
+  }, 
+  {
+   "begin": "7.440", 
+   "end": "7.680", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "had"
+   ]
+  }, 
+  {
+   "begin": "7.680", 
+   "end": "8.400", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "happened!"
+   ]
+  }
+ ]
+}

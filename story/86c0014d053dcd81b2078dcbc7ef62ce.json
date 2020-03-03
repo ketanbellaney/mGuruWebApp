@@ -1,0 +1,58 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.240", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Good"
+   ]
+  }, 
+  {
+   "begin": "0.240", 
+   "end": "0.560", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "Morning!\n"
+   ]
+  }, 
+  {
+   "begin": "0.560", 
+   "end": "1.320", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "Time"
+   ]
+  }, 
+  {
+   "begin": "1.320", 
+   "end": "2.160", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "2.160", 
+   "end": "2.760", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "wake"
+   ]
+  }, 
+  {
+   "begin": "2.760", 
+   "end": "2.960", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "up."
+   ]
+  }
+ ]
+}

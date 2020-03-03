@@ -1,0 +1,76 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.280", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "In"
+   ]
+  }, 
+  {
+   "begin": "0.280", 
+   "end": "0.600", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "0.600", 
+   "end": "1.480", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "morning,"
+   ]
+  }, 
+  {
+   "begin": "1.480", 
+   "end": "1.880", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "Mitha"
+   ]
+  }, 
+  {
+   "begin": "1.880", 
+   "end": "2.600", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "sets"
+   ]
+  }, 
+  {
+   "begin": "2.600", 
+   "end": "2.800", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "off"
+   ]
+  }, 
+  {
+   "begin": "2.800", 
+   "end": "3.240", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "for"
+   ]
+  }, 
+  {
+   "begin": "3.240", 
+   "end": "3.600", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "school."
+   ]
+  }
+ ]
+}

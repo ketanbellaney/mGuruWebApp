@@ -1,0 +1,76 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.000", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "She"
+   ]
+  }, 
+  {
+   "begin": "0.000", 
+   "end": "1.360", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "flies"
+   ]
+  }, 
+  {
+   "begin": "1.360", 
+   "end": "1.640", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "1.640", 
+   "end": "2.680", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "flies"
+   ]
+  }, 
+  {
+   "begin": "2.680", 
+   "end": "3.080", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "until"
+   ]
+  }, 
+  {
+   "begin": "3.080", 
+   "end": "3.320", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "she"
+   ]
+  }, 
+  {
+   "begin": "3.320", 
+   "end": "3.520", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "is"
+   ]
+  }, 
+  {
+   "begin": "3.520", 
+   "end": "4.560", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "tired."
+   ]
+  }
+ ]
+}

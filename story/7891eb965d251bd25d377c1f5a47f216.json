@@ -1,0 +1,283 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.080", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Through"
+   ]
+  }, 
+  {
+   "begin": "0.080", 
+   "end": "0.520", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "0.520", 
+   "end": "1.240", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "magnifying"
+   ]
+  }, 
+  {
+   "begin": "1.240", 
+   "end": "1.760", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "glass,"
+   ]
+  }, 
+  {
+   "begin": "1.760", 
+   "end": "2.640", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "Kaushik"
+   ]
+  }, 
+  {
+   "begin": "2.640", 
+   "end": "2.840", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "could"
+   ]
+  }, 
+  {
+   "begin": "2.840", 
+   "end": "3.240", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "see"
+   ]
+  }, 
+  {
+   "begin": "3.240", 
+   "end": "3.360", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "her"
+   ]
+  }, 
+  {
+   "begin": "3.360", 
+   "end": "4.080", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "expressions"
+   ]
+  }, 
+  {
+   "begin": "4.080", 
+   "end": "4.720", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "clearly."
+   ]
+  }, 
+  {
+   "begin": "4.720", 
+   "end": "6.040", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "She"
+   ]
+  }, 
+  {
+   "begin": "6.040", 
+   "end": "6.160", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "looked"
+   ]
+  }, 
+  {
+   "begin": "6.160", 
+   "end": "6.720", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "worried.\n"
+   ]
+  }, 
+  {
+   "begin": "6.720", 
+   "end": "6.720", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    ""
+   ]
+  }, 
+  {
+   "begin": "6.720", 
+   "end": "6.720", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "So"
+   ]
+  }, 
+  {
+   "begin": "6.720", 
+   "end": "6.840", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "he"
+   ]
+  }, 
+  {
+   "begin": "6.840", 
+   "end": "8.320", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "told"
+   ]
+  }, 
+  {
+   "begin": "8.320", 
+   "end": "8.760", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "her,"
+   ]
+  }, 
+  {
+   "begin": "8.760", 
+   "end": "9.640", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "kindly,"
+   ]
+  }, 
+  {
+   "begin": "9.640", 
+   "end": "10.840", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "\"Don\u2019t"
+   ]
+  }, 
+  {
+   "begin": "10.840", 
+   "end": "11.280", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "worry,"
+   ]
+  }, 
+  {
+   "begin": "11.280", 
+   "end": "12.120", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "12.120", 
+   "end": "12.640", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "won\u2019t"
+   ]
+  }, 
+  {
+   "begin": "12.640", 
+   "end": "12.920", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "hurt"
+   ]
+  }, 
+  {
+   "begin": "12.920", 
+   "end": "13.680", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "you."
+   ]
+  }, 
+  {
+   "begin": "13.680", 
+   "end": "14.080", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "14.080", 
+   "end": "14.120", 
+   "id": "f000027", 
+   "language": "en", 
+   "lines": [
+    "want"
+   ]
+  }, 
+  {
+   "begin": "14.120", 
+   "end": "14.520", 
+   "id": "f000028", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "14.520", 
+   "end": "14.800", 
+   "id": "f000029", 
+   "language": "en", 
+   "lines": [
+    "be"
+   ]
+  }, 
+  {
+   "begin": "14.800", 
+   "end": "14.960", 
+   "id": "f000030", 
+   "language": "en", 
+   "lines": [
+    "your"
+   ]
+  }, 
+  {
+   "begin": "14.960", 
+   "end": "15.360", 
+   "id": "f000031", 
+   "language": "en", 
+   "lines": [
+    "friend.\""
+   ]
+  }
+ ]
+}

@@ -1,0 +1,121 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.760", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Ramya's"
+   ]
+  }, 
+  {
+   "begin": "0.760", 
+   "end": "1.200", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "eyes"
+   ]
+  }, 
+  {
+   "begin": "1.200", 
+   "end": "1.560", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "sparkled"
+   ]
+  }, 
+  {
+   "begin": "1.560", 
+   "end": "2.320", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "as"
+   ]
+  }, 
+  {
+   "begin": "2.320", 
+   "end": "2.760", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "she"
+   ]
+  }, 
+  {
+   "begin": "2.760", 
+   "end": "2.960", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "put"
+   ]
+  }, 
+  {
+   "begin": "2.960", 
+   "end": "3.120", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "on"
+   ]
+  }, 
+  {
+   "begin": "3.120", 
+   "end": "3.400", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "her"
+   ]
+  }, 
+  {
+   "begin": "3.400", 
+   "end": "4.080", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "precious"
+   ]
+  }, 
+  {
+   "begin": "4.080", 
+   "end": "4.640", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "diamond"
+   ]
+  }, 
+  {
+   "begin": "4.640", 
+   "end": "5.000", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "star"
+   ]
+  }, 
+  {
+   "begin": "5.000", 
+   "end": "5.600", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "earrings"
+   ]
+  }, 
+  {
+   "begin": "5.600", 
+   "end": "6.760", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "again!"
+   ]
+  }
+ ]
+}

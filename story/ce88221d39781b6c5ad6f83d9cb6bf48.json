@@ -1,0 +1,454 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "1.080", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "During"
+   ]
+  }, 
+  {
+   "begin": "1.080", 
+   "end": "1.080", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "1.080", 
+   "end": "1.320", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "next"
+   ]
+  }, 
+  {
+   "begin": "1.320", 
+   "end": "1.960", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "winter"
+   ]
+  }, 
+  {
+   "begin": "1.960", 
+   "end": "2.560", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "holidays"
+   ]
+  }, 
+  {
+   "begin": "2.560", 
+   "end": "2.920", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "2.920", 
+   "end": "3.760", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "hope"
+   ]
+  }, 
+  {
+   "begin": "3.760", 
+   "end": "4.000", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "4.000", 
+   "end": "4.280", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "can"
+   ]
+  }, 
+  {
+   "begin": "4.280", 
+   "end": "4.520", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "go"
+   ]
+  }, 
+  {
+   "begin": "4.520", 
+   "end": "4.640", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "4.640", 
+   "end": "5.800", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "Shimla"
+   ]
+  }, 
+  {
+   "begin": "5.800", 
+   "end": "5.960", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "or"
+   ]
+  }, 
+  {
+   "begin": "5.960", 
+   "end": "6.160", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "6.160", 
+   "end": "7.720", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "Jaisalmer."
+   ]
+  }, 
+  {
+   "begin": "7.720", 
+   "end": "7.920", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "In"
+   ]
+  }, 
+  {
+   "begin": "7.920", 
+   "end": "8.560", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "Jaisalmer,"
+   ]
+  }, 
+  {
+   "begin": "8.560", 
+   "end": "9.280", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "there"
+   ]
+  }, 
+  {
+   "begin": "9.280", 
+   "end": "9.720", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "is"
+   ]
+  }, 
+  {
+   "begin": "9.720", 
+   "end": "10.200", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "no"
+   ]
+  }, 
+  {
+   "begin": "10.200", 
+   "end": "11.000", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "snow,"
+   ]
+  }, 
+  {
+   "begin": "11.000", 
+   "end": "11.400", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "only"
+   ]
+  }, 
+  {
+   "begin": "11.400", 
+   "end": "12.920", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "sand."
+   ]
+  }, 
+  {
+   "begin": "12.920", 
+   "end": "13.440", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "13.440", 
+   "end": "13.560", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "would"
+   ]
+  }, 
+  {
+   "begin": "13.560", 
+   "end": "13.600", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "like"
+   ]
+  }, 
+  {
+   "begin": "13.600", 
+   "end": "13.800", 
+   "id": "f000027", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "13.800", 
+   "end": "14.120", 
+   "id": "f000028", 
+   "language": "en", 
+   "lines": [
+    "go"
+   ]
+  }, 
+  {
+   "begin": "14.120", 
+   "end": "14.280", 
+   "id": "f000029", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "14.280", 
+   "end": "14.440", 
+   "id": "f000030", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "14.440", 
+   "end": "14.920", 
+   "id": "f000031", 
+   "language": "en", 
+   "lines": [
+    "Desert"
+   ]
+  }, 
+  {
+   "begin": "14.920", 
+   "end": "15.440", 
+   "id": "f000032", 
+   "language": "en", 
+   "lines": [
+    "Fair"
+   ]
+  }, 
+  {
+   "begin": "15.440", 
+   "end": "15.760", 
+   "id": "f000033", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "15.760", 
+   "end": "16.200", 
+   "id": "f000034", 
+   "language": "en", 
+   "lines": [
+    "ride"
+   ]
+  }, 
+  {
+   "begin": "16.200", 
+   "end": "16.520", 
+   "id": "f000035", 
+   "language": "en", 
+   "lines": [
+    "on"
+   ]
+  }, 
+  {
+   "begin": "16.520", 
+   "end": "17.720", 
+   "id": "f000036", 
+   "language": "en", 
+   "lines": [
+    "camels,"
+   ]
+  }, 
+  {
+   "begin": "17.720", 
+   "end": "18.120", 
+   "id": "f000037", 
+   "language": "en", 
+   "lines": [
+    "watch"
+   ]
+  }, 
+  {
+   "begin": "18.120", 
+   "end": "18.520", 
+   "id": "f000038", 
+   "language": "en", 
+   "lines": [
+    "folk"
+   ]
+  }, 
+  {
+   "begin": "18.520", 
+   "end": "19.120", 
+   "id": "f000039", 
+   "language": "en", 
+   "lines": [
+    "dances"
+   ]
+  }, 
+  {
+   "begin": "19.120", 
+   "end": "19.360", 
+   "id": "f000040", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "19.360", 
+   "end": "19.920", 
+   "id": "f000041", 
+   "language": "en", 
+   "lines": [
+    "puppet"
+   ]
+  }, 
+  {
+   "begin": "19.920", 
+   "end": "20.920", 
+   "id": "f000042", 
+   "language": "en", 
+   "lines": [
+    "shows,"
+   ]
+  }, 
+  {
+   "begin": "20.920", 
+   "end": "21.240", 
+   "id": "f000043", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "21.240", 
+   "end": "21.680", 
+   "id": "f000044", 
+   "language": "en", 
+   "lines": [
+    "take"
+   ]
+  }, 
+  {
+   "begin": "21.680", 
+   "end": "22.240", 
+   "id": "f000045", 
+   "language": "en", 
+   "lines": [
+    "part"
+   ]
+  }, 
+  {
+   "begin": "22.240", 
+   "end": "22.400", 
+   "id": "f000046", 
+   "language": "en", 
+   "lines": [
+    "in"
+   ]
+  }, 
+  {
+   "begin": "22.400", 
+   "end": "22.720", 
+   "id": "f000047", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "22.720", 
+   "end": "23.320", 
+   "id": "f000048", 
+   "language": "en", 
+   "lines": [
+    "turban"
+   ]
+  }, 
+  {
+   "begin": "23.320", 
+   "end": "23.840", 
+   "id": "f000049", 
+   "language": "en", 
+   "lines": [
+    "tying"
+   ]
+  }, 
+  {
+   "begin": "23.840", 
+   "end": "25.480", 
+   "id": "f000050", 
+   "language": "en", 
+   "lines": [
+    "contest!"
+   ]
+  }
+ ]
+}

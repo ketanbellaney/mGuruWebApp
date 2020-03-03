@@ -1,0 +1,292 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.320", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "We"
+   ]
+  }, 
+  {
+   "begin": "0.320", 
+   "end": "0.800", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "have"
+   ]
+  }, 
+  {
+   "begin": "0.800", 
+   "end": "1.240", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "just"
+   ]
+  }, 
+  {
+   "begin": "1.240", 
+   "end": "1.680", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "taken"
+   ]
+  }, 
+  {
+   "begin": "1.680", 
+   "end": "2.040", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "out"
+   ]
+  }, 
+  {
+   "begin": "2.040", 
+   "end": "2.360", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "our"
+   ]
+  }, 
+  {
+   "begin": "2.360", 
+   "end": "2.880", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "winter"
+   ]
+  }, 
+  {
+   "begin": "2.880", 
+   "end": "3.640", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "uniforms"
+   ]
+  }, 
+  {
+   "begin": "3.640", 
+   "end": "4.640", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "for"
+   ]
+  }, 
+  {
+   "begin": "4.640", 
+   "end": "5.200", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "school."
+   ]
+  }, 
+  {
+   "begin": "5.200", 
+   "end": "5.200", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "It"
+   ]
+  }, 
+  {
+   "begin": "5.200", 
+   "end": "5.200", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "is"
+   ]
+  }, 
+  {
+   "begin": "5.200", 
+   "end": "5.240", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "not"
+   ]
+  }, 
+  {
+   "begin": "5.240", 
+   "end": "5.680", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "so"
+   ]
+  }, 
+  {
+   "begin": "5.680", 
+   "end": "7.240", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "cold"
+   ]
+  }, 
+  {
+   "begin": "7.240", 
+   "end": "7.560", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "yet."
+   ]
+  }, 
+  {
+   "begin": "7.560", 
+   "end": "8.000", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "Winter"
+   ]
+  }, 
+  {
+   "begin": "8.000", 
+   "end": "8.240", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "is"
+   ]
+  }, 
+  {
+   "begin": "8.240", 
+   "end": "8.960", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "called"
+   ]
+  }, 
+  {
+   "begin": "8.960", 
+   "end": "9.840", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "Shishira"
+   ]
+  }, 
+  {
+   "begin": "9.840", 
+   "end": "10.880", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "Ritu"
+   ]
+  }, 
+  {
+   "begin": "10.880", 
+   "end": "12.120", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "in"
+   ]
+  }, 
+  {
+   "begin": "12.120", 
+   "end": "13.000", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "Sanskrit."
+   ]
+  }, 
+  {
+   "begin": "13.000", 
+   "end": "13.240", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "13.240", 
+   "end": "13.480", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "love"
+   ]
+  }, 
+  {
+   "begin": "13.480", 
+   "end": "13.480", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "13.480", 
+   "end": "13.480", 
+   "id": "f000027", 
+   "language": "en", 
+   "lines": [
+    "eat"
+   ]
+  }, 
+  {
+   "begin": "13.480", 
+   "end": "14.080", 
+   "id": "f000028", 
+   "language": "en", 
+   "lines": [
+    "hot"
+   ]
+  }, 
+  {
+   "begin": "14.080", 
+   "end": "14.600", 
+   "id": "f000029", 
+   "language": "en", 
+   "lines": [
+    "things"
+   ]
+  }, 
+  {
+   "begin": "14.600", 
+   "end": "14.680", 
+   "id": "f000030", 
+   "language": "en", 
+   "lines": [
+    "in"
+   ]
+  }, 
+  {
+   "begin": "14.680", 
+   "end": "15.440", 
+   "id": "f000031", 
+   "language": "en", 
+   "lines": [
+    "this"
+   ]
+  }, 
+  {
+   "begin": "15.440", 
+   "end": "16.320", 
+   "id": "f000032", 
+   "language": "en", 
+   "lines": [
+    "season."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "17.560", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "\ufeffThen he stepped into the river. It was so cool and refreshing. Mango's eyes filled with tears of gratitude and happiness. He had never known such bliss. Rain water had never tasted so good.\n"
+   ]
+  }, 
+  {
+   "begin": "17.560", 
+   "end": "33.000", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "He had been on the move day and night, rushing about in the sun. He had faced many hardships and found this stretch of water after great difficulty. It soothed him like the loving touch of a mother.\n"
+   ]
+  }, 
+  {
+   "begin": "33.000", 
+   "end": "42.120", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "He slid into the deep water. Silver fish tickled his feet. \"It would be more fun to submerge myself completely."
+   ]
+  }
+ ]
+}

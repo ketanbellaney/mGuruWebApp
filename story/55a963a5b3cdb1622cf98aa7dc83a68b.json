@@ -1,0 +1,94 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "1.080", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Wow...."
+   ]
+  }, 
+  {
+   "begin": "1.080", 
+   "end": "1.160", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "It"
+   ]
+  }, 
+  {
+   "begin": "1.160", 
+   "end": "1.360", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "is"
+   ]
+  }, 
+  {
+   "begin": "1.360", 
+   "end": "2.240", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "so"
+   ]
+  }, 
+  {
+   "begin": "2.240", 
+   "end": "2.960", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "beautiful!"
+   ]
+  }, 
+  {
+   "begin": "2.960", 
+   "end": "3.800", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "Don't"
+   ]
+  }, 
+  {
+   "begin": "3.800", 
+   "end": "4.360", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "feel"
+   ]
+  }, 
+  {
+   "begin": "4.360", 
+   "end": "4.640", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "like"
+   ]
+  }, 
+  {
+   "begin": "4.640", 
+   "end": "5.080", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "burning"
+   ]
+  }, 
+  {
+   "begin": "5.080", 
+   "end": "5.720", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "it."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,553 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.760", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Gubbi"
+   ]
+  }, 
+  {
+   "begin": "0.760", 
+   "end": "1.200", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "went"
+   ]
+  }, 
+  {
+   "begin": "1.200", 
+   "end": "1.560", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "straight"
+   ]
+  }, 
+  {
+   "begin": "1.560", 
+   "end": "1.720", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "1.720", 
+   "end": "1.760", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "1.760", 
+   "end": "2.960", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "rat."
+   ]
+  }, 
+  {
+   "begin": "2.960", 
+   "end": "3.240", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "She"
+   ]
+  }, 
+  {
+   "begin": "3.240", 
+   "end": "3.680", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "said,"
+   ]
+  }, 
+  {
+   "begin": "3.680", 
+   "end": "4.920", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "\u201cI"
+   ]
+  }, 
+  {
+   "begin": "4.920", 
+   "end": "5.000", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "dropped"
+   ]
+  }, 
+  {
+   "begin": "5.000", 
+   "end": "5.320", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "my"
+   ]
+  }, 
+  {
+   "begin": "5.320", 
+   "end": "6.000", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "fruit"
+   ]
+  }, 
+  {
+   "begin": "6.000", 
+   "end": "6.000", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "in"
+   ]
+  }, 
+  {
+   "begin": "6.000", 
+   "end": "6.000", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "6.000", 
+   "end": "6.560", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "clump"
+   ]
+  }, 
+  {
+   "begin": "6.560", 
+   "end": "6.600", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "of"
+   ]
+  }, 
+  {
+   "begin": "6.600", 
+   "end": "7.200", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "thorns."
+   ]
+  }, 
+  {
+   "begin": "7.200", 
+   "end": "7.200", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "The"
+   ]
+  }, 
+  {
+   "begin": "7.200", 
+   "end": "8.240", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "boy"
+   ]
+  }, 
+  {
+   "begin": "8.240", 
+   "end": "8.600", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "did"
+   ]
+  }, 
+  {
+   "begin": "8.600", 
+   "end": "8.600", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "not"
+   ]
+  }, 
+  {
+   "begin": "8.600", 
+   "end": "8.960", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "help"
+   ]
+  }, 
+  {
+   "begin": "8.960", 
+   "end": "9.320", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "me,"
+   ]
+  }, 
+  {
+   "begin": "9.320", 
+   "end": "9.400", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "9.400", 
+   "end": "10.800", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "farmer"
+   ]
+  }, 
+  {
+   "begin": "10.800", 
+   "end": "11.120", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "did"
+   ]
+  }, 
+  {
+   "begin": "11.120", 
+   "end": "11.680", 
+   "id": "f000027", 
+   "language": "en", 
+   "lines": [
+    "not"
+   ]
+  }, 
+  {
+   "begin": "11.680", 
+   "end": "12.080", 
+   "id": "f000028", 
+   "language": "en", 
+   "lines": [
+    "help"
+   ]
+  }, 
+  {
+   "begin": "12.080", 
+   "end": "12.680", 
+   "id": "f000029", 
+   "language": "en", 
+   "lines": [
+    "me,"
+   ]
+  }, 
+  {
+   "begin": "12.680", 
+   "end": "12.920", 
+   "id": "f000030", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "12.920", 
+   "end": "13.320", 
+   "id": "f000031", 
+   "language": "en", 
+   "lines": [
+    "cow"
+   ]
+  }, 
+  {
+   "begin": "13.320", 
+   "end": "13.320", 
+   "id": "f000032", 
+   "language": "en", 
+   "lines": [
+    "did"
+   ]
+  }, 
+  {
+   "begin": "13.320", 
+   "end": "13.320", 
+   "id": "f000033", 
+   "language": "en", 
+   "lines": [
+    "not"
+   ]
+  }, 
+  {
+   "begin": "13.320", 
+   "end": "13.640", 
+   "id": "f000034", 
+   "language": "en", 
+   "lines": [
+    "help"
+   ]
+  }, 
+  {
+   "begin": "13.640", 
+   "end": "13.840", 
+   "id": "f000035", 
+   "language": "en", 
+   "lines": [
+    "me,"
+   ]
+  }, 
+  {
+   "begin": "13.840", 
+   "end": "13.920", 
+   "id": "f000036", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "13.920", 
+   "end": "14.320", 
+   "id": "f000037", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "14.320", 
+   "end": "15.200", 
+   "id": "f000038", 
+   "language": "en", 
+   "lines": [
+    "fisherman"
+   ]
+  }, 
+  {
+   "begin": "15.200", 
+   "end": "15.240", 
+   "id": "f000039", 
+   "language": "en", 
+   "lines": [
+    "did"
+   ]
+  }, 
+  {
+   "begin": "15.240", 
+   "end": "15.520", 
+   "id": "f000040", 
+   "language": "en", 
+   "lines": [
+    "not"
+   ]
+  }, 
+  {
+   "begin": "15.520", 
+   "end": "15.800", 
+   "id": "f000041", 
+   "language": "en", 
+   "lines": [
+    "help"
+   ]
+  }, 
+  {
+   "begin": "15.800", 
+   "end": "16.720", 
+   "id": "f000042", 
+   "language": "en", 
+   "lines": [
+    "me."
+   ]
+  }, 
+  {
+   "begin": "16.720", 
+   "end": "17.320", 
+   "id": "f000043", 
+   "language": "en", 
+   "lines": [
+    "Now"
+   ]
+  }, 
+  {
+   "begin": "17.320", 
+   "end": "17.560", 
+   "id": "f000044", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "17.560", 
+   "end": "17.560", 
+   "id": "f000045", 
+   "language": "en", 
+   "lines": [
+    "want"
+   ]
+  }, 
+  {
+   "begin": "17.560", 
+   "end": "17.560", 
+   "id": "f000046", 
+   "language": "en", 
+   "lines": [
+    "you"
+   ]
+  }, 
+  {
+   "begin": "17.560", 
+   "end": "18.240", 
+   "id": "f000047", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "18.240", 
+   "end": "18.480", 
+   "id": "f000048", 
+   "language": "en", 
+   "lines": [
+    "chew"
+   ]
+  }, 
+  {
+   "begin": "18.480", 
+   "end": "18.520", 
+   "id": "f000049", 
+   "language": "en", 
+   "lines": [
+    "up"
+   ]
+  }, 
+  {
+   "begin": "18.520", 
+   "end": "19.120", 
+   "id": "f000050", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "19.120", 
+   "end": "20.040", 
+   "id": "f000051", 
+   "language": "en", 
+   "lines": [
+    "fisherman\u2019s"
+   ]
+  }, 
+  {
+   "begin": "20.040", 
+   "end": "20.440", 
+   "id": "f000052", 
+   "language": "en", 
+   "lines": [
+    "net.\u201d"
+   ]
+  }, 
+  {
+   "begin": "20.440", 
+   "end": "22.160", 
+   "id": "f000053", 
+   "language": "en", 
+   "lines": [
+    "\u201cCan\u2019t"
+   ]
+  }, 
+  {
+   "begin": "22.160", 
+   "end": "22.160", 
+   "id": "f000054", 
+   "language": "en", 
+   "lines": [
+    "do"
+   ]
+  }, 
+  {
+   "begin": "22.160", 
+   "end": "22.200", 
+   "id": "f000055", 
+   "language": "en", 
+   "lines": [
+    "it,\u201d"
+   ]
+  }, 
+  {
+   "begin": "22.200", 
+   "end": "22.840", 
+   "id": "f000056", 
+   "language": "en", 
+   "lines": [
+    "said"
+   ]
+  }, 
+  {
+   "begin": "22.840", 
+   "end": "22.920", 
+   "id": "f000057", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "22.920", 
+   "end": "23.800", 
+   "id": "f000058", 
+   "language": "en", 
+   "lines": [
+    "rat,"
+   ]
+  }, 
+  {
+   "begin": "23.800", 
+   "end": "24.120", 
+   "id": "f000059", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "24.120", 
+   "end": "24.520", 
+   "id": "f000060", 
+   "language": "en", 
+   "lines": [
+    "scurried"
+   ]
+  }, 
+  {
+   "begin": "24.520", 
+   "end": "25.640", 
+   "id": "f000061", 
+   "language": "en", 
+   "lines": [
+    "away."
+   ]
+  }
+ ]
+}

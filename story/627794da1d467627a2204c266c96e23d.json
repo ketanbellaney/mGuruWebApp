@@ -1,0 +1,166 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.000", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "He"
+   ]
+  }, 
+  {
+   "begin": "0.000", 
+   "end": "0.000", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "met"
+   ]
+  }, 
+  {
+   "begin": "0.000", 
+   "end": "0.720", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "Choru"
+   ]
+  }, 
+  {
+   "begin": "0.720", 
+   "end": "0.720", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "on"
+   ]
+  }, 
+  {
+   "begin": "0.720", 
+   "end": "1.520", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "1.520", 
+   "end": "2.000", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "way"
+   ]
+  }, 
+  {
+   "begin": "2.000", 
+   "end": "2.320", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "2.320", 
+   "end": "2.320", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "2.320", 
+   "end": "2.680", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "pond."
+   ]
+  }, 
+  {
+   "begin": "2.680", 
+   "end": "3.400", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "They"
+   ]
+  }, 
+  {
+   "begin": "3.400", 
+   "end": "3.800", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "were"
+   ]
+  }, 
+  {
+   "begin": "3.800", 
+   "end": "4.120", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "best"
+   ]
+  }, 
+  {
+   "begin": "4.120", 
+   "end": "4.760", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "friends"
+   ]
+  }, 
+  {
+   "begin": "4.760", 
+   "end": "5.120", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "who"
+   ]
+  }, 
+  {
+   "begin": "5.120", 
+   "end": "5.640", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "played"
+   ]
+  }, 
+  {
+   "begin": "5.640", 
+   "end": "6.160", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "all"
+   ]
+  }, 
+  {
+   "begin": "6.160", 
+   "end": "6.400", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "day"
+   ]
+  }, 
+  {
+   "begin": "6.400", 
+   "end": "7.680", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "long."
+   ]
+  }
+ ]
+}

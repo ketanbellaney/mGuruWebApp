@@ -1,0 +1,175 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.560", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "People"
+   ]
+  }, 
+  {
+   "begin": "0.560", 
+   "end": "0.920", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "from"
+   ]
+  }, 
+  {
+   "begin": "0.920", 
+   "end": "1.360", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "different"
+   ]
+  }, 
+  {
+   "begin": "1.360", 
+   "end": "2.200", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "cultures"
+   ]
+  }, 
+  {
+   "begin": "2.200", 
+   "end": "2.560", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "have\n"
+   ]
+  }, 
+  {
+   "begin": "2.560", 
+   "end": "3.320", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "different"
+   ]
+  }, 
+  {
+   "begin": "3.320", 
+   "end": "3.560", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "forms"
+   ]
+  }, 
+  {
+   "begin": "3.560", 
+   "end": "3.600", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "of"
+   ]
+  }, 
+  {
+   "begin": "3.600", 
+   "end": "4.640", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "greeting."
+   ]
+  }, 
+  {
+   "begin": "4.640", 
+   "end": "4.880", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "When\n"
+   ]
+  }, 
+  {
+   "begin": "4.880", 
+   "end": "5.160", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "people"
+   ]
+  }, 
+  {
+   "begin": "5.160", 
+   "end": "6.120", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "meet,"
+   ]
+  }, 
+  {
+   "begin": "6.120", 
+   "end": "6.440", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "they"
+   ]
+  }, 
+  {
+   "begin": "6.440", 
+   "end": "6.800", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "greet"
+   ]
+  }, 
+  {
+   "begin": "6.800", 
+   "end": "7.240", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "each"
+   ]
+  }, 
+  {
+   "begin": "7.240", 
+   "end": "7.440", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "other\n"
+   ]
+  }, 
+  {
+   "begin": "7.440", 
+   "end": "7.440", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    ""
+   ]
+  }, 
+  {
+   "begin": "7.440", 
+   "end": "7.720", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "by"
+   ]
+  }, 
+  {
+   "begin": "7.720", 
+   "end": "8.520", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "hugging...."
+   ]
+  }
+ ]
+}

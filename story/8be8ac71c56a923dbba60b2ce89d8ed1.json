@@ -1,0 +1,112 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.560", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Oh!"
+   ]
+  }, 
+  {
+   "begin": "0.560", 
+   "end": "2.080", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "This"
+   ]
+  }, 
+  {
+   "begin": "2.080", 
+   "end": "2.600", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "sugarcane"
+   ]
+  }, 
+  {
+   "begin": "2.600", 
+   "end": "3.000", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "is"
+   ]
+  }, 
+  {
+   "begin": "3.000", 
+   "end": "3.600", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "so"
+   ]
+  }, 
+  {
+   "begin": "3.600", 
+   "end": "4.240", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "tough!"
+   ]
+  }, 
+  {
+   "begin": "4.240", 
+   "end": "5.440", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "But"
+   ]
+  }, 
+  {
+   "begin": "5.440", 
+   "end": "5.960", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "my"
+   ]
+  }, 
+  {
+   "begin": "5.960", 
+   "end": "6.760", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "teeth"
+   ]
+  }, 
+  {
+   "begin": "6.760", 
+   "end": "7.200", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "are"
+   ]
+  }, 
+  {
+   "begin": "7.200", 
+   "end": "7.920", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "strong"
+   ]
+  }, 
+  {
+   "begin": "7.920", 
+   "end": "8.680", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "too!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,211 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.480", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "They"
+   ]
+  }, 
+  {
+   "begin": "0.480", 
+   "end": "0.800", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "said\n"
+   ]
+  }, 
+  {
+   "begin": "0.800", 
+   "end": "1.520", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "That"
+   ]
+  }, 
+  {
+   "begin": "1.520", 
+   "end": "2.800", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "everything,"
+   ]
+  }, 
+  {
+   "begin": "2.800", 
+   "end": "3.360", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "just"
+   ]
+  }, 
+  {
+   "begin": "3.360", 
+   "end": "3.960", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "everything\n"
+   ]
+  }, 
+  {
+   "begin": "3.960", 
+   "end": "4.520", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "In"
+   ]
+  }, 
+  {
+   "begin": "4.520", 
+   "end": "4.880", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "4.880", 
+   "end": "5.560", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "great"
+   ]
+  }, 
+  {
+   "begin": "5.560", 
+   "end": "6.000", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "big"
+   ]
+  }, 
+  {
+   "begin": "6.000", 
+   "end": "6.760", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "universe\n"
+   ]
+  }, 
+  {
+   "begin": "6.760", 
+   "end": "7.600", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "Pulls"
+   ]
+  }, 
+  {
+   "begin": "7.600", 
+   "end": "8.400", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "everything,"
+   ]
+  }, 
+  {
+   "begin": "8.400", 
+   "end": "9.320", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "just"
+   ]
+  }, 
+  {
+   "begin": "9.320", 
+   "end": "10.120", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "everything"
+   ]
+  }, 
+  {
+   "begin": "10.120", 
+   "end": "10.680", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "else\n"
+   ]
+  }, 
+  {
+   "begin": "10.680", 
+   "end": "10.800", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "In"
+   ]
+  }, 
+  {
+   "begin": "10.800", 
+   "end": "11.120", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "11.120", 
+   "end": "11.560", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "great"
+   ]
+  }, 
+  {
+   "begin": "11.560", 
+   "end": "12.200", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "big"
+   ]
+  }, 
+  {
+   "begin": "12.200", 
+   "end": "13.040", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "universe\n"
+   ]
+  }, 
+  {
+   "begin": "13.040", 
+   "end": "14.000", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "Towards"
+   ]
+  }, 
+  {
+   "begin": "14.000", 
+   "end": "15.000", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "itself."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,211 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.480", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "\ufeffIt"
+   ]
+  }, 
+  {
+   "begin": "0.480", 
+   "end": "0.840", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "was"
+   ]
+  }, 
+  {
+   "begin": "0.840", 
+   "end": "1.200", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "growing"
+   ]
+  }, 
+  {
+   "begin": "1.200", 
+   "end": "2.120", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "dark."
+   ]
+  }, 
+  {
+   "begin": "2.120", 
+   "end": "2.480", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "Soon"
+   ]
+  }, 
+  {
+   "begin": "2.480", 
+   "end": "2.880", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "there"
+   ]
+  }, 
+  {
+   "begin": "2.880", 
+   "end": "3.280", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "would"
+   ]
+  }, 
+  {
+   "begin": "3.280", 
+   "end": "3.400", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "be"
+   ]
+  }, 
+  {
+   "begin": "3.400", 
+   "end": "4.040", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "lightning."
+   ]
+  }, 
+  {
+   "begin": "4.040", 
+   "end": "4.280", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "And"
+   ]
+  }, 
+  {
+   "begin": "4.280", 
+   "end": "5.360", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "thunder."
+   ]
+  }, 
+  {
+   "begin": "5.360", 
+   "end": "5.600", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "And"
+   ]
+  }, 
+  {
+   "begin": "5.600", 
+   "end": "6.640", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "sweet,"
+   ]
+  }, 
+  {
+   "begin": "6.640", 
+   "end": "7.440", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "fragrant"
+   ]
+  }, 
+  {
+   "begin": "7.440", 
+   "end": "9.000", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "rain.\n"
+   ]
+  }, 
+  {
+   "begin": "9.000", 
+   "end": "9.000", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    ""
+   ]
+  }, 
+  {
+   "begin": "9.000", 
+   "end": "9.000", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    ""
+   ]
+  }, 
+  {
+   "begin": "9.000", 
+   "end": "9.520", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "Velu"
+   ]
+  }, 
+  {
+   "begin": "9.520", 
+   "end": "9.920", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "ran"
+   ]
+  }, 
+  {
+   "begin": "9.920", 
+   "end": "10.760", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "home,"
+   ]
+  }, 
+  {
+   "begin": "10.760", 
+   "end": "11.440", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "laughing"
+   ]
+  }, 
+  {
+   "begin": "11.440", 
+   "end": "11.760", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "11.760", 
+   "end": "12.920", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "happy."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.720", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "\ufeffcomes"
+   ]
+  }, 
+  {
+   "begin": "0.720", 
+   "end": "1.040", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "back"
+   ]
+  }, 
+  {
+   "begin": "1.040", 
+   "end": "1.080", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "1.080", 
+   "end": "1.920", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "you!"
+   ]
+  }
+ ]
+}

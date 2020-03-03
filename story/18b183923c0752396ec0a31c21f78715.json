@@ -1,0 +1,256 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.360", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "The"
+   ]
+  }, 
+  {
+   "begin": "0.360", 
+   "end": "1.040", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "painter"
+   ]
+  }, 
+  {
+   "begin": "1.040", 
+   "end": "1.760", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "gave"
+   ]
+  }, 
+  {
+   "begin": "1.760", 
+   "end": "2.080", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "each"
+   ]
+  }, 
+  {
+   "begin": "2.080", 
+   "end": "2.240", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "of"
+   ]
+  }, 
+  {
+   "begin": "2.240", 
+   "end": "2.800", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "them"
+   ]
+  }, 
+  {
+   "begin": "2.800", 
+   "end": "3.000", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "3.000", 
+   "end": "3.560", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "brush."
+   ]
+  }, 
+  {
+   "begin": "3.560", 
+   "end": "4.720", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "\u201cPaint"
+   ]
+  }, 
+  {
+   "begin": "4.720", 
+   "end": "4.760", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "4.760", 
+   "end": "5.440", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "inside"
+   ]
+  }, 
+  {
+   "begin": "5.440", 
+   "end": "5.800", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "of"
+   ]
+  }, 
+  {
+   "begin": "5.800", 
+   "end": "6.040", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "6.040", 
+   "end": "6.720", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "gate,\u201d"
+   ]
+  }, 
+  {
+   "begin": "6.720", 
+   "end": "6.840", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "he"
+   ]
+  }, 
+  {
+   "begin": "6.840", 
+   "end": "7.160", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "said"
+   ]
+  }, 
+  {
+   "begin": "7.160", 
+   "end": "7.160", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "7.160", 
+   "end": "7.840", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "Veena.&nbsp;"
+   ]
+  }, 
+  {
+   "begin": "7.840", 
+   "end": "8.800", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "\u201cPaint"
+   ]
+  }, 
+  {
+   "begin": "8.800", 
+   "end": "9.000", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "9.000", 
+   "end": "9.560", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "outside"
+   ]
+  }, 
+  {
+   "begin": "9.560", 
+   "end": "9.720", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "of"
+   ]
+  }, 
+  {
+   "begin": "9.720", 
+   "end": "9.920", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "9.920", 
+   "end": "10.760", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "gate,\u201d"
+   ]
+  }, 
+  {
+   "begin": "10.760", 
+   "end": "10.920", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "he"
+   ]
+  }, 
+  {
+   "begin": "10.920", 
+   "end": "11.240", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "said"
+   ]
+  }, 
+  {
+   "begin": "11.240", 
+   "end": "11.400", 
+   "id": "f000027", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "11.400", 
+   "end": "12.080", 
+   "id": "f000028", 
+   "language": "en", 
+   "lines": [
+    "Vinay."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,139 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "1.080", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Leaping"
+   ]
+  }, 
+  {
+   "begin": "1.080", 
+   "end": "1.200", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "up"
+   ]
+  }, 
+  {
+   "begin": "1.200", 
+   "end": "1.240", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "1.240", 
+   "end": "2.040", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "sofa,"
+   ]
+  }, 
+  {
+   "begin": "2.040", 
+   "end": "2.960", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "climbing"
+   ]
+  }, 
+  {
+   "begin": "2.960", 
+   "end": "3.120", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "3.120", 
+   "end": "4.080", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "window,"
+   ]
+  }, 
+  {
+   "begin": "4.080", 
+   "end": "4.640", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "jumping"
+   ]
+  }, 
+  {
+   "begin": "4.640", 
+   "end": "4.640", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "up"
+   ]
+  }, 
+  {
+   "begin": "4.640", 
+   "end": "4.800", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "4.800", 
+   "end": "5.400", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "table,"
+   ]
+  }, 
+  {
+   "begin": "5.400", 
+   "end": "6.360", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "tumbling"
+   ]
+  }, 
+  {
+   "begin": "6.360", 
+   "end": "6.720", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "over"
+   ]
+  }, 
+  {
+   "begin": "6.720", 
+   "end": "6.720", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "6.720", 
+   "end": "7.640", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "cushions..."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,481 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "1.000", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "\u201cPlease"
+   ]
+  }, 
+  {
+   "begin": "1.000", 
+   "end": "1.480", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "my"
+   ]
+  }, 
+  {
+   "begin": "1.480", 
+   "end": "1.560", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "friend,\u201d"
+   ]
+  }, 
+  {
+   "begin": "1.560", 
+   "end": "2.560", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "he"
+   ]
+  }, 
+  {
+   "begin": "2.560", 
+   "end": "3.120", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "asked"
+   ]
+  }, 
+  {
+   "begin": "3.120", 
+   "end": "3.680", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "Raven,"
+   ]
+  }, 
+  {
+   "begin": "3.680", 
+   "end": "5.000", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "\u201ccould"
+   ]
+  }, 
+  {
+   "begin": "5.000", 
+   "end": "5.240", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "5.240", 
+   "end": "5.480", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "hold"
+   ]
+  }, 
+  {
+   "begin": "5.480", 
+   "end": "5.480", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "onto"
+   ]
+  }, 
+  {
+   "begin": "5.480", 
+   "end": "5.520", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "your"
+   ]
+  }, 
+  {
+   "begin": "5.520", 
+   "end": "6.320", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "tail"
+   ]
+  }, 
+  {
+   "begin": "6.320", 
+   "end": "6.880", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "as"
+   ]
+  }, 
+  {
+   "begin": "6.880", 
+   "end": "7.360", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "you"
+   ]
+  }, 
+  {
+   "begin": "7.360", 
+   "end": "7.920", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "fly"
+   ]
+  }, 
+  {
+   "begin": "7.920", 
+   "end": "7.920", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "up"
+   ]
+  }, 
+  {
+   "begin": "7.920", 
+   "end": "7.920", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "into"
+   ]
+  }, 
+  {
+   "begin": "7.920", 
+   "end": "8.640", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "8.640", 
+   "end": "9.040", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "sky?\u201d\n"
+   ]
+  }, 
+  {
+   "begin": "9.040", 
+   "end": "9.040", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "\u201cAll"
+   ]
+  }, 
+  {
+   "begin": "9.040", 
+   "end": "9.920", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "right,\u201d"
+   ]
+  }, 
+  {
+   "begin": "9.920", 
+   "end": "10.400", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "said"
+   ]
+  }, 
+  {
+   "begin": "10.400", 
+   "end": "10.880", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "Raven."
+   ]
+  }, 
+  {
+   "begin": "10.880", 
+   "end": "11.680", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "\u201cI"
+   ]
+  }, 
+  {
+   "begin": "11.680", 
+   "end": "12.000", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "know"
+   ]
+  }, 
+  {
+   "begin": "12.000", 
+   "end": "12.240", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "how"
+   ]
+  }, 
+  {
+   "begin": "12.240", 
+   "end": "12.560", 
+   "id": "f000027", 
+   "language": "en", 
+   "lines": [
+    "much"
+   ]
+  }, 
+  {
+   "begin": "12.560", 
+   "end": "12.640", 
+   "id": "f000028", 
+   "language": "en", 
+   "lines": [
+    "you"
+   ]
+  }, 
+  {
+   "begin": "12.640", 
+   "end": "12.880", 
+   "id": "f000029", 
+   "language": "en", 
+   "lines": [
+    "want"
+   ]
+  }, 
+  {
+   "begin": "12.880", 
+   "end": "13.000", 
+   "id": "f000030", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "13.000", 
+   "end": "14.360", 
+   "id": "f000031", 
+   "language": "en", 
+   "lines": [
+    "fly."
+   ]
+  }, 
+  {
+   "begin": "14.360", 
+   "end": "14.840", 
+   "id": "f000032", 
+   "language": "en", 
+   "lines": [
+    "Let\u2019s"
+   ]
+  }, 
+  {
+   "begin": "14.840", 
+   "end": "15.000", 
+   "id": "f000033", 
+   "language": "en", 
+   "lines": [
+    "do"
+   ]
+  }, 
+  {
+   "begin": "15.000", 
+   "end": "15.080", 
+   "id": "f000034", 
+   "language": "en", 
+   "lines": [
+    "it"
+   ]
+  }, 
+  {
+   "begin": "15.080", 
+   "end": "15.520", 
+   "id": "f000035", 
+   "language": "en", 
+   "lines": [
+    "tomorrow"
+   ]
+  }, 
+  {
+   "begin": "15.520", 
+   "end": "16.760", 
+   "id": "f000036", 
+   "language": "en", 
+   "lines": [
+    "morning.\u201d\n\n"
+   ]
+  }, 
+  {
+   "begin": "16.760", 
+   "end": "16.760", 
+   "id": "f000037", 
+   "language": "en", 
+   "lines": [
+    ""
+   ]
+  }, 
+  {
+   "begin": "16.760", 
+   "end": "17.080", 
+   "id": "f000038", 
+   "language": "en", 
+   "lines": [
+    "When"
+   ]
+  }, 
+  {
+   "begin": "17.080", 
+   "end": "17.360", 
+   "id": "f000039", 
+   "language": "en", 
+   "lines": [
+    "day"
+   ]
+  }, 
+  {
+   "begin": "17.360", 
+   "end": "18.280", 
+   "id": "f000040", 
+   "language": "en", 
+   "lines": [
+    "came,"
+   ]
+  }, 
+  {
+   "begin": "18.280", 
+   "end": "18.960", 
+   "id": "f000041", 
+   "language": "en", 
+   "lines": [
+    "Hyena"
+   ]
+  }, 
+  {
+   "begin": "18.960", 
+   "end": "19.400", 
+   "id": "f000042", 
+   "language": "en", 
+   "lines": [
+    "took"
+   ]
+  }, 
+  {
+   "begin": "19.400", 
+   "end": "19.720", 
+   "id": "f000043", 
+   "language": "en", 
+   "lines": [
+    "hold"
+   ]
+  }, 
+  {
+   "begin": "19.720", 
+   "end": "19.760", 
+   "id": "f000044", 
+   "language": "en", 
+   "lines": [
+    "of"
+   ]
+  }, 
+  {
+   "begin": "19.760", 
+   "end": "20.040", 
+   "id": "f000045", 
+   "language": "en", 
+   "lines": [
+    "Raven\u2019s"
+   ]
+  }, 
+  {
+   "begin": "20.040", 
+   "end": "20.400", 
+   "id": "f000046", 
+   "language": "en", 
+   "lines": [
+    "tail"
+   ]
+  }, 
+  {
+   "begin": "20.400", 
+   "end": "20.840", 
+   "id": "f000047", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "20.840", 
+   "end": "21.520", 
+   "id": "f000048", 
+   "language": "en", 
+   "lines": [
+    "Raven"
+   ]
+  }, 
+  {
+   "begin": "21.520", 
+   "end": "21.840", 
+   "id": "f000049", 
+   "language": "en", 
+   "lines": [
+    "flew"
+   ]
+  }, 
+  {
+   "begin": "21.840", 
+   "end": "22.120", 
+   "id": "f000050", 
+   "language": "en", 
+   "lines": [
+    "up"
+   ]
+  }, 
+  {
+   "begin": "22.120", 
+   "end": "22.360", 
+   "id": "f000051", 
+   "language": "en", 
+   "lines": [
+    "into"
+   ]
+  }, 
+  {
+   "begin": "22.360", 
+   "end": "22.600", 
+   "id": "f000052", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "22.600", 
+   "end": "23.280", 
+   "id": "f000053", 
+   "language": "en", 
+   "lines": [
+    "sky."
+   ]
+  }
+ ]
+}

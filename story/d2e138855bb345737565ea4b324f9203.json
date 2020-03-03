@@ -1,0 +1,274 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.320", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Gubbi"
+   ]
+  }, 
+  {
+   "begin": "0.320", 
+   "end": "0.800", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "flew"
+   ]
+  }, 
+  {
+   "begin": "0.800", 
+   "end": "1.400", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "straight"
+   ]
+  }, 
+  {
+   "begin": "1.400", 
+   "end": "2.120", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "2.120", 
+   "end": "2.400", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "2.400", 
+   "end": "2.800", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "ant\u2019s"
+   ]
+  }, 
+  {
+   "begin": "2.800", 
+   "end": "3.960", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "house."
+   ]
+  }, 
+  {
+   "begin": "3.960", 
+   "end": "4.160", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "When"
+   ]
+  }, 
+  {
+   "begin": "4.160", 
+   "end": "4.360", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "she"
+   ]
+  }, 
+  {
+   "begin": "4.360", 
+   "end": "4.720", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "saw"
+   ]
+  }, 
+  {
+   "begin": "4.720", 
+   "end": "5.480", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "him,"
+   ]
+  }, 
+  {
+   "begin": "5.480", 
+   "end": "5.840", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "she"
+   ]
+  }, 
+  {
+   "begin": "5.840", 
+   "end": "6.280", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "asked"
+   ]
+  }, 
+  {
+   "begin": "6.280", 
+   "end": "6.680", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "simply,"
+   ]
+  }, 
+  {
+   "begin": "6.680", 
+   "end": "8.160", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "\u201cWill"
+   ]
+  }, 
+  {
+   "begin": "8.160", 
+   "end": "8.600", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "you"
+   ]
+  }, 
+  {
+   "begin": "8.600", 
+   "end": "8.960", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "bite"
+   ]
+  }, 
+  {
+   "begin": "8.960", 
+   "end": "9.080", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "9.080", 
+   "end": "9.440", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "cat"
+   ]
+  }, 
+  {
+   "begin": "9.440", 
+   "end": "10.200", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "for"
+   ]
+  }, 
+  {
+   "begin": "10.200", 
+   "end": "10.240", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "me?\u201d"
+   ]
+  }, 
+  {
+   "begin": "10.240", 
+   "end": "11.520", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "\u201cSure!\u201d"
+   ]
+  }, 
+  {
+   "begin": "11.520", 
+   "end": "11.520", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "said"
+   ]
+  }, 
+  {
+   "begin": "11.520", 
+   "end": "11.560", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "11.560", 
+   "end": "11.600", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "ant."
+   ]
+  }, 
+  {
+   "begin": "11.600", 
+   "end": "12.240", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "\u201cShow"
+   ]
+  }, 
+  {
+   "begin": "12.240", 
+   "end": "12.400", 
+   "id": "f000027", 
+   "language": "en", 
+   "lines": [
+    "me"
+   ]
+  }, 
+  {
+   "begin": "12.400", 
+   "end": "12.880", 
+   "id": "f000028", 
+   "language": "en", 
+   "lines": [
+    "where"
+   ]
+  }, 
+  {
+   "begin": "12.880", 
+   "end": "14.160", 
+   "id": "f000029", 
+   "language": "en", 
+   "lines": [
+    "she"
+   ]
+  }, 
+  {
+   "begin": "14.160", 
+   "end": "15.240", 
+   "id": "f000030", 
+   "language": "en", 
+   "lines": [
+    "is!\u201d"
+   ]
+  }
+ ]
+}

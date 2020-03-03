@@ -1,0 +1,238 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.360", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Just"
+   ]
+  }, 
+  {
+   "begin": "0.360", 
+   "end": "0.400", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "as"
+   ]
+  }, 
+  {
+   "begin": "0.400", 
+   "end": "1.040", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "he"
+   ]
+  }, 
+  {
+   "begin": "1.040", 
+   "end": "1.520", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "had"
+   ]
+  }, 
+  {
+   "begin": "1.520", 
+   "end": "1.960", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "guessed,"
+   ]
+  }, 
+  {
+   "begin": "1.960", 
+   "end": "2.560", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "2.560", 
+   "end": "3.080", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "shapes"
+   ]
+  }, 
+  {
+   "begin": "3.080", 
+   "end": "3.360", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "were"
+   ]
+  }, 
+  {
+   "begin": "3.360", 
+   "end": "3.800", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "really"
+   ]
+  }, 
+  {
+   "begin": "3.800", 
+   "end": "4.640", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "vegetables:"
+   ]
+  }, 
+  {
+   "begin": "4.640", 
+   "end": "6.040", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "potatoes,"
+   ]
+  }, 
+  {
+   "begin": "6.040", 
+   "end": "6.400", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "sweet"
+   ]
+  }, 
+  {
+   "begin": "6.400", 
+   "end": "7.480", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "potatoes,"
+   ]
+  }, 
+  {
+   "begin": "7.480", 
+   "end": "8.480", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "yams,"
+   ]
+  }, 
+  {
+   "begin": "8.480", 
+   "end": "8.680", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "8.680", 
+   "end": "9.000", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "all"
+   ]
+  }, 
+  {
+   "begin": "9.000", 
+   "end": "9.160", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "9.160", 
+   "end": "9.520", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "other"
+   ]
+  }, 
+  {
+   "begin": "9.520", 
+   "end": "9.640", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "root"
+   ]
+  }, 
+  {
+   "begin": "9.640", 
+   "end": "10.680", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "vegetables"
+   ]
+  }, 
+  {
+   "begin": "10.680", 
+   "end": "10.960", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "he"
+   ]
+  }, 
+  {
+   "begin": "10.960", 
+   "end": "11.000", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "had"
+   ]
+  }, 
+  {
+   "begin": "11.000", 
+   "end": "11.440", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "seen"
+   ]
+  }, 
+  {
+   "begin": "11.440", 
+   "end": "11.560", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "in"
+   ]
+  }, 
+  {
+   "begin": "11.560", 
+   "end": "11.680", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "11.680", 
+   "end": "12.640", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "market."
+   ]
+  }
+ ]
+}

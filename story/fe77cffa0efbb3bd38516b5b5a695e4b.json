@@ -1,0 +1,112 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "1.640", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "\u201cCome,"
+   ]
+  }, 
+  {
+   "begin": "1.640", 
+   "end": "1.920", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "let\u2019s"
+   ]
+  }, 
+  {
+   "begin": "1.920", 
+   "end": "2.080", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "go"
+   ]
+  }, 
+  {
+   "begin": "2.080", 
+   "end": "2.160", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "2.160", 
+   "end": "2.320", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "2.320", 
+   "end": "3.160", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "market"
+   ]
+  }, 
+  {
+   "begin": "3.160", 
+   "end": "3.440", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "3.440", 
+   "end": "3.640", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "get"
+   ]
+  }, 
+  {
+   "begin": "3.640", 
+   "end": "3.800", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "you"
+   ]
+  }, 
+  {
+   "begin": "3.800", 
+   "end": "4.160", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "something,\u201d"
+   ]
+  }, 
+  {
+   "begin": "4.160", 
+   "end": "5.080", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "said"
+   ]
+  }, 
+  {
+   "begin": "5.080", 
+   "end": "6.640", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "Amma."
+   ]
+  }
+ ]
+}

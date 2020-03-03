@@ -1,0 +1,193 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.000", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Nani"
+   ]
+  }, 
+  {
+   "begin": "0.000", 
+   "end": "1.320", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "keeps"
+   ]
+  }, 
+  {
+   "begin": "1.320", 
+   "end": "2.360", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "losing"
+   ]
+  }, 
+  {
+   "begin": "2.360", 
+   "end": "2.560", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "her"
+   ]
+  }, 
+  {
+   "begin": "2.560", 
+   "end": "3.200", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "glasses."
+   ]
+  }, 
+  {
+   "begin": "3.200", 
+   "end": "4.800", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "\u201cWhere"
+   ]
+  }, 
+  {
+   "begin": "4.800", 
+   "end": "5.080", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "did"
+   ]
+  }, 
+  {
+   "begin": "5.080", 
+   "end": "5.360", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "5.360", 
+   "end": "5.720", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "keep"
+   ]
+  }, 
+  {
+   "begin": "5.720", 
+   "end": "6.160", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "them?\u201d"
+   ]
+  }, 
+  {
+   "begin": "6.160", 
+   "end": "7.880", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "she"
+   ]
+  }, 
+  {
+   "begin": "7.880", 
+   "end": "8.600", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "always"
+   ]
+  }, 
+  {
+   "begin": "8.600", 
+   "end": "9.880", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "asks."
+   ]
+  }, 
+  {
+   "begin": "9.880", 
+   "end": "10.440", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "Without"
+   ]
+  }, 
+  {
+   "begin": "10.440", 
+   "end": "10.680", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "her"
+   ]
+  }, 
+  {
+   "begin": "10.680", 
+   "end": "11.640", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "glasses,"
+   ]
+  }, 
+  {
+   "begin": "11.640", 
+   "end": "11.880", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "she"
+   ]
+  }, 
+  {
+   "begin": "11.880", 
+   "end": "12.360", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "cannot"
+   ]
+  }, 
+  {
+   "begin": "12.360", 
+   "end": "12.800", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "find"
+   ]
+  }, 
+  {
+   "begin": "12.800", 
+   "end": "13.000", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "her"
+   ]
+  }, 
+  {
+   "begin": "13.000", 
+   "end": "14.000", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "glasses."
+   ]
+  }
+ ]
+}

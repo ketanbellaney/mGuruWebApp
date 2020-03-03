@@ -1,0 +1,67 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.640", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "\ufeffWhatever"
+   ]
+  }, 
+  {
+   "begin": "0.640", 
+   "end": "0.920", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "you"
+   ]
+  }, 
+  {
+   "begin": "0.920", 
+   "end": "1.280", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "give\n"
+   ]
+  }, 
+  {
+   "begin": "1.280", 
+   "end": "1.920", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "comes"
+   ]
+  }, 
+  {
+   "begin": "1.920", 
+   "end": "2.200", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "back"
+   ]
+  }, 
+  {
+   "begin": "2.200", 
+   "end": "2.480", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "2.480", 
+   "end": "3.400", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "you!"
+   ]
+  }
+ ]
+}

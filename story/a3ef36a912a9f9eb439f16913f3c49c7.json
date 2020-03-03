@@ -1,0 +1,202 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.400", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "She"
+   ]
+  }, 
+  {
+   "begin": "0.400", 
+   "end": "0.760", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "didn\u2019t"
+   ]
+  }, 
+  {
+   "begin": "0.760", 
+   "end": "1.040", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "want"
+   ]
+  }, 
+  {
+   "begin": "1.040", 
+   "end": "1.280", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "1.280", 
+   "end": "1.600", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "think"
+   ]
+  }, 
+  {
+   "begin": "1.600", 
+   "end": "1.920", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "about"
+   ]
+  }, 
+  {
+   "begin": "1.920", 
+   "end": "3.320", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "tomorrow."
+   ]
+  }, 
+  {
+   "begin": "3.320", 
+   "end": "4.160", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "&nbsp;"
+   ]
+  }, 
+  {
+   "begin": "4.160", 
+   "end": "4.200", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "In"
+   ]
+  }, 
+  {
+   "begin": "4.200", 
+   "end": "4.520", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "4.520", 
+   "end": "4.800", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "morning,"
+   ]
+  }, 
+  {
+   "begin": "4.800", 
+   "end": "4.960", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "Amma"
+   ]
+  }, 
+  {
+   "begin": "4.960", 
+   "end": "5.320", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "said,"
+   ]
+  }, 
+  {
+   "begin": "5.320", 
+   "end": "6.600", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "\"You"
+   ]
+  }, 
+  {
+   "begin": "6.600", 
+   "end": "6.760", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "look"
+   ]
+  }, 
+  {
+   "begin": "6.760", 
+   "end": "7.920", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "ill.\""
+   ]
+  }, 
+  {
+   "begin": "7.920", 
+   "end": "8.160", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "She"
+   ]
+  }, 
+  {
+   "begin": "8.160", 
+   "end": "8.640", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "touched"
+   ]
+  }, 
+  {
+   "begin": "8.640", 
+   "end": "9.120", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "Ammu\u2019s"
+   ]
+  }, 
+  {
+   "begin": "9.120", 
+   "end": "9.640", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "forehead."
+   ]
+  }, 
+  {
+   "begin": "9.640", 
+   "end": "10.480", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "A"
+   ]
+  }, 
+  {
+   "begin": "10.480", 
+   "end": "11.280", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "fever!"
+   ]
+  }
+ ]
+}

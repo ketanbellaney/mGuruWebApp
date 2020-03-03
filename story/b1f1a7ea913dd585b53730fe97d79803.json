@@ -1,0 +1,642 @@
+{
+	"fragments": [{
+			"begin": "0.000",
+			"end": "1.200",
+			"id": "f000001",
+			"language": "en",
+			"lines": [
+				"\u201cMoru!\u201d"
+			]
+		},
+		{
+			"begin": "1.200",
+			"end": "1.720",
+			"id": "f000002",
+			"language": "en",
+			"lines": [
+				"scolded"
+			]
+		},
+		{
+			"begin": "1.720",
+			"end": "1.880",
+			"id": "f000003",
+			"language": "en",
+			"lines": [
+				"the"
+			]
+		},
+		{
+			"begin": "1.880",
+			"end": "2.440",
+			"id": "f000004",
+			"language": "en",
+			"lines": [
+				"teacher."
+			]
+		},
+		{
+			"begin": "2.440",
+			"end": "3.600",
+			"id": "f000005",
+			"language": "en",
+			"lines": [
+				"\u201cWhy"
+			]
+		},
+		{
+			"begin": "3.600",
+			"end": "3.760",
+			"id": "f000006",
+			"language": "en",
+			"lines": [
+				"are"
+			]
+		},
+		{
+			"begin": "3.760",
+			"end": "3.760",
+			"id": "f000007",
+			"language": "en",
+			"lines": [
+				"you"
+			]
+		},
+		{
+			"begin": "3.760",
+			"end": "3.840",
+			"id": "f000008",
+			"language": "en",
+			"lines": [
+				"not"
+			]
+		},
+		{
+			"begin": "3.840",
+			"end": "4.160",
+			"id": "f000009",
+			"language": "en",
+			"lines": [
+				"doing"
+			]
+		},
+		{
+			"begin": "4.160",
+			"end": "5.160",
+			"id": "f000010",
+			"language": "en",
+			"lines": [
+				"anything?\u201d\n\n"
+			]
+		},
+		{
+			"begin": "5.160",
+			"end": "5.160",
+			"id": "f000011",
+			"language": "en",
+			"lines": [
+				""
+			]
+		},
+		{
+			"begin": "5.160",
+			"end": "5.160",
+			"id": "f000012",
+			"language": "en",
+			"lines": [
+				""
+			]
+		},
+		{
+			"begin": "5.160",
+			"end": "5.600",
+			"id": "f000013",
+			"language": "en",
+			"lines": [
+				"Moru"
+			]
+		},
+		{
+			"begin": "5.600",
+			"end": "6.000",
+			"id": "f000014",
+			"language": "en",
+			"lines": [
+				"looked"
+			]
+		},
+		{
+			"begin": "6.000",
+			"end": "6.440",
+			"id": "f000015",
+			"language": "en",
+			"lines": [
+				"blank."
+			]
+		},
+		{
+			"begin": "6.440",
+			"end": "6.560",
+			"id": "f000016",
+			"language": "en",
+			"lines": [
+				"\u201cWhere"
+			]
+		},
+		{
+			"begin": "6.560",
+			"end": "7.040",
+			"id": "f000017",
+			"language": "en",
+			"lines": [
+				"is"
+			]
+		},
+		{
+			"begin": "7.040",
+			"end": "7.720",
+			"id": "f000018",
+			"language": "en",
+			"lines": [
+				"your"
+			]
+		},
+		{
+			"begin": "7.720",
+			"end": "8.160",
+			"id": "f000019",
+			"language": "en",
+			"lines": [
+				"slate?"
+			]
+		},
+		{
+			"begin": "8.160",
+			"end": "9.840",
+			"id": "f000020",
+			"language": "en",
+			"lines": [
+				"Why"
+			]
+		},
+		{
+			"begin": "9.840",
+			"end": "10.480",
+			"id": "f000021",
+			"language": "en",
+			"lines": [
+				"haven\u2019t"
+			]
+		},
+		{
+			"begin": "10.480",
+			"end": "10.480",
+			"id": "f000022",
+			"language": "en",
+			"lines": [
+				"you"
+			]
+		},
+		{
+			"begin": "10.480",
+			"end": "10.800",
+			"id": "f000023",
+			"language": "en",
+			"lines": [
+				"brought"
+			]
+		},
+		{
+			"begin": "10.800",
+			"end": "10.800",
+			"id": "f000024",
+			"language": "en",
+			"lines": [
+				"one"
+			]
+		},
+		{
+			"begin": "10.800",
+			"end": "10.800",
+			"id": "f000025",
+			"language": "en",
+			"lines": [
+				"to"
+			]
+		},
+		{
+			"begin": "10.800",
+			"end": "11.760",
+			"id": "f000026",
+			"language": "en",
+			"lines": [
+				"school?\u201d"
+			]
+		},
+		{
+			"begin": "11.760",
+			"end": "12.200",
+			"id": "f000027",
+			"language": "en",
+			"lines": [
+				"shouted"
+			]
+		},
+		{
+			"begin": "12.200",
+			"end": "12.320",
+			"id": "f000028",
+			"language": "en",
+			"lines": [
+				"the"
+			]
+		},
+		{
+			"begin": "12.320",
+			"end": "13.760",
+			"id": "f000029",
+			"language": "en",
+			"lines": [
+				"teacher."
+			]
+		},
+		{
+			"begin": "13.760",
+			"end": "14.080",
+			"id": "f000030",
+			"language": "en",
+			"lines": [
+				"Moru"
+			]
+		},
+		{
+			"begin": "14.080",
+			"end": "14.280",
+			"id": "f000031",
+			"language": "en",
+			"lines": [
+				"could"
+			]
+		},
+		{
+			"begin": "14.280",
+			"end": "14.560",
+			"id": "f000032",
+			"language": "en",
+			"lines": [
+				"see"
+			]
+		},
+		{
+			"begin": "14.560",
+			"end": "14.720",
+			"id": "f000033",
+			"language": "en",
+			"lines": [
+				"that"
+			]
+		},
+		{
+			"begin": "14.720",
+			"end": "14.880",
+			"id": "f000034",
+			"language": "en",
+			"lines": [
+				"the"
+			]
+		},
+		{
+			"begin": "14.880",
+			"end": "15.240",
+			"id": "f000035",
+			"language": "en",
+			"lines": [
+				"teacher"
+			]
+		},
+		{
+			"begin": "15.240",
+			"end": "15.560",
+			"id": "f000036",
+			"language": "en",
+			"lines": [
+				"was"
+			]
+		},
+		{
+			"begin": "15.560",
+			"end": "16.080",
+			"id": "f000037",
+			"language": "en",
+			"lines": [
+				"angry"
+			]
+		},
+		{
+			"begin": "16.080",
+			"end": "16.120",
+			"id": "f000038",
+			"language": "en",
+			"lines": [
+				"with"
+			]
+		},
+		{
+			"begin": "16.120",
+			"end": "17.120",
+			"id": "f000039",
+			"language": "en",
+			"lines": [
+				"him."
+			]
+		},
+		{
+			"begin": "17.120",
+			"end": "17.600",
+			"id": "f000040",
+			"language": "en",
+			"lines": [
+				"Moru"
+			]
+		},
+		{
+			"begin": "17.600",
+			"end": "18.120",
+			"id": "f000041",
+			"language": "en",
+			"lines": [
+				"replied,"
+			]
+		},
+		{
+			"begin": "18.120",
+			"end": "19.480",
+			"id": "f000042",
+			"language": "en",
+			"lines": [
+				"\u201cMy"
+			]
+		},
+		{
+			"begin": "19.480",
+			"end": "20.000",
+			"id": "f000043",
+			"language": "en",
+			"lines": [
+				"old"
+			]
+		},
+		{
+			"begin": "20.000",
+			"end": "20.400",
+			"id": "f000044",
+			"language": "en",
+			"lines": [
+				"slate"
+			]
+		},
+		{
+			"begin": "20.400",
+			"end": "20.840",
+			"id": "f000045",
+			"language": "en",
+			"lines": [
+				"broke"
+			]
+		},
+		{
+			"begin": "20.840",
+			"end": "21.080",
+			"id": "f000046",
+			"language": "en",
+			"lines": [
+				"and"
+			]
+		},
+		{
+			"begin": "21.080",
+			"end": "21.400",
+			"id": "f000047",
+			"language": "en",
+			"lines": [
+				"I"
+			]
+		},
+		{
+			"begin": "21.400",
+			"end": "21.680",
+			"id": "f000048",
+			"language": "en",
+			"lines": [
+				"don\u2019t"
+			]
+		},
+		{
+			"begin": "21.680",
+			"end": "21.960",
+			"id": "f000049",
+			"language": "en",
+			"lines": [
+				"have"
+			]
+		},
+		{
+			"begin": "21.960",
+			"end": "22.240",
+			"id": "f000050",
+			"language": "en",
+			"lines": [
+				"money"
+			]
+		},
+		{
+			"begin": "22.240",
+			"end": "22.400",
+			"id": "f000051",
+			"language": "en",
+			"lines": [
+				"to"
+			]
+		},
+		{
+			"begin": "22.400",
+			"end": "23.120",
+			"id": "f000052",
+			"language": "en",
+			"lines": [
+				"buy"
+			]
+		},
+		{
+			"begin": "23.120",
+			"end": "23.400",
+			"id": "f000053",
+			"language": "en",
+			"lines": [
+				"a"
+			]
+		},
+		{
+			"begin": "23.400",
+			"end": "23.400",
+			"id": "f000054",
+			"language": "en",
+			"lines": [
+				"new"
+			]
+		},
+		{
+			"begin": "23.400",
+			"end": "23.440",
+			"id": "f000055",
+			"language": "en",
+			"lines": [
+				"one.\u201d"
+			]
+		},
+		{
+			"begin": "23.440",
+			"end": "23.440",
+			"id": "f000056",
+			"language": "en",
+			"lines": [
+				"The"
+			]
+		},
+		{
+			"begin": "23.440",
+			"end": "25.840",
+			"id": "f000057",
+			"language": "en",
+			"lines": [
+				"teacher"
+			]
+		},
+		{
+			"begin": "25.840",
+			"end": "26.120",
+			"id": "f000058",
+			"language": "en",
+			"lines": [
+				"was"
+			]
+		},
+		{
+			"begin": "26.120",
+			"end": "27.000",
+			"id": "f000059",
+			"language": "en",
+			"lines": [
+				"angry"
+			]
+		},
+		{
+			"begin": "27.000",
+			"end": "27.200",
+			"id": "f000060",
+			"language": "en",
+			"lines": [
+				"and"
+			]
+		},
+		{
+			"begin": "27.200",
+			"end": "27.520",
+			"id": "f000061",
+			"language": "en",
+			"lines": [
+				"gave"
+			]
+		},
+		{
+			"begin": "27.520",
+			"end": "27.880",
+			"id": "f000062",
+			"language": "en",
+			"lines": [
+				"Moru"
+			]
+		},
+		{
+			"begin": "27.880",
+			"end": "27.960",
+			"id": "f000063",
+			"language": "en",
+			"lines": [
+				"a"
+			]
+		},
+		{
+			"begin": "27.960",
+			"end": "28.360",
+			"id": "f000064",
+			"language": "en",
+			"lines": [
+				"sharp"
+			]
+		},
+		{
+			"begin": "28.360",
+			"end": "28.760",
+			"id": "f000065",
+			"language": "en",
+			"lines": [
+				"tap"
+			]
+		},
+		{
+			"begin": "28.760",
+			"end": "28.880",
+			"id": "f000066",
+			"language": "en",
+			"lines": [
+				"with"
+			]
+		},
+		{
+			"begin": "28.880",
+			"end": "29.000",
+			"id": "f000067",
+			"language": "en",
+			"lines": [
+				"the"
+			]
+		},
+		{
+			"begin": "29.000",
+			"end": "29.360",
+			"id": "f000068",
+			"language": "en",
+			"lines": [
+				"stick"
+			]
+		},
+		{
+			"begin": "29.360",
+			"end": "29.480",
+			"id": "f000069",
+			"language": "en",
+			"lines": [
+				"in"
+			]
+		},
+		{
+			"begin": "29.480",
+			"end": "29.680",
+			"id": "f000070",
+			"language": "en",
+			"lines": [
+				"his"
+			]
+		},
+		{
+			"begin": "29.680",
+			"end": "30.600",
+			"id": "f000071",
+			"language": "en",
+			"lines": [
+				"hand."
+			]
+		}
+	]
+}

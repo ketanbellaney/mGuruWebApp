@@ -1,0 +1,175 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.160", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Little"
+   ]
+  }, 
+  {
+   "begin": "0.160", 
+   "end": "0.960", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "Elephant"
+   ]
+  }, 
+  {
+   "begin": "0.960", 
+   "end": "1.240", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "said"
+   ]
+  }, 
+  {
+   "begin": "1.240", 
+   "end": "1.960", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "softly,"
+   ]
+  }, 
+  {
+   "begin": "1.960", 
+   "end": "3.000", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "\"Don't"
+   ]
+  }, 
+  {
+   "begin": "3.000", 
+   "end": "3.000", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "be"
+   ]
+  }, 
+  {
+   "begin": "3.000", 
+   "end": "3.400", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "scared."
+   ]
+  }, 
+  {
+   "begin": "3.400", 
+   "end": "3.800", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "He"
+   ]
+  }, 
+  {
+   "begin": "3.800", 
+   "end": "4.280", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "is"
+   ]
+  }, 
+  {
+   "begin": "4.280", 
+   "end": "4.560", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "4.560", 
+   "end": "4.680", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "friend."
+   ]
+  }, 
+  {
+   "begin": "4.680", 
+   "end": "5.400", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "Today,"
+   ]
+  }, 
+  {
+   "begin": "5.400", 
+   "end": "6.160", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "we"
+   ]
+  }, 
+  {
+   "begin": "6.160", 
+   "end": "6.400", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "are"
+   ]
+  }, 
+  {
+   "begin": "6.400", 
+   "end": "6.640", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "going"
+   ]
+  }, 
+  {
+   "begin": "6.640", 
+   "end": "6.640", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "6.640", 
+   "end": "7.040", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "have"
+   ]
+  }, 
+  {
+   "begin": "7.040", 
+   "end": "7.400", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "fun"
+   ]
+  }, 
+  {
+   "begin": "7.400", 
+   "end": "8.320", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "together.\""
+   ]
+  }
+ ]
+}

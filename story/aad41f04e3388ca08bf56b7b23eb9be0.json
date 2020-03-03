@@ -1,0 +1,229 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.640", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "\u201cOf"
+   ]
+  }, 
+  {
+   "begin": "0.640", 
+   "end": "1.440", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "course!"
+   ]
+  }, 
+  {
+   "begin": "1.440", 
+   "end": "2.360", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "How"
+   ]
+  }, 
+  {
+   "begin": "2.360", 
+   "end": "2.760", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "silly"
+   ]
+  }, 
+  {
+   "begin": "2.760", 
+   "end": "2.960", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "of"
+   ]
+  }, 
+  {
+   "begin": "2.960", 
+   "end": "4.000", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "me."
+   ]
+  }, 
+  {
+   "begin": "4.000", 
+   "end": "4.840", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "Thank"
+   ]
+  }, 
+  {
+   "begin": "4.840", 
+   "end": "4.960", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "you,"
+   ]
+  }, 
+  {
+   "begin": "4.960", 
+   "end": "5.280", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "Richa"
+   ]
+  }, 
+  {
+   "begin": "5.280", 
+   "end": "5.680", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "dear,\u201d"
+   ]
+  }, 
+  {
+   "begin": "5.680", 
+   "end": "6.720", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "she"
+   ]
+  }, 
+  {
+   "begin": "6.720", 
+   "end": "7.480", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "says"
+   ]
+  }, 
+  {
+   "begin": "7.480", 
+   "end": "7.760", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "with"
+   ]
+  }, 
+  {
+   "begin": "7.760", 
+   "end": "8.000", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "8.000", 
+   "end": "8.040", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "giggle."
+   ]
+  }, 
+  {
+   "begin": "8.040", 
+   "end": "9.080", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "This"
+   ]
+  }, 
+  {
+   "begin": "9.080", 
+   "end": "9.600", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "time,"
+   ]
+  }, 
+  {
+   "begin": "9.600", 
+   "end": "10.680", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "though,"
+   ]
+  }, 
+  {
+   "begin": "10.680", 
+   "end": "10.880", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "10.880", 
+   "end": "11.400", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "cannot"
+   ]
+  }, 
+  {
+   "begin": "11.400", 
+   "end": "11.960", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "find"
+   ]
+  }, 
+  {
+   "begin": "11.960", 
+   "end": "12.560", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "Nani\u2019s"
+   ]
+  }, 
+  {
+   "begin": "12.560", 
+   "end": "13.800", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "glasses."
+   ]
+  }, 
+  {
+   "begin": "13.800", 
+   "end": "14.200", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "Not"
+   ]
+  }, 
+  {
+   "begin": "14.200", 
+   "end": "15.080", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "yet."
+   ]
+  }
+ ]
+}

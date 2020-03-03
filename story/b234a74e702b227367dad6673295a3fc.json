@@ -1,0 +1,841 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.560", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "\u201cOf"
+   ]
+  }, 
+  {
+   "begin": "0.560", 
+   "end": "1.840", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "course!\u201d"
+   ]
+  }, 
+  {
+   "begin": "1.840", 
+   "end": "2.240", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "replied"
+   ]
+  }, 
+  {
+   "begin": "2.240", 
+   "end": "2.920", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "Chuskit."
+   ]
+  }, 
+  {
+   "begin": "2.920", 
+   "end": "5.160", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "\u201cI&nbsp;hear"
+   ]
+  }, 
+  {
+   "begin": "5.160", 
+   "end": "5.400", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "my"
+   ]
+  }, 
+  {
+   "begin": "5.400", 
+   "end": "5.800", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "younger"
+   ]
+  }, 
+  {
+   "begin": "5.800", 
+   "end": "6.280", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "brother"
+   ]
+  }, 
+  {
+   "begin": "6.280", 
+   "end": "6.960", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "talk&nbsp;of"
+   ]
+  }, 
+  {
+   "begin": "6.960", 
+   "end": "7.120", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "all"
+   ]
+  }, 
+  {
+   "begin": "7.120", 
+   "end": "7.120", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "that"
+   ]
+  }, 
+  {
+   "begin": "7.120", 
+   "end": "7.520", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "he"
+   ]
+  }, 
+  {
+   "begin": "7.520", 
+   "end": "7.920", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "does"
+   ]
+  }, 
+  {
+   "begin": "7.920", 
+   "end": "8.200", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "at"
+   ]
+  }, 
+  {
+   "begin": "8.200", 
+   "end": "8.880", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "school."
+   ]
+  }, 
+  {
+   "begin": "8.880", 
+   "end": "9.080", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "9.080", 
+   "end": "9.320", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "want"
+   ]
+  }, 
+  {
+   "begin": "9.320", 
+   "end": "9.320", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "9.320", 
+   "end": "9.480", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "study"
+   ]
+  }, 
+  {
+   "begin": "9.480", 
+   "end": "9.920", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "like"
+   ]
+  }, 
+  {
+   "begin": "9.920", 
+   "end": "9.920", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "all"
+   ]
+  }, 
+  {
+   "begin": "9.920", 
+   "end": "10.080", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "of"
+   ]
+  }, 
+  {
+   "begin": "10.080", 
+   "end": "11.560", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "you,&nbsp;make"
+   ]
+  }, 
+  {
+   "begin": "11.560", 
+   "end": "12.200", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "friends,"
+   ]
+  }, 
+  {
+   "begin": "12.200", 
+   "end": "12.960", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "play"
+   ]
+  }, 
+  {
+   "begin": "12.960", 
+   "end": "13.800", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "games,"
+   ]
+  }, 
+  {
+   "begin": "13.800", 
+   "end": "14.280", 
+   "id": "f000027", 
+   "language": "en", 
+   "lines": [
+    "wear"
+   ]
+  }, 
+  {
+   "begin": "14.280", 
+   "end": "14.280", 
+   "id": "f000028", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "14.280", 
+   "end": "14.800", 
+   "id": "f000029", 
+   "language": "en", 
+   "lines": [
+    "uniform"
+   ]
+  }, 
+  {
+   "begin": "14.800", 
+   "end": "15.360", 
+   "id": "f000030", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "15.360", 
+   "end": "15.720", 
+   "id": "f000031", 
+   "language": "en", 
+   "lines": [
+    "even"
+   ]
+  }, 
+  {
+   "begin": "15.720", 
+   "end": "17.680", 
+   "id": "f000032", 
+   "language": "en", 
+   "lines": [
+    "write&nbsp;exams."
+   ]
+  }, 
+  {
+   "begin": "17.680", 
+   "end": "18.320", 
+   "id": "f000033", 
+   "language": "en", 
+   "lines": [
+    "Sometimes"
+   ]
+  }, 
+  {
+   "begin": "18.320", 
+   "end": "18.600", 
+   "id": "f000034", 
+   "language": "en", 
+   "lines": [
+    "my"
+   ]
+  }, 
+  {
+   "begin": "18.600", 
+   "end": "18.920", 
+   "id": "f000035", 
+   "language": "en", 
+   "lines": [
+    "brother"
+   ]
+  }, 
+  {
+   "begin": "18.920", 
+   "end": "19.120", 
+   "id": "f000036", 
+   "language": "en", 
+   "lines": [
+    "teaches"
+   ]
+  }, 
+  {
+   "begin": "19.120", 
+   "end": "19.160", 
+   "id": "f000037", 
+   "language": "en", 
+   "lines": [
+    "me"
+   ]
+  }, 
+  {
+   "begin": "19.160", 
+   "end": "19.680", 
+   "id": "f000038", 
+   "language": "en", 
+   "lines": [
+    "songs"
+   ]
+  }, 
+  {
+   "begin": "19.680", 
+   "end": "20.160", 
+   "id": "f000039", 
+   "language": "en", 
+   "lines": [
+    "that"
+   ]
+  }, 
+  {
+   "begin": "20.160", 
+   "end": "20.280", 
+   "id": "f000040", 
+   "language": "en", 
+   "lines": [
+    "he"
+   ]
+  }, 
+  {
+   "begin": "20.280", 
+   "end": "21.080", 
+   "id": "f000041", 
+   "language": "en", 
+   "lines": [
+    "has&nbsp;learnt"
+   ]
+  }, 
+  {
+   "begin": "21.080", 
+   "end": "21.240", 
+   "id": "f000042", 
+   "language": "en", 
+   "lines": [
+    "at"
+   ]
+  }, 
+  {
+   "begin": "21.240", 
+   "end": "22.040", 
+   "id": "f000043", 
+   "language": "en", 
+   "lines": [
+    "school"
+   ]
+  }, 
+  {
+   "begin": "22.040", 
+   "end": "22.520", 
+   "id": "f000044", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "22.520", 
+   "end": "22.720", 
+   "id": "f000045", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "22.720", 
+   "end": "22.920", 
+   "id": "f000046", 
+   "language": "en", 
+   "lines": [
+    "love"
+   ]
+  }, 
+  {
+   "begin": "22.920", 
+   "end": "23.000", 
+   "id": "f000047", 
+   "language": "en", 
+   "lines": [
+    "it."
+   ]
+  }, 
+  {
+   "begin": "23.000", 
+   "end": "23.600", 
+   "id": "f000048", 
+   "language": "en", 
+   "lines": [
+    "You"
+   ]
+  }, 
+  {
+   "begin": "23.600", 
+   "end": "24.160", 
+   "id": "f000049", 
+   "language": "en", 
+   "lines": [
+    "may"
+   ]
+  }, 
+  {
+   "begin": "24.160", 
+   "end": "24.280", 
+   "id": "f000050", 
+   "language": "en", 
+   "lines": [
+    "not"
+   ]
+  }, 
+  {
+   "begin": "24.280", 
+   "end": "24.760", 
+   "id": "f000051", 
+   "language": "en", 
+   "lines": [
+    "believe"
+   ]
+  }, 
+  {
+   "begin": "24.760", 
+   "end": "25.120", 
+   "id": "f000052", 
+   "language": "en", 
+   "lines": [
+    "this,"
+   ]
+  }, 
+  {
+   "begin": "25.120", 
+   "end": "25.520", 
+   "id": "f000053", 
+   "language": "en", 
+   "lines": [
+    "but"
+   ]
+  }, 
+  {
+   "begin": "25.520", 
+   "end": "26.400", 
+   "id": "f000054", 
+   "language": "en", 
+   "lines": [
+    "I&nbsp;sometimes"
+   ]
+  }, 
+  {
+   "begin": "26.400", 
+   "end": "27.320", 
+   "id": "f000055", 
+   "language": "en", 
+   "lines": [
+    "dream"
+   ]
+  }, 
+  {
+   "begin": "27.320", 
+   "end": "27.320", 
+   "id": "f000056", 
+   "language": "en", 
+   "lines": [
+    "of"
+   ]
+  }, 
+  {
+   "begin": "27.320", 
+   "end": "27.600", 
+   "id": "f000057", 
+   "language": "en", 
+   "lines": [
+    "carrying"
+   ]
+  }, 
+  {
+   "begin": "27.600", 
+   "end": "28.480", 
+   "id": "f000058", 
+   "language": "en", 
+   "lines": [
+    "a&nbsp;school"
+   ]
+  }, 
+  {
+   "begin": "28.480", 
+   "end": "29.360", 
+   "id": "f000059", 
+   "language": "en", 
+   "lines": [
+    "bag,"
+   ]
+  }, 
+  {
+   "begin": "29.360", 
+   "end": "29.560", 
+   "id": "f000060", 
+   "language": "en", 
+   "lines": [
+    "even"
+   ]
+  }, 
+  {
+   "begin": "29.560", 
+   "end": "30.080", 
+   "id": "f000061", 
+   "language": "en", 
+   "lines": [
+    "eating"
+   ]
+  }, 
+  {
+   "begin": "30.080", 
+   "end": "31.360", 
+   "id": "f000062", 
+   "language": "en", 
+   "lines": [
+    "packed&nbsp;lunch...\u201d\n\n"
+   ]
+  }, 
+  {
+   "begin": "31.360", 
+   "end": "31.360", 
+   "id": "f000063", 
+   "language": "en", 
+   "lines": [
+    ""
+   ]
+  }, 
+  {
+   "begin": "31.360", 
+   "end": "33.480", 
+   "id": "f000064", 
+   "language": "en", 
+   "lines": [
+    "\u201cEnough!"
+   ]
+  }, 
+  {
+   "begin": "33.480", 
+   "end": "35.000", 
+   "id": "f000065", 
+   "language": "en", 
+   "lines": [
+    "Enough!\u201d"
+   ]
+  }, 
+  {
+   "begin": "35.000", 
+   "end": "35.640", 
+   "id": "f000066", 
+   "language": "en", 
+   "lines": [
+    "interrupted"
+   ]
+  }, 
+  {
+   "begin": "35.640", 
+   "end": "35.760", 
+   "id": "f000067", 
+   "language": "en", 
+   "lines": [
+    "her"
+   ]
+  }, 
+  {
+   "begin": "35.760", 
+   "end": "36.520", 
+   "id": "f000068", 
+   "language": "en", 
+   "lines": [
+    "grandfather."
+   ]
+  }, 
+  {
+   "begin": "36.520", 
+   "end": "37.800", 
+   "id": "f000069", 
+   "language": "en", 
+   "lines": [
+    "\u201cStop"
+   ]
+  }, 
+  {
+   "begin": "37.800", 
+   "end": "38.240", 
+   "id": "f000070", 
+   "language": "en", 
+   "lines": [
+    "dreaming,"
+   ]
+  }, 
+  {
+   "begin": "38.240", 
+   "end": "38.560", 
+   "id": "f000071", 
+   "language": "en", 
+   "lines": [
+    "Chuskit."
+   ]
+  }, 
+  {
+   "begin": "38.560", 
+   "end": "39.320", 
+   "id": "f000072", 
+   "language": "en", 
+   "lines": [
+    "You"
+   ]
+  }, 
+  {
+   "begin": "39.320", 
+   "end": "39.920", 
+   "id": "f000073", 
+   "language": "en", 
+   "lines": [
+    "know"
+   ]
+  }, 
+  {
+   "begin": "39.920", 
+   "end": "39.920", 
+   "id": "f000074", 
+   "language": "en", 
+   "lines": [
+    "you"
+   ]
+  }, 
+  {
+   "begin": "39.920", 
+   "end": "40.440", 
+   "id": "f000075", 
+   "language": "en", 
+   "lines": [
+    "cannot"
+   ]
+  }, 
+  {
+   "begin": "40.440", 
+   "end": "40.600", 
+   "id": "f000076", 
+   "language": "en", 
+   "lines": [
+    "go"
+   ]
+  }, 
+  {
+   "begin": "40.600", 
+   "end": "40.760", 
+   "id": "f000077", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "40.760", 
+   "end": "41.760", 
+   "id": "f000078", 
+   "language": "en", 
+   "lines": [
+    "school."
+   ]
+  }, 
+  {
+   "begin": "41.760", 
+   "end": "41.880", 
+   "id": "f000079", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "41.880", 
+   "end": "42.080", 
+   "id": "f000080", 
+   "language": "en", 
+   "lines": [
+    "have"
+   ]
+  }, 
+  {
+   "begin": "42.080", 
+   "end": "42.400", 
+   "id": "f000081", 
+   "language": "en", 
+   "lines": [
+    "told"
+   ]
+  }, 
+  {
+   "begin": "42.400", 
+   "end": "42.560", 
+   "id": "f000082", 
+   "language": "en", 
+   "lines": [
+    "you"
+   ]
+  }, 
+  {
+   "begin": "42.560", 
+   "end": "42.960", 
+   "id": "f000083", 
+   "language": "en", 
+   "lines": [
+    "this"
+   ]
+  }, 
+  {
+   "begin": "42.960", 
+   "end": "43.320", 
+   "id": "f000084", 
+   "language": "en", 
+   "lines": [
+    "many"
+   ]
+  }, 
+  {
+   "begin": "43.320", 
+   "end": "44.560", 
+   "id": "f000085", 
+   "language": "en", 
+   "lines": [
+    "times."
+   ]
+  }, 
+  {
+   "begin": "44.560", 
+   "end": "44.680", 
+   "id": "f000086", 
+   "language": "en", 
+   "lines": [
+    "Learn"
+   ]
+  }, 
+  {
+   "begin": "44.680", 
+   "end": "45.120", 
+   "id": "f000087", 
+   "language": "en", 
+   "lines": [
+    "as"
+   ]
+  }, 
+  {
+   "begin": "45.120", 
+   "end": "45.360", 
+   "id": "f000088", 
+   "language": "en", 
+   "lines": [
+    "much"
+   ]
+  }, 
+  {
+   "begin": "45.360", 
+   "end": "45.520", 
+   "id": "f000089", 
+   "language": "en", 
+   "lines": [
+    "as"
+   ]
+  }, 
+  {
+   "begin": "45.520", 
+   "end": "45.640", 
+   "id": "f000090", 
+   "language": "en", 
+   "lines": [
+    "you"
+   ]
+  }, 
+  {
+   "begin": "45.640", 
+   "end": "46.200", 
+   "id": "f000091", 
+   "language": "en", 
+   "lines": [
+    "can"
+   ]
+  }, 
+  {
+   "begin": "46.200", 
+   "end": "46.200", 
+   "id": "f000092", 
+   "language": "en", 
+   "lines": [
+    "at"
+   ]
+  }, 
+  {
+   "begin": "46.200", 
+   "end": "46.920", 
+   "id": "f000093", 
+   "language": "en", 
+   "lines": [
+    "home.\u201d"
+   ]
+  }
+ ]
+}

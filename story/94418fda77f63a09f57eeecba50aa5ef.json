@@ -1,0 +1,139 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.280", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Monu"
+   ]
+  }, 
+  {
+   "begin": "0.280", 
+   "end": "0.960", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "got"
+   ]
+  }, 
+  {
+   "begin": "0.960", 
+   "end": "1.400", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "her"
+   ]
+  }, 
+  {
+   "begin": "1.400", 
+   "end": "2.120", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "some"
+   ]
+  }, 
+  {
+   "begin": "2.120", 
+   "end": "2.240", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "milk"
+   ]
+  }, 
+  {
+   "begin": "2.240", 
+   "end": "2.440", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "in"
+   ]
+  }, 
+  {
+   "begin": "2.440", 
+   "end": "2.560", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "2.560", 
+   "end": "2.880", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "cup."
+   ]
+  }, 
+  {
+   "begin": "2.880", 
+   "end": "2.880", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "\n"
+   ]
+  }, 
+  {
+   "begin": "2.880", 
+   "end": "3.000", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "The"
+   ]
+  }, 
+  {
+   "begin": "3.000", 
+   "end": "4.160", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "three"
+   ]
+  }, 
+  {
+   "begin": "4.160", 
+   "end": "4.560", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "kids"
+   ]
+  }, 
+  {
+   "begin": "4.560", 
+   "end": "5.000", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "played"
+   ]
+  }, 
+  {
+   "begin": "5.000", 
+   "end": "5.320", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "with"
+   ]
+  }, 
+  {
+   "begin": "5.320", 
+   "end": "5.960", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "her."
+   ]
+  }
+ ]
+}

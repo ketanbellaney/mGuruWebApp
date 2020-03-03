@@ -1,0 +1,436 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.000", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "She"
+   ]
+  }, 
+  {
+   "begin": "0.000", 
+   "end": "1.920", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "sees"
+   ]
+  }, 
+  {
+   "begin": "1.920", 
+   "end": "1.960", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "1.960", 
+   "end": "2.240", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "girl"
+   ]
+  }, 
+  {
+   "begin": "2.240", 
+   "end": "2.680", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "clicking"
+   ]
+  }, 
+  {
+   "begin": "2.680", 
+   "end": "3.440", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "pictures"
+   ]
+  }, 
+  {
+   "begin": "3.440", 
+   "end": "3.560", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "with"
+   ]
+  }, 
+  {
+   "begin": "3.560", 
+   "end": "3.640", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "3.640", 
+   "end": "5.560", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "camera."
+   ]
+  }, 
+  {
+   "begin": "5.560", 
+   "end": "5.800", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "She"
+   ]
+  }, 
+  {
+   "begin": "5.800", 
+   "end": "6.560", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "sees"
+   ]
+  }, 
+  {
+   "begin": "6.560", 
+   "end": "6.720", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "6.720", 
+   "end": "7.360", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "baby"
+   ]
+  }, 
+  {
+   "begin": "7.360", 
+   "end": "7.720", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "shaking"
+   ]
+  }, 
+  {
+   "begin": "7.720", 
+   "end": "7.960", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "her"
+   ]
+  }, 
+  {
+   "begin": "7.960", 
+   "end": "9.840", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "rattle."
+   ]
+  }, 
+  {
+   "begin": "9.840", 
+   "end": "10.160", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "All"
+   ]
+  }, 
+  {
+   "begin": "10.160", 
+   "end": "10.240", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "10.240", 
+   "end": "11.160", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "children"
+   ]
+  }, 
+  {
+   "begin": "11.160", 
+   "end": "11.440", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "are"
+   ]
+  }, 
+  {
+   "begin": "11.440", 
+   "end": "11.920", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "having"
+   ]
+  }, 
+  {
+   "begin": "11.920", 
+   "end": "13.720", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "fun!"
+   ]
+  }, 
+  {
+   "begin": "13.720", 
+   "end": "14.120", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "Anaya"
+   ]
+  }, 
+  {
+   "begin": "14.120", 
+   "end": "14.320", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "looks"
+   ]
+  }, 
+  {
+   "begin": "14.320", 
+   "end": "14.520", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "down"
+   ]
+  }, 
+  {
+   "begin": "14.520", 
+   "end": "14.720", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "her"
+   ]
+  }, 
+  {
+   "begin": "14.720", 
+   "end": "15.640", 
+   "id": "f000027", 
+   "language": "en", 
+   "lines": [
+    "nose"
+   ]
+  }, 
+  {
+   "begin": "15.640", 
+   "end": "15.760", 
+   "id": "f000028", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "15.760", 
+   "end": "16.200", 
+   "id": "f000029", 
+   "language": "en", 
+   "lines": [
+    "sees"
+   ]
+  }, 
+  {
+   "begin": "16.200", 
+   "end": "16.560", 
+   "id": "f000030", 
+   "language": "en", 
+   "lines": [
+    "her"
+   ]
+  }, 
+  {
+   "begin": "16.560", 
+   "end": "16.800", 
+   "id": "f000031", 
+   "language": "en", 
+   "lines": [
+    "own"
+   ]
+  }, 
+  {
+   "begin": "16.800", 
+   "end": "17.080", 
+   "id": "f000032", 
+   "language": "en", 
+   "lines": [
+    "hand"
+   ]
+  }, 
+  {
+   "begin": "17.080", 
+   "end": "17.880", 
+   "id": "f000033", 
+   "language": "en", 
+   "lines": [
+    "curled"
+   ]
+  }, 
+  {
+   "begin": "17.880", 
+   "end": "18.680", 
+   "id": "f000034", 
+   "language": "en", 
+   "lines": [
+    "up,"
+   ]
+  }, 
+  {
+   "begin": "18.680", 
+   "end": "18.800", 
+   "id": "f000035", 
+   "language": "en", 
+   "lines": [
+    "with"
+   ]
+  }, 
+  {
+   "begin": "18.800", 
+   "end": "19.040", 
+   "id": "f000036", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "19.040", 
+   "end": "19.720", 
+   "id": "f000037", 
+   "language": "en", 
+   "lines": [
+    "thumb"
+   ]
+  }, 
+  {
+   "begin": "19.720", 
+   "end": "19.800", 
+   "id": "f000038", 
+   "language": "en", 
+   "lines": [
+    "in"
+   ]
+  }, 
+  {
+   "begin": "19.800", 
+   "end": "20.040", 
+   "id": "f000039", 
+   "language": "en", 
+   "lines": [
+    "her"
+   ]
+  }, 
+  {
+   "begin": "20.040", 
+   "end": "20.240", 
+   "id": "f000040", 
+   "language": "en", 
+   "lines": [
+    "mouth."
+   ]
+  }, 
+  {
+   "begin": "20.240", 
+   "end": "21.880", 
+   "id": "f000041", 
+   "language": "en", 
+   "lines": [
+    "Could"
+   ]
+  }, 
+  {
+   "begin": "21.880", 
+   "end": "22.160", 
+   "id": "f000042", 
+   "language": "en", 
+   "lines": [
+    "she"
+   ]
+  }, 
+  {
+   "begin": "22.160", 
+   "end": "22.440", 
+   "id": "f000043", 
+   "language": "en", 
+   "lines": [
+    "put"
+   ]
+  }, 
+  {
+   "begin": "22.440", 
+   "end": "22.680", 
+   "id": "f000044", 
+   "language": "en", 
+   "lines": [
+    "her"
+   ]
+  }, 
+  {
+   "begin": "22.680", 
+   "end": "23.000", 
+   "id": "f000045", 
+   "language": "en", 
+   "lines": [
+    "thumb"
+   ]
+  }, 
+  {
+   "begin": "23.000", 
+   "end": "23.680", 
+   "id": "f000046", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "23.680", 
+   "end": "23.960", 
+   "id": "f000047", 
+   "language": "en", 
+   "lines": [
+    "better"
+   ]
+  }, 
+  {
+   "begin": "23.960", 
+   "end": "25.240", 
+   "id": "f000048", 
+   "language": "en", 
+   "lines": [
+    "use?"
+   ]
+  }
+ ]
+}

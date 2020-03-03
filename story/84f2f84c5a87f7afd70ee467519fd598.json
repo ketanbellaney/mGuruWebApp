@@ -1,0 +1,130 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.480", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "To"
+   ]
+  }, 
+  {
+   "begin": "0.480", 
+   "end": "0.920", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "please"
+   ]
+  }, 
+  {
+   "begin": "0.920", 
+   "end": "1.600", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "them,"
+   ]
+  }, 
+  {
+   "begin": "1.600", 
+   "end": "2.040", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "Mitha"
+   ]
+  }, 
+  {
+   "begin": "2.040", 
+   "end": "2.520", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "offers"
+   ]
+  }, 
+  {
+   "begin": "2.520", 
+   "end": "2.720", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "them"
+   ]
+  }, 
+  {
+   "begin": "2.720", 
+   "end": "2.920", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "her"
+   ]
+  }, 
+  {
+   "begin": "2.920", 
+   "end": "3.720", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "shoes"
+   ]
+  }, 
+  {
+   "begin": "3.720", 
+   "end": "3.880", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "so"
+   ]
+  }, 
+  {
+   "begin": "3.880", 
+   "end": "4.240", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "that"
+   ]
+  }, 
+  {
+   "begin": "4.240", 
+   "end": "4.600", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "they"
+   ]
+  }, 
+  {
+   "begin": "4.600", 
+   "end": "4.800", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "too"
+   ]
+  }, 
+  {
+   "begin": "4.800", 
+   "end": "5.080", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "can"
+   ]
+  }, 
+  {
+   "begin": "5.080", 
+   "end": "6.000", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "fly."
+   ]
+  }
+ ]
+}

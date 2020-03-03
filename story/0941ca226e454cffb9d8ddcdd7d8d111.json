@@ -1,0 +1,148 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.840", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "We"
+   ]
+  }, 
+  {
+   "begin": "0.840", 
+   "end": "1.200", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "have"
+   ]
+  }, 
+  {
+   "begin": "1.200", 
+   "end": "1.320", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "one"
+   ]
+  }, 
+  {
+   "begin": "1.320", 
+   "end": "2.000", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "big"
+   ]
+  }, 
+  {
+   "begin": "2.000", 
+   "end": "2.880", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "bag"
+   ]
+  }, 
+  {
+   "begin": "2.880", 
+   "end": "3.080", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "3.080", 
+   "end": "3.520", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "two"
+   ]
+  }, 
+  {
+   "begin": "3.520", 
+   "end": "4.040", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "small"
+   ]
+  }, 
+  {
+   "begin": "4.040", 
+   "end": "5.240", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "bags.\n"
+   ]
+  }, 
+  {
+   "begin": "5.240", 
+   "end": "5.560", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "And"
+   ]
+  }, 
+  {
+   "begin": "5.560", 
+   "end": "5.800", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "we"
+   ]
+  }, 
+  {
+   "begin": "5.800", 
+   "end": "6.800", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "have"
+   ]
+  }, 
+  {
+   "begin": "6.800", 
+   "end": "7.360", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "7.360", 
+   "end": "7.800", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "red"
+   ]
+  }, 
+  {
+   "begin": "7.800", 
+   "end": "8.040", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "water"
+   ]
+  }, 
+  {
+   "begin": "8.040", 
+   "end": "8.720", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "bottle."
+   ]
+  }
+ ]
+}

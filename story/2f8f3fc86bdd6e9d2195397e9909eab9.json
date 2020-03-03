@@ -1,0 +1,103 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.720", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Clink,"
+   ]
+  }, 
+  {
+   "begin": "0.720", 
+   "end": "1.480", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "clonk,"
+   ]
+  }, 
+  {
+   "begin": "1.480", 
+   "end": "3.240", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "dadum-dum,"
+   ]
+  }, 
+  {
+   "begin": "3.240", 
+   "end": "4.720", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "&nbsp;let's"
+   ]
+  }, 
+  {
+   "begin": "4.720", 
+   "end": "4.720", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "see"
+   ]
+  }, 
+  {
+   "begin": "4.720", 
+   "end": "4.720", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "what"
+   ]
+  }, 
+  {
+   "begin": "4.720", 
+   "end": "4.720", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "Gulli"
+   ]
+  }, 
+  {
+   "begin": "4.720", 
+   "end": "4.720", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "has"
+   ]
+  }, 
+  {
+   "begin": "4.720", 
+   "end": "5.160", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "found"
+   ]
+  }, 
+  {
+   "begin": "5.160", 
+   "end": "5.440", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "this"
+   ]
+  }, 
+  {
+   "begin": "5.440", 
+   "end": "6.160", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "time!"
+   ]
+  }
+ ]
+}

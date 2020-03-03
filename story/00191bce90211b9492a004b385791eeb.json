@@ -1,0 +1,67 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.000", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Mitha"
+   ]
+  }, 
+  {
+   "begin": "0.000", 
+   "end": "0.880", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "starts"
+   ]
+  }, 
+  {
+   "begin": "0.880", 
+   "end": "2.000", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "crying."
+   ]
+  }, 
+  {
+   "begin": "2.000", 
+   "end": "2.760", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "Her"
+   ]
+  }, 
+  {
+   "begin": "2.760", 
+   "end": "3.240", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "friends"
+   ]
+  }, 
+  {
+   "begin": "3.240", 
+   "end": "3.880", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "console"
+   ]
+  }, 
+  {
+   "begin": "3.880", 
+   "end": "4.600", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "her."
+   ]
+  }
+ ]
+}

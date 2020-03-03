@@ -1,0 +1,184 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.400", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "0.400", 
+   "end": "0.880", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "like"
+   ]
+  }, 
+  {
+   "begin": "0.880", 
+   "end": "1.120", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "1.120", 
+   "end": "1.560", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "tease"
+   ]
+  }, 
+  {
+   "begin": "1.560", 
+   "end": "1.800", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "Pepe.\n"
+   ]
+  }, 
+  {
+   "begin": "1.800", 
+   "end": "1.840", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    ""
+   ]
+  }, 
+  {
+   "begin": "1.840", 
+   "end": "2.080", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "2.080", 
+   "end": "3.400", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "tell"
+   ]
+  }, 
+  {
+   "begin": "3.400", 
+   "end": "4.000", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "him"
+   ]
+  }, 
+  {
+   "begin": "4.000", 
+   "end": "4.000", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "4.000", 
+   "end": "4.040", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "am"
+   ]
+  }, 
+  {
+   "begin": "4.040", 
+   "end": "4.840", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "better"
+   ]
+  }, 
+  {
+   "begin": "4.840", 
+   "end": "6.080", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "than"
+   ]
+  }, 
+  {
+   "begin": "6.080", 
+   "end": "6.840", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "him.\n"
+   ]
+  }, 
+  {
+   "begin": "6.840", 
+   "end": "6.840", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    ""
+   ]
+  }, 
+  {
+   "begin": "6.840", 
+   "end": "7.200", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "He"
+   ]
+  }, 
+  {
+   "begin": "7.200", 
+   "end": "7.200", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "does"
+   ]
+  }, 
+  {
+   "begin": "7.200", 
+   "end": "7.240", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "not"
+   ]
+  }, 
+  {
+   "begin": "7.240", 
+   "end": "7.440", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "like"
+   ]
+  }, 
+  {
+   "begin": "7.440", 
+   "end": "8.480", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "it."
+   ]
+  }
+ ]
+}

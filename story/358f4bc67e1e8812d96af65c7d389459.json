@@ -1,0 +1,112 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.640", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "His"
+   ]
+  }, 
+  {
+   "begin": "0.640", 
+   "end": "1.000", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "mother"
+   ]
+  }, 
+  {
+   "begin": "1.000", 
+   "end": "2.080", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "came."
+   ]
+  }, 
+  {
+   "begin": "2.080", 
+   "end": "2.360", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "She"
+   ]
+  }, 
+  {
+   "begin": "2.360", 
+   "end": "2.840", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "said,"
+   ]
+  }, 
+  {
+   "begin": "2.840", 
+   "end": "4.240", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "\u201cLook,"
+   ]
+  }, 
+  {
+   "begin": "4.240", 
+   "end": "4.640", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "we\u2019ll"
+   ]
+  }, 
+  {
+   "begin": "4.640", 
+   "end": "5.000", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "beat"
+   ]
+  }, 
+  {
+   "begin": "5.000", 
+   "end": "5.080", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "up"
+   ]
+  }, 
+  {
+   "begin": "5.080", 
+   "end": "5.400", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "this"
+   ]
+  }, 
+  {
+   "begin": "5.400", 
+   "end": "5.680", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "bad"
+   ]
+  }, 
+  {
+   "begin": "5.680", 
+   "end": "6.840", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "boulder!\u201d"
+   ]
+  }
+ ]
+}

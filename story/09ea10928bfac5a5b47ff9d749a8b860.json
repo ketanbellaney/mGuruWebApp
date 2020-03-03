@@ -1,0 +1,49 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.360", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Her"
+   ]
+  }, 
+  {
+   "begin": "0.360", 
+   "end": "1.320", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "children"
+   ]
+  }, 
+  {
+   "begin": "1.320", 
+   "end": "1.560", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "are"
+   ]
+  }, 
+  {
+   "begin": "1.560", 
+   "end": "2.160", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "reading"
+   ]
+  }, 
+  {
+   "begin": "2.160", 
+   "end": "3.400", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "quietly."
+   ]
+  }
+ ]
+}

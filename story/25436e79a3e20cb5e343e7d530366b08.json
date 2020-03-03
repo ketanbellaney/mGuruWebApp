@@ -1,0 +1,49 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.000", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Mitha"
+   ]
+  }, 
+  {
+   "begin": "0.000", 
+   "end": "0.800", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "puts"
+   ]
+  }, 
+  {
+   "begin": "0.800", 
+   "end": "0.920", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "on"
+   ]
+  }, 
+  {
+   "begin": "0.920", 
+   "end": "1.320", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "1.320", 
+   "end": "2.440", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "shoes."
+   ]
+  }
+ ]
+}

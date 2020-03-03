@@ -1,0 +1,148 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.360", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "He"
+   ]
+  }, 
+  {
+   "begin": "0.360", 
+   "end": "0.640", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "would"
+   ]
+  }, 
+  {
+   "begin": "0.640", 
+   "end": "1.120", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "grow"
+   ]
+  }, 
+  {
+   "begin": "1.120", 
+   "end": "1.280", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "up"
+   ]
+  }, 
+  {
+   "begin": "1.280", 
+   "end": "1.520", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "1.520", 
+   "end": "1.800", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "become"
+   ]
+  }, 
+  {
+   "begin": "1.800", 
+   "end": "1.840", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "1.840", 
+   "end": "2.440", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "pilot,"
+   ]
+  }, 
+  {
+   "begin": "2.440", 
+   "end": "2.440", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "2.440", 
+   "end": "3.760", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "sailor,"
+   ]
+  }, 
+  {
+   "begin": "3.760", 
+   "end": "3.960", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "an"
+   ]
+  }, 
+  {
+   "begin": "3.960", 
+   "end": "5.000", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "explorer,"
+   ]
+  }, 
+  {
+   "begin": "5.000", 
+   "end": "5.240", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "or"
+   ]
+  }, 
+  {
+   "begin": "5.240", 
+   "end": "5.360", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "even"
+   ]
+  }, 
+  {
+   "begin": "5.360", 
+   "end": "5.560", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "5.560", 
+   "end": "6.560", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "cosmonaut."
+   ]
+  }
+ ]
+}

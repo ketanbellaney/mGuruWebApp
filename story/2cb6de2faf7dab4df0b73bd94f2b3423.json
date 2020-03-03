@@ -1,0 +1,121 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.480", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Believe"
+   ]
+  }, 
+  {
+   "begin": "0.480", 
+   "end": "0.680", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "it"
+   ]
+  }, 
+  {
+   "begin": "0.680", 
+   "end": "1.200", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "or"
+   ]
+  }, 
+  {
+   "begin": "1.200", 
+   "end": "2.040", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "not,"
+   ]
+  }, 
+  {
+   "begin": "2.040", 
+   "end": "2.840", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "hundreds"
+   ]
+  }, 
+  {
+   "begin": "2.840", 
+   "end": "3.040", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "of"
+   ]
+  }, 
+  {
+   "begin": "3.040", 
+   "end": "3.720", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "us"
+   ]
+  }, 
+  {
+   "begin": "3.720", 
+   "end": "4.000", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "live"
+   ]
+  }, 
+  {
+   "begin": "4.000", 
+   "end": "4.400", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "happily"
+   ]
+  }, 
+  {
+   "begin": "4.400", 
+   "end": "4.440", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "in"
+   ]
+  }, 
+  {
+   "begin": "4.440", 
+   "end": "4.840", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "4.840", 
+   "end": "5.200", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "colony."
+   ]
+  }, 
+  {
+   "begin": "5.200", 
+   "end": "6.320", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "&nbsp;"
+   ]
+  }
+ ]
+}

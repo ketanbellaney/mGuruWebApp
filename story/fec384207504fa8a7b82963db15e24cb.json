@@ -1,0 +1,49 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.600", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Why"
+   ]
+  }, 
+  {
+   "begin": "0.600", 
+   "end": "0.840", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "is"
+   ]
+  }, 
+  {
+   "begin": "0.840", 
+   "end": "1.200", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "1.200", 
+   "end": "1.480", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "lady"
+   ]
+  }, 
+  {
+   "begin": "1.480", 
+   "end": "2.680", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "smiling?"
+   ]
+  }
+ ]
+}

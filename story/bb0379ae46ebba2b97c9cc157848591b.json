@@ -1,0 +1,40 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "1.400", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "\"Alright,\""
+   ]
+  }, 
+  {
+   "begin": "1.400", 
+   "end": "2.240", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "laughed"
+   ]
+  }, 
+  {
+   "begin": "2.240", 
+   "end": "2.720", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "2.720", 
+   "end": "3.880", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "mouse."
+   ]
+  }
+ ]
+}

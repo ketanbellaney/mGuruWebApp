@@ -1,0 +1,409 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "1.640", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Just"
+   ]
+  }, 
+  {
+   "begin": "1.640", 
+   "end": "2.760", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "ahead"
+   ]
+  }, 
+  {
+   "begin": "2.760", 
+   "end": "2.880", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "are"
+   ]
+  }, 
+  {
+   "begin": "2.880", 
+   "end": "3.160", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "some"
+   ]
+  }, 
+  {
+   "begin": "3.160", 
+   "end": "4.840", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "deer."
+   ]
+  }, 
+  {
+   "begin": "4.840", 
+   "end": "5.120", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "Anaya"
+   ]
+  }, 
+  {
+   "begin": "5.120", 
+   "end": "5.640", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "sees"
+   ]
+  }, 
+  {
+   "begin": "5.640", 
+   "end": "5.640", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "5.640", 
+   "end": "5.920", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "fawn"
+   ]
+  }, 
+  {
+   "begin": "5.920", 
+   "end": "6.320", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "that"
+   ]
+  }, 
+  {
+   "begin": "6.320", 
+   "end": "6.600", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "is"
+   ]
+  }, 
+  {
+   "begin": "6.600", 
+   "end": "6.960", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "not"
+   ]
+  }, 
+  {
+   "begin": "6.960", 
+   "end": "7.400", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "munching"
+   ]
+  }, 
+  {
+   "begin": "7.400", 
+   "end": "7.440", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "with"
+   ]
+  }, 
+  {
+   "begin": "7.440", 
+   "end": "7.600", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "her"
+   ]
+  }, 
+  {
+   "begin": "7.600", 
+   "end": "9.240", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "mother."
+   ]
+  }, 
+  {
+   "begin": "9.240", 
+   "end": "9.400", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "She"
+   ]
+  }, 
+  {
+   "begin": "9.400", 
+   "end": "9.560", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "is"
+   ]
+  }, 
+  {
+   "begin": "9.560", 
+   "end": "9.800", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "not"
+   ]
+  }, 
+  {
+   "begin": "9.800", 
+   "end": "10.280", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "looking"
+   ]
+  }, 
+  {
+   "begin": "10.280", 
+   "end": "10.520", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "at"
+   ]
+  }, 
+  {
+   "begin": "10.520", 
+   "end": "10.920", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "other"
+   ]
+  }, 
+  {
+   "begin": "10.920", 
+   "end": "11.440", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "animals"
+   ]
+  }, 
+  {
+   "begin": "11.440", 
+   "end": "11.640", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "like"
+   ]
+  }, 
+  {
+   "begin": "11.640", 
+   "end": "11.880", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "her"
+   ]
+  }, 
+  {
+   "begin": "11.880", 
+   "end": "13.200", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "father."
+   ]
+  }, 
+  {
+   "begin": "13.200", 
+   "end": "13.400", 
+   "id": "f000027", 
+   "language": "en", 
+   "lines": [
+    "She"
+   ]
+  }, 
+  {
+   "begin": "13.400", 
+   "end": "13.560", 
+   "id": "f000028", 
+   "language": "en", 
+   "lines": [
+    "is"
+   ]
+  }, 
+  {
+   "begin": "13.560", 
+   "end": "13.720", 
+   "id": "f000029", 
+   "language": "en", 
+   "lines": [
+    "not"
+   ]
+  }, 
+  {
+   "begin": "13.720", 
+   "end": "14.560", 
+   "id": "f000030", 
+   "language": "en", 
+   "lines": [
+    "prancing"
+   ]
+  }, 
+  {
+   "begin": "14.560", 
+   "end": "14.600", 
+   "id": "f000031", 
+   "language": "en", 
+   "lines": [
+    "with"
+   ]
+  }, 
+  {
+   "begin": "14.600", 
+   "end": "14.840", 
+   "id": "f000032", 
+   "language": "en", 
+   "lines": [
+    "her"
+   ]
+  }, 
+  {
+   "begin": "14.840", 
+   "end": "16.280", 
+   "id": "f000033", 
+   "language": "en", 
+   "lines": [
+    "friends."
+   ]
+  }, 
+  {
+   "begin": "16.280", 
+   "end": "16.560", 
+   "id": "f000034", 
+   "language": "en", 
+   "lines": [
+    "What"
+   ]
+  }, 
+  {
+   "begin": "16.560", 
+   "end": "16.720", 
+   "id": "f000035", 
+   "language": "en", 
+   "lines": [
+    "is"
+   ]
+  }, 
+  {
+   "begin": "16.720", 
+   "end": "16.840", 
+   "id": "f000036", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "16.840", 
+   "end": "17.320", 
+   "id": "f000037", 
+   "language": "en", 
+   "lines": [
+    "baby"
+   ]
+  }, 
+  {
+   "begin": "17.320", 
+   "end": "17.560", 
+   "id": "f000038", 
+   "language": "en", 
+   "lines": [
+    "deer"
+   ]
+  }, 
+  {
+   "begin": "17.560", 
+   "end": "18.880", 
+   "id": "f000039", 
+   "language": "en", 
+   "lines": [
+    "doing?"
+   ]
+  }, 
+  {
+   "begin": "18.880", 
+   "end": "19.120", 
+   "id": "f000040", 
+   "language": "en", 
+   "lines": [
+    "Sucking"
+   ]
+  }, 
+  {
+   "begin": "19.120", 
+   "end": "19.120", 
+   "id": "f000041", 
+   "language": "en", 
+   "lines": [
+    "her"
+   ]
+  }, 
+  {
+   "begin": "19.120", 
+   "end": "19.120", 
+   "id": "f000042", 
+   "language": "en", 
+   "lines": [
+    "hoof!"
+   ]
+  }, 
+  {
+   "begin": "19.120", 
+   "end": "19.360", 
+   "id": "f000043", 
+   "language": "en", 
+   "lines": [
+    "&nbsp;"
+   ]
+  }, 
+  {
+   "begin": "19.360", 
+   "end": "21.040", 
+   "id": "f000044", 
+   "language": "en", 
+   "lines": [
+    "CHUSK!&nbsp;"
+   ]
+  }, 
+  {
+   "begin": "21.040", 
+   "end": "23.920", 
+   "id": "f000045", 
+   "language": "en", 
+   "lines": [
+    "CHUSK!"
+   ]
+  }
+ ]
+}

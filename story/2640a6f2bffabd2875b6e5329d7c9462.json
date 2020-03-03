@@ -1,0 +1,112 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.200", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Only"
+   ]
+  }, 
+  {
+   "begin": "0.200", 
+   "end": "0.760", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "my"
+   ]
+  }, 
+  {
+   "begin": "0.760", 
+   "end": "1.160", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "sister"
+   ]
+  }, 
+  {
+   "begin": "1.160", 
+   "end": "2.200", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "drawing"
+   ]
+  }, 
+  {
+   "begin": "2.200", 
+   "end": "3.080", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "water"
+   ]
+  }, 
+  {
+   "begin": "3.080", 
+   "end": "3.320", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "from"
+   ]
+  }, 
+  {
+   "begin": "3.320", 
+   "end": "3.480", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "3.480", 
+   "end": "5.040", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "well!"
+   ]
+  }, 
+  {
+   "begin": "5.040", 
+   "end": "5.640", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "5.640", 
+   "end": "5.840", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "am"
+   ]
+  }, 
+  {
+   "begin": "5.840", 
+   "end": "6.120", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "not"
+   ]
+  }, 
+  {
+   "begin": "6.120", 
+   "end": "6.880", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "afraid."
+   ]
+  }
+ ]
+}

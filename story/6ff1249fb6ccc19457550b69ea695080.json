@@ -1,0 +1,67 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.840", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Yes,"
+   ]
+  }, 
+  {
+   "begin": "0.840", 
+   "end": "1.640", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "Miss,"
+   ]
+  }, 
+  {
+   "begin": "1.640", 
+   "end": "1.920", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "it\u2019s"
+   ]
+  }, 
+  {
+   "begin": "1.920", 
+   "end": "2.240", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "all"
+   ]
+  }, 
+  {
+   "begin": "2.240", 
+   "end": "2.280", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "2.280", 
+   "end": "2.800", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "cat\u2019s"
+   ]
+  }, 
+  {
+   "begin": "2.800", 
+   "end": "3.440", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "fault!"
+   ]
+  }
+ ]
+}

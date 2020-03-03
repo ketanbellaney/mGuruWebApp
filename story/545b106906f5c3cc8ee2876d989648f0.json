@@ -1,0 +1,40 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "3.320", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "The other day, she was grazing in the field.\n"
+   ]
+  }, 
+  {
+   "begin": "3.320", 
+   "end": "6.400", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "It was night and dark.\n"
+   ]
+  }, 
+  {
+   "begin": "6.400", 
+   "end": "11.680", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "Suddenly, she realised that she had lost her beautiful bell.\n"
+   ]
+  }, 
+  {
+   "begin": "11.680", 
+   "end": "14.760", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "She cried. And cried."
+   ]
+  }
+ ]
+}

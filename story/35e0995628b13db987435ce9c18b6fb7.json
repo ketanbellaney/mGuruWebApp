@@ -1,0 +1,139 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "1.440", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "\u201cCheenu,"
+   ]
+  }, 
+  {
+   "begin": "1.440", 
+   "end": "1.880", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "what"
+   ]
+  }, 
+  {
+   "begin": "1.880", 
+   "end": "1.920", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "are"
+   ]
+  }, 
+  {
+   "begin": "1.920", 
+   "end": "1.920", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "you"
+   ]
+  }, 
+  {
+   "begin": "1.920", 
+   "end": "2.040", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "doing?\u201d"
+   ]
+  }, 
+  {
+   "begin": "2.040", 
+   "end": "2.360", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "asked"
+   ]
+  }, 
+  {
+   "begin": "2.360", 
+   "end": "2.360", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "his"
+   ]
+  }, 
+  {
+   "begin": "2.360", 
+   "end": "2.360", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "teacher."
+   ]
+  }, 
+  {
+   "begin": "2.360", 
+   "end": "2.360", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "\u201cSorry"
+   ]
+  }, 
+  {
+   "begin": "2.360", 
+   "end": "2.360", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "Miss,\u201d"
+   ]
+  }, 
+  {
+   "begin": "2.360", 
+   "end": "3.000", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "Cheenu"
+   ]
+  }, 
+  {
+   "begin": "3.000", 
+   "end": "3.360", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "said."
+   ]
+  }, 
+  {
+   "begin": "3.360", 
+   "end": "3.640", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "\u201cIt\u2019s"
+   ]
+  }, 
+  {
+   "begin": "3.640", 
+   "end": "4.320", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "just"
+   ]
+  }, 
+  {
+   "begin": "4.320", 
+   "end": "5.280", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "that\u2026\u201d"
+   ]
+  }
+ ]
+}

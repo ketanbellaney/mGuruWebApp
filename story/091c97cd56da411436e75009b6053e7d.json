@@ -1,0 +1,103 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "1.240", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "1.240", 
+   "end": "1.560", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "saw"
+   ]
+  }, 
+  {
+   "begin": "1.560", 
+   "end": "2.280", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "2.280", 
+   "end": "2.720", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "fox"
+   ]
+  }, 
+  {
+   "begin": "2.720", 
+   "end": "3.320", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "chasing"
+   ]
+  }, 
+  {
+   "begin": "3.320", 
+   "end": "3.680", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "3.680", 
+   "end": "3.720", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "cat"
+   ]
+  }, 
+  {
+   "begin": "3.720", 
+   "end": "4.040", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "near"
+   ]
+  }, 
+  {
+   "begin": "4.040", 
+   "end": "4.520", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "my"
+   ]
+  }, 
+  {
+   "begin": "4.520", 
+   "end": "4.520", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "family's"
+   ]
+  }, 
+  {
+   "begin": "4.520", 
+   "end": "4.520", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "tent."
+   ]
+  }
+ ]
+}

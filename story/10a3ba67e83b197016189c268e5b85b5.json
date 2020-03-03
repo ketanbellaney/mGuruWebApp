@@ -1,0 +1,175 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.320", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "The"
+   ]
+  }, 
+  {
+   "begin": "0.320", 
+   "end": "0.760", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "cow"
+   ]
+  }, 
+  {
+   "begin": "0.760", 
+   "end": "1.040", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "has"
+   ]
+  }, 
+  {
+   "begin": "1.040", 
+   "end": "1.160", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "1.160", 
+   "end": "1.560", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "long"
+   ]
+  }, 
+  {
+   "begin": "1.560", 
+   "end": "2.400", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "tail"
+   ]
+  }, 
+  {
+   "begin": "2.400", 
+   "end": "2.560", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "which"
+   ]
+  }, 
+  {
+   "begin": "2.560", 
+   "end": "2.880", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "is"
+   ]
+  }, 
+  {
+   "begin": "2.880", 
+   "end": "3.320", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "bushy"
+   ]
+  }, 
+  {
+   "begin": "3.320", 
+   "end": "3.520", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "at"
+   ]
+  }, 
+  {
+   "begin": "3.520", 
+   "end": "3.720", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "3.720", 
+   "end": "4.120", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "end"
+   ]
+  }, 
+  {
+   "begin": "4.120", 
+   "end": "4.520", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "4.520", 
+   "end": "4.960", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "swish"
+   ]
+  }, 
+  {
+   "begin": "4.960", 
+   "end": "5.160", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "off"
+   ]
+  }, 
+  {
+   "begin": "5.160", 
+   "end": "5.880", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "flies"
+   ]
+  }, 
+  {
+   "begin": "5.880", 
+   "end": "6.160", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "6.160", 
+   "end": "6.440", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "other"
+   ]
+  }, 
+  {
+   "begin": "6.440", 
+   "end": "7.440", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "insects."
+   ]
+  }
+ ]
+}

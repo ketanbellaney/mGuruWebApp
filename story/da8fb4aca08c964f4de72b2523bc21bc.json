@@ -1,0 +1,148 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.560", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "All"
+   ]
+  }, 
+  {
+   "begin": "0.560", 
+   "end": "1.360", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "birds"
+   ]
+  }, 
+  {
+   "begin": "1.360", 
+   "end": "1.760", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "like"
+   ]
+  }, 
+  {
+   "begin": "1.760", 
+   "end": "2.560", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "peacocks,"
+   ]
+  }, 
+  {
+   "begin": "2.560", 
+   "end": "3.560", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "parrots"
+   ]
+  }, 
+  {
+   "begin": "3.560", 
+   "end": "3.880", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "3.880", 
+   "end": "4.680", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "ostriches"
+   ]
+  }, 
+  {
+   "begin": "4.680", 
+   "end": "5.200", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "have"
+   ]
+  }, 
+  {
+   "begin": "5.200", 
+   "end": "5.720", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "tails"
+   ]
+  }, 
+  {
+   "begin": "5.720", 
+   "end": "6.000", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "as"
+   ]
+  }, 
+  {
+   "begin": "6.000", 
+   "end": "6.320", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "well.\n"
+   ]
+  }, 
+  {
+   "begin": "6.320", 
+   "end": "7.200", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "So"
+   ]
+  }, 
+  {
+   "begin": "7.200", 
+   "end": "7.360", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "do"
+   ]
+  }, 
+  {
+   "begin": "7.360", 
+   "end": "8.120", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "lizards"
+   ]
+  }, 
+  {
+   "begin": "8.120", 
+   "end": "8.440", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "8.440", 
+   "end": "9.480", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "scorpions."
+   ]
+  }
+ ]
+}

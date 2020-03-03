@@ -1,0 +1,202 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.760", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "\u201cNo,"
+   ]
+  }, 
+  {
+   "begin": "0.760", 
+   "end": "1.120", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "thank"
+   ]
+  }, 
+  {
+   "begin": "1.120", 
+   "end": "1.440", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "you,\u201d"
+   ]
+  }, 
+  {
+   "begin": "1.440", 
+   "end": "2.160", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "they"
+   ]
+  }, 
+  {
+   "begin": "2.160", 
+   "end": "2.440", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "all"
+   ]
+  }, 
+  {
+   "begin": "2.440", 
+   "end": "2.800", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "said."
+   ]
+  }, 
+  {
+   "begin": "2.800", 
+   "end": "2.840", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "\u201cThe"
+   ]
+  }, 
+  {
+   "begin": "2.840", 
+   "end": "4.160", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "bananas"
+   ]
+  }, 
+  {
+   "begin": "4.160", 
+   "end": "4.480", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "are"
+   ]
+  }, 
+  {
+   "begin": "4.480", 
+   "end": "4.960", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "very"
+   ]
+  }, 
+  {
+   "begin": "4.960", 
+   "end": "5.520", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "sweet"
+   ]
+  }, 
+  {
+   "begin": "5.520", 
+   "end": "5.880", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "but"
+   ]
+  }, 
+  {
+   "begin": "5.880", 
+   "end": "6.280", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "we"
+   ]
+  }, 
+  {
+   "begin": "6.280", 
+   "end": "6.920", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "have"
+   ]
+  }, 
+  {
+   "begin": "6.920", 
+   "end": "6.920", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "had"
+   ]
+  }, 
+  {
+   "begin": "6.920", 
+   "end": "7.360", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "too"
+   ]
+  }, 
+  {
+   "begin": "7.360", 
+   "end": "8.120", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "many."
+   ]
+  }, 
+  {
+   "begin": "8.120", 
+   "end": "8.280", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "We"
+   ]
+  }, 
+  {
+   "begin": "8.280", 
+   "end": "8.760", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "cannot"
+   ]
+  }, 
+  {
+   "begin": "8.760", 
+   "end": "9.000", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "eat"
+   ]
+  }, 
+  {
+   "begin": "9.000", 
+   "end": "9.280", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "any"
+   ]
+  }, 
+  {
+   "begin": "9.280", 
+   "end": "9.760", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "more!\u201d"
+   ]
+  }
+ ]
+}

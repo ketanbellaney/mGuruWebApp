@@ -1,0 +1,184 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.240", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "The"
+   ]
+  }, 
+  {
+   "begin": "0.240", 
+   "end": "0.800", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "parents"
+   ]
+  }, 
+  {
+   "begin": "0.800", 
+   "end": "0.960", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "are"
+   ]
+  }, 
+  {
+   "begin": "0.960", 
+   "end": "1.520", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "delighted"
+   ]
+  }, 
+  {
+   "begin": "1.520", 
+   "end": "1.680", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "1.680", 
+   "end": "1.920", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "see"
+   ]
+  }, 
+  {
+   "begin": "1.920", 
+   "end": "2.120", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "their"
+   ]
+  }, 
+  {
+   "begin": "2.120", 
+   "end": "2.440", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "baby"
+   ]
+  }, 
+  {
+   "begin": "2.440", 
+   "end": "2.840", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "fly."
+   ]
+  }, 
+  {
+   "begin": "2.840", 
+   "end": "3.760", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "They"
+   ]
+  }, 
+  {
+   "begin": "3.760", 
+   "end": "4.160", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "rush"
+   ]
+  }, 
+  {
+   "begin": "4.160", 
+   "end": "4.480", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "4.480", 
+   "end": "4.760", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "him"
+   ]
+  }, 
+  {
+   "begin": "4.760", 
+   "end": "5.000", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "5.000", 
+   "end": "5.440", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "also"
+   ]
+  }, 
+  {
+   "begin": "5.440", 
+   "end": "5.760", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "start"
+   ]
+  }, 
+  {
+   "begin": "5.760", 
+   "end": "6.320", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "flying"
+   ]
+  }, 
+  {
+   "begin": "6.320", 
+   "end": "6.480", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "with"
+   ]
+  }, 
+  {
+   "begin": "6.480", 
+   "end": "6.760", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "their"
+   ]
+  }, 
+  {
+   "begin": "6.760", 
+   "end": "7.360", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "baby."
+   ]
+  }
+ ]
+}

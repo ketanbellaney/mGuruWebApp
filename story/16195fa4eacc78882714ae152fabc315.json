@@ -1,0 +1,40 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.200", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "He"
+   ]
+  }, 
+  {
+   "begin": "0.200", 
+   "end": "0.920", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "eats"
+   ]
+  }, 
+  {
+   "begin": "0.920", 
+   "end": "1.560", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "fifty"
+   ]
+  }, 
+  {
+   "begin": "1.560", 
+   "end": "3.160", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "rotis."
+   ]
+  }
+ ]
+}

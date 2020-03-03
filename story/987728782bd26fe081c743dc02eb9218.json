@@ -1,0 +1,148 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.000", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "And"
+   ]
+  }, 
+  {
+   "begin": "0.000", 
+   "end": "1.240", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "then"
+   ]
+  }, 
+  {
+   "begin": "1.240", 
+   "end": "1.600", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "at"
+   ]
+  }, 
+  {
+   "begin": "1.600", 
+   "end": "2.120", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "last,"
+   ]
+  }, 
+  {
+   "begin": "2.120", 
+   "end": "2.400", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "it"
+   ]
+  }, 
+  {
+   "begin": "2.400", 
+   "end": "3.200", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "started"
+   ]
+  }, 
+  {
+   "begin": "3.200", 
+   "end": "3.640", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "raining!"
+   ]
+  }, 
+  {
+   "begin": "3.640", 
+   "end": "5.120", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "\u201cOh,"
+   ]
+  }, 
+  {
+   "begin": "5.120", 
+   "end": "6.160", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "it\u2019s"
+   ]
+  }, 
+  {
+   "begin": "6.160", 
+   "end": "6.520", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "raining,"
+   ]
+  }, 
+  {
+   "begin": "6.520", 
+   "end": "7.240", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "it\u2019s"
+   ]
+  }, 
+  {
+   "begin": "7.240", 
+   "end": "8.120", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "raining,\u201d"
+   ]
+  }, 
+  {
+   "begin": "8.120", 
+   "end": "8.720", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "sang"
+   ]
+  }, 
+  {
+   "begin": "8.720", 
+   "end": "9.440", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "Manu,"
+   ]
+  }, 
+  {
+   "begin": "9.440", 
+   "end": "9.920", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "running"
+   ]
+  }, 
+  {
+   "begin": "9.920", 
+   "end": "10.920", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "out."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "1.600", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "SHEE...&nbsp;sings"
+   ]
+  }, 
+  {
+   "begin": "1.600", 
+   "end": "1.880", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "1.880", 
+   "end": "2.800", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "cooker."
+   ]
+  }
+ ]
+}

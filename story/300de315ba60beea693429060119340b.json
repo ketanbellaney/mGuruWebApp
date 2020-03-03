@@ -1,0 +1,274 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.000", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "On"
+   ]
+  }, 
+  {
+   "begin": "0.000", 
+   "end": "1.000", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "Tuesday,"
+   ]
+  }, 
+  {
+   "begin": "1.000", 
+   "end": "1.000", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "1.000", 
+   "end": "1.600", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "sky"
+   ]
+  }, 
+  {
+   "begin": "1.600", 
+   "end": "1.880", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "was"
+   ]
+  }, 
+  {
+   "begin": "1.880", 
+   "end": "2.200", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "blue."
+   ]
+  }, 
+  {
+   "begin": "2.200", 
+   "end": "2.480", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "\u201cMa,"
+   ]
+  }, 
+  {
+   "begin": "2.480", 
+   "end": "2.640", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "WHEN"
+   ]
+  }, 
+  {
+   "begin": "2.640", 
+   "end": "3.680", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "will"
+   ]
+  }, 
+  {
+   "begin": "3.680", 
+   "end": "4.360", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "my"
+   ]
+  }, 
+  {
+   "begin": "4.360", 
+   "end": "5.360", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "wish"
+   ]
+  }, 
+  {
+   "begin": "5.360", 
+   "end": "5.680", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "come"
+   ]
+  }, 
+  {
+   "begin": "5.680", 
+   "end": "6.600", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "true?\u201d"
+   ]
+  }, 
+  {
+   "begin": "6.600", 
+   "end": "7.160", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "asked"
+   ]
+  }, 
+  {
+   "begin": "7.160", 
+   "end": "7.760", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "Manu."
+   ]
+  }, 
+  {
+   "begin": "7.760", 
+   "end": "8.560", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "\u201cNot"
+   ]
+  }, 
+  {
+   "begin": "8.560", 
+   "end": "9.000", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "today,"
+   ]
+  }, 
+  {
+   "begin": "9.000", 
+   "end": "9.280", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "my"
+   ]
+  }, 
+  {
+   "begin": "9.280", 
+   "end": "9.320", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "dear,"
+   ]
+  }, 
+  {
+   "begin": "9.320", 
+   "end": "10.080", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "there"
+   ]
+  }, 
+  {
+   "begin": "10.080", 
+   "end": "10.520", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "is"
+   ]
+  }, 
+  {
+   "begin": "10.520", 
+   "end": "10.960", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "just"
+   ]
+  }, 
+  {
+   "begin": "10.960", 
+   "end": "11.280", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "one"
+   ]
+  }, 
+  {
+   "begin": "11.280", 
+   "end": "11.640", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "white"
+   ]
+  }, 
+  {
+   "begin": "11.640", 
+   "end": "12.360", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "cloud"
+   ]
+  }, 
+  {
+   "begin": "12.360", 
+   "end": "12.360", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "in"
+   ]
+  }, 
+  {
+   "begin": "12.360", 
+   "end": "12.360", 
+   "id": "f000027", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "12.360", 
+   "end": "13.480", 
+   "id": "f000028", 
+   "language": "en", 
+   "lines": [
+    "sky!\u201d"
+   ]
+  }, 
+  {
+   "begin": "13.480", 
+   "end": "14.080", 
+   "id": "f000029", 
+   "language": "en", 
+   "lines": [
+    "said"
+   ]
+  }, 
+  {
+   "begin": "14.080", 
+   "end": "15.200", 
+   "id": "f000030", 
+   "language": "en", 
+   "lines": [
+    "Ma."
+   ]
+  }
+ ]
+}

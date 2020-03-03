@@ -1,0 +1,31 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "27.280", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "\ufeffSometimes travellers came and rested in Mango's shade. They spoke of the far-off lands they had visited---of white hares playing in meadows... of sparkling silver-blue streams beyond the hills... of flocks of parakeets flying overhead... of peacocks dancing on cliff-tops as high as the sky... of pearl white sands with an endless expanse of water beyond.\n"
+   ]
+  }, 
+  {
+   "begin": "27.280", 
+   "end": "33.080", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "\"Will you come with me?\" he asked Jackfruit, Jamun and others.\n"
+   ]
+  }, 
+  {
+   "begin": "33.080", 
+   "end": "48.840", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "\"Oh no!\" they all replied. They argued, \"What don't you have here? Wherever you go there'll be the same sky, the same earth. None of us has ever left our homes. We have our roots here.\""
+   ]
+  }
+ ]
+}

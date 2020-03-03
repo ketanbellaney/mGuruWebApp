@@ -1,0 +1,3097 @@
+@font-face {
+    font-family: 'icomoon';
+    src: url("../fonts/icomoon/icomoon.eot?srf3rx");
+    src: url("../fonts/icomoon/icomoon.eot?srf3rx#iefix") format("embedded-opentype"), url("../fonts/icomoon/icomoon.ttf?srf3rx") format("truetype"), url("../fonts/icomoon/icomoon.woff?srf3rx") format("woff"), url("../fonts/icomoon/icomoon.svg?srf3rx#icomoon") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: 'Nunito', sans-serif;
+    line-height: 1.8;
+    font-size: 20px;
+    background: #ececec;
+    font-weight: 300;
+    overflow: hidden;
+}
+body.logged-in {
+    overflow: visible;
+    position: relative;
+}
+body .invisible {
+    visibility: hidden !important;
+}
+body .mg-margin-btn-sm {
+    margin-bottom: 15px;
+}
+body a:hover,
+body a:focus,
+body a:active {
+    text-decoration: none !important;
+}
+body .mg-btn-primary {
+    background: #009CF8;
+    color: #ffffff !important;
+    display: inline-block;
+}
+body .mg-btn-primary:hover,
+body .mg-btn-primary:focus,
+body .mg-btn-primary:active {
+    color: #ffffff !important;
+}
+body .mg-btn-danger {
+    width: 280px;
+    height: 36px;
+    text-transform: uppercase;
+    border: 1px solid #ff0066;
+    background: #ff0066;
+    color: #ffffff;
+    font-size: 13px;
+    font-weight: 600;
+    line-height: 2.15;
+    display: inline-block;
+    padding-top: 5px;
+}
+body .mg-btn-danger:hover,
+body .mg-btn-danger:focus,
+body .mg-btn-danger:active {
+    color: #ffffff !important;
+}
+body .mg-btn-disabled {
+    background: #cccccc;
+    color: #ffffff;
+    border-color: #cccccc;
+    cursor: not-allowed;
+}
+
+body .mg-progress {
+    width: 450px;
+    margin: 0 auto;
+    height: 15px;
+    border-radius: 20px;
+}
+body .mg-progress .progress-bar-warning {
+    background-color: #ffe600;
+}
+
+body #fh5co-header {
+    margin-bottom: 57px;
+}
+
+body .mg-text-primary {
+    color: #009CF8 !important;
+}
+body .mg-text-warning {
+    color: #ffce00 !important;
+}
+
+body .mg-text-danger {
+    color: #FF0065 !important;
+}
+
+body .mg-text-white {
+    color: #ffffff !important;
+}
+
+body .mg-text-disabled {
+    color: #bbbbbb !important;
+}
+
+body .mg-dropdown-menu {
+    position: absolute;
+    left: -81%;
+    border: none;
+    box-shadow: none;
+    margin-top: 0px;
+    min-width: 165px;
+    border-radius: 0;
+    min-height: 92px;
+    padding-top: 17px;
+    padding-bottom: 17px;
+}
+body  .mg-dropdown-menu > li > a {
+    padding: 5px 20px;
+    color: #ffffff;
+    font-size: 12px;
+    font-weight: 300;
+}
+
+body .mg-navbar-item:hover .mg-dropdown-menu {
+    display: block;
+}
+
+body .mg-dropdown-menu > li > a:hover,
+body .mg-dropdown-menu > li > a:focus,
+body .mg-dropdown-menu > li > a:active {
+    color: #ffffff !important;
+    background: #66ea91;
+}
+
+body .mg-item-4 .mg-dropdown-menu > li > a:hover,
+body .mg-item-4 .mg-dropdown-menu > li > a:focus,
+body .mg-item-4 .mg-dropdown-menu > li > a:active {
+    background: #60bbf9;
+}
+
+body .container-no-margin-padding,
+body .navbar-brand-no-margin-padding {
+    margin: 0;
+    padding: 0;
+}
+
+body .navbar.navbar-white {
+    background: #ffffff;
+    height: 57px;
+}
+body .navbar.navbar-white .navbar-brand .mg-logo {
+    width: 56px;
+    height: 57px;
+}
+body #navbar .mg-navbar-nav .mg-navbar-item {
+    height: 57px;
+    width: 91px;
+}
+body #navbar .mg-navbar-nav .mg-navbar-item > a {
+    padding: 0;
+    height: 57px;
+    color: #ffffff;
+}
+body #navbar .mg-navbar-nav .mg-navbar-item > a:hover,
+body #navbar .mg-navbar-nav .mg-navbar-item > a:focus,
+body #navbar .mg-navbar-nav .mg-navbar-item > a:active {
+    background: inherit;
+    text-decoration: none !important;
+    color: inherit;
+}
+body #navbar .mg-navbar-nav .mg-navbar-item.active.mg-item-1 > a,
+body #navbar .mg-navbar-nav .mg-navbar-item.active.mg-item-1.open a {
+    background: #FF0065;
+}
+body #navbar .mg-navbar-nav .mg-navbar-item.active.mg-item-2 > a,
+body #navbar .mg-navbar-nav .mg-navbar-item.active.mg-item-2.open > a {
+    background: #A115F5;
+}
+body #navbar .mg-navbar-nav .mg-navbar-item.active.mg-item-3 > a,
+body #navbar .mg-navbar-nav .mg-navbar-item.active.mg-item-3.open > a,
+body #navbar .mg-navbar-nav .mg-navbar-item.active.mg-item-3 .mg-dropdown-menu {
+    background: #00DD48;
+}
+body #navbar .mg-navbar-nav .mg-navbar-item.active.mg-item-4 > a,
+body #navbar .mg-navbar-nav .mg-navbar-item.active.mg-item-4.open > a,
+body #navbar .mg-navbar-nav .mg-navbar-item.active.mg-item-4 .mg-dropdown-menu {
+    background: #009CF8;
+}
+
+body #navbar .mg-navbar-nav .mg-item-title {
+    display: none;
+    font-family: Nunito;
+    font-size: 11px;
+    font-weight: 300;
+    color: #ffffff;
+}
+body #navbar .mg-navbar-nav li.active .mg-item-title {
+    display: block;
+}
+
+body .mg-icon {
+    width: 23px;
+    height: 26px;
+    display: inline-block;
+    margin-top: 15px;
+    border-right: 1px solid #DADADA;
+    padding-right: 90px;
+}
+body #navbar .mg-navbar-nav .mg-navbar-item:last-child .mg-icon {
+    border-right: none;
+}
+body .mg-navbar-item.active .mg-icon {
+    margin-top: 5px;
+    border: none;
+}
+body .mg-navbar-item .icon-daily-quest {
+    background: url("../images/dailyquesticon_1.svg") no-repeat center center;
+}
+body .mg-navbar-item.active .icon-daily-quest {
+    background: url("../images/dailyquesticon_2.png") no-repeat center center;
+}
+body .mg-navbar-item .icon-explore {
+    background: url("../images/exploreicon_1.svg") no-repeat center center;
+}
+body .mg-navbar-item.active .icon-explore {
+    background: url("../images/exploreicon_2.png") no-repeat center center;
+}
+body .mg-navbar-item .icon-stories {
+    background: url("../images/storiesicon_1.svg") no-repeat center center;
+}
+body .mg-navbar-item.active .icon-stories {
+    background: url("../images/stories_icon_white_1.svg") no-repeat center center;
+}
+body .mg-navbar-item .icon-profile {
+    background: url("../images/profileicon_1.svg") no-repeat center center;
+}
+body .mg-navbar-item.active .icon-profile {
+    background: url("../images/profileicon_2.png") no-repeat center center;
+}
+
+a {
+    color: #52d3aa;
+    -webkit-transition: 0.5s;
+    -o-transition: 0.5s;
+    transition: 0.5s;
+}
+
+a:hover {
+    text-decoration: underline !important;
+    color: #52d3aa !important;
+}
+
+a:focus, a:active {
+    outline: none;
+}
+
+p {
+    margin-bottom: 1.5em;
+    font-size: 20px;
+    color: #848484;
+    font-weight: 300;
+    font-family: 'Nunito', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #000;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 400;
+    margin: 0 0 30px 0;
+}
+
+::-webkit-selection {
+    color: #fcfcfc;
+    background: #52d3aa;
+}
+
+::-moz-selection {
+    color: #fcfcfc;
+    background: #52d3aa;
+}
+
+::selection {
+    color: #fcfcfc;
+    background: #52d3aa;
+}
+
+.row {
+    margin: 0px;
+    padding: 0px;
+}
+
+.col-xs-1, .col-sm-1, .col-md-1, .col-lg-1, .col-xs-2, .col-sm-2, .col-md-2, .col-lg-2, .col-xs-3, .col-sm-3, .col-md-3, .col-lg-3, .col-xs-4, .col-sm-4, .col-md-4, .col-lg-4, .col-xs-5, .col-sm-5, .col-md-5, .col-lg-5, .col-xs-6, .col-sm-6, .col-md-6, .col-lg-6, .col-xs-7, .col-sm-7, .col-md-7, .col-lg-7, .col-xs-8, .col-sm-8, .col-md-8, .col-lg-8, .col-xs-9, .col-sm-9, .col-md-9, .col-lg-9, .col-xs-10, .col-sm-10, .col-md-10, .col-lg-10, .col-xs-11, .col-sm-11, .col-md-11, .col-lg-11, .col-xs-12, .col-sm-12, .col-md-12, .col-lg-12 {
+    padding: 0px;
+    /* margin: 0px; */
+}
+
+.footer {
+    /*bottom: 0px; */
+    position: absolute;
+    width: 100%;
+}
+
+.footer_color_1 {
+    bottom: -5%;
+}
+
+.copyright {
+    font-family: 'Nunito', sans-serif;
+    font-size: 11px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #727272;
+    padding-left: 25px;
+    padding-top: 11px;
+}
+
+.social-account {
+    padding-left: 25px;
+    margin-bottom: -11px;
+}
+
+.social-account a {
+    padding-right: 5px;
+}
+
+.footer-links {
+    text-align: right;
+    padding-right: 25px;
+    padding-bottom: 15px;
+}
+
+.footer-links a {
+    font-family: 'Nunito', sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    letter-spacing: normal;
+    text-align: right;
+    color: #0066cc;
+    padding-left: 25px;
+}
+
+.image_circular_land_1_div {
+    bottom: -14%;
+    position: absolute;
+    width: 100%;
+}
+
+.image_circular_land_1 {
+    width: 100%;
+}
+
+.image_grass_3 {
+    width: 50px;
+    left: 10%;
+    top: 15%;
+    position: absolute;
+}
+
+.image_grass_2 {
+    width: 65px;
+    left: 22%;
+    top: 1%;
+    position: absolute;
+}
+
+.image_grass_1 {
+    width: 65px;
+    right: 19%;
+    top: 1%;
+    position: absolute;
+}
+
+.image_tree_1 {
+    width: 275px;
+    right: 5.5%;
+    top: -94%;
+    position: absolute;
+}
+
+.motu_1_with_shadow_1 {
+    width: 105px;
+    right: 45.2%;
+    top: -25%;
+    position: absolute;
+}
+
+.sparrow_left_2 {
+    width: 28px;
+    left: 22%;
+    top: -31%;
+    position: absolute;
+}
+
+.cloud_1 {
+    width: 50px;
+    left: 8.7%;
+    top: -62%;
+    position: absolute;
+}
+
+.cloud_1_1 {
+    width: 80px;
+    left: 20%;
+    top: -110%;
+    position: absolute;
+}
+
+.sparrow_right_1 {
+    width: 28px;
+    right: 18%;
+    top: -115%;
+    position: absolute;
+}
+
+.cloud_1_2 {
+    width: 55px;
+    right: 14%;
+    top: -150%;
+    position: absolute;
+}
+
+.sun_1 {
+    width: 100px;
+    left: 8%;
+    top: -160%;
+    position: absolute;
+}
+
+.language_selection_div {
+    width: 300px;
+    border-radius: 7px;
+    left: 40%;
+    top: 80px;
+    position: absolute;
+}
+
+button.list-group-item {
+    height: 40px;
+    font-size: 14px;
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+    color: #fda32c;
+    font-weight: 500;
+    border: none;
+}
+
+body button.list-group-item.active, body button.list-group-item.active:hover, body button.list-group-item.active:focus, body button.list-group-item.active:active, body button.list-group-item:hover, body button.list-group-item:focus, body button.list-group-item:active {
+    background-color: #fda32c;
+    border-color: #fda32c;
+    color: #ffffff;
+    font-weight: 300;
+    outline: none;
+}
+
+body .mg-btn-rounded {
+    border-radius: 17.5px !important;
+}
+
+body .mg-btn-warning,
+body .mg-btn-warning:hover,
+body .mg-btn-warning:focus,
+body .mg-btn-warning:active {
+    background: #ffce00;
+    border: 1px solid #ffce00;
+    color: #ffffff;
+}
+
+body .mg-submit-btn {
+    right: 40.5%;
+    top: 25%;
+    position: absolute;
+    width: 216px;
+    height: 35px;
+    background-color: #ffce00;
+    text-align: center;
+    line-height: 32px;
+    text-decoration: none !important;
+    opacity: 0.8;
+    display: block;
+}
+
+body .mg-submit-btn:hover, body .mg-submit-btn:active, body .mg-submit-btn:focus {
+    opacity: 1;
+}
+
+body .mg-submit-btn span {
+    color: #ffffff !important;
+    font-family: 'Nunito', sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+body .mg-btn-primary {
+    width: 156px;
+    height: 36px;
+    font-family: Nunito;
+    font-size: 19px;
+    font-weight: normal;
+    line-height: 1.9em;
+}
+body .mg-btn-sm {
+    width: 64px;
+    height: 20px;
+    font-size: 10px;
+    font-weight: normal;
+    color: #ffffff;
+    line-height: 2em;
+}
+body .mg-h1-header {
+    font-family: 'Nunito', sans-serif;
+    font-size: 70px;
+    font-weight: bold;
+    line-height: 1.01;
+    letter-spacing: -3.5px;
+    color: #ffffff;
+    margin-bottom: 17px;
+}
+body .mg-text-lg {
+    font-size: 86px !important;
+}
+body .mg-quest-help-text {
+    font-family: 'Nunito', sans-serif;
+    font-size: 18px;
+    font-weight: normal;
+    line-height: 1;
+    color: #333333;
+    margin-bottom: 22px;
+}
+
+body .mg-mango-bucket {
+    width: 72px;
+    position: absolute;
+    bottom: -21px;
+    right: 15px;
+}
+body .mg-mango-bucket-score {
+    position: absolute;
+    bottom: -15px;
+    right: 33px;
+    font-size: 11px;
+    color: #ffffff;
+    font-weight: 800;
+}
+
+/* Daily Quest Start */
+body #dailyquest,
+body #explore {
+    background-image: linear-gradient(to left, #60bbf9, #64d6fc);
+    padding-top: 45px;
+}
+body #dailyquest .dailyquest-footer-hills img {
+    margin-left: -125px;
+    margin-top: -215px;
+}
+body #dailyquest .mg-sun-cloud {
+    margin-left: -20%;
+    width: 180px;
+}
+body #dailyquest .mg-helicopter {
+    width: 48px;
+}
+body #dailyquest .mguru-cloud {
+    width: 73px;
+    margin-top: 105px;
+    float: left;
+}
+body #dailyquest .mg-quest-board {
+    margin-top: 40px;
+    position: relative;
+}
+body #dailyquest .mg-quest-board .mg-board-wrapper-1 .mg-board-1 {
+    width: 256px;
+}
+body #dailyquest .mg-quest-board .mg-board-wrapper-2 .mg-board-2 {
+    width: 276px;
+    margin-top: 5px;
+}
+body #dailyquest .mg-quest-board .mg-board-wrapper-3 .mg-board-3 {
+    width: 227px;
+    margin-top: 30px;
+}
+body #dailyquest .mg-quest-board .mg-grass-1 {
+    width: 61px;
+    position: absolute;
+    bottom: 21px;
+}
+body #dailyquest .mg-quest-board .mg-grass-2 {
+    width: 44px;
+    position: absolute;
+    bottom: 21px;
+    margin-left: -35px;
+}
+body #dailyquest .mg-quest-board .mg-board-icon {
+    position: absolute;
+    top: 13.5%;
+    left: 0;
+    margin-left: 43%;
+}
+body #dailyquest .mg-quest-board .mg-icon-word {
+    width: 61px;
+    top: 30%;
+    left: -15%;
+}
+body #dailyquest .mg-quest-board .mg-icon-story {
+    width: 58px;
+    top: 15.5%;
+}
+body #dailyquest .mg-quest-board .mg-icon-sound {
+    width: 46px;
+    top: 25%;
+}
+body #dailyquest .mg-quest-board .mg-mango-1 {
+    width: 34px;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    margin-left: -35px;
+}
+body #dailyquest .mg-quest-board .mg-mango-score-1 {
+    position: absolute;
+    bottom: 8px;
+    left: 50%;
+    margin-left: -30px;
+    color: #ffffff;
+    font-weight: 800;
+    font-size: 11px;
+}
+body #dailyquest .mg-quest-board .mg-board-wrapper-1 .mg-mango-score-1 {
+    margin-left: 10px;
+    bottom: 33px;
+}
+body #dailyquest .mg-quest-board .mg-board-wrapper-3 .mg-mango-score-1 {
+    bottom: 31px;
+    margin-left: -49px;
+}
+body #dailyquest .mg-quest-board .mg-board-wrapper-1 .mg-mango-1 {
+    margin-left: 5px;
+    bottom: 25px;
+}
+body #dailyquest .mg-quest-board .mg-board-wrapper-3 .mg-mango-1 {
+    bottom: 23px;
+    margin-left: -55px;
+}
+body #dailyquest .mg-quest-board .mg-motu {
+    width: 70px;
+    position: absolute;
+    bottom: -18px;
+    margin-left: 30px;
+}
+body #dailyquest .mg-quest-board .mg-house {
+    position: absolute;
+    bottom: -65px;
+    height: 92px;
+    left: -57px;
+}
+body .mg-footer img {
+    margin-top: -161px;
+    height: 178px;
+}
+
+/* Daily Quest Activity Start */
+body #dailyquest.mg-activity {
+    background: #ffffff;
+}
+body #dailyquest.mg-activity .mg-activity-main-bg {
+    top: 0%;
+}
+body #dailyquest.mg-activity .mg-daily-activity-wrapper {
+    margin-top: 30px;
+}
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-query-text {
+    color: #bbbbbb;
+    font-size: 40px;
+    margin-top: 30px;
+    line-height: 58px;
+    font-weight: 600;
+    /*letter-spacing: 1px; */
+    background-color: #F4F4F4;
+    opacity: 0.85;
+    border-radius: 10px;
+}
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-query-text .mg-void {
+    display: inline-block;
+    background: #ffffff;
+    color: #ffce00;
+    padding: 0px 25px;
+    border-radius: 20px;
+    min-width: 170px;
+    box-shadow: 2px 2px 1px #acacac;
+    text-shadow: none;
+    outline: none !important;
+}
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-submit, body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-next {
+    margin-bottom: 45px;
+}
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-options-wrapper {
+    margin-top: -45px;
+    margin-bottom: 30px;
+}
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-options-wrapper li {
+    cursor: pointer;
+}
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-activity-word-wrapper li,
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-options-wrapper li {
+    padding: 0 15px;
+}
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-activity-word-wrapper li:first-child,
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-options-wrapper li:first-child {
+    padding-left: 0;
+}
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-activity-word-wrapper li:last-child,
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-options-wrapper li:last-child {
+    padding-right: 0;
+}
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-word-image-hint {
+    height: 250px;
+    width: 250px;
+    background: #ffffff;
+    border-radius: 100%;
+    margin: 0 auto;
+    box-shadow: 2px 2px 0px #acacac;
+    border: 5px solid #ffffff;
+    padding-top: 45px;
+}
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-word-image-hint .mg-hint-image {
+    height: 150px;
+    width: 150px;
+}
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-activity-word-wrapper .mg-text-warning,
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-options-wrapper .mg-text-warning,
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-correct-image .mg-image-text-hint,
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-word-starts-with .mg-image-text-hint,
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-listen-sound .mg-image-text-hint,
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-say .mg-image-text-hint {
+    font-weight: bold;
+    font-size: 65px;
+    line-height: 82px;
+}
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-options-wrapper .mg-text-warning {
+    font-size: 50px;
+    line-height: 66px;
+}
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-activity-word-wrapper .mg-void,
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-options-wrapper .mg-void {
+    background: #ffffff;
+    width: 80px;
+    height: 75px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 0px #acacac;
+    padding: 0;
+}
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-options-wrapper .mg-void {
+    width: 65px;
+    height: 60px;
+    margin-left: 15px;
+    border: 2px solid white;
+}
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-activity-word-wrapper .mg-void.mg-filled {
+    background: #ffce00;
+    cursor: pointer;
+}
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-activity-word-wrapper .mg-void.mg-filled .mg-text-warning {
+    color: #ffffff !important;
+}
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-missing-word .mg-options-wrapper,
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-correct-word .mg-options-wrapper,
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-arrange-phrase .mg-options-wrapper {
+    margin-top: 70px;
+    margin-bottom: 40px;
+}
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-trace-letter .mg-options-wrapper {
+    margin-bottom:  80px;
+}
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-missing-word .mg-options-wrapper .mg-void,
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-correct-word .mg-options-wrapper .mg-void,
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-arrange-phrase .mg-options-wrapper .mg-void {
+    min-width: 150px;
+    height: 65px;
+    margin-left: 15px;
+    border-radius: 40px;
+    font-weight: 600;
+    line-height: 70px;
+    width: auto;
+    padding: 0 10px;
+    border: 2px solid #ffffff;
+}
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-missing-word .mg-options-wrapper .mg-void.mg-selected,
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-correct-word .mg-options-wrapper .mg-void.mg-selected,
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-letter-sound .mg-options-wrapper .mg-void.mg-selected,
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-say .mg-options-wrapper .mg-void.mg-selected,
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-arrange-phrase .mg-options-wrapper .mg-void.mg-selected,
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-match-pairs .mg-options-wrapper .mg-void.mg-selected,
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-match-pairs-chat .mg-options-wrapper .mg-void.mg-selected {
+    background: #0099ff;
+    color: #ffffff;
+    border: 2px solid #ffffff;
+}
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-correct-image .mg-options-wrapper,
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-word-starts-with .mg-options-wrapper {
+    margin-top: 30px;
+    margin-bottom: 90px;
+}
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-correct-image .mg-options-wrapper .mg-void,
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-word-starts-with .mg-options-wrapper .mg-void,
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-correct-word .mg-image-wrapper .mg-void {
+    width: 145px;
+    height: 145px;
+    border-radius: 100%;
+    border: 3px solid #ffffff;
+    padding-top: 17px;
+}
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-correct-image .mg-options-wrapper .mg-void.mg-selected,
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-word-starts-with .mg-options-wrapper .mg-void.mg-selected {
+    border-color: #009CF8;
+}
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-correct-image .mg-options-wrapper .mg-void .mg-img,
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-word-starts-with .mg-options-wrapper .mg-void .mg-img,
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-correct-word .mg-image-wrapper .mg-void .mg-img {
+    width: 95px;
+    height: 95px;
+    margin-top: 5px;
+}
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-correct-word .mg-image-wrapper .mg-void {
+    background: #ffffff;
+    box-shadow: 2px 2px 0px #acacac;
+}
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-listen-sound {
+    margin-bottom: 70px;
+}
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-listen-sound .mg-image-wrapper .mg-void {
+    width: 250px;
+    height: 250px;
+    padding-top: 40px;
+    position: relative;
+}
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-listen-sound .mg-void .mg-image-text {
+    position: absolute;
+    bottom: 30px;
+    min-width: 110px;
+    word-wrap: break-word;
+    white-space: pre-line;
+    left: 50%;
+    margin-left: -55px;
+    padding: 0 10px;
+    color: #ffffff !important;
+}
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-reply {
+    background: #ffffff;
+    color: #ff0066 !important;
+}
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-listen-sound .mg-image-text-hint {
+    margin-bottom: 30px;
+}
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-trace-letter .mg-image-wrapper .mg-void .mg-img {
+    width: 150px;
+    height: 150px;
+}
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-trace-letter .mg-image-text-hint .mg-small {
+    font-size: 20px;
+    font-weight: normal;
+    letter-spacing: 30px;
+    margin: 0;
+    line-height: 26px;
+}
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-true-false,
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-find-true {
+    margin-bottom: 80px;
+}
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-find-true .mg-options-wrapper {
+    margin-top: 50px;
+}
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-find-true .mg-options-wrapper .mg-void {
+    height: auto;
+    line-height: normal;
+    margin-bottom: 20px;
+    width: 70%;
+    word-wrap: break-word;
+    padding: 12px 20px;
+}
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-find-true .mg-options-wrapper .mg-void {
+    font-size: 16px;
+}
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-new-sound .mg-options-wrapper {
+    margin-top: 30px;
+}
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-new-sound .mg-options-wrapper .mg-void {
+    min-width: 130px;
+    border-radius: 20px;
+    margin-top: 10px;
+}
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-new-sound .mg-options-wrapper .mg-void.mg-selected .mg-text-primary,
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-letter-sound .mg-options-wrapper .mg-void.mg-selected .mg-text-warning,
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-say .mg-options-wrapper .mg-void.mg-selected .mg-text-warning {
+    color: #ffffff !important;
+}
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-new-sound .mg-motu-mango-wrapper {
+    position: relative;
+    margin-top: 215px;
+    margin-bottom: 40px;
+}
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-new-sound .mg-motu-mango-wrapper .mg-motu {
+    width: 180px;
+}
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-new-sound .mg-motu-mango-wrapper .mg-bubble {
+    width: 150px;
+}
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-new-sound .mg-motu-mango-wrapper .mg-mango {
+    width: 90px;
+    position: absolute;
+    right: 0;
+    margin-right: 25px;
+    top: 13px;
+}
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-new-sound .mg-motu-mango-wrapper .mg-mango-score {
+    font-weight: bold;
+    color: #ffffff;
+    position: absolute;
+    right: 0;
+    margin-right: 72px;
+    top: 58px;
+}
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-new-sound .mg-motu-mango-wrapper .mg-mango-points {
+    position: absolute;
+    right: 0;
+    top: 0;
+    margin-top: -120px;
+    margin-right: 170px;
+}
+body #dailyquest.mg-activity .mg-active-correct .mg-daily-activity-wrapper .mg-correct .mg-options-wrapper {
+    margin-top: -15px;
+    margin-bottom: 15px;
+}
+body #dailyquest.mg-activity .mg-active-incorrect .mg-daily-activity-wrapper .mg-correct .mg-options-wrapper {
+    margin-top: 0px;
+    margin-bottom: 80px;
+}
+body #dailyquest.mg-activity .mg-active-correct .mg-daily-activity-wrapper .mg-correct .mg-options-wrapper .mg-void,
+body #dailyquest.mg-activity .mg-active-incorrect .mg-daily-activity-wrapper .mg-correct .mg-options-wrapper .mg-void {
+    width: 300px;
+    height: 300px;
+    padding-top: 75px;
+    border-radius: 100%;
+}
+body #dailyquest.mg-activity .mg-active-correct .mg-daily-activity-wrapper .mg-correct .mg-options-wrapper .mg-void .mg-img,
+body #dailyquest.mg-activity .mg-active-incorrect .mg-daily-activity-wrapper .mg-correct .mg-options-wrapper .mg-void .mg-img {
+    width: 150px;
+    height: 150px;
+}
+body #dailyquest.mg-activity .mg-active-complete .mg-daily-activity-wrapper .mg-activity-score .mg-text-lg {
+    font-weight: bold;
+}
+body #dailyquest.mg-activity .mg-active-complete .mg-daily-activity-wrapper .mg-activity-score .mg-text-lg .mg-mango {
+    height: 50px;
+    margin-left: -35px;
+}
+body #dailyquest.mg-activity .mg-active-complete .mg-daily-activity-wrapper .mg-star-rating h3 {
+    font-weight: bold;
+    letter-spacing: 1px;
+    margin-bottom: 5px;
+}
+body #dailyquest.mg-activity .mg-active-complete .mg-daily-activity-wrapper .mg-star-rating .mg-ribbon {
+    width: 350px;
+    display: block;
+    margin: 0 auto;
+}
+body #dailyquest.mg-activity .mg-active-complete .mg-daily-activity-wrapper .mg-star-rating .mg-star {
+    width: 50px;
+}
+body #dailyquest.mg-activity .mg-active-complete .mg-daily-activity-wrapper .mg-star-rating .mg-star1 {
+    margin-top: -155px;
+    margin-left: -25px;
+    margin-right: 15px;
+}
+body #dailyquest.mg-activity .mg-active-complete .mg-daily-activity-wrapper .mg-star-rating .mg-star2 {
+    margin-top: -130px;
+}
+body #dailyquest.mg-activity .mg-active-complete .mg-daily-activity-wrapper .mg-star-rating .mg-star3 {
+    margin-top: -155px;
+    margin-right: -25px;
+    margin-left: 15px;
+}
+body #dailyquest.mg-activity .mg-active-complete .mg-daily-activity-wrapper .mg-bucket {
+    position: absolute;
+    bottom: 0;
+    margin-bottom: 60px;
+    margin-left: 35px;
+}
+body #dailyquest.mg-activity .mg-active-complete .mg-daily-activity-wrapper .mg-result-score {
+    font-weight: 400;
+    position: absolute;
+    bottom: 0;
+    margin-bottom: 85px;
+    margin-left: 20px;
+    text-align: center;
+    width: 20%;
+}
+body #dailyquest.mg-activity .mg-active-complete .mg-daily-activity-wrapper .mg-next {
+    display: block;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+body #mgCongratulationModal .mg-modal-title,
+body #mgCongratulationModal .mg-modal-desc {
+    font-weight: 600;
+}
+body #mgCongratulationModal .mg-modal-desc {
+    margin-bottom: 20px;
+}
+body #mgCongratulationModal h3 {
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+body #mgCongratulationModal .modal-content .modal-body .mg-motu {
+    width: auto;
+    margin-bottom: 20px;
+}
+body #mgCongratulationModal .mg-h1-header {
+    color: #494949;
+    text-shadow: none;
+    margin-top: 20px;
+    font-size: 60px;
+}
+body #mgCongratulationModal .modal-content .modal-body .mg-unlock-btn {
+    margin: 0 auto;
+    font-weight: 600;
+}
+body #mgCongratulationModal .modal-content .modal-body .mg-btn-back {
+    font-size: 12px;
+}
+body #dailyquest.mg-activity .mg-letter-sound .mg-options-wrapper,
+body #dailyquest.mg-activity .mg-say .mg-options-wrapper {
+    margin-bottom: 75px;
+    display: block;
+    position: relative;
+}
+body #dailyquest.mg-activity .mg-letter-sound .mg-activity-sound-wrapper,
+body #dailyquest.mg-activity .mg-say .mg-activity-sound-wrapper,
+body #dailyquest.mg-activity .mg-match-pairs-chat .mg-activity-sound-wrapper {
+    position: relative;
+    display: inline-block;
+}
+body #dailyquest.mg-activity .mg-letter-sound .mg-activity-sound-wrapper .mg-void,
+body #dailyquest.mg-activity .mg-say .mg-activity-sound-wrapper .mg-void,
+body #dailyquest.mg-activity .mg-match-pairs-chat .mg-activity-sound-wrapper .mg-void {
+    width: 300px;
+    height: 300px;
+    border-radius: 100%;
+    padding-top: 119px;
+    cursor: pointer;
+    background: #ffffff;
+    box-shadow: 2px 2px 0px #acacac;
+}
+body #dailyquest.mg-activity .mg-letter-sound .mg-activity-sound-wrapper .mg-void canvas,
+body #dailyquest.mg-activity .mg-say .mg-activity-sound-wrapper .mg-void canvas,
+body #dailyquest.mg-activity .mg-match-pairs-chat .mg-activity-sound-wrapper .mg-void canvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: none;
+}
+body #dailyquest.mg-activity .mg-letter-sound .mg-activity-sound-wrapper .mg-void .mg-listen,
+body #dailyquest.mg-activity .mg-letter-sound .mg-activity-sound-wrapper .mg-void .mg-pause,
+body #dailyquest.mg-activity .mg-say .mg-activity-sound-wrapper .mg-void .mg-listen,
+body #dailyquest.mg-activity .mg-say .mg-activity-sound-wrapper .mg-void .mg-pause,
+body #dailyquest.mg-activity .mg-match-pairs-chat .mg-activity-sound-wrapper .mg-void .mg-listen,
+body #dailyquest.mg-activity .mg-match-pairs-chat .mg-activity-sound-wrapper .mg-void .mg-pause {
+    height: 62px;
+}
+body #dailyquest.mg-activity .mg-letter-sound .mg-activity-sound-wrapper .mg-void.mg-listening canvas,
+body #dailyquest.mg-activity .mg-say .mg-activity-sound-wrapper .mg-void.mg-listening canvas,
+body #dailyquest.mg-activity .mg-match-pairs-chat .mg-activity-sound-wrapper .mg-void.mg-listening canvas {
+    display: block;
+}
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-arrange-phrase .mg-query-text .mg-void {
+    width: 80%;
+    min-height: 70px;
+    height: auto;
+    word-wrap: break-word;
+    white-space: pre-line;
+    font-weight: bold;
+}
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-arrange-phrase .mg-options-wrapper {
+    margin-bottom: 70px;
+}
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-arrange-phrase .mg-options-wrapper .mg-void {
+    position: relative;
+}
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-arrange-phrase .mg-options-wrapper .mg-void .mg-counter {
+    display: none;
+}
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-arrange-phrase .mg-options-wrapper .mg-void.mg-selected .mg-counter {
+    display: block;
+    position: absolute;
+    width: 22px;
+    height: 22px;
+    border: 1px solid #009CF8;
+    border-radius: 100%;
+    font-size: 12px;
+    line-height: 20px;
+    color: #009CF8;
+    font-weight: bold;
+    bottom: -13px;
+    left: 50%;
+    background: #ffffff;
+    margin-left: -10px;
+}
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-drag-drop .mg-drag-wrapper {
+    position: relative;
+    top: -30px;
+    left: -15px;
+}
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-drag-drop .mg-drag-wrapper .mg-drag-target {
+    margin-left: -37px;
+    display: inline-block;
+    position: relative;
+    top: 10px;
+    cursor: -webkit-grab;
+}
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-drag-drop .mg-drag-wrapper .mg-drag-target1 {
+    margin-left: -37px;
+    display: inline-block;
+    position: relative;
+    top: 10px;
+    cursor: -webkit-grab;
+}
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-drag-drop .mg-drag-wrapper .mg-drag-target2 {
+    margin-left: -37px;
+    display: inline-block;
+    position: relative;
+    top: 10px;
+    cursor: -webkit-grab;
+}
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-drag-drop {
+    margin-bottom: 5px;
+}
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-drag-drop .mg-drop-wrapper div {
+    display: inline-block;
+    line-height: 54px;
+}
+body #dailyquest.mg-activity .mg-say .mg-options-wrapper {
+    margin-bottom: 20px;
+}
+body #dailyquest.mg-activity .mg-say .mg-activity-sound-wrapper .mg-record,
+body #dailyquest.mg-activity .mg-say .mg-activity-sound-wrapper .mg-recording,
+body #dailyquest.mg-activity .mg-match-pairs-chat .mg-activity-sound-wrapper .mg-record,
+body #dailyquest.mg-activity .mg-match-pairs-chat .mg-activity-sound-wrapper .mg-recording {
+    width: 80px;
+    height: 80px;
+}
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-match-pairs,
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-match-pairs-chat {
+    display: block;
+}
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-match-pairs .mg-options-wrapper,
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-match-pairs-chat .mg-options-wrapper {
+    margin-top: 0px;
+}
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-match-pairs .mg-options-wrapper.mg-left-panel,
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-match-pairs-chat .mg-options-wrapper.mg-left-panel {
+    width: 51%;
+    float: left;
+    border-right: 1px dashed #333333;
+    padding-right: 3%;
+}
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-match-pairs .mg-options-wrapper.mg-left-panel .mg-void,
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-match-pairs-chat .mg-options-wrapper.mg-left-panel .mg-void {
+    margin-left: 0;
+    margin-right: 25px;
+}
+
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-match-pairs .mg-options-wrapper.mg-right-panel,
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-match-pairs-chat .mg-options-wrapper.mg-right-panel {
+    width: 49%;
+    float: right;
+}
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-match-pairs .mg-options-wrapper.mg-right-panel .mg-void,
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-match-pairs-chat .mg-options-wrapper.mg-right-panel .mg-void {
+    margin-right: 0;
+    margin-left: 25px;
+}
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-match-pairs .mg-options-wrapper .mg-void,
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-match-pairs-chat .mg-options-wrapper .mg-void {
+    padding: 0px 9px !important;
+    margin-bottom: 25px;
+    width: 100%;
+    border-radius: 30px;
+    font-size: 18px;
+    line-height: 60px;
+    position: relative;
+    font-weight: 600;
+}
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-match-pairs .mg-options-wrapper .mg-void .mg-counter {
+    position: absolute;
+    right: -13px;
+    border: 2px solid #0099ff;
+    border-radius: 100%;
+    width: 28px;
+    height: 28px;
+    background: white;
+    top: 16px;
+    color: #0099ff;
+    line-height: 26px;
+    font-size: 14px;
+    font-weight: bold;
+}
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-match-pairs .mg-options-wrapper.mg-right-panel .mg-void .mg-counter {
+    left: -13px;
+}
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-match-pairs-chat .mg-options-wrapper .mg-void {
+    font-size: 14px;
+    font-weight: 400;
+}
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-match-pairs-chat .mg-options-wrapper .mg-void.mg-query {
+    background: #FF0065;
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: 400;
+    border: 2px solid #ffffff;
+}
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-match-pairs-chat .mg-options-wrapper.mg-left-panel .mg-void:not(:last-child) {
+    margin-bottom: 60px;
+}
+body #dailyquest.mg-activity .mg-daily-activity-wrapper .mg-match-pairs-chat .mg-options-wrapper.mg-right-panel .mg-void {
+    margin-top: 60px;
+}
+body #dailyquest.mg-activity .mg-match-pairs-chat .mg-activity-sound-wrapper {
+    margin-top: -35px;
+    margin-bottom: 20px;
+}
+body #dailyquest.mg-activity .mg-match-pairs-chat .mg-activity-sound-wrapper .mg-void {
+    width: 150px;
+    height: 150px;
+    padding-top: 44px;
+}
+body #dailyquest.mg-activity .mg-match-pairs-chat .mg-activity-sound-wrapper .mg-void img {
+    height: 62px;
+}
+body .mg-caution {
+    color: #000000;
+    margin-bottom: 5px;
+    margin-top: -35px;
+    font-weight: 400;
+    font-size: 18px;
+}
+/* Daily Quest Activity End */
+/* Daily Quest End */
+
+/* Explore Start */
+
+body #explore {
+    background-image: linear-gradient(to bottom, #394fb5, #e50a70);
+    overflow: hidden;
+}
+body #explore .mg-explore-main-bg,
+body #stories .mg-stories-main-bg,
+body #stories-complete .mg-stories-main-bg,
+body #profile .mg-profile-main-bg,
+body #dailyquest .mg-activity-main-bg {
+    position: absolute;
+    top: -9%;
+    margin-left: 0px;
+    width: 100%;
+}
+body #explore .mg-explore-main-bg {
+    height: -webkit-fill-available;
+    top: 0;
+}
+body #explore .mg-quest-help-text {
+    color: #ffe504;
+ }
+
+body #explore .mg-plane {
+    width: 83px;
+    object-fit: contain;
+    margin-top: 35px;
+}
+body #explore .mg-planet {
+    object-fit: contain;
+    margin-top: 48px;
+    margin-right: -22%;
+    height: 83px;
+}
+
+body #explore .mg-explore-worlds {
+    margin-top: 55px;
+}
+
+body #explore .mg-explore-worlds .mg-level-3.mg-locked .mg-mango-wrapper img {
+    top: -15%;
+    left: 50%;
+    margin-left: 11px;
+}
+body #explore .mg-explore-worlds .mg-level-3.mg-locked .mg-mango-wrapper .mg-mango-score-level {
+    top: -6%;
+    left: 50%;
+    margin-left: 18px;
+}
+
+body #explore .mg-explore-worlds .mg-level-4.mg-locked {
+    margin-top: 60px;
+}
+body #explore .mg-explore-worlds .mg-level-4.mg-locked .mg-mango-wrapper img {
+    top: -1%;
+    margin-left: 50px;
+}
+body #explore .mg-explore-worlds .mg-level-4.mg-locked .mg-mango-wrapper .mg-mango-score-level {
+    top: 5%;
+    margin-left: 50px;
+}
+body #explore .mg-explore-worlds .mg-level-4.mg-locked .mg-title-level {
+    top: 24%;
+}
+
+body #explore .mg-explore-worlds .mg-level-5.mg-locked .mg-stone-level {
+    width: 100%;
+}
+body #explore .mg-explore-worlds .mg-level-5.mg-locked .mg-mango-wrapper img {
+    top: 2%;
+    left: 50%;
+    margin-left: -30px;
+}
+body #explore .mg-explore-worlds .mg-level-5.mg-locked .mg-title-level {
+    top: 36%;
+    margin-left: -47px;
+}
+body #explore .mg-explore-worlds .mg-level-5.mg-locked .mg-mango-wrapper .mg-mango-score-level {
+    top: 10%;
+    left: 50%;
+    /*margin-left: -23px; */
+}
+
+body #explore .mg-explore-worlds .mg-motu {
+    display: none;
+}
+body #explore .mg-explore-worlds .mg-level-lock {
+    visibility: hidden;
+}
+body #explore .mg-explore-worlds .mg-locked .mg-level-lock {
+    visibility: visible;
+}
+body #explore .mg-explore-worlds .mg-active .mg-motu {
+    display: block;
+}
+body #explore .mg-explore-worlds .mg-level-lock {
+    width: 50px;
+    margin-top: -30px;
+    margin-left: 45px;
+    display: block;
+}
+body #explore .mg-explore-worlds .mg-mango-wrapper img {
+    height: 50px;
+    position: absolute;
+    top: 6%;
+    margin-left: 21%;
+}
+body #explore .mg-explore-worlds .mg-mango-wrapper .mg-mango-score-level {
+    font-size: 11px;
+    color: #ffffff;
+    font-weight: 500;
+    height: 40px;
+    position: absolute;
+    top: 11%;
+    margin-left: 24%;
+}
+body #explore .mg-explore-worlds .mg-title-level {
+    background: url("../images/signboard_1.svg") no-repeat center center;
+    width: 140px;
+    height: 80px;
+    margin: 0 auto;
+    word-wrap: break-word;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    margin-left: -28%;
+}
+body #explore .mg-explore-worlds .mg-active .mg-title-level {
+    top: 52% !important;
+    left: 68% !important;
+ }
+body #explore .mg-explore-worlds .mg-title-level .mg-level-title {
+    color: #A115F5;
+    font-size: 14px;
+    font-weight: 300;
+    width: 75px;
+    display: block;
+    margin: 0 auto;
+    line-height: 17px;
+    margin-left: 25px;
+}
+
+body #explore .mg-explore-worlds .mg-locked .mg-title-level {
+    background: url("../images/signboard_locked_1.svg") no-repeat center center;
+}
+body #explore .mg-explore-worlds .mg-locked .mg-title-level .mg-level-title {
+    color: #ffffff;
+}
+
+body #explore .mg-explore-worlds .mg-stone-level {
+    width: 80%;
+    margin: 0 auto;
+    display: block;
+}
+
+body #explore .mg-explore-worlds .mg-active {
+    width: 33.33333% !important;
+    padding-top: 12% !important;
+}
+body #explore .mg-explore-worlds .mg-active .mg-mango-wrapper img {
+    top: 37% !important;
+    left: 50% !important;
+    margin-left: 12px !important;
+}
+body #explore .mg-explore-worlds .mg-active .mg-mango-wrapper .mg-mango-score-level {
+    top: 42% !important;
+    left: 50% !important;
+    margin-left: 18px !important;
+}
+body #explore .mg-explore-worlds .mg-active .mg-stone-level {
+    float: right;
+}
+body #explore .mg-explore-worlds .mg-active .mg-motu {
+    width: 150px;
+    position: absolute;
+    top: 19%;
+    left: 0;
+    margin-left: 180px;
+}
+
+body #explore .mg-mango-bucket-wrapper {
+    position: absolute;
+    right: 0;
+}
+
+body .mg-explore-footer {
+    bottom: -12%;
+}
+
+body #explore .mg-explore-worlds.mg-all-locked .col-md-2.mg-locked {
+    width: 19.7%;
+}
+body #explore .mg-explore-worlds .mg-level-2.col-md-2.mg-locked .mg-mango-wrapper img {
+    top: -10%;
+}
+body #explore .mg-explore-worlds .mg-level-2.col-md-2.mg-locked .mg-mango-wrapper .mg-mango-score-level {
+    top: 2%;
+}
+/* Level 2 normal state start */
+body #explore .mg-explore-worlds .mg-level-2 .mg-mango-wrapper img {
+    top: -18%;
+}
+body #explore .mg-explore-worlds .mg-level-2 .mg-title-level {
+    top: 17%;
+}
+body #explore .mg-explore-worlds .mg-level-2 .mg-mango-wrapper .mg-mango-score-level {
+    top: -5%;
+}
+/* Level 2 normal state end */
+
+/* Level 3 normal state start */
+body #explore .mg-explore-worlds .mg-level-3 .mg-mango-wrapper img {
+    top: -6%;
+    left: 6%;
+}
+body #explore .mg-explore-worlds .mg-level-3 .mg-title-level {
+    top: 20%;
+    left: 55%;
+}
+body #explore .mg-explore-worlds .mg-level-3 .mg-mango-wrapper .mg-mango-score-level {
+    left: 6%;
+    top: 3%;
+}
+/* Level 3 normal state end */
+
+/* Level 4 normal state start */
+body #explore .mg-explore-worlds .mg-level-4 .mg-mango-wrapper img {
+    top: 0%;
+    left: 50%;
+    margin: 0;
+}
+body #explore .mg-explore-worlds .mg-level-4 .mg-title-level {
+    top: 22%;
+    margin-left: -24%;
+}
+body #explore .mg-explore-worlds .mg-level-4 .mg-mango-wrapper .mg-mango-score-level {
+    top: 7%;
+    margin: 0;
+    left: 53%;
+}
+/* Level 4 normal state end */
+
+/* Active state for level 1 start */
+body #explore .mg-explore-worlds .mg-level-1.mg-active {
+    width: 21% !important;
+    padding-top: 3% !important;
+}
+body #explore .mg-explore-worlds .mg-level-1.mg-active .mg-motu {
+    top: 4% !important;
+    left: -40% !important;
+}
+body #explore .mg-explore-worlds .mg-level-1.mg-active .mg-mango-wrapper img {
+    top: 20% !important;
+    left: 20% !important;
+}
+body #explore .mg-explore-worlds .mg-level-1.mg-active .mg-mango-wrapper .mg-mango-score-level {
+    top: 26% !important;
+    left: 21% !important;
+}
+body #explore .mg-explore-worlds .mg-level-1.mg-active .mg-title-level {
+    top: 35% !important;
+    left: 70% !important;
+}
+/* Active state for level 1 end */
+
+/* Active state for level 3 start */
+body #explore .mg-explore-worlds .mg-level-3.mg-active {
+    width: 31% !important;
+    padding-top: 6% !important;
+}
+body #explore .mg-explore-worlds .mg-level-3.mg-active .mg-motu {
+    top: 5% !important;
+    left: 30% !important;
+    margin: 0 !important;
+}
+body #explore .mg-explore-worlds .mg-level-3.mg-active .mg-stone-level {
+    float: left !important;
+}
+body #explore .mg-explore-worlds .mg-level-3.mg-active .mg-mango-wrapper img {
+    top: 20% !important;
+    left: 20% !important;
+}
+body #explore .mg-explore-worlds .mg-level-3.mg-active .mg-mango-wrapper .mg-mango-score-level {
+    top: 24% !important;
+    left: 20% !important;
+}
+body #explore .mg-explore-worlds .mg-level-3.mg-active .mg-title-level {
+    top: 35% !important;
+    left: 60% !important;
+}
+/* Active state for level 3 end */
+
+/* Active state for level 4 start */
+body #explore .mg-explore-worlds .mg-level-4.mg-active {
+    width: 27% !important;
+    padding-top: 0% !important;
+}
+body #explore .mg-explore-worlds .mg-level-4.mg-active .mg-motu {
+    top: -10% !important;
+    left: 35% !important;
+    margin: 0 !important;
+}
+body #explore .mg-explore-worlds .mg-level-4.mg-active .mg-stone-level {
+    float: none !important;
+}
+body #explore .mg-explore-worlds .mg-level-4.mg-active .mg-mango-wrapper img {
+    top: 5% !important;
+    left: 30% !important;
+}
+body #explore .mg-explore-worlds .mg-level-4.mg-active .mg-mango-wrapper .mg-mango-score-level {
+    top: 9% !important;
+    left: 30% !important;
+}
+body #explore .mg-explore-worlds .mg-level-4.mg-active .mg-title-level {
+    top: 23% !important;
+    left: 66% !important;
+}
+/* Active state for level 4 end */
+
+/* Active state for level 5 start */
+body #explore .mg-explore-worlds .mg-level-5.mg-active {
+    padding-top: 8% !important;
+}
+body #explore .mg-explore-worlds .mg-level-5.mg-active .mg-motu {
+    left: 35% !important;
+    margin: 0 !important;
+    top: 22% !important;
+}
+body #explore .mg-explore-worlds .mg-level-5.mg-active .mg-stone-level {
+    float: none !important;
+}
+body #explore .mg-explore-worlds .mg-level-5.mg-active .mg-mango-wrapper img {
+    left: 35% !important;
+    top: 35% !important;
+}
+body #explore .mg-explore-worlds .mg-level-5.mg-active .mg-mango-wrapper .mg-mango-score-level {
+    left: 34.5% !important;
+    top: 41% !important;
+}
+/* Active state for level 5 end */
+
+
+/* Wordy Birdy Start */
+
+body .mg-icon-hint {
+    width: 22px;
+    background: #ffffff;
+    border-radius: 100%;
+    display: inline-flex;
+    position: absolute;
+    top: 30px;
+    right: 0px;
+}
+body .mg-shadow-text {
+    text-shadow: 0 2px 0px #ccc;
+}
+body #explore.wordybirdy .mg-wordy-birdy-wrapper .mg-sub-nav {
+    width: 600px;
+    height: 35px;
+    margin: 0 auto;
+}
+body #explore.wordybirdy .mg-wordy-birdy-wrapper .mg-sub-nav > ul,
+body #stories.mg-videos .mg-stories-videos-wrapper .mg-sub-nav > ul {
+    height: 23px;
+    border-radius: 11.2px;
+    background-color: #ffffff;
+    margin: 0 auto;
+}
+body #explore.wordybirdy .mg-wordy-birdy-wrapper .mg-sub-nav > ul > li,
+body #stories.mg-videos .mg-stories-videos-wrapper .mg-sub-nav > ul > li {
+    padding: 0 15px;
+    height: 23px;
+    vertical-align: super;
+}
+body #explore.wordybirdy .mg-wordy-birdy-wrapper .mg-sub-nav > ul > li.active,
+body #stories.mg-videos .mg-stories-videos-wrapper .mg-sub-nav > ul > li.active {
+    background: #9900ff;
+    height: 31px;
+    border-radius: 16.5px;
+    margin-top: -4px;
+    vertical-align: super;
+    padding-top: 7px;
+}
+body #explore.wordybirdy .mg-wordy-birdy-wrapper .mg-sub-nav > ul > li.active > a,
+body #explore.wordybirdy .mg-wordy-birdy-wrapper .mg-sub-nav > ul > li.active > a:hover,
+body #explore.wordybirdy .mg-wordy-birdy-wrapper .mg-sub-nav > ul > li.active > a:focus,
+body #explore.wordybirdy .mg-wordy-birdy-wrapper .mg-sub-nav > ul > li.active > a:active,
+body #stories.mg-videos .mg-stories-videos-wrapper .mg-sub-nav > ul > li.active > a,
+body #stories.mg-videos .mg-stories-videos-wrapper .mg-sub-nav > ul > li.active > a:hover,
+body #stories.mg-videos .mg-stories-videos-wrapper .mg-sub-nav > ul > li.active > a:focus,
+body #stories.mg-videos .mg-stories-videos-wrapper .mg-sub-nav > ul > li.active > a:active {
+    color: #ffffff;
+    font-size: 13px;
+    letter-spacing: 1px;
+}
+body #explore.wordybirdy .mg-wordy-birdy-wrapper .mg-sub-nav > ul > li > a,
+body #explore.wordybirdy .mg-wordy-birdy-wrapper .mg-sub-nav > ul > li > a:hover,
+body #explore.wordybirdy .mg-wordy-birdy-wrapper .mg-sub-nav > ul > li > a:focus,
+body #explore.wordybirdy .mg-wordy-birdy-wrapper .mg-sub-nav > ul > li > a:active,
+body #stories.mg-videos .mg-stories-videos-wrapper .mg-sub-nav > ul > li > a,
+body #stories.mg-videos .mg-stories-videos-wrapper .mg-sub-nav > ul > li > a:hover,
+body #stories.mg-videos .mg-stories-videos-wrapper .mg-sub-nav > ul > li > a:focus,
+body #stories.mg-videos .mg-stories-videos-wrapper .mg-sub-nav > ul > li > a:active {
+    font-family: 'Nunito', sans-serif;
+    font-size: 10px;
+    color: #9900ff;
+    vertical-align: top;
+    font-weight: 700;
+}
+#mg-wordy-birdy-carousel {
+    margin-top: 30px;
+    /* padding-bottom: 160px; */
+    padding-bottom: 55px;
+    min-height: 338px;
+}
+#mg-wordy-birdy-carousel .carousel-indicators {
+    bottom: 0;
+}
+#mg-wordy-birdy-carousel .carousel-indicators li {
+    border-color: #9900ff;
+}
+#mg-wordy-birdy-carousel .carousel-indicators .active {
+    margin: 1px;
+    width: 10px;
+    height: 10px;
+    background-color: #9900ff;
+}
+#mg-wordy-birdy-carousel .carousel-control {
+    background: none;
+    opacity: 1;
+    width: 24px;
+    height: 42px;
+    top: 28%;
+}
+#mg-wordy-birdy-carousel .carousel-control.left {
+    left: 12em;
+}
+#mg-wordy-birdy-carousel .carousel-control.right {
+    right: 12em;
+}
+#mg-wordy-birdy-carousel .carousel-control img {
+    width: 24px;
+}
+#mg-wordy-birdy-carousel .col-md-3 {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+#mg-wordy-birdy-carousel .mg-item {
+    width: 134px;
+    height: 134px;
+    border-radius: 10px;
+    padding-top: 12px;
+    position: relative;
+}
+#mg-wordy-birdy-carousel .mg-item .mg-mango-wrapper {
+    position: absolute;
+    right: 5px;
+    top: 10px;
+}
+#mg-wordy-birdy-carousel .mg-item .mg-mango-wrapper .mg-score {
+    font-size: 10px;
+    font-family: 'Nunito', sans-serif;
+    color: #ffffff;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -7px;
+    margin-left: -10px;
+}
+#mg-wordy-birdy-carousel .mg-item .mg-item-counter {
+    font-family: 'Nunito', sans-serif;
+    font-size: 10px;
+    font-weight: normal;
+    color: #ffffff;
+    padding-top: 1px;
+    position: absolute;
+    left: 7px;
+    top: 7px;
+}
+#mg-wordy-birdy-carousel .mg-item .mg-item-counter.mg-circle-white {
+    color: #ffe600;
+}
+#mg-wordy-birdy-carousel .mg-item.mg-item-gray .mg-item-counter.mg-circle-white {
+    color: #dedede;
+}
+#mg-wordy-birdy-carousel .mg-item .mg-item-desc {
+    width: 95px;
+    height: 21px;
+    background-color: #ffce00;
+    font-family: 'Nunito', sans-serif;
+    font-size: 10px;
+    font-weight: normal;
+    line-height: 2;
+    color: #ffffff;
+    margin: 9px auto 0;
+    border-radius: 10px;
+}
+#mg-wordy-birdy-carousel .mg-item-yellow {
+    background: #ffe600;
+    padding-top: 30px;
+}
+#mg-wordy-birdy-carousel .mg-item-white {
+    background: #ffffff;
+}
+#mg-wordy-birdy-carousel .mg-item-gray {
+    background: #dedede;
+    padding-top: 30px;
+}
+#mg-wordy-birdy-carousel .mg-item-overlay {
+    height: 28px;
+    width: 134px;
+    background-color: #9900ff;
+    border-radius: 0 0 8px 8px;
+    position: absolute;
+    bottom: 0;
+}
+#mg-wordy-birdy-carousel .mg-item-overlay .mg-stars-wrapper {
+    /*background: #AA15DD; */
+    width: 62px;
+    height: 21px;
+    margin: 4px auto 0;
+    display: inline-flex;
+}
+#mg-wordy-birdy-carousel .mg-item-overlay .mg-stars-wrapper img {
+    width: 16px;
+    margin: 0 auto;
+}
+#mg-wordy-birdy-carousel .mg-circle-xs {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+}
+#mg-wordy-birdy-carousel .mg-circle-sm {
+    width: 49px;
+    height: 49px;
+    margin: 0 auto;
+    border-radius: 50%;
+}
+#mg-wordy-birdy-carousel .mg-circle-sm .mg-img-mango {
+   width: 32px;
+    height: 46px;
+    vertical-align: -webkit-baseline-middle;
+    margin-left: 7px;
+}
+#mg-wordy-birdy-carousel .mg-img-sm {
+    width: 18px;
+    height: 18px;
+    vertical-align: bottom;
+}
+#mg-wordy-birdy-carousel .mg-img-md {
+    width: 31px;
+    height: 36px;
+    margin-top: 24px;
+}
+#mg-wordy-birdy-carousel .mg-circle-md {
+    width: 82px;
+    height: 81px;
+    margin: 0 auto;
+    border-radius: 50%;
+}
+#mg-wordy-birdy-carousel .mg-circle-white {
+    background-color: #ffffff;
+}
+#mg-wordy-birdy-carousel .mg-circle-yellow {
+    background-color: #ffe600;
+}
+#mg-wordy-birdy-carousel .mg-circle-violet {
+    background-color: #9900ff;
+}
+#mg-wordy-birdy-carousel .mg-circle-gray {
+    background-color: #BCBCBC;
+}
+
+.mg-modal {
+    top: 13%;
+}
+.mg-modal .modal-header {
+    border: none;
+}
+.mg-modal .modal-header .close {
+    width: 43px;
+    height: 43px;
+    opacity: 1;
+    margin-top: -35px;
+    margin-right: -35px;
+}
+.mg-modal .modal-content {
+    height: 450px;
+    border-radius: 12px;
+    background: #F1F1F1;
+}
+.mg-modal .modal-content .modal-body .mg-modal-title {
+    font-family: 'Nunito', sans-serif;
+    font-size: 40px;
+    font-weight: normal;
+    /*line-height: 0.52; */
+    color: #9900ff;
+}
+.mg-modal .modal-content .modal-body .mg-modal-desc {
+    font-family: 'Nunito', sans-serif;
+    font-size: 17px;
+    font-weight: 300;
+    line-height: 1.12;
+    color: #000000;
+    margin-bottom: 40px;
+}
+.mg-modal .modal-content .modal-body .mg-modal-short-desc {
+    font-weight: 500 !important;
+    margin-top: -40px;
+    color: #333333;
+}
+.mg-modal .modal-content .modal-body .mg-motu-lock-wrapper {
+    position: relative;
+}
+.mg-modal .modal-content .modal-body .mg-motu {
+    width: 88px;
+}
+.mg-modal .modal-content .modal-body .mg-motu-earn-mangoes .mg-motu {
+    width: 124px;
+}
+.mg-modal .modal-content .modal-body .mg-lock {
+    width: 133px;
+    height: 133px;
+    position: absolute;
+    left: 38.3%;
+    top: 85px;
+}
+.mg-modal .modal-content .modal-body .mg-unlock-btn {
+    font-family: 'Nunito', sans-serif;
+    width: 216px;
+    height: 35px;
+    background-color: #9900ff;
+    text-transform: uppercase;
+    font-size: 13px;
+    color: #ffffff;
+    display: block;
+    margin: 1.5em auto 0;
+    border-radius: 20px;
+    padding-top: 8px;
+}
+.mg-modal .modal-content .modal-body .mg-btn-back {
+    font-family: 'Nunito', sans-serif;
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 1.8;
+    letter-spacing: -0.3px;
+    color: #0066cc;
+}
+.mg-modal-bold .modal-content .modal-body .mg-modal-title,
+.mg-modal-bold .modal-content .modal-body .mg-modal-desc,
+.mg-modal-bold .modal-content .modal-body .mg-unlock-btn {
+    font-weight: bold;
+    text-transform: none;
+}
+
+body .mg-motu-shadow {
+    width: 135px;
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: -5px;
+    transform: scaleX(-1);
+}
+
+.modal-backdrop.in {
+    opacity: 0.8;
+}
+
+#mgWordyBirdyModal2 .modal-content .modal-body .mg-modal-desc {
+    margin-bottom: 65px;
+}
+#mgWordyBirdyModal2 .modal-content .modal-body .mg-motu {
+    width: 220px;
+}
+#mgWordyBirdyModal2 .modal-content .modal-body .mg-unlock-btn {
+    margin: 6.5em auto 0;
+}
+
+/* Wordy Birdy End */
+/* Explore End */
+
+/* Stories Start */
+body #stories.mg-videos [class*='col-md-'],
+body #stories-complete.story-complete [class*='col-md-'] {
+    padding: 5px;
+}
+body #stories .mg-stories-main-bg {
+    top: -7%;
+}
+body #stories .mg-h1-header,
+body #stories .mg-h2-header,
+body #profile .mg-h1-header {
+    color: #00dc1d;
+    font-size: 70px;
+    line-height: 71px;
+    letter-spacing: -3.5px;
+    margin-top: 68px;
+    margin-bottom: 55px;
+    text-shadow: 0 2px 0px #ccc;
+}
+body #stories .mg-h2-header {
+    font-size: 36px;
+    letter-spacing: 0;
+    font-weight: 600;
+}
+body #stories.mg-videos .mg-stories-videos-wrapper .mg-sub-nav {
+    width: 250px;
+    border: 1px solid #00dc1d;
+    border-radius: 15px;
+}
+body #stories.mg-videos .mg-stories-videos-wrapper .mg-sub-nav > ul > li.active {
+    background: #00dc1d;
+}
+body #stories.mg-videos .mg-stories-videos-wrapper .mg-sub-nav > ul > li > a,
+body #stories.mg-videos .mg-stories-videos-wrapper .mg-sub-nav > ul > li > a:hover,
+body #stories.mg-videos .mg-stories-videos-wrapper .mg-sub-nav > ul > li > a:focus,
+body #stories.mg-videos .mg-stories-videos-wrapper .mg-sub-nav > ul > li > a:active {
+    color: #00dc1d;
+}
+body #stories.mg-videos .mg-stories-videos-wrapper .mg-search {
+    border-left: 1px solid #CBCBCB;
+    padding-left: 15px;
+}
+body #stories.mg-videos .mg-stories-videos-wrapper .mg-search img {
+    width: 21px;
+    height: 21px;
+}
+body #stories.mg-videos .mg-stories-videos-wrapper .mg-stories-videos-desc {
+    font-size: 18px;
+    line-height: 32px;
+    font-family: 'Nunito', sans-serif;
+}
+body #stories.mg-videos .mg-stories-videos {
+    height: 655px;
+    overflow: hidden;
+}
+body #stories.mg-videos .mg-stories-videos .mg-stories-videos-wrapper-inner {
+    height: 58%;
+    overflow: hidden;
+    overflow-y: auto;
+}
+body #stories.mg-videos .mg-stories-videos .mg-video,
+body #stories-complete.story-complete .mg-other-stories .mg-video {
+    background: #ccc;
+    border-radius: 10px;
+    position: relative;
+}
+body #stories.mg-videos .mg-stories-videos .mg-video-lg,
+body #stories-complete.story-complete .mg-other-stories .mg-video-lg {
+    height: 355px;
+}
+body #stories.mg-videos .mg-stories-videos .mg-video-sm,
+body #stories-complete.story-complete .mg-other-stories .mg-video-sm {
+    height: 170px;
+}
+body #stories.mg-videos .mg-stories-videos .mg-video-bottom-overlay,
+body #stories-complete.story-complete .mg-other-stories .mg-video-bottom-overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    color: #333333;
+    font-size: 15px;
+    font-family: 'Nunito', sans-serif;
+    border-radius: 0 0 10px 10px;
+    background: #ffffff;
+    padding: 5px 10px;
+    height: 36px;
+    font-weight: 600;
+}
+body #stories.mg-videos .mg-search-box-wrapper {
+    position: relative;
+}
+body #stories.mg-videos .mg-search-box-wrapper input {
+    height: 40px;
+    border-radius: 25px;
+    box-shadow: 0 2px 10px #bcbcbc;
+    border: none;
+    padding: 10px 90px 10px 50px;
+    width: 100%;
+}
+body #stories.mg-videos .mg-search-box-wrapper .mg-search-hide {
+    position: absolute;
+    top: 6px;
+    left: 15px;
+}
+body #stories.mg-videos .mg-search-box-wrapper .mg-search-hide img,
+.mg-icon-back {
+    width: 30px;
+    /*height: 15px; */
+}
+body #stories.mg-videos .mg-search-box-wrapper .mg-search-btn {
+    font-family: 'Nunito', sans-serif;
+    color: #00dc1d;
+    font-size: 20px;
+    font-weight: 600;
+    position: absolute;
+    top: 7px;
+    right: 20px;
+}
+body #stories.mg-videos.mg-my-friends {
+    padding-bottom: 10%;
+}
+body #stories .mg-stories-btn-wrapper .mg-icon-narrate {
+    width: 20px;
+    height: 22px;
+    margin-right: 5px;
+}
+body #stories .mg-stories-btn-wrapper .mg-narrate {
+    font-size: 15px;
+    color: #0099ff;
+    line-height: 18px;
+}
+body #stories .mg-stories-btn-wrapper .mg-btn-back,
+body #stories .mg-stories-btn-wrapper .mg-btn-next,
+body #stories .mg-stories-btn-wrapper .mg-btn-back:hover,
+body #stories .mg-stories-btn-wrapper .mg-btn-next:hover {
+    width: 85px;
+    height: 27px;
+    border-radius: 20px;
+    color: #ffffff !important;
+    background: #CDCDCD;
+    font-size: 15px;
+    display: inline-block;
+    padding-top: 1px;
+}
+body #stories .mg-stories-btn-wrapper .mg-btn-next,
+body #stories .mg-stories-btn-wrapper .mg-btn-next:hover {
+    background: #009CF8;
+}
+body #stories.mg-videos.mg-my-friends.mg-story {
+    padding-bottom: 3.5em;
+}
+
+/* Story Complete Start */
+body #stories-complete {
+    padding-top: 48px;
+    background-image: linear-gradient(to left, #60bbf9, #64d6fc);
+}
+body #stories-complete .mg-quest-help-text {
+    margin-bottom: 88px;
+}
+body #stories-complete .mg-btn-white,
+body #stories-complete .mg-btn-danger,
+body #profile .mg-btn-danger {
+    width: 280px;
+    height: 36px;
+    text-transform: uppercase;
+    border: 1px solid #ff0066;
+    background: #ffffff;
+    color: #ff0066;
+    font-size: 13px;
+    font-weight: normal;
+    line-height: 2.15;
+    display: inline-block;
+    padding-top: 5px;
+}
+body #stories-complete .mg-btn-danger,
+body #profile .mg-btn-danger {
+    background: #ff0066;
+    color: #ffffff;
+}
+body #stories-complete .mg-other-stories {
+    margin-top: 78px;
+}
+body #stories-complete .mg-other-stories .mg-other-stories-title {
+    font-size: 18px;
+    font-weight: normal;
+    color: #ffffff;
+    margin-bottom: 8px;
+}
+body #stories-complete .mg-other-stories .mg-start {
+    margin-top: 7%;
+    margin-bottom: 13%;
+}
+body #stories-complete .mg-other-stories .mg-circle-white {
+    /*background: url("../images/match_column_circle_1.svg") no-repeat center center; */
+    width: 140px;
+    height: 140px;
+    margin: 0 auto 24px;
+
+    overflow: hidden;
+    border-radius: 50%;
+    border: 7px solid white;
+    background-color: white;
+}
+body #stories-complete .mg-other-stories .mg-btn-white {
+    width: 124px;
+    height: 54px;
+    font-size: 22px;
+    font-weight: normal;
+    color: #0099ff;
+    border: none;
+    text-transform: none;
+}
+body #stories-complete .mg-other-stories .mg-sun {
+    width: 100%;
+}
+body #stories-complete .mg-other-stories .mg-clap {
+    width: 100%;
+}
+body #stories-complete .mg-other-stories .mg-tree {
+    width: 100%;
+}
+body #stories-complete .mg-other-stories .mg-apple {
+    width: 100%;
+}
+body #stories-complete.my-friends .mg-other-stories {
+    margin-top: 0px;
+}
+body #stories-complete.my-friends .mg-other-stories .mg-start {
+    margin-top: 22%;
+}
+body #stories-complete.my-friends .mg-quest-help-text {
+    margin-bottom: 108px;
+}
+/* Story Complete End */
+/* Stories End */
+
+/* Profile Start */
+body #profile {
+    background-image: linear-gradient(to bottom, #fa953c, #ffec40);
+}
+body #profile .mg-days-left {
+    color: #ffffff;
+    font-size: 15px;
+    line-height: 18px;
+    letter-spacing: -0.3px;
+    padding: 10px;
+    position: absolute;
+}
+body #profile .mg-h1-header {
+    color: #ffffff;
+    text-shadow: 0 2px 0px #6e6e6e;
+    margin-bottom: 0px;
+}
+body #profile .mg-profile-main-bg {
+    top: -2%;
+}
+body #profile .mg-quest-help-text {
+    color: rgba(51, 51, 51, 0.7);
+    margin-top: 10px;
+}
+body #profile .mg-profile-performance {
+    margin-top: 105px;
+    /* margin-bottom: 12%; */
+    margin-bottom: 0;
+}
+body #profile .mg-profile-performance [class*='col-md-'] {
+    padding: 0 10px;
+}
+body #profile .mg-profile-performance .mg-square-white {
+    width: 100%;
+    /* height: 400px; */
+    height: 320px;
+    border-radius: 12px;
+    background-color: #ffffff;
+    position: relative;
+    box-shadow: 2px 2px 10px #aaa;
+    margin: 0 auto;
+}
+body #profile .mg-profile-performance .mg-square-white .mg-top-overlay {
+    width: 100%;
+    height: 77px;
+    background-color: #f2f2f2;
+    border-radius: 12px 12px 0 0;
+    position: absolute;
+    top: 0;
+}
+body #profile .mg-profile-performance .mg-square-white .mg-overlay-yellow {
+    background: #ffe600;
+}
+body #profile .mg-profile-performance .mg-square-white .mg-word-learned-motu {
+    width: 116px;
+    height: 178px;
+    position: absolute;
+    right: -28%;
+    top: -19%;
+    transform: rotate(65deg);
+}
+body #profile .mg-profile-performance .mg-square-white .mg-activity {
+    width: 96px;
+    height: 102px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    top: -15%;
+}
+body #profile .mg-profile-performance .mg-square-white .mg-activity-title {
+    font-family: Nunito;
+    font-size: 14px;
+    font-weight: bold;
+    letter-spacing: -0.4px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 15%;
+}
+body #profile .mg-profile-performance .mg-square-white .mg-report-card {
+    color: #57a345;
+}
+body #profile .mg-profile-performance .mg-square-white .mg-recent-activity {
+    color: #ed4049;
+}
+body #profile .mg-profile-performance .mg-square-white .mg-words-learned {
+    color: #179bd7;
+}
+body #profile .mg-profile-performance .mg-square-white .mg-activity-content-wrapper {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    overflow-x: hidden;
+    overflow-y: auto;
+    /* height: 310px; */
+    height: 230px;
+    top: 75px;
+    position: relative;
+}
+body #profile .mg-profile-performance .mg-square-white .mg-activity-content-wrapper .mg-report-percentage {
+    font-size: 32px;
+    letter-spacing: -1.6px;
+    color: #666666;
+}
+body #profile .mg-profile-performance .mg-square-white .mg-activity-content-wrapper .mg-report-percentage .mg-main-percent {
+    font-weight: bold;
+}
+body #profile .mg-profile-performance .mg-square-white .mg-activity-content-wrapper .mg-report-percentage sup {
+    font-size: 14px;
+    top: -1em;
+}
+body #profile .mg-profile-performance .mg-square-white .mg-activity-content-wrapper .mg-total-outof {
+    font-size: 10px;
+    font-weight: 300;
+    letter-spacing: normal;
+    color: #666666;
+    margin-top: -10px;
+}
+body #profile .mg-profile-performance .mg-square-white .mg-activity-content-wrapper .mg-report-item,
+body #profile .mg-profile-performance .mg-user-profile-info-wrapper .mg-square-white .mg-report-item {
+    display: inline-block;
+    width: 100%;
+    border-top: 1px dashed #ccc;
+    padding-top: 8px;
+    margin-top: -10px;
+}
+body #profile .mg-profile-performance .mg-square-white .mg-activity-content-wrapper .mg-report-item [class*='col-md-'] {
+    padding: 0;
+}
+body #profile .mg-profile-performance .mg-square-white .mg-activity-content-wrapper .mg-more-report {
+    font-size: 10px;
+    font-weight: 300;
+    letter-spacing: -0.3px;
+    color: #0066cc;
+    position: absolute;
+    bottom: 0;
+    background: white;
+    width: 90%;
+    margin: 0 auto;
+    left: auto;
+    right: auto;
+    display: block;
+    height: 30px;
+    padding-top: 5px;
+}
+body #profile .mg-profile-performance .mg-square-white .mg-activity-content-wrapper .mg-report-item .small,
+body #profile .mg-profile-performance .mg-square-white .mg-activity-content-wrapper .mg-report-item .mg-item-outof,
+body #profile .mg-profile-performance .mg-user-profile-info-wrapper .mg-square-white .mg-report-item .small {
+    font-size: 12px;
+    font-weight: 300;
+    line-height: 1.5;
+    letter-spacing: -0.6px;
+    color: #666666;
+}
+body #profile .mg-profile-performance .mg-square-white .mg-activity-content-wrapper .mg-report-item .mg-item-outof {
+    font-weight: bold;
+    display: block;
+}
+body #profile .mg-profile-performance .mg-square-white .mg-activity-content-wrapper .mg-report-stars {
+    margin-bottom: 25px;
+}
+body #profile .mg-profile-performance .mg-square-white .mg-activity-content-wrapper .mg-report-stars img {
+    width: 30px;
+}
+body #profile .mg-profile-performance .mg-square-white .mg-activity-content-wrapper .mg-report-item .mg-item-stars {
+    margin-top: -13px;
+}
+body #profile .mg-profile-performance .mg-square-white .mg-activity-content-wrapper .mg-report-item .mg-item-stars img {
+    width: 12px;
+}
+body #profile .mg-profile-performance .mg-square-white .mg-activity-content-wrapper .mg-btn-info {
+    background-color: #179bd7;
+    font-size: 12px;
+    font-weight: bold;
+    letter-spacing: -0.3px;
+    color: #ffffff;
+    padding: 7px 20px;
+    margin-right: 5px;
+}
+body #profile .mg-profile-performance .mg-square-white .mg-activity-content-wrapper .mg-activity-item {
+    border-bottom: 1px dashed #ccc;
+    padding-bottom: 10px;
+}
+body #profile .mg-profile-performance .mg-square-white .mg-activity-content-wrapper .mg-activity-item:last-child {
+    border: none;
+}
+body #profile .mg-profile-performance .mg-square-white .mg-activity-content-wrapper .mg-activity-date,
+body #profile .mg-profile-performance .mg-square-white .mg-activity-content-wrapper .mg-activity-item .mg-activity-item-story-status {
+    font-size: 10px;
+    font-weight: 300;
+    letter-spacing: normal;
+    color: #666666;
+    display: block;
+}
+body #profile .mg-profile-performance .mg-square-white .mg-activity-content-wrapper .mg-activity-item .mg-activity-item-story-status {
+    margin-left: 28px;
+    margin-top: -13px;
+}
+body #profile .mg-profile-performance .mg-square-white .mg-activity-content-wrapper .mg-activity-item .mg-activity-item-icon {
+    width: 23px;
+    height: 19px;
+    vertical-align: -webkit-baseline-middle;
+}
+body #profile .mg-profile-performance .mg-square-white .mg-activity-content-wrapper .mg-activity-item .mg-activity-item-desc,
+body #profile .mg-profile-performance .mg-user-profile-info-wrapper .mg-square-white .mg-user-data {
+    font-size: 12px;
+    font-weight: bold;
+    letter-spacing: -0.3px;
+    color: #666666;
+}
+
+/* Profile Edit information Start */
+body #profile .mg-dot {
+    width: 22px;
+    height: 22px;
+    border-radius: 100%;
+    background: #ffffff;
+    position: absolute;
+    top: 14px;
+    z-index: 999;
+    border: 4px solid #D0B63A;
+}
+body #profile .mg-dot.mg-dot-left {
+    left: 14px;
+}
+body #profile .mg-dot.mg-dot-right {
+    right: 14px;
+}
+body #profile .mg-profile-performance .mg-user-profile-info-wrapper .mg-square-white {
+    width: 65%;
+}
+body #profile .mg-user-profile-info-wrapper .mg-id-card {
+    color: #666666;
+}
+body #profile .clip-svg {
+    width: 0;
+    height: 0;
+}
+body #profile .polygon-each-img-wrap {
+    position: absolute;
+    left: 50%;
+    display: inline-flex;
+    margin-left: -8%;
+    top: -60px;
+    background: #ffffff;
+    border: 1px solid #fff;
+    width: 92px;
+    height: 100px;
+    -webkit-clip-path: url("#polygon-clip-hexagon");
+    clip-path: url("#polygon-clip-hexagon");
+}
+body #profile .polygon-clip-hexagon {
+    -webkit-clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+    clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+    -webkit-clip-path: url("#polygon-clip-hexagon");
+    clip-path: url("#polygon-clip-hexagon");
+    width: 90px;
+    height: 98px;
+}
+
+body #profile .mg-user-profile-info-wrapper .mg-user-name {
+    font-size: 40px;
+    font-weight: normal;
+    line-height: normal;
+    letter-spacing: -2px;
+    color: #ff9900;
+    margin: 61px 0 12px 0;
+}
+body #profile .mg-profile-performance .mg-user-profile-info-wrapper .mg-square-white .mg-report-item .small {
+    margin-bottom: -12px;
+}
+body #profile .mg-user-profile-info-wrapper .mg-save {
+    position: absolute;
+    left: 50%;
+    margin-left: -15%;
+    bottom: -4%;
+}
+body #profile .mg-user-profile-info-wrapper .mg-profile-edit-motu {
+    height: 110px;
+    position: absolute;
+    right: -25px;
+    bottom: -65px;
+}
+
+body .mg-refer-media {
+    margin-top: 65px;
+    margin-bottom: 40px;
+}
+body .mg-refer-media .mg-refer-media-item {
+    width: 85px;
+    display: inline-block;
+    margin-right: 5px;
+}
+body .mg-refer-media .mg-refer-media-item:last-child {
+    margin-right: 0;
+}
+body #mgLearnEngModal .language_selection_div {
+    left: -1px;
+    top: -31px;
+    position: absolute;
+}
+body #mgLearnEngModal .modal-header .close {
+    position: absolute;
+    right: 10px;
+    z-index: 99;
+}
+body #mgLearnEngModal .language_selection_div button.list-group-item {
+    color: #9900ff;
+}
+body #mgLearnEngModal .language_selection_div button.list-group-item.active,
+body #mgLearnEngModal .language_selection_div button.list-group-item.active:hover,
+body #mgLearnEngModal .language_selection_div button.list-group-item.active:focus,
+body #mgLearnEngModal .language_selection_div button.list-group-item.active:active,
+body #mgLearnEngModal .language_selection_div button.list-group-item:hover,
+body #mgLearnEngModal .language_selection_div button.list-group-item:focus,
+body #mgLearnEngModal .language_selection_div button.list-group-item:active {
+    background-color: #9900ff;
+    color: #ffffff;
+}
+
+/* Profile Edit information End*/
+/* Profile End */
+
+@media screen and (max-width: 768px) {
+    .footer {
+        position: relative;
+    }
+    .copyright {
+        font-size: 10px;
+        text-align: center;
+        padding-left: 0px;
+        padding-bottom: 0px;
+    }
+    .social-account {
+        padding-left: 0px;
+        text-align: center;
+    }
+    .footer-links {
+        padding-right: 0px;
+        padding-bottom: 0px;
+        text-align: center;
+    }
+    .footer-links a {
+        text-align: center;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .footer {
+        position: relative;
+    }
+    .copyright {
+        font-size: 10px;
+        text-align: center;
+        padding-left: 0px;
+        padding-bottom: 0px;
+    }
+    .social-account {
+        padding-left: 0px;
+        text-align: center;
+    }
+    .footer-links {
+        padding-right: 0px;
+        padding-bottom: 0px;
+        text-align: center;
+    }
+    .footer-links a {
+        text-align: center;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+}
+
+
+.image_grass_1 {
+    width: 65px;
+    right: 19%;
+    top: 1%;
+    position: absolute;
+}
+
+.image_tree_1 {
+    width: 275px;
+    right: 5.5%;
+    top: -94%;
+    position: absolute;
+}
+
+.motu_1_with_shadow_1 {
+    width: 105px;
+    right: 45.2%;
+    top: -2%;
+    position: absolute;
+}
+
+.sparrow_left_2 {
+    width: 28px;
+    left: 22%;
+    top: -31%;
+    position: absolute;
+}
+
+.cloud_1 {
+    width: 50px;
+    left: 8.7%;
+    top: -62%;
+    position: absolute;
+}
+
+.cloud_1_1 {
+    width: 80px;
+    left: 20%;
+    top: -110%;
+    position: absolute;
+}
+
+.sparrow_right_1 {
+    width: 28px;
+    right: 18%;
+    top: -115%;
+    position: absolute;
+}
+
+.cloud_1_2 {
+    width: 55px;
+    right: 14%;
+    top: -150%;
+    position: absolute;
+}
+
+.sun_1 {
+    width: 100px;
+    left: 8%;
+    top: -130%;
+    position: absolute;
+}
+
+.language_selection_div {
+    width: 500px;
+    border-radius: 7px;
+    left: 32%;
+    top: 20px;
+    position: absolute;
+}
+
+.list-group {
+    border-radius: 7px;
+    box-shadow: 2px 2px #cccccc;
+}
+button.list-group-item {
+    height: 50px;
+    font-size: 13px;
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+    color: #fda32c;
+    font-weight: 500;
+    border: none;
+}
+
+body button.list-group-item.active, body button.list-group-item.active:hover, body button.list-group-item.active:focus, body button.list-group-item.active:active, body button.list-group-item:hover, body button.list-group-item:focus, body button.list-group-item:active {
+    background-color: #fda32c;
+    border-color: #fda32c;
+    color: #ffffff;
+    font-weight: 300;
+    outline: none;
+}
+
+body .mg-btn-rounded {
+    border-radius: 17.5px !important;
+}
+
+body .mg-submit-btn {
+    right: 40.5%;
+    top: 36%;
+    position: absolute;
+    width: 216px;
+    height: 35px;
+    border-radius: 17.5px;
+    background-color: #ffce00;
+    text-align: center;
+    line-height: 32px;
+    text-decoration: none !important;
+    opacity: 0.8;
+    display: block;
+    font-family: 'Nunito', sans-serif;
+}
+
+body .mg-submit-btn:hover, body .mg-submit-btn:active, body .mg-submit-btn:focus {
+    opacity: 1;
+}
+
+body .mg-submit-btn span {
+    color: #ffffff !important;
+    font-family: 'Nunito', sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+.mg-submit-btn-new {
+    width: 216px;
+    height: 35px;
+    border-radius: 17.5px;
+    background-color: #ffce00;
+    font-size: 13px;
+	font-family: Nunito, sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+    border: 0px;
+    color: white;
+}
+
+/* Daily Quest Start */
+body #dailyquest {
+    /* background: url("../images/dailyquest-main-bg.png") no-repeat center center; */
+    background-image: linear-gradient(to left, #60bbf9, #64d6fc);
+    padding-top: 45px;
+}
+body #dailyquest .dailyquest-footer-hills img {
+    margin-left: -125px;
+    margin-top: -215px;
+}
+body #dailyquest .mg-btn-primary {
+    width: 156px;
+    height: 36px;
+    font-family: Nunito;
+    font-size: 19px;
+    font-weight: normal;
+    line-height: 1.9em;
+}
+body .mg-btn-sm {
+    width: 64px;
+    height: 20px;
+    font-size: 10px;
+    font-weight: normal;
+    color: #ffffff;
+    line-height: 2em;
+}
+body .mg-h1-header {
+    font-family: 'Nunito', sans-serif;
+    font-size: 70px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.01;
+    letter-spacing: -2.5px;
+    color: #ffffff;
+    margin-bottom: 17px;
+    text-shadow: 2px 2px #BDBDBD;
+}
+body .mg-quest-help-text {
+    font-family: 'Nunito', sans-serif;
+    font-size: 22px;
+    font-style: normal;
+    font-stretch: normal;
+    font-weight: normal;
+    letter-spacing: normal;
+    line-height: 1;
+    color: #6E6E6E;
+    margin-bottom: 22px;
+    font-weight: 600;
+}
+
+body .mg-mango-bucket {
+    width: 72px;
+    position: absolute;
+    bottom: -21px;
+    right: 15px;
+}
+body .mg-mango-bucket-score {
+    position: absolute;
+    bottom: -15px;
+    right: 33px;
+    font-size: 11px;
+    color: #ffffff;
+    font-weight: 800;
+}
+
+/* Daily Quest Start */
+body #dailyquest,
+body #explore {
+    background-image: linear-gradient(to left, #60bbf9, #64d6fc);
+    padding-top: 45px;
+}
+body #dailyquest .dailyquest-footer-hills img {
+    margin-left: -125px;
+    margin-top: -215px;
+}
+body #dailyquest .mg-sun-cloud {
+    margin-left: -20%;
+    width: 180px;
+}
+body #dailyquest .mg-helicopter {
+    width: 48px;
+}
+body #dailyquest .mguru-cloud {
+    width: 73px;
+    margin-top: 105px;
+    float: left;
+}
+body #dailyquest .mg-quest-board {
+    margin-top: 40px;
+    position: relative;
+}
+body #dailyquest .mg-quest-board .mg-board-wrapper-1 .mg-board-1 {
+    width: 256px;
+}
+body #dailyquest .mg-quest-board .mg-board-wrapper-2 .mg-board-2 {
+    width: 276px;
+    margin-top: 5px;
+}
+body #dailyquest .mg-quest-board .mg-board-wrapper-3 .mg-board-3 {
+    width: 227px;
+    margin-top: 30px;
+}
+body #dailyquest .mg-quest-board .mg-grass-1 {
+    width: 61px;
+    position: absolute;
+    bottom: 21px;
+}
+body #dailyquest .mg-quest-board .mg-grass-2 {
+    width: 44px;
+    position: absolute;
+    bottom: 21px;
+    margin-left: -35px;
+}
+body #dailyquest .mg-quest-board .mg-board-icon {
+    position: absolute;
+    top: 13.5%;
+    left: 0;
+    margin-left: 43%;
+}
+body #dailyquest .mg-quest-board .mg-icon-word {
+    width: 61px;
+    top: 30%;
+}
+body #dailyquest .mg-quest-board .mg-icon-story {
+    width: 58px;
+}
+body #dailyquest .mg-quest-board .mg-icon-sound {
+    width: 46px;
+    top: 25%;
+}
+body #dailyquest .mg-quest-board .mg-mango-1 {
+    width: 40px;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    margin-left: -35px;
+}
+body #dailyquest .mg-quest-board .mg-mango-score-1 {
+    position: absolute;
+    bottom: 13px;
+    left: 50%;
+    margin-left: -30px;
+    color: #ffffff;
+    font-weight: 800;
+    font-size: 11px;
+}
+body #dailyquest .mg-quest-board .mg-board-wrapper-1 .mg-mango-score-1 {
+    margin-left: 10px;
+    bottom: 38px;
+}
+body #dailyquest .mg-quest-board .mg-board-wrapper-3 .mg-mango-score-1 {
+    bottom: 36px;
+    margin-left: -50px;
+}
+body #dailyquest .mg-quest-board .mg-board-wrapper-1 .mg-mango-1 {
+    margin-left: 5px;
+    bottom: 25px;
+}
+body #dailyquest .mg-quest-board .mg-board-wrapper-3 .mg-mango-1 {
+    bottom: 23px;
+    margin-left: -55px;
+}
+body #dailyquest .mg-quest-board .mg-mango-bucket {
+    width: 72px;
+    position: absolute;
+    bottom: -21px;
+    right: 15px;
+}
+body #dailyquest .mg-quest-board .mg-mango-bucket-score {
+    position: absolute;
+    bottom: -15px;
+    right: 33px;
+    font-size: 11px;
+    color: #ffffff;
+    font-weight: 800;
+}
+body #dailyquest .mg-quest-board .mg-motu {
+    width: 70px;
+    position: absolute;
+    bottom: -18px;
+    margin-left: 30px;
+    z-index: 1;
+}
+body #dailyquest .mg-quest-board .mg-house {
+    position: absolute;
+    bottom: -65px;
+    height: 92px;
+    left: -57px;
+}
+body .mg-footer img {
+    margin-top: -237px;
+    height: 200px;
+}
+/* Daily Quest End */
+
+/* Sign up page  */
+.hey-there {
+    margin-top: 10px;
+    font-family: Nunito;
+    font-size: 84px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.01;
+    letter-spacing: -2.5px;
+    text-align: center;
+    color: #0099FF;
+    text-shadow: 2px 2px #BDBDBD;
+}
+
+.sign-up-text {
+    margin-top: -20px;
+    font-family: Nunito;
+    font-size: 22px;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1;
+    letter-spacing: normal;
+    text-align: center;
+    color: #6E6E6E;
+    font-weight: 600;
+}
+
+.login-white-box {
+    margin-top: 130px;
+    font-family: Nunito;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1;
+    letter-spacing: normal;
+    text-align: center;
+    color: #6E6E6E;
+    box-shadow: 2px 2px #cccccc;
+    background-color: #ffffff;
+    z-index: 100;
+    width: 450px;
+    padding-bottom: 30px;
+    border-radius: 7px;
+    left: 34%;
+    top: 20px;
+    position: absolute;
+}
+
+.signup-field {
+    margin-top: 30px;
+}
+
+.field label {
+    font-family: Nunito;
+    font-size: 14px;
+    font-weight: bold;
+    margin-top: 15px;
+}
+
+.field input {
+    border: 0px;
+    border-bottom: 2px solid #FFCE00;
+    font-family: Nunito;
+    font-size: 14px;
+    font-weight: bold;
+    box-shadow: none;
+    width: 90%;
+    border-radius: 0px;
+
+}
+
+.field select {
+    border: 0px;
+    border-bottom: 2px solid #FFCE00;
+    font-family: Nunito;
+    font-size: 14px;
+    font-weight: bold;
+    box-shadow: none;
+    width: 90%;
+    border-radius: 0px;
+
+}
+
+.motu_2_with_shadow_1 {
+    width: 135px;
+    right: 45.2%;
+    top: 10%;
+    position: absolute;
+    z-index: 150;
+}
+
+.already-user-text {
+    margin-top: 10px;
+    font-family: Nunito;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    font-size: 12px;
+    line-height: 1;
+    letter-spacing: normal;
+    text-align: center;
+    color: #6E6E6E;
+    left: 34%;
+    top: 60.5%;
+    position: absolute;
+}
+
+.already-user-text a {
+    color: #0066cc;
+}
+
+.continue-anyway-text {
+    margin-top: 10px;
+    font-family: Nunito;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    font-size: 12px;
+    line-height: 1;
+    letter-spacing: normal;
+    text-align: center;
+    color: #6E6E6E;
+    left: 59.5%;
+    top: 60.5%;
+    position: absolute;
+}
+
+.continue-anyway-text a {
+    color: #0066cc;
+}
+
+.rainbow_1 {
+    left: 0%;
+    top: -100%;
+    height: 130%;
+    position: absolute;
+    z-index: -1;
+}
+
+.too-easy {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.dq-activity-lable {
+    width: 150px;
+    background-color: #FF0066;
+    color: #ffffff;
+    font-style: normal;
+    font-stretch: normal;
+    font-family: "Nunito";
+    font-size: 22px;
+    line-height: 1;
+    letter-spacing: normal;
+    text-align: center;
+    font-weight: 600;
+
+    padding: 5px 0px;
+    border-radius: 17.5px !important;
+}
+
+.dq-al-1 {
+    position: absolute;
+    top: 64%;
+    left: 31%;
+}
+
+.dq-al-2 {
+    position: absolute;
+    top: 54%;
+    left: 31%;
+}
+
+.dq-al-3 {
+    position: absolute;
+    top: 64%;
+    left: 31%;
+}
+
+.dq-activity-name {
+    color: #0099ff;
+    font-family: Nunito;
+    font-size: 18px;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1;
+    letter-spacing: normal;
+    text-align: center;
+    font-weight: bold;
+    text-align: center;
+    width: 30%;
+}
+
+.dq-an-1 {
+    position: absolute;
+    top: 109%;
+    left: 34%;
+}
+
+.dq-an-2 {
+    position: absolute;
+    top: 109%;
+    left: 34%;
+}
+
+.dq-an-3 {
+    position: absolute;
+    top: 109%;
+    left: 34%;
+}
+
+.stone_creepers_1{
+    float: left;
+    z-index: 0;
+    position : absolute;
+    top: 36%;
+}

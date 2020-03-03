@@ -1,0 +1,301 @@
+{
+ "fragments": [ 
+  {
+   "begin": "4.800", 
+   "end": "5.240", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "Dhhum,"
+   ]
+  }, 
+  {
+   "begin": "5.240", 
+   "end": "7.280", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "dhhum,"
+   ]
+  }, 
+  {
+   "begin": "7.280", 
+   "end": "7.680", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "DHHUM,"
+   ]
+  }, 
+  {
+   "begin": "7.680", 
+   "end": "7.880", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "he"
+   ]
+  }, 
+  {
+   "begin": "7.880", 
+   "end": "7.880", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "pounded"
+   ]
+  }, 
+  {
+   "begin": "7.880", 
+   "end": "7.880", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "on"
+   ]
+  }, 
+  {
+   "begin": "7.880", 
+   "end": "8.440", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "8.440", 
+   "end": "8.800", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "letters."
+   ]
+  }, 
+  {
+   "begin": "8.800", 
+   "end": "9.120", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "When"
+   ]
+  }, 
+  {
+   "begin": "9.120", 
+   "end": "9.200", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "he"
+   ]
+  }, 
+  {
+   "begin": "9.200", 
+   "end": "10.480", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "saw"
+   ]
+  }, 
+  {
+   "begin": "10.480", 
+   "end": "11.200", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "Ritu's"
+   ]
+  }, 
+  {
+   "begin": "11.200", 
+   "end": "11.480", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "letter,"
+   ]
+  }, 
+  {
+   "begin": "11.480", 
+   "end": "11.600", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "he"
+   ]
+  }, 
+  {
+   "begin": "11.600", 
+   "end": "12.960", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "stopped."
+   ]
+  }, 
+  {
+   "begin": "12.960", 
+   "end": "13.000", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "Then"
+   ]
+  }, 
+  {
+   "begin": "13.000", 
+   "end": "13.160", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "he"
+   ]
+  }, 
+  {
+   "begin": "13.160", 
+   "end": "13.520", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "smiled."
+   ]
+  }, 
+  {
+   "begin": "13.520", 
+   "end": "13.560", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "He"
+   ]
+  }, 
+  {
+   "begin": "13.560", 
+   "end": "13.600", 
+   "id": "f000027", 
+   "language": "en", 
+   "lines": [
+    "picked"
+   ]
+  }, 
+  {
+   "begin": "13.600", 
+   "end": "13.720", 
+   "id": "f000028", 
+   "language": "en", 
+   "lines": [
+    "out"
+   ]
+  }, 
+  {
+   "begin": "13.720", 
+   "end": "13.720", 
+   "id": "f000029", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "13.720", 
+   "end": "14.240", 
+   "id": "f000030", 
+   "language": "en", 
+   "lines": [
+    "pencil"
+   ]
+  }, 
+  {
+   "begin": "14.240", 
+   "end": "14.520", 
+   "id": "f000031", 
+   "language": "en", 
+   "lines": [
+    "from"
+   ]
+  }, 
+  {
+   "begin": "14.520", 
+   "end": "15.040", 
+   "id": "f000032", 
+   "language": "en", 
+   "lines": [
+    "behind"
+   ]
+  }, 
+  {
+   "begin": "15.040", 
+   "end": "15.240", 
+   "id": "f000033", 
+   "language": "en", 
+   "lines": [
+    "his"
+   ]
+  }, 
+  {
+   "begin": "15.240", 
+   "end": "16.160", 
+   "id": "f000034", 
+   "language": "en", 
+   "lines": [
+    "ear"
+   ]
+  }, 
+  {
+   "begin": "16.160", 
+   "end": "16.440", 
+   "id": "f000035", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "16.440", 
+   "end": "16.680", 
+   "id": "f000036", 
+   "language": "en", 
+   "lines": [
+    "wrote"
+   ]
+  }, 
+  {
+   "begin": "16.680", 
+   "end": "17.320", 
+   "id": "f000037", 
+   "language": "en", 
+   "lines": [
+    "something"
+   ]
+  }, 
+  {
+   "begin": "17.320", 
+   "end": "17.560", 
+   "id": "f000038", 
+   "language": "en", 
+   "lines": [
+    "on"
+   ]
+  }, 
+  {
+   "begin": "17.560", 
+   "end": "17.600", 
+   "id": "f000039", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "17.600", 
+   "end": "18.600", 
+   "id": "f000040", 
+   "language": "en", 
+   "lines": [
+    "card."
+   ]
+  }
+ ]
+}

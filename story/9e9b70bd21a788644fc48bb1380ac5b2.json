@@ -1,0 +1,175 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "1.080", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Saturday"
+   ]
+  }, 
+  {
+   "begin": "1.080", 
+   "end": "1.600", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "began"
+   ]
+  }, 
+  {
+   "begin": "1.600", 
+   "end": "2.040", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "with"
+   ]
+  }, 
+  {
+   "begin": "2.040", 
+   "end": "2.160", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "2.160", 
+   "end": "3.320", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "bang!"
+   ]
+  }, 
+  {
+   "begin": "3.320", 
+   "end": "3.920", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "Badaboom!"
+   ]
+  }, 
+  {
+   "begin": "3.920", 
+   "end": "4.240", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "\"Ma,"
+   ]
+  }, 
+  {
+   "begin": "4.240", 
+   "end": "4.960", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "is"
+   ]
+  }, 
+  {
+   "begin": "4.960", 
+   "end": "5.600", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "that"
+   ]
+  }, 
+  {
+   "begin": "5.600", 
+   "end": "6.120", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "thunder"
+   ]
+  }, 
+  {
+   "begin": "6.120", 
+   "end": "6.320", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "6.320", 
+   "end": "7.160", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "hear?"
+   ]
+  }, 
+  {
+   "begin": "7.160", 
+   "end": "7.840", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "Will"
+   ]
+  }, 
+  {
+   "begin": "7.840", 
+   "end": "8.320", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "it"
+   ]
+  }, 
+  {
+   "begin": "8.320", 
+   "end": "8.640", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "rain"
+   ]
+  }, 
+  {
+   "begin": "8.640", 
+   "end": "8.680", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "very"
+   ]
+  }, 
+  {
+   "begin": "8.680", 
+   "end": "9.080", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "soon?\""
+   ]
+  }, 
+  {
+   "begin": "9.080", 
+   "end": "9.720", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "asked"
+   ]
+  }, 
+  {
+   "begin": "9.720", 
+   "end": "10.640", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "Manu."
+   ]
+  }
+ ]
+}

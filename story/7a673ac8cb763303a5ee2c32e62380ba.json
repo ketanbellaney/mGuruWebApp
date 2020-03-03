@@ -1,0 +1,130 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.760", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Cheena"
+   ]
+  }, 
+  {
+   "begin": "0.760", 
+   "end": "0.800", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "is"
+   ]
+  }, 
+  {
+   "begin": "0.800", 
+   "end": "1.240", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "my"
+   ]
+  }, 
+  {
+   "begin": "1.240", 
+   "end": "1.640", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "best"
+   ]
+  }, 
+  {
+   "begin": "1.640", 
+   "end": "2.160", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "friend."
+   ]
+  }, 
+  {
+   "begin": "2.160", 
+   "end": "2.240", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "2.240", 
+   "end": "2.960", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "wait"
+   ]
+  }, 
+  {
+   "begin": "2.960", 
+   "end": "3.480", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "for"
+   ]
+  }, 
+  {
+   "begin": "3.480", 
+   "end": "3.800", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "her"
+   ]
+  }, 
+  {
+   "begin": "3.800", 
+   "end": "3.920", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "3.920", 
+   "end": "4.280", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "return"
+   ]
+  }, 
+  {
+   "begin": "4.280", 
+   "end": "4.920", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "from"
+   ]
+  }, 
+  {
+   "begin": "4.920", 
+   "end": "5.120", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "school."
+   ]
+  }, 
+  {
+   "begin": "5.120", 
+   "end": "6.080", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "&nbsp;"
+   ]
+  }
+ ]
+}

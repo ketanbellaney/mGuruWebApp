@@ -1,0 +1,49 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.000", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Drip,"
+   ]
+  }, 
+  {
+   "begin": "0.000", 
+   "end": "0.960", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "drip,"
+   ]
+  }, 
+  {
+   "begin": "0.960", 
+   "end": "2.480", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "drip&nbsp;goes"
+   ]
+  }, 
+  {
+   "begin": "2.480", 
+   "end": "2.680", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "2.680", 
+   "end": "3.600", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "tap."
+   ]
+  }
+ ]
+}

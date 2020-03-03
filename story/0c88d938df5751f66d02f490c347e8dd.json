@@ -1,0 +1,148 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "1.080", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Poor"
+   ]
+  }, 
+  {
+   "begin": "1.080", 
+   "end": "2.120", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "Sringeri"
+   ]
+  }, 
+  {
+   "begin": "2.120", 
+   "end": "3.640", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "Srinivas."
+   ]
+  }, 
+  {
+   "begin": "3.640", 
+   "end": "3.760", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "It"
+   ]
+  }, 
+  {
+   "begin": "3.760", 
+   "end": "4.720", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "seemed"
+   ]
+  }, 
+  {
+   "begin": "4.720", 
+   "end": "5.080", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "no"
+   ]
+  }, 
+  {
+   "begin": "5.080", 
+   "end": "5.320", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "one"
+   ]
+  }, 
+  {
+   "begin": "5.320", 
+   "end": "5.480", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "would"
+   ]
+  }, 
+  {
+   "begin": "5.480", 
+   "end": "5.760", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "cut"
+   ]
+  }, 
+  {
+   "begin": "5.760", 
+   "end": "6.040", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "his"
+   ]
+  }, 
+  {
+   "begin": "6.040", 
+   "end": "6.480", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "hair"
+   ]
+  }, 
+  {
+   "begin": "6.480", 
+   "end": "6.480", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "on"
+   ]
+  }, 
+  {
+   "begin": "6.480", 
+   "end": "7.120", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "this"
+   ]
+  }, 
+  {
+   "begin": "7.120", 
+   "end": "7.600", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "Annual"
+   ]
+  }, 
+  {
+   "begin": "7.600", 
+   "end": "8.160", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "Haircut"
+   ]
+  }, 
+  {
+   "begin": "8.160", 
+   "end": "8.600", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "Day."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,166 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.440", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "But"
+   ]
+  }, 
+  {
+   "begin": "0.440", 
+   "end": "0.920", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "Mana"
+   ]
+  }, 
+  {
+   "begin": "0.920", 
+   "end": "1.120", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "is"
+   ]
+  }, 
+  {
+   "begin": "1.120", 
+   "end": "1.400", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "not"
+   ]
+  }, 
+  {
+   "begin": "1.400", 
+   "end": "1.840", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "scared."
+   ]
+  }, 
+  {
+   "begin": "1.840", 
+   "end": "2.480", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "He"
+   ]
+  }, 
+  {
+   "begin": "2.480", 
+   "end": "2.840", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "stands"
+   ]
+  }, 
+  {
+   "begin": "2.840", 
+   "end": "3.240", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "up"
+   ]
+  }, 
+  {
+   "begin": "3.240", 
+   "end": "3.520", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "on"
+   ]
+  }, 
+  {
+   "begin": "3.520", 
+   "end": "3.960", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "Appu's"
+   ]
+  }, 
+  {
+   "begin": "3.960", 
+   "end": "4.600", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "back"
+   ]
+  }, 
+  {
+   "begin": "4.600", 
+   "end": "4.840", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "4.840", 
+   "end": "5.160", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "throws"
+   ]
+  }, 
+  {
+   "begin": "5.160", 
+   "end": "5.280", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "5.280", 
+   "end": "5.920", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "coconut"
+   ]
+  }, 
+  {
+   "begin": "5.920", 
+   "end": "6.080", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "at"
+   ]
+  }, 
+  {
+   "begin": "6.080", 
+   "end": "6.160", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "6.160", 
+   "end": "7.040", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "tiger."
+   ]
+  }
+ ]
+}

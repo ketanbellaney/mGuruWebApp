@@ -1,0 +1,391 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.840", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Ritu"
+   ]
+  }, 
+  {
+   "begin": "0.840", 
+   "end": "1.360", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "jumped"
+   ]
+  }, 
+  {
+   "begin": "1.360", 
+   "end": "1.560", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "up"
+   ]
+  }, 
+  {
+   "begin": "1.560", 
+   "end": "1.800", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "1.800", 
+   "end": "3.200", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "down."
+   ]
+  }, 
+  {
+   "begin": "3.200", 
+   "end": "3.400", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "And"
+   ]
+  }, 
+  {
+   "begin": "3.400", 
+   "end": "3.880", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "since"
+   ]
+  }, 
+  {
+   "begin": "3.880", 
+   "end": "3.880", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "she"
+   ]
+  }, 
+  {
+   "begin": "3.880", 
+   "end": "3.960", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "could"
+   ]
+  }, 
+  {
+   "begin": "3.960", 
+   "end": "4.520", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "not"
+   ]
+  }, 
+  {
+   "begin": "4.520", 
+   "end": "4.800", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "stop"
+   ]
+  }, 
+  {
+   "begin": "4.800", 
+   "end": "5.840", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "herself,"
+   ]
+  }, 
+  {
+   "begin": "5.840", 
+   "end": "6.360", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "she"
+   ]
+  }, 
+  {
+   "begin": "6.360", 
+   "end": "6.880", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "ran"
+   ]
+  }, 
+  {
+   "begin": "6.880", 
+   "end": "7.840", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "around"
+   ]
+  }, 
+  {
+   "begin": "7.840", 
+   "end": "8.240", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "8.240", 
+   "end": "8.800", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "room"
+   ]
+  }, 
+  {
+   "begin": "8.800", 
+   "end": "9.040", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "once"
+   ]
+  }, 
+  {
+   "begin": "9.040", 
+   "end": "9.360", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "9.360", 
+   "end": "9.600", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "hugged"
+   ]
+  }, 
+  {
+   "begin": "9.600", 
+   "end": "9.600", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "Grandpa."
+   ]
+  }, 
+  {
+   "begin": "9.600", 
+   "end": "9.600", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "&nbsp;"
+   ]
+  }, 
+  {
+   "begin": "9.600", 
+   "end": "10.880", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "\u201cWould"
+   ]
+  }, 
+  {
+   "begin": "10.880", 
+   "end": "11.120", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "you"
+   ]
+  }, 
+  {
+   "begin": "11.120", 
+   "end": "11.440", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "like"
+   ]
+  }, 
+  {
+   "begin": "11.440", 
+   "end": "11.640", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "11.640", 
+   "end": "12.040", 
+   "id": "f000027", 
+   "language": "en", 
+   "lines": [
+    "post"
+   ]
+  }, 
+  {
+   "begin": "12.040", 
+   "end": "12.520", 
+   "id": "f000028", 
+   "language": "en", 
+   "lines": [
+    "this"
+   ]
+  }, 
+  {
+   "begin": "12.520", 
+   "end": "12.840", 
+   "id": "f000029", 
+   "language": "en", 
+   "lines": [
+    "letter"
+   ]
+  }, 
+  {
+   "begin": "12.840", 
+   "end": "14.280", 
+   "id": "f000030", 
+   "language": "en", 
+   "lines": [
+    "yourself?\u201d"
+   ]
+  }, 
+  {
+   "begin": "14.280", 
+   "end": "14.920", 
+   "id": "f000031", 
+   "language": "en", 
+   "lines": [
+    "asked"
+   ]
+  }, 
+  {
+   "begin": "14.920", 
+   "end": "16.520", 
+   "id": "f000032", 
+   "language": "en", 
+   "lines": [
+    "Grandpa."
+   ]
+  }, 
+  {
+   "begin": "16.520", 
+   "end": "16.680", 
+   "id": "f000033", 
+   "language": "en", 
+   "lines": [
+    "&nbsp;"
+   ]
+  }, 
+  {
+   "begin": "16.680", 
+   "end": "17.000", 
+   "id": "f000034", 
+   "language": "en", 
+   "lines": [
+    "Ritu\u2019s"
+   ]
+  }, 
+  {
+   "begin": "17.000", 
+   "end": "17.440", 
+   "id": "f000035", 
+   "language": "en", 
+   "lines": [
+    "eyes"
+   ]
+  }, 
+  {
+   "begin": "17.440", 
+   "end": "17.680", 
+   "id": "f000036", 
+   "language": "en", 
+   "lines": [
+    "opened"
+   ]
+  }, 
+  {
+   "begin": "17.680", 
+   "end": "18.400", 
+   "id": "f000037", 
+   "language": "en", 
+   "lines": [
+    "wide."
+   ]
+  }, 
+  {
+   "begin": "18.400", 
+   "end": "19.400", 
+   "id": "f000038", 
+   "language": "en", 
+   "lines": [
+    "\u201cAll"
+   ]
+  }, 
+  {
+   "begin": "19.400", 
+   "end": "19.800", 
+   "id": "f000039", 
+   "language": "en", 
+   "lines": [
+    "by"
+   ]
+  }, 
+  {
+   "begin": "19.800", 
+   "end": "21.600", 
+   "id": "f000040", 
+   "language": "en", 
+   "lines": [
+    "myself?"
+   ]
+  }, 
+  {
+   "begin": "21.600", 
+   "end": "21.920", 
+   "id": "f000041", 
+   "language": "en", 
+   "lines": [
+    "Oh,"
+   ]
+  }, 
+  {
+   "begin": "21.920", 
+   "end": "22.240", 
+   "id": "f000042", 
+   "language": "en", 
+   "lines": [
+    "may"
+   ]
+  }, 
+  {
+   "begin": "22.240", 
+   "end": "23.320", 
+   "id": "f000043", 
+   "language": "en", 
+   "lines": [
+    "I?\u201d"
+   ]
+  }
+ ]
+}

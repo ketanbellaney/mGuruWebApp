@@ -1,0 +1,598 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.800", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Chuskit"
+   ]
+  }, 
+  {
+   "begin": "0.800", 
+   "end": "1.120", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "used"
+   ]
+  }, 
+  {
+   "begin": "1.120", 
+   "end": "1.240", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "1.240", 
+   "end": "1.240", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "chair"
+   ]
+  }, 
+  {
+   "begin": "1.240", 
+   "end": "1.760", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "fitted"
+   ]
+  }, 
+  {
+   "begin": "1.760", 
+   "end": "2.560", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "with&nbsp;wheels"
+   ]
+  }, 
+  {
+   "begin": "2.560", 
+   "end": "2.680", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "2.680", 
+   "end": "2.960", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "move"
+   ]
+  }, 
+  {
+   "begin": "2.960", 
+   "end": "4.080", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "around."
+   ]
+  }, 
+  {
+   "begin": "4.080", 
+   "end": "5.160", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "Elders&nbsp;called"
+   ]
+  }, 
+  {
+   "begin": "5.160", 
+   "end": "5.200", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "it"
+   ]
+  }, 
+  {
+   "begin": "5.200", 
+   "end": "5.200", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "5.200", 
+   "end": "6.800", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "wheelchair."
+   ]
+  }, 
+  {
+   "begin": "6.800", 
+   "end": "6.920", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "You"
+   ]
+  }, 
+  {
+   "begin": "6.920", 
+   "end": "7.120", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "could"
+   ]
+  }, 
+  {
+   "begin": "7.120", 
+   "end": "7.360", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "move"
+   ]
+  }, 
+  {
+   "begin": "7.360", 
+   "end": "7.480", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "it"
+   ]
+  }, 
+  {
+   "begin": "7.480", 
+   "end": "7.800", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "in"
+   ]
+  }, 
+  {
+   "begin": "7.800", 
+   "end": "8.080", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "any"
+   ]
+  }, 
+  {
+   "begin": "8.080", 
+   "end": "9.320", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "direction-"
+   ]
+  }, 
+  {
+   "begin": "9.320", 
+   "end": "10.320", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "forward,"
+   ]
+  }, 
+  {
+   "begin": "10.320", 
+   "end": "11.080", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "left,"
+   ]
+  }, 
+  {
+   "begin": "11.080", 
+   "end": "11.880", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "right"
+   ]
+  }, 
+  {
+   "begin": "11.880", 
+   "end": "12.400", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "and&nbsp;even"
+   ]
+  }, 
+  {
+   "begin": "12.400", 
+   "end": "13.400", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "backward"
+   ]
+  }, 
+  {
+   "begin": "13.400", 
+   "end": "13.400", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "-"
+   ]
+  }, 
+  {
+   "begin": "13.400", 
+   "end": "13.680", 
+   "id": "f000027", 
+   "language": "en", 
+   "lines": [
+    "by"
+   ]
+  }, 
+  {
+   "begin": "13.680", 
+   "end": "14.120", 
+   "id": "f000028", 
+   "language": "en", 
+   "lines": [
+    "moving"
+   ]
+  }, 
+  {
+   "begin": "14.120", 
+   "end": "14.160", 
+   "id": "f000029", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "14.160", 
+   "end": "14.560", 
+   "id": "f000030", 
+   "language": "en", 
+   "lines": [
+    "wheels"
+   ]
+  }, 
+  {
+   "begin": "14.560", 
+   "end": "14.680", 
+   "id": "f000031", 
+   "language": "en", 
+   "lines": [
+    "with"
+   ]
+  }, 
+  {
+   "begin": "14.680", 
+   "end": "14.880", 
+   "id": "f000032", 
+   "language": "en", 
+   "lines": [
+    "your"
+   ]
+  }, 
+  {
+   "begin": "14.880", 
+   "end": "16.160", 
+   "id": "f000033", 
+   "language": "en", 
+   "lines": [
+    "hands."
+   ]
+  }, 
+  {
+   "begin": "16.160", 
+   "end": "16.200", 
+   "id": "f000034", 
+   "language": "en", 
+   "lines": [
+    "You"
+   ]
+  }, 
+  {
+   "begin": "16.200", 
+   "end": "16.880", 
+   "id": "f000035", 
+   "language": "en", 
+   "lines": [
+    "only"
+   ]
+  }, 
+  {
+   "begin": "16.880", 
+   "end": "17.000", 
+   "id": "f000036", 
+   "language": "en", 
+   "lines": [
+    "needed"
+   ]
+  }, 
+  {
+   "begin": "17.000", 
+   "end": "17.160", 
+   "id": "f000037", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "17.160", 
+   "end": "17.480", 
+   "id": "f000038", 
+   "language": "en", 
+   "lines": [
+    "have"
+   ]
+  }, 
+  {
+   "begin": "17.480", 
+   "end": "18.080", 
+   "id": "f000039", 
+   "language": "en", 
+   "lines": [
+    "really"
+   ]
+  }, 
+  {
+   "begin": "18.080", 
+   "end": "18.440", 
+   "id": "f000040", 
+   "language": "en", 
+   "lines": [
+    "strong"
+   ]
+  }, 
+  {
+   "begin": "18.440", 
+   "end": "18.760", 
+   "id": "f000041", 
+   "language": "en", 
+   "lines": [
+    "arms"
+   ]
+  }, 
+  {
+   "begin": "18.760", 
+   "end": "18.920", 
+   "id": "f000042", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "18.920", 
+   "end": "19.160", 
+   "id": "f000043", 
+   "language": "en", 
+   "lines": [
+    "push"
+   ]
+  }, 
+  {
+   "begin": "19.160", 
+   "end": "19.280", 
+   "id": "f000044", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "19.280", 
+   "end": "19.760", 
+   "id": "f000045", 
+   "language": "en", 
+   "lines": [
+    "weight"
+   ]
+  }, 
+  {
+   "begin": "19.760", 
+   "end": "19.880", 
+   "id": "f000046", 
+   "language": "en", 
+   "lines": [
+    "of"
+   ]
+  }, 
+  {
+   "begin": "19.880", 
+   "end": "20.080", 
+   "id": "f000047", 
+   "language": "en", 
+   "lines": [
+    "your"
+   ]
+  }, 
+  {
+   "begin": "20.080", 
+   "end": "20.200", 
+   "id": "f000048", 
+   "language": "en", 
+   "lines": [
+    "body"
+   ]
+  }, 
+  {
+   "begin": "20.200", 
+   "end": "20.440", 
+   "id": "f000049", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "20.440", 
+   "end": "20.560", 
+   "id": "f000050", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "20.560", 
+   "end": "21.440", 
+   "id": "f000051", 
+   "language": "en", 
+   "lines": [
+    "chair.\n\n"
+   ]
+  }, 
+  {
+   "begin": "21.440", 
+   "end": "21.440", 
+   "id": "f000052", 
+   "language": "en", 
+   "lines": [
+    ""
+   ]
+  }, 
+  {
+   "begin": "21.440", 
+   "end": "21.760", 
+   "id": "f000053", 
+   "language": "en", 
+   "lines": [
+    "When"
+   ]
+  }, 
+  {
+   "begin": "21.760", 
+   "end": "22.160", 
+   "id": "f000054", 
+   "language": "en", 
+   "lines": [
+    "Aba-ley"
+   ]
+  }, 
+  {
+   "begin": "22.160", 
+   "end": "22.520", 
+   "id": "f000055", 
+   "language": "en", 
+   "lines": [
+    "first"
+   ]
+  }, 
+  {
+   "begin": "22.520", 
+   "end": "22.760", 
+   "id": "f000056", 
+   "language": "en", 
+   "lines": [
+    "brought"
+   ]
+  }, 
+  {
+   "begin": "22.760", 
+   "end": "22.880", 
+   "id": "f000057", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "22.880", 
+   "end": "23.480", 
+   "id": "f000058", 
+   "language": "en", 
+   "lines": [
+    "wheelchair"
+   ]
+  }, 
+  {
+   "begin": "23.480", 
+   "end": "24.320", 
+   "id": "f000059", 
+   "language": "en", 
+   "lines": [
+    "home,"
+   ]
+  }, 
+  {
+   "begin": "24.320", 
+   "end": "24.960", 
+   "id": "f000060", 
+   "language": "en", 
+   "lines": [
+    "everyone"
+   ]
+  }, 
+  {
+   "begin": "24.960", 
+   "end": "25.040", 
+   "id": "f000061", 
+   "language": "en", 
+   "lines": [
+    "in"
+   ]
+  }, 
+  {
+   "begin": "25.040", 
+   "end": "25.240", 
+   "id": "f000062", 
+   "language": "en", 
+   "lines": [
+    "her"
+   ]
+  }, 
+  {
+   "begin": "25.240", 
+   "end": "25.720", 
+   "id": "f000063", 
+   "language": "en", 
+   "lines": [
+    "family"
+   ]
+  }, 
+  {
+   "begin": "25.720", 
+   "end": "26.000", 
+   "id": "f000064", 
+   "language": "en", 
+   "lines": [
+    "was"
+   ]
+  }, 
+  {
+   "begin": "26.000", 
+   "end": "26.440", 
+   "id": "f000065", 
+   "language": "en", 
+   "lines": [
+    "very"
+   ]
+  }, 
+  {
+   "begin": "26.440", 
+   "end": "27.280", 
+   "id": "f000066", 
+   "language": "en", 
+   "lines": [
+    "excited."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,238 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "1.080", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Devi\u2019s"
+   ]
+  }, 
+  {
+   "begin": "1.080", 
+   "end": "1.400", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "sister"
+   ]
+  }, 
+  {
+   "begin": "1.400", 
+   "end": "1.720", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "is"
+   ]
+  }, 
+  {
+   "begin": "1.720", 
+   "end": "2.480", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "quite"
+   ]
+  }, 
+  {
+   "begin": "2.480", 
+   "end": "4.280", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "happy."
+   ]
+  }, 
+  {
+   "begin": "4.280", 
+   "end": "4.640", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "She"
+   ]
+  }, 
+  {
+   "begin": "4.640", 
+   "end": "5.120", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "is"
+   ]
+  }, 
+  {
+   "begin": "5.120", 
+   "end": "6.200", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "smiling"
+   ]
+  }, 
+  {
+   "begin": "6.200", 
+   "end": "6.400", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "6.400", 
+   "end": "6.920", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "chewing"
+   ]
+  }, 
+  {
+   "begin": "6.920", 
+   "end": "7.120", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "on"
+   ]
+  }, 
+  {
+   "begin": "7.120", 
+   "end": "7.520", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "some"
+   ]
+  }, 
+  {
+   "begin": "7.520", 
+   "end": "8.080", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "grass"
+   ]
+  }, 
+  {
+   "begin": "8.080", 
+   "end": "8.080", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "she"
+   ]
+  }, 
+  {
+   "begin": "8.080", 
+   "end": "8.400", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "has"
+   ]
+  }, 
+  {
+   "begin": "8.400", 
+   "end": "9.760", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "found."
+   ]
+  }, 
+  {
+   "begin": "9.760", 
+   "end": "10.600", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "Oh,"
+   ]
+  }, 
+  {
+   "begin": "10.600", 
+   "end": "11.160", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "no,"
+   ]
+  }, 
+  {
+   "begin": "11.160", 
+   "end": "11.640", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "she"
+   ]
+  }, 
+  {
+   "begin": "11.640", 
+   "end": "12.200", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "isn\u2019t."
+   ]
+  }, 
+  {
+   "begin": "12.200", 
+   "end": "13.520", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "Devi"
+   ]
+  }, 
+  {
+   "begin": "13.520", 
+   "end": "13.840", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "has"
+   ]
+  }, 
+  {
+   "begin": "13.840", 
+   "end": "14.240", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "taken"
+   ]
+  }, 
+  {
+   "begin": "14.240", 
+   "end": "14.400", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "it"
+   ]
+  }, 
+  {
+   "begin": "14.400", 
+   "end": "14.680", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "from"
+   ]
+  }, 
+  {
+   "begin": "14.680", 
+   "end": "15.360", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "her."
+   ]
+  }
+ ]
+}

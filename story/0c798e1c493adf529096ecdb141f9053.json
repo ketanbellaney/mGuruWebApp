@@ -1,0 +1,76 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.000", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "He"
+   ]
+  }, 
+  {
+   "begin": "0.000", 
+   "end": "0.880", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "sat"
+   ]
+  }, 
+  {
+   "begin": "0.880", 
+   "end": "1.280", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "near"
+   ]
+  }, 
+  {
+   "begin": "1.280", 
+   "end": "1.280", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "1.280", 
+   "end": "2.240", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "cave"
+   ]
+  }, 
+  {
+   "begin": "2.240", 
+   "end": "2.520", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "2.520", 
+   "end": "2.960", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "cried"
+   ]
+  }, 
+  {
+   "begin": "2.960", 
+   "end": "3.840", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "loudly."
+   ]
+  }
+ ]
+}

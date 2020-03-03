@@ -1,0 +1,67 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.480", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "The"
+   ]
+  }, 
+  {
+   "begin": "0.480", 
+   "end": "1.120", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "snake"
+   ]
+  }, 
+  {
+   "begin": "1.120", 
+   "end": "1.720", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "almost"
+   ]
+  }, 
+  {
+   "begin": "1.720", 
+   "end": "2.200", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "catches"
+   ]
+  }, 
+  {
+   "begin": "2.200", 
+   "end": "2.400", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "2.400", 
+   "end": "2.720", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "brown"
+   ]
+  }, 
+  {
+   "begin": "2.720", 
+   "end": "3.520", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "frog..."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,238 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.720", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "That"
+   ]
+  }, 
+  {
+   "begin": "0.720", 
+   "end": "1.280", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "morning,"
+   ]
+  }, 
+  {
+   "begin": "1.280", 
+   "end": "2.680", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "Kaushik"
+   ]
+  }, 
+  {
+   "begin": "2.680", 
+   "end": "3.040", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "felt"
+   ]
+  }, 
+  {
+   "begin": "3.040", 
+   "end": "3.680", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "like"
+   ]
+  }, 
+  {
+   "begin": "3.680", 
+   "end": "4.000", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "4.000", 
+   "end": "4.160", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "real"
+   ]
+  }, 
+  {
+   "begin": "4.160", 
+   "end": "5.880", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "detective."
+   ]
+  }, 
+  {
+   "begin": "5.880", 
+   "end": "6.280", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "After"
+   ]
+  }, 
+  {
+   "begin": "6.280", 
+   "end": "7.080", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "all,"
+   ]
+  }, 
+  {
+   "begin": "7.080", 
+   "end": "7.400", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "he"
+   ]
+  }, 
+  {
+   "begin": "7.400", 
+   "end": "7.400", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "had"
+   ]
+  }, 
+  {
+   "begin": "7.400", 
+   "end": "7.840", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "just"
+   ]
+  }, 
+  {
+   "begin": "7.840", 
+   "end": "7.880", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "got"
+   ]
+  }, 
+  {
+   "begin": "7.880", 
+   "end": "8.200", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "8.200", 
+   "end": "8.800", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "shiny"
+   ]
+  }, 
+  {
+   "begin": "8.800", 
+   "end": "9.000", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "new"
+   ]
+  }, 
+  {
+   "begin": "9.000", 
+   "end": "9.400", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "torch"
+   ]
+  }, 
+  {
+   "begin": "9.400", 
+   "end": "9.480", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "9.480", 
+   "end": "9.920", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "9.920", 
+   "end": "10.480", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "magnifying"
+   ]
+  }, 
+  {
+   "begin": "10.480", 
+   "end": "11.080", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "glass"
+   ]
+  }, 
+  {
+   "begin": "11.080", 
+   "end": "11.600", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "from"
+   ]
+  }, 
+  {
+   "begin": "11.600", 
+   "end": "11.680", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "11.680", 
+   "end": "11.840", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "local"
+   ]
+  }, 
+  {
+   "begin": "11.840", 
+   "end": "12.560", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "store."
+   ]
+  }
+ ]
+}

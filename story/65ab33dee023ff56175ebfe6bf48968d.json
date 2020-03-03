@@ -1,0 +1,85 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.000", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "It"
+   ]
+  }, 
+  {
+   "begin": "0.000", 
+   "end": "0.120", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "was"
+   ]
+  }, 
+  {
+   "begin": "0.120", 
+   "end": "0.320", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "0.320", 
+   "end": "0.720", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "Annual"
+   ]
+  }, 
+  {
+   "begin": "0.720", 
+   "end": "1.560", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "Haircut"
+   ]
+  }, 
+  {
+   "begin": "1.560", 
+   "end": "1.840", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "Day"
+   ]
+  }, 
+  {
+   "begin": "1.840", 
+   "end": "2.560", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "for"
+   ]
+  }, 
+  {
+   "begin": "2.560", 
+   "end": "3.080", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "Sringeri"
+   ]
+  }, 
+  {
+   "begin": "3.080", 
+   "end": "4.560", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "Srinivas."
+   ]
+  }
+ ]
+}

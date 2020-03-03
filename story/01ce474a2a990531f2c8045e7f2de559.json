@@ -1,0 +1,85 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.760", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Pehelwaan"
+   ]
+  }, 
+  {
+   "begin": "0.760", 
+   "end": "1.000", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "did"
+   ]
+  }, 
+  {
+   "begin": "1.000", 
+   "end": "1.280", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "not"
+   ]
+  }, 
+  {
+   "begin": "1.280", 
+   "end": "1.640", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "listen"
+   ]
+  }, 
+  {
+   "begin": "1.640", 
+   "end": "1.840", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "1.840", 
+   "end": "2.880", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "Gappu."
+   ]
+  }, 
+  {
+   "begin": "2.880", 
+   "end": "3.080", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "He"
+   ]
+  }, 
+  {
+   "begin": "3.080", 
+   "end": "3.480", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "jumped"
+   ]
+  }, 
+  {
+   "begin": "3.480", 
+   "end": "4.360", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "high."
+   ]
+  }
+ ]
+}

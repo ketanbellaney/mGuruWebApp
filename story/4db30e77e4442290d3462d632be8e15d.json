@@ -1,0 +1,76 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.000", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "She"
+   ]
+  }, 
+  {
+   "begin": "0.000", 
+   "end": "0.760", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "finds"
+   ]
+  }, 
+  {
+   "begin": "0.760", 
+   "end": "0.800", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "0.800", 
+   "end": "1.040", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "pair"
+   ]
+  }, 
+  {
+   "begin": "1.040", 
+   "end": "1.120", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "of"
+   ]
+  }, 
+  {
+   "begin": "1.120", 
+   "end": "1.600", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "shoes"
+   ]
+  }, 
+  {
+   "begin": "1.600", 
+   "end": "1.800", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "with"
+   ]
+  }, 
+  {
+   "begin": "1.800", 
+   "end": "2.720", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "wings."
+   ]
+  }
+ ]
+}

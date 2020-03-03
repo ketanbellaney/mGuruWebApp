@@ -1,0 +1,112 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.560", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "From"
+   ]
+  }, 
+  {
+   "begin": "0.560", 
+   "end": "1.000", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "1.000", 
+   "end": "1.960", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "fifth"
+   ]
+  }, 
+  {
+   "begin": "1.960", 
+   "end": "2.600", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "floor,"
+   ]
+  }, 
+  {
+   "begin": "2.600", 
+   "end": "3.160", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "newspapers"
+   ]
+  }, 
+  {
+   "begin": "3.160", 
+   "end": "4.080", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "4.080", 
+   "end": "4.360", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "magazines,"
+   ]
+  }, 
+  {
+   "begin": "4.360", 
+   "end": "4.920", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "bottles"
+   ]
+  }, 
+  {
+   "begin": "4.920", 
+   "end": "4.920", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "4.920", 
+   "end": "5.000", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "boxes"
+   ]
+  }, 
+  {
+   "begin": "5.000", 
+   "end": "5.240", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "5.240", 
+   "end": "5.680", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "books."
+   ]
+  }
+ ]
+}

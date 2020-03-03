@@ -1,0 +1,427 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.000", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "The"
+   ]
+  }, 
+  {
+   "begin": "0.000", 
+   "end": "3.120", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "tigers"
+   ]
+  }, 
+  {
+   "begin": "3.120", 
+   "end": "3.280", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "welcome"
+   ]
+  }, 
+  {
+   "begin": "3.280", 
+   "end": "3.720", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "her"
+   ]
+  }, 
+  {
+   "begin": "3.720", 
+   "end": "4.280", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "with"
+   ]
+  }, 
+  {
+   "begin": "4.280", 
+   "end": "4.400", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "4.400", 
+   "end": "5.760", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "growl."
+   ]
+  }, 
+  {
+   "begin": "5.760", 
+   "end": "5.880", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "And"
+   ]
+  }, 
+  {
+   "begin": "5.880", 
+   "end": "6.080", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "look"
+   ]
+  }, 
+  {
+   "begin": "6.080", 
+   "end": "6.280", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "at"
+   ]
+  }, 
+  {
+   "begin": "6.280", 
+   "end": "6.440", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "that"
+   ]
+  }, 
+  {
+   "begin": "6.440", 
+   "end": "6.880", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "tiger"
+   ]
+  }, 
+  {
+   "begin": "6.880", 
+   "end": "8.200", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "cub!"
+   ]
+  }, 
+  {
+   "begin": "8.200", 
+   "end": "8.240", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "He"
+   ]
+  }, 
+  {
+   "begin": "8.240", 
+   "end": "8.520", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "is"
+   ]
+  }, 
+  {
+   "begin": "8.520", 
+   "end": "8.760", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "not"
+   ]
+  }, 
+  {
+   "begin": "8.760", 
+   "end": "9.320", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "snoozing"
+   ]
+  }, 
+  {
+   "begin": "9.320", 
+   "end": "9.440", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "with"
+   ]
+  }, 
+  {
+   "begin": "9.440", 
+   "end": "9.680", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "his"
+   ]
+  }, 
+  {
+   "begin": "9.680", 
+   "end": "9.960", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "mother."
+   ]
+  }, 
+  {
+   "begin": "9.960", 
+   "end": "10.960", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "He"
+   ]
+  }, 
+  {
+   "begin": "10.960", 
+   "end": "11.240", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "is"
+   ]
+  }, 
+  {
+   "begin": "11.240", 
+   "end": "11.480", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "not"
+   ]
+  }, 
+  {
+   "begin": "11.480", 
+   "end": "12.040", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "swatting"
+   ]
+  }, 
+  {
+   "begin": "12.040", 
+   "end": "12.840", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "flies"
+   ]
+  }, 
+  {
+   "begin": "12.840", 
+   "end": "12.960", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "with"
+   ]
+  }, 
+  {
+   "begin": "12.960", 
+   "end": "13.200", 
+   "id": "f000027", 
+   "language": "en", 
+   "lines": [
+    "his"
+   ]
+  }, 
+  {
+   "begin": "13.200", 
+   "end": "14.600", 
+   "id": "f000028", 
+   "language": "en", 
+   "lines": [
+    "father."
+   ]
+  }, 
+  {
+   "begin": "14.600", 
+   "end": "14.720", 
+   "id": "f000029", 
+   "language": "en", 
+   "lines": [
+    "He"
+   ]
+  }, 
+  {
+   "begin": "14.720", 
+   "end": "14.920", 
+   "id": "f000030", 
+   "language": "en", 
+   "lines": [
+    "is"
+   ]
+  }, 
+  {
+   "begin": "14.920", 
+   "end": "15.120", 
+   "id": "f000031", 
+   "language": "en", 
+   "lines": [
+    "not"
+   ]
+  }, 
+  {
+   "begin": "15.120", 
+   "end": "15.680", 
+   "id": "f000032", 
+   "language": "en", 
+   "lines": [
+    "sneaking"
+   ]
+  }, 
+  {
+   "begin": "15.680", 
+   "end": "16.200", 
+   "id": "f000033", 
+   "language": "en", 
+   "lines": [
+    "up"
+   ]
+  }, 
+  {
+   "begin": "16.200", 
+   "end": "16.360", 
+   "id": "f000034", 
+   "language": "en", 
+   "lines": [
+    "on"
+   ]
+  }, 
+  {
+   "begin": "16.360", 
+   "end": "16.560", 
+   "id": "f000035", 
+   "language": "en", 
+   "lines": [
+    "his"
+   ]
+  }, 
+  {
+   "begin": "16.560", 
+   "end": "17.920", 
+   "id": "f000036", 
+   "language": "en", 
+   "lines": [
+    "friends."
+   ]
+  }, 
+  {
+   "begin": "17.920", 
+   "end": "18.240", 
+   "id": "f000037", 
+   "language": "en", 
+   "lines": [
+    "What"
+   ]
+  }, 
+  {
+   "begin": "18.240", 
+   "end": "18.400", 
+   "id": "f000038", 
+   "language": "en", 
+   "lines": [
+    "is"
+   ]
+  }, 
+  {
+   "begin": "18.400", 
+   "end": "18.600", 
+   "id": "f000039", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "18.600", 
+   "end": "18.880", 
+   "id": "f000040", 
+   "language": "en", 
+   "lines": [
+    "baby"
+   ]
+  }, 
+  {
+   "begin": "18.880", 
+   "end": "19.520", 
+   "id": "f000041", 
+   "language": "en", 
+   "lines": [
+    "tiger"
+   ]
+  }, 
+  {
+   "begin": "19.520", 
+   "end": "20.720", 
+   "id": "f000042", 
+   "language": "en", 
+   "lines": [
+    "doing?"
+   ]
+  }, 
+  {
+   "begin": "20.720", 
+   "end": "21.240", 
+   "id": "f000043", 
+   "language": "en", 
+   "lines": [
+    "Sucking"
+   ]
+  }, 
+  {
+   "begin": "21.240", 
+   "end": "21.520", 
+   "id": "f000044", 
+   "language": "en", 
+   "lines": [
+    "his"
+   ]
+  }, 
+  {
+   "begin": "21.520", 
+   "end": "21.760", 
+   "id": "f000045", 
+   "language": "en", 
+   "lines": [
+    "tail!"
+   ]
+  }, 
+  {
+   "begin": "21.760", 
+   "end": "22.640", 
+   "id": "f000046", 
+   "language": "en", 
+   "lines": [
+    "CHUSK!"
+   ]
+  }, 
+  {
+   "begin": "22.640", 
+   "end": "24.880", 
+   "id": "f000047", 
+   "language": "en", 
+   "lines": [
+    "CHUSK!"
+   ]
+  }
+ ]
+}

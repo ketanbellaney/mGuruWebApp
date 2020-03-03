@@ -1,0 +1,157 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.840", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Today's"
+   ]
+  }, 
+  {
+   "begin": "0.840", 
+   "end": "1.160", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "play"
+   ]
+  }, 
+  {
+   "begin": "1.160", 
+   "end": "1.760", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "time"
+   ]
+  }, 
+  {
+   "begin": "1.760", 
+   "end": "2.080", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "is"
+   ]
+  }, 
+  {
+   "begin": "2.080", 
+   "end": "2.760", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "over"
+   ]
+  }, 
+  {
+   "begin": "2.760", 
+   "end": "2.800", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "for"
+   ]
+  }, 
+  {
+   "begin": "2.800", 
+   "end": "3.240", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "Chunnu"
+   ]
+  }, 
+  {
+   "begin": "3.240", 
+   "end": "3.520", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "3.520", 
+   "end": "4.880", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "Munnu,"
+   ]
+  }, 
+  {
+   "begin": "4.880", 
+   "end": "5.440", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "Sweet"
+   ]
+  }, 
+  {
+   "begin": "5.440", 
+   "end": "5.920", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "dreams"
+   ]
+  }, 
+  {
+   "begin": "5.920", 
+   "end": "6.320", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "now"
+   ]
+  }, 
+  {
+   "begin": "6.320", 
+   "end": "6.640", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "for"
+   ]
+  }, 
+  {
+   "begin": "6.640", 
+   "end": "7.160", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "Chunnu"
+   ]
+  }, 
+  {
+   "begin": "7.160", 
+   "end": "7.680", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "7.680", 
+   "end": "8.800", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "Munnu"
+   ]
+  }, 
+  {
+   "begin": "8.800", 
+   "end": "10.360", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "Zzzzz\u2026"
+   ]
+  }
+ ]
+}

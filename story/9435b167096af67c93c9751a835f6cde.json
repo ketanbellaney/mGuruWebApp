@@ -1,0 +1,283 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.240", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "The"
+   ]
+  }, 
+  {
+   "begin": "0.240", 
+   "end": "0.720", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "children"
+   ]
+  }, 
+  {
+   "begin": "0.720", 
+   "end": "1.000", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "made"
+   ]
+  }, 
+  {
+   "begin": "1.000", 
+   "end": "1.200", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "1.200", 
+   "end": "1.560", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "ring"
+   ]
+  }, 
+  {
+   "begin": "1.560", 
+   "end": "2.040", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "around"
+   ]
+  }, 
+  {
+   "begin": "2.040", 
+   "end": "2.920", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "Bani"
+   ]
+  }, 
+  {
+   "begin": "2.920", 
+   "end": "3.200", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "3.200", 
+   "end": "3.640", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "began"
+   ]
+  }, 
+  {
+   "begin": "3.640", 
+   "end": "4.280", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "singing."
+   ]
+  }, 
+  {
+   "begin": "4.280", 
+   "end": "5.200", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "\u201cWelcome!"
+   ]
+  }, 
+  {
+   "begin": "5.200", 
+   "end": "5.960", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "Welcome!"
+   ]
+  }, 
+  {
+   "begin": "5.960", 
+   "end": "6.360", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "We"
+   ]
+  }, 
+  {
+   "begin": "6.360", 
+   "end": "7.000", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "have"
+   ]
+  }, 
+  {
+   "begin": "7.000", 
+   "end": "7.840", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "waited"
+   ]
+  }, 
+  {
+   "begin": "7.840", 
+   "end": "8.440", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "for"
+   ]
+  }, 
+  {
+   "begin": "8.440", 
+   "end": "8.480", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "you"
+   ]
+  }, 
+  {
+   "begin": "8.480", 
+   "end": "9.000", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "for"
+   ]
+  }, 
+  {
+   "begin": "9.000", 
+   "end": "9.400", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "nearly"
+   ]
+  }, 
+  {
+   "begin": "9.400", 
+   "end": "9.760", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "9.760", 
+   "end": "10.280", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "year.\u201d"
+   ]
+  }, 
+  {
+   "begin": "10.280", 
+   "end": "11.080", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "\u201cFor"
+   ]
+  }, 
+  {
+   "begin": "11.080", 
+   "end": "11.200", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "11.200", 
+   "end": "11.920", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "whole"
+   ]
+  }, 
+  {
+   "begin": "11.920", 
+   "end": "12.880", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "year!\u201d"
+   ]
+  }, 
+  {
+   "begin": "12.880", 
+   "end": "13.520", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "whispered"
+   ]
+  }, 
+  {
+   "begin": "13.520", 
+   "end": "14.040", 
+   "id": "f000027", 
+   "language": "en", 
+   "lines": [
+    "Bani."
+   ]
+  }, 
+  {
+   "begin": "14.040", 
+   "end": "15.520", 
+   "id": "f000028", 
+   "language": "en", 
+   "lines": [
+    "\u201cYes!"
+   ]
+  }, 
+  {
+   "begin": "15.520", 
+   "end": "16.360", 
+   "id": "f000029", 
+   "language": "en", 
+   "lines": [
+    "Yes!\u201d"
+   ]
+  }, 
+  {
+   "begin": "16.360", 
+   "end": "16.960", 
+   "id": "f000030", 
+   "language": "en", 
+   "lines": [
+    "they"
+   ]
+  }, 
+  {
+   "begin": "16.960", 
+   "end": "18.520", 
+   "id": "f000031", 
+   "language": "en", 
+   "lines": [
+    "shouted."
+   ]
+  }
+ ]
+}

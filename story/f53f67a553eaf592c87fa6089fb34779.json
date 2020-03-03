@@ -1,0 +1,337 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "1.120", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Everybody"
+   ]
+  }, 
+  {
+   "begin": "1.120", 
+   "end": "1.800", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "likes"
+   ]
+  }, 
+  {
+   "begin": "1.800", 
+   "end": "1.960", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "1.960", 
+   "end": "2.440", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "drink"
+   ]
+  }, 
+  {
+   "begin": "2.440", 
+   "end": "2.960", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "hot"
+   ]
+  }, 
+  {
+   "begin": "2.960", 
+   "end": "3.240", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "tea"
+   ]
+  }, 
+  {
+   "begin": "3.240", 
+   "end": "3.800", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "3.800", 
+   "end": "4.440", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "she"
+   ]
+  }, 
+  {
+   "begin": "4.440", 
+   "end": "4.960", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "likes"
+   ]
+  }, 
+  {
+   "begin": "4.960", 
+   "end": "5.360", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "5.360", 
+   "end": "5.840", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "drink"
+   ]
+  }, 
+  {
+   "begin": "5.840", 
+   "end": "6.560", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "milk"
+   ]
+  }, 
+  {
+   "begin": "6.560", 
+   "end": "7.760", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "with"
+   ]
+  }, 
+  {
+   "begin": "7.760", 
+   "end": "7.920", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "jaggery."
+   ]
+  }, 
+  {
+   "begin": "7.920", 
+   "end": "7.960", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "They"
+   ]
+  }, 
+  {
+   "begin": "7.960", 
+   "end": "8.400", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "can't"
+   ]
+  }, 
+  {
+   "begin": "8.400", 
+   "end": "8.880", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "go"
+   ]
+  }, 
+  {
+   "begin": "8.880", 
+   "end": "9.240", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "out"
+   ]
+  }, 
+  {
+   "begin": "9.240", 
+   "end": "10.040", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "without"
+   ]
+  }, 
+  {
+   "begin": "10.040", 
+   "end": "10.400", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "their"
+   ]
+  }, 
+  {
+   "begin": "10.400", 
+   "end": "10.960", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "jackets,"
+   ]
+  }, 
+  {
+   "begin": "10.960", 
+   "end": "11.720", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "caps,"
+   ]
+  }, 
+  {
+   "begin": "11.720", 
+   "end": "12.400", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "gloves"
+   ]
+  }, 
+  {
+   "begin": "12.400", 
+   "end": "13.120", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "13.120", 
+   "end": "13.800", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "mufflers,"
+   ]
+  }, 
+  {
+   "begin": "13.800", 
+   "end": "14.600", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "but"
+   ]
+  }, 
+  {
+   "begin": "14.600", 
+   "end": "14.880", 
+   "id": "f000027", 
+   "language": "en", 
+   "lines": [
+    "it"
+   ]
+  }, 
+  {
+   "begin": "14.880", 
+   "end": "15.200", 
+   "id": "f000028", 
+   "language": "en", 
+   "lines": [
+    "is"
+   ]
+  }, 
+  {
+   "begin": "15.200", 
+   "end": "15.520", 
+   "id": "f000029", 
+   "language": "en", 
+   "lines": [
+    "fun"
+   ]
+  }, 
+  {
+   "begin": "15.520", 
+   "end": "15.720", 
+   "id": "f000030", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "15.720", 
+   "end": "16.240", 
+   "id": "f000031", 
+   "language": "en", 
+   "lines": [
+    "throw"
+   ]
+  }, 
+  {
+   "begin": "16.240", 
+   "end": "17.000", 
+   "id": "f000032", 
+   "language": "en", 
+   "lines": [
+    "snowballs"
+   ]
+  }, 
+  {
+   "begin": "17.000", 
+   "end": "17.200", 
+   "id": "f000033", 
+   "language": "en", 
+   "lines": [
+    "at"
+   ]
+  }, 
+  {
+   "begin": "17.200", 
+   "end": "17.720", 
+   "id": "f000034", 
+   "language": "en", 
+   "lines": [
+    "each"
+   ]
+  }, 
+  {
+   "begin": "17.720", 
+   "end": "18.040", 
+   "id": "f000035", 
+   "language": "en", 
+   "lines": [
+    "other,"
+   ]
+  }, 
+  {
+   "begin": "18.040", 
+   "end": "18.440", 
+   "id": "f000036", 
+   "language": "en", 
+   "lines": [
+    "she"
+   ]
+  }, 
+  {
+   "begin": "18.440", 
+   "end": "19.640", 
+   "id": "f000037", 
+   "language": "en", 
+   "lines": [
+    "says!"
+   ]
+  }
+ ]
+}

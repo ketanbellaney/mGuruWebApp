@@ -1,0 +1,148 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.600", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "\"Thank"
+   ]
+  }, 
+  {
+   "begin": "0.600", 
+   "end": "1.000", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "you,"
+   ]
+  }, 
+  {
+   "begin": "1.000", 
+   "end": "1.200", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "this"
+   ]
+  }, 
+  {
+   "begin": "1.200", 
+   "end": "1.320", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "is"
+   ]
+  }, 
+  {
+   "begin": "1.320", 
+   "end": "1.880", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "just"
+   ]
+  }, 
+  {
+   "begin": "1.880", 
+   "end": "2.680", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "fine,"
+   ]
+  }, 
+  {
+   "begin": "2.680", 
+   "end": "3.040", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "now"
+   ]
+  }, 
+  {
+   "begin": "3.040", 
+   "end": "3.160", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "3.160", 
+   "end": "3.400", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "can"
+   ]
+  }, 
+  {
+   "begin": "3.400", 
+   "end": "3.960", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "read"
+   ]
+  }, 
+  {
+   "begin": "3.960", 
+   "end": "4.280", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "each"
+   ]
+  }, 
+  {
+   "begin": "4.280", 
+   "end": "4.560", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "4.560", 
+   "end": "4.880", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "every"
+   ]
+  }, 
+  {
+   "begin": "4.880", 
+   "end": "6.120", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "line,\""
+   ]
+  }, 
+  {
+   "begin": "6.120", 
+   "end": "6.560", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "said"
+   ]
+  }, 
+  {
+   "begin": "6.560", 
+   "end": "7.520", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "Grandpa."
+   ]
+  }
+ ]
+}

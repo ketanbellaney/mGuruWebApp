@@ -1,0 +1,445 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.720", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Bani"
+   ]
+  }, 
+  {
+   "begin": "0.720", 
+   "end": "1.000", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "got"
+   ]
+  }, 
+  {
+   "begin": "1.000", 
+   "end": "1.360", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "into"
+   ]
+  }, 
+  {
+   "begin": "1.360", 
+   "end": "1.520", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "her"
+   ]
+  }, 
+  {
+   "begin": "1.520", 
+   "end": "1.760", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "bed"
+   ]
+  }, 
+  {
+   "begin": "1.760", 
+   "end": "2.200", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "2.200", 
+   "end": "2.720", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "fell"
+   ]
+  }, 
+  {
+   "begin": "2.720", 
+   "end": "3.240", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "fast"
+   ]
+  }, 
+  {
+   "begin": "3.240", 
+   "end": "4.760", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "asleep."
+   ]
+  }, 
+  {
+   "begin": "4.760", 
+   "end": "4.880", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "In"
+   ]
+  }, 
+  {
+   "begin": "4.880", 
+   "end": "5.200", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "5.200", 
+   "end": "5.840", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "morning"
+   ]
+  }, 
+  {
+   "begin": "5.840", 
+   "end": "6.360", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "she"
+   ]
+  }, 
+  {
+   "begin": "6.360", 
+   "end": "6.360", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "thought"
+   ]
+  }, 
+  {
+   "begin": "6.360", 
+   "end": "6.760", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "she"
+   ]
+  }, 
+  {
+   "begin": "6.760", 
+   "end": "7.360", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "had"
+   ]
+  }, 
+  {
+   "begin": "7.360", 
+   "end": "7.640", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "such"
+   ]
+  }, 
+  {
+   "begin": "7.640", 
+   "end": "7.800", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "7.800", 
+   "end": "7.800", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "lovely"
+   ]
+  }, 
+  {
+   "begin": "7.800", 
+   "end": "7.840", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "dream,"
+   ]
+  }, 
+  {
+   "begin": "7.840", 
+   "end": "8.240", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "till"
+   ]
+  }, 
+  {
+   "begin": "8.240", 
+   "end": "9.280", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "she"
+   ]
+  }, 
+  {
+   "begin": "9.280", 
+   "end": "9.480", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "opened"
+   ]
+  }, 
+  {
+   "begin": "9.480", 
+   "end": "9.880", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "her"
+   ]
+  }, 
+  {
+   "begin": "9.880", 
+   "end": "10.520", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "hand"
+   ]
+  }, 
+  {
+   "begin": "10.520", 
+   "end": "10.720", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "10.720", 
+   "end": "11.040", 
+   "id": "f000027", 
+   "language": "en", 
+   "lines": [
+    "saw"
+   ]
+  }, 
+  {
+   "begin": "11.040", 
+   "end": "11.080", 
+   "id": "f000028", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "11.080", 
+   "end": "11.080", 
+   "id": "f000029", 
+   "language": "en", 
+   "lines": [
+    "..."
+   ]
+  }, 
+  {
+   "begin": "11.080", 
+   "end": "11.360", 
+   "id": "f000030", 
+   "language": "en", 
+   "lines": [
+    "What"
+   ]
+  }, 
+  {
+   "begin": "11.360", 
+   "end": "12.320", 
+   "id": "f000031", 
+   "language": "en", 
+   "lines": [
+    "do"
+   ]
+  }, 
+  {
+   "begin": "12.320", 
+   "end": "12.840", 
+   "id": "f000032", 
+   "language": "en", 
+   "lines": [
+    "you"
+   ]
+  }, 
+  {
+   "begin": "12.840", 
+   "end": "13.240", 
+   "id": "f000033", 
+   "language": "en", 
+   "lines": [
+    "think"
+   ]
+  }, 
+  {
+   "begin": "13.240", 
+   "end": "13.520", 
+   "id": "f000034", 
+   "language": "en", 
+   "lines": [
+    "Bani"
+   ]
+  }, 
+  {
+   "begin": "13.520", 
+   "end": "13.920", 
+   "id": "f000035", 
+   "language": "en", 
+   "lines": [
+    "saw"
+   ]
+  }, 
+  {
+   "begin": "13.920", 
+   "end": "14.200", 
+   "id": "f000036", 
+   "language": "en", 
+   "lines": [
+    "in"
+   ]
+  }, 
+  {
+   "begin": "14.200", 
+   "end": "14.560", 
+   "id": "f000037", 
+   "language": "en", 
+   "lines": [
+    "her"
+   ]
+  }, 
+  {
+   "begin": "14.560", 
+   "end": "15.440", 
+   "id": "f000038", 
+   "language": "en", 
+   "lines": [
+    "hand?"
+   ]
+  }, 
+  {
+   "begin": "15.440", 
+   "end": "15.640", 
+   "id": "f000039", 
+   "language": "en", 
+   "lines": [
+    "Why"
+   ]
+  }, 
+  {
+   "begin": "15.640", 
+   "end": "16.040", 
+   "id": "f000040", 
+   "language": "en", 
+   "lines": [
+    "don't"
+   ]
+  }, 
+  {
+   "begin": "16.040", 
+   "end": "16.200", 
+   "id": "f000041", 
+   "language": "en", 
+   "lines": [
+    "you"
+   ]
+  }, 
+  {
+   "begin": "16.200", 
+   "end": "16.240", 
+   "id": "f000042", 
+   "language": "en", 
+   "lines": [
+    "make"
+   ]
+  }, 
+  {
+   "begin": "16.240", 
+   "end": "16.440", 
+   "id": "f000043", 
+   "language": "en", 
+   "lines": [
+    "your"
+   ]
+  }, 
+  {
+   "begin": "16.440", 
+   "end": "16.720", 
+   "id": "f000044", 
+   "language": "en", 
+   "lines": [
+    "own"
+   ]
+  }, 
+  {
+   "begin": "16.720", 
+   "end": "17.080", 
+   "id": "f000045", 
+   "language": "en", 
+   "lines": [
+    "little"
+   ]
+  }, 
+  {
+   "begin": "17.080", 
+   "end": "17.600", 
+   "id": "f000046", 
+   "language": "en", 
+   "lines": [
+    "story"
+   ]
+  }, 
+  {
+   "begin": "17.600", 
+   "end": "18.120", 
+   "id": "f000047", 
+   "language": "en", 
+   "lines": [
+    "..."
+   ]
+  }, 
+  {
+   "begin": "18.120", 
+   "end": "18.600", 
+   "id": "f000048", 
+   "language": "en", 
+   "lines": [
+    "about"
+   ]
+  }, 
+  {
+   "begin": "18.600", 
+   "end": "19.640", 
+   "id": "f000049", 
+   "language": "en", 
+   "lines": [
+    "Bani."
+   ]
+  }
+ ]
+}

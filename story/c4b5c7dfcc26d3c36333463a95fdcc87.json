@@ -1,0 +1,346 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.400", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "We"
+   ]
+  }, 
+  {
+   "begin": "0.400", 
+   "end": "1.520", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "read"
+   ]
+  }, 
+  {
+   "begin": "1.520", 
+   "end": "2.720", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "books."
+   ]
+  }, 
+  {
+   "begin": "2.720", 
+   "end": "3.160", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "Some"
+   ]
+  }, 
+  {
+   "begin": "3.160", 
+   "end": "3.760", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "books"
+   ]
+  }, 
+  {
+   "begin": "3.760", 
+   "end": "4.080", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "have"
+   ]
+  }, 
+  {
+   "begin": "4.080", 
+   "end": "5.760", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "pictures.\n"
+   ]
+  }, 
+  {
+   "begin": "5.760", 
+   "end": "5.960", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "The"
+   ]
+  }, 
+  {
+   "begin": "5.960", 
+   "end": "6.520", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "teacher"
+   ]
+  }, 
+  {
+   "begin": "6.520", 
+   "end": "7.040", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "helps"
+   ]
+  }, 
+  {
+   "begin": "7.040", 
+   "end": "7.320", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "us"
+   ]
+  }, 
+  {
+   "begin": "7.320", 
+   "end": "8.120", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "8.120", 
+   "end": "8.520", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "learn"
+   ]
+  }, 
+  {
+   "begin": "8.520", 
+   "end": "8.800", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "8.800", 
+   "end": "10.360", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "letters."
+   ]
+  }, 
+  {
+   "begin": "10.360", 
+   "end": "10.760", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "She"
+   ]
+  }, 
+  {
+   "begin": "10.760", 
+   "end": "11.720", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "says"
+   ]
+  }, 
+  {
+   "begin": "11.720", 
+   "end": "12.160", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "12.160", 
+   "end": "12.440", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "will"
+   ]
+  }, 
+  {
+   "begin": "12.440", 
+   "end": "12.480", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "read"
+   ]
+  }, 
+  {
+   "begin": "12.480", 
+   "end": "13.520", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "soon"
+   ]
+  }, 
+  {
+   "begin": "13.520", 
+   "end": "14.280", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "because"
+   ]
+  }, 
+  {
+   "begin": "14.280", 
+   "end": "14.520", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "14.520", 
+   "end": "14.800", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "can"
+   ]
+  }, 
+  {
+   "begin": "14.800", 
+   "end": "15.920", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "recognize"
+   ]
+  }, 
+  {
+   "begin": "15.920", 
+   "end": "16.440", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "all"
+   ]
+  }, 
+  {
+   "begin": "16.440", 
+   "end": "16.720", 
+   "id": "f000027", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "16.720", 
+   "end": "18.040", 
+   "id": "f000028", 
+   "language": "en", 
+   "lines": [
+    "letters."
+   ]
+  }, 
+  {
+   "begin": "18.040", 
+   "end": "18.280", 
+   "id": "f000029", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "18.280", 
+   "end": "18.640", 
+   "id": "f000030", 
+   "language": "en", 
+   "lines": [
+    "can"
+   ]
+  }, 
+  {
+   "begin": "18.640", 
+   "end": "19.160", 
+   "id": "f000031", 
+   "language": "en", 
+   "lines": [
+    "also"
+   ]
+  }, 
+  {
+   "begin": "19.160", 
+   "end": "19.560", 
+   "id": "f000032", 
+   "language": "en", 
+   "lines": [
+    "read"
+   ]
+  }, 
+  {
+   "begin": "19.560", 
+   "end": "21.160", 
+   "id": "f000033", 
+   "language": "en", 
+   "lines": [
+    "sentences.\n"
+   ]
+  }, 
+  {
+   "begin": "21.160", 
+   "end": "21.760", 
+   "id": "f000034", 
+   "language": "en", 
+   "lines": [
+    "She"
+   ]
+  }, 
+  {
+   "begin": "21.760", 
+   "end": "22.080", 
+   "id": "f000035", 
+   "language": "en", 
+   "lines": [
+    "does"
+   ]
+  }, 
+  {
+   "begin": "22.080", 
+   "end": "22.120", 
+   "id": "f000036", 
+   "language": "en", 
+   "lines": [
+    "not"
+   ]
+  }, 
+  {
+   "begin": "22.120", 
+   "end": "22.680", 
+   "id": "f000037", 
+   "language": "en", 
+   "lines": [
+    "know"
+   ]
+  }, 
+  {
+   "begin": "22.680", 
+   "end": "23.240", 
+   "id": "f000038", 
+   "language": "en", 
+   "lines": [
+    "it."
+   ]
+  }
+ ]
+}

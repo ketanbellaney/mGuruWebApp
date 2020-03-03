@@ -1,0 +1,157 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.240", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Mitha"
+   ]
+  }, 
+  {
+   "begin": "0.240", 
+   "end": "1.240", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "lost"
+   ]
+  }, 
+  {
+   "begin": "1.240", 
+   "end": "1.600", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "many"
+   ]
+  }, 
+  {
+   "begin": "1.600", 
+   "end": "2.040", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "friends"
+   ]
+  }, 
+  {
+   "begin": "2.040", 
+   "end": "2.600", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "because"
+   ]
+  }, 
+  {
+   "begin": "2.600", 
+   "end": "2.600", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "of"
+   ]
+  }, 
+  {
+   "begin": "2.600", 
+   "end": "2.680", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "2.680", 
+   "end": "3.280", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "shoes."
+   ]
+  }, 
+  {
+   "begin": "3.280", 
+   "end": "3.920", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "Now"
+   ]
+  }, 
+  {
+   "begin": "3.920", 
+   "end": "4.320", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "4.320", 
+   "end": "4.960", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "shoes"
+   ]
+  }, 
+  {
+   "begin": "4.960", 
+   "end": "5.280", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "are"
+   ]
+  }, 
+  {
+   "begin": "5.280", 
+   "end": "5.560", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "gone"
+   ]
+  }, 
+  {
+   "begin": "5.560", 
+   "end": "6.160", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "6.160", 
+   "end": "6.480", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "she"
+   ]
+  }, 
+  {
+   "begin": "6.480", 
+   "end": "6.720", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "is"
+   ]
+  }, 
+  {
+   "begin": "6.720", 
+   "end": "7.120", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "happy."
+   ]
+  }
+ ]
+}

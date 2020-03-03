@@ -1,0 +1,238 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.720", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Grandma"
+   ]
+  }, 
+  {
+   "begin": "0.720", 
+   "end": "1.160", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "got"
+   ]
+  }, 
+  {
+   "begin": "1.160", 
+   "end": "1.880", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "Ramya"
+   ]
+  }, 
+  {
+   "begin": "1.880", 
+   "end": "3.280", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "really"
+   ]
+  }, 
+  {
+   "begin": "3.280", 
+   "end": "3.800", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "pretty"
+   ]
+  }, 
+  {
+   "begin": "3.800", 
+   "end": "4.480", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "diamond"
+   ]
+  }, 
+  {
+   "begin": "4.480", 
+   "end": "5.360", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "earrings"
+   ]
+  }, 
+  {
+   "begin": "5.360", 
+   "end": "5.640", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "that"
+   ]
+  }, 
+  {
+   "begin": "5.640", 
+   "end": "5.800", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "looked"
+   ]
+  }, 
+  {
+   "begin": "5.800", 
+   "end": "6.000", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "like"
+   ]
+  }, 
+  {
+   "begin": "6.000", 
+   "end": "8.800", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "stars!&nbsp;Ramya"
+   ]
+  }, 
+  {
+   "begin": "8.800", 
+   "end": "9.200", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "loved"
+   ]
+  }, 
+  {
+   "begin": "9.200", 
+   "end": "9.640", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "them."
+   ]
+  }, 
+  {
+   "begin": "9.640", 
+   "end": "11.760", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "\"Oh!"
+   ]
+  }, 
+  {
+   "begin": "11.760", 
+   "end": "12.960", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "Grandma,"
+   ]
+  }, 
+  {
+   "begin": "12.960", 
+   "end": "13.480", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "from"
+   ]
+  }, 
+  {
+   "begin": "13.480", 
+   "end": "13.760", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "where"
+   ]
+  }, 
+  {
+   "begin": "13.760", 
+   "end": "13.920", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "did"
+   ]
+  }, 
+  {
+   "begin": "13.920", 
+   "end": "14.160", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "you"
+   ]
+  }, 
+  {
+   "begin": "14.160", 
+   "end": "14.480", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "get"
+   ]
+  }, 
+  {
+   "begin": "14.480", 
+   "end": "15.040", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "such"
+   ]
+  }, 
+  {
+   "begin": "15.040", 
+   "end": "15.560", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "pretty"
+   ]
+  }, 
+  {
+   "begin": "15.560", 
+   "end": "16.200", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "diamond"
+   ]
+  }, 
+  {
+   "begin": "16.200", 
+   "end": "17.320", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "stars?\""
+   ]
+  }, 
+  {
+   "begin": "17.320", 
+   "end": "17.760", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "she"
+   ]
+  }, 
+  {
+   "begin": "17.760", 
+   "end": "18.920", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "asked."
+   ]
+  }
+ ]
+}

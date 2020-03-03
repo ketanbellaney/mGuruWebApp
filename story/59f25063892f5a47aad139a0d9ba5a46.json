@@ -1,0 +1,148 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.520", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Little"
+   ]
+  }, 
+  {
+   "begin": "0.520", 
+   "end": "1.000", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "Elephant"
+   ]
+  }, 
+  {
+   "begin": "1.000", 
+   "end": "1.400", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "beamed"
+   ]
+  }, 
+  {
+   "begin": "1.400", 
+   "end": "1.640", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "1.640", 
+   "end": "2.040", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "said,"
+   ]
+  }, 
+  {
+   "begin": "2.040", 
+   "end": "2.760", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "\"This"
+   ]
+  }, 
+  {
+   "begin": "2.760", 
+   "end": "2.920", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "is"
+   ]
+  }, 
+  {
+   "begin": "2.920", 
+   "end": "3.240", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "3.240", 
+   "end": "3.680", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "best"
+   ]
+  }, 
+  {
+   "begin": "3.680", 
+   "end": "4.160", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "birthday"
+   ]
+  }, 
+  {
+   "begin": "4.160", 
+   "end": "4.600", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "present"
+   ]
+  }, 
+  {
+   "begin": "4.600", 
+   "end": "4.960", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "that"
+   ]
+  }, 
+  {
+   "begin": "4.960", 
+   "end": "5.440", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "anyone"
+   ]
+  }, 
+  {
+   "begin": "5.440", 
+   "end": "5.720", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "could"
+   ]
+  }, 
+  {
+   "begin": "5.720", 
+   "end": "5.920", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "give"
+   ]
+  }, 
+  {
+   "begin": "5.920", 
+   "end": "6.520", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "me.\""
+   ]
+  }
+ ]
+}

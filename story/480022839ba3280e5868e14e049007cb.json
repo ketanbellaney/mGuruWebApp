@@ -1,0 +1,103 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.200", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "This"
+   ]
+  }, 
+  {
+   "begin": "0.200", 
+   "end": "1.280", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "frock"
+   ]
+  }, 
+  {
+   "begin": "1.280", 
+   "end": "1.520", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "is"
+   ]
+  }, 
+  {
+   "begin": "1.520", 
+   "end": "2.080", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "too"
+   ]
+  }, 
+  {
+   "begin": "2.080", 
+   "end": "3.560", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "bright."
+   ]
+  }, 
+  {
+   "begin": "3.560", 
+   "end": "4.080", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "Brother's"
+   ]
+  }, 
+  {
+   "begin": "4.080", 
+   "end": "4.760", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "T-shirt?"
+   ]
+  }, 
+  {
+   "begin": "4.760", 
+   "end": "5.120", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "What"
+   ]
+  }, 
+  {
+   "begin": "5.120", 
+   "end": "5.320", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "5.320", 
+   "end": "5.960", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "funny"
+   ]
+  }, 
+  {
+   "begin": "5.960", 
+   "end": "6.600", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "sight!"
+   ]
+  }
+ ]
+}

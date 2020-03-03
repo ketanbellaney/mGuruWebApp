@@ -1,0 +1,22 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "2.640", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "They all searched left and right.\n"
+   ]
+  }, 
+  {
+   "begin": "2.640", 
+   "end": "6.760", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "Finally, they found it near a plant."
+   ]
+  }
+ ]
+}

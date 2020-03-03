@@ -1,0 +1,508 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.000", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "\ufeff\ufeffHe"
+   ]
+  }, 
+  {
+   "begin": "0.000", 
+   "end": "1.720", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "says"
+   ]
+  }, 
+  {
+   "begin": "1.720", 
+   "end": "2.000", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "if"
+   ]
+  }, 
+  {
+   "begin": "2.000", 
+   "end": "2.400", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "we"
+   ]
+  }, 
+  {
+   "begin": "2.400", 
+   "end": "2.760", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "don't"
+   ]
+  }, 
+  {
+   "begin": "2.760", 
+   "end": "3.040", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "take"
+   ]
+  }, 
+  {
+   "begin": "3.040", 
+   "end": "3.520", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "care"
+   ]
+  }, 
+  {
+   "begin": "3.520", 
+   "end": "3.720", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "of"
+   ]
+  }, 
+  {
+   "begin": "3.720", 
+   "end": "3.960", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "3.960", 
+   "end": "4.400", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "water,"
+   ]
+  }, 
+  {
+   "begin": "4.400", 
+   "end": "5.360", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "air"
+   ]
+  }, 
+  {
+   "begin": "5.360", 
+   "end": "6.080", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "6.080", 
+   "end": "6.520", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "land,"
+   ]
+  }, 
+  {
+   "begin": "6.520", 
+   "end": "7.800", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "then"
+   ]
+  }, 
+  {
+   "begin": "7.800", 
+   "end": "8.240", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "8.240", 
+   "end": "8.840", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "seasons"
+   ]
+  }, 
+  {
+   "begin": "8.840", 
+   "end": "9.320", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "will"
+   ]
+  }, 
+  {
+   "begin": "9.320", 
+   "end": "9.840", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "all"
+   ]
+  }, 
+  {
+   "begin": "9.840", 
+   "end": "10.520", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "change"
+   ]
+  }, 
+  {
+   "begin": "10.520", 
+   "end": "10.880", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "after"
+   ]
+  }, 
+  {
+   "begin": "10.880", 
+   "end": "11.480", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "some"
+   ]
+  }, 
+  {
+   "begin": "11.480", 
+   "end": "13.840", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "years.&nbsp;I"
+   ]
+  }, 
+  {
+   "begin": "13.840", 
+   "end": "14.040", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "wonder"
+   ]
+  }, 
+  {
+   "begin": "14.040", 
+   "end": "14.320", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "how"
+   ]
+  }, 
+  {
+   "begin": "14.320", 
+   "end": "15.120", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "that"
+   ]
+  }, 
+  {
+   "begin": "15.120", 
+   "end": "15.280", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "will"
+   ]
+  }, 
+  {
+   "begin": "15.280", 
+   "end": "16.720", 
+   "id": "f000027", 
+   "language": "en", 
+   "lines": [
+    "happen!&nbsp;It"
+   ]
+  }, 
+  {
+   "begin": "16.720", 
+   "end": "17.320", 
+   "id": "f000028", 
+   "language": "en", 
+   "lines": [
+    "is"
+   ]
+  }, 
+  {
+   "begin": "17.320", 
+   "end": "17.840", 
+   "id": "f000029", 
+   "language": "en", 
+   "lines": [
+    "getting"
+   ]
+  }, 
+  {
+   "begin": "17.840", 
+   "end": "18.520", 
+   "id": "f000030", 
+   "language": "en", 
+   "lines": [
+    "colder."
+   ]
+  }, 
+  {
+   "begin": "18.520", 
+   "end": "18.920", 
+   "id": "f000031", 
+   "language": "en", 
+   "lines": [
+    "This"
+   ]
+  }, 
+  {
+   "begin": "18.920", 
+   "end": "19.200", 
+   "id": "f000032", 
+   "language": "en", 
+   "lines": [
+    "season"
+   ]
+  }, 
+  {
+   "begin": "19.200", 
+   "end": "19.640", 
+   "id": "f000033", 
+   "language": "en", 
+   "lines": [
+    "just"
+   ]
+  }, 
+  {
+   "begin": "19.640", 
+   "end": "20.040", 
+   "id": "f000034", 
+   "language": "en", 
+   "lines": [
+    "after"
+   ]
+  }, 
+  {
+   "begin": "20.040", 
+   "end": "20.240", 
+   "id": "f000035", 
+   "language": "en", 
+   "lines": [
+    "Sharat"
+   ]
+  }, 
+  {
+   "begin": "20.240", 
+   "end": "20.800", 
+   "id": "f000036", 
+   "language": "en", 
+   "lines": [
+    "Ritu"
+   ]
+  }, 
+  {
+   "begin": "20.800", 
+   "end": "21.000", 
+   "id": "f000037", 
+   "language": "en", 
+   "lines": [
+    "is"
+   ]
+  }, 
+  {
+   "begin": "21.000", 
+   "end": "21.720", 
+   "id": "f000038", 
+   "language": "en", 
+   "lines": [
+    "called"
+   ]
+  }, 
+  {
+   "begin": "21.720", 
+   "end": "22.480", 
+   "id": "f000039", 
+   "language": "en", 
+   "lines": [
+    "Hemant"
+   ]
+  }, 
+  {
+   "begin": "22.480", 
+   "end": "22.720", 
+   "id": "f000040", 
+   "language": "en", 
+   "lines": [
+    "Ritu"
+   ]
+  }, 
+  {
+   "begin": "22.720", 
+   "end": "22.880", 
+   "id": "f000041", 
+   "language": "en", 
+   "lines": [
+    "in"
+   ]
+  }, 
+  {
+   "begin": "22.880", 
+   "end": "24.240", 
+   "id": "f000042", 
+   "language": "en", 
+   "lines": [
+    "Sanskrit,"
+   ]
+  }, 
+  {
+   "begin": "24.240", 
+   "end": "24.760", 
+   "id": "f000043", 
+   "language": "en", 
+   "lines": [
+    "says"
+   ]
+  }, 
+  {
+   "begin": "24.760", 
+   "end": "25.320", 
+   "id": "f000044", 
+   "language": "en", 
+   "lines": [
+    "granny."
+   ]
+  }, 
+  {
+   "begin": "25.320", 
+   "end": "26.120", 
+   "id": "f000045", 
+   "language": "en", 
+   "lines": [
+    "It"
+   ]
+  }, 
+  {
+   "begin": "26.120", 
+   "end": "26.480", 
+   "id": "f000046", 
+   "language": "en", 
+   "lines": [
+    "is"
+   ]
+  }, 
+  {
+   "begin": "26.480", 
+   "end": "26.560", 
+   "id": "f000047", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "26.560", 
+   "end": "27.040", 
+   "id": "f000048", 
+   "language": "en", 
+   "lines": [
+    "short"
+   ]
+  }, 
+  {
+   "begin": "27.040", 
+   "end": "27.600", 
+   "id": "f000049", 
+   "language": "en", 
+   "lines": [
+    "season"
+   ]
+  }, 
+  {
+   "begin": "27.600", 
+   "end": "27.840", 
+   "id": "f000050", 
+   "language": "en", 
+   "lines": [
+    "in"
+   ]
+  }, 
+  {
+   "begin": "27.840", 
+   "end": "29.000", 
+   "id": "f000051", 
+   "language": "en", 
+   "lines": [
+    "India."
+   ]
+  }, 
+  {
+   "begin": "29.000", 
+   "end": "30.040", 
+   "id": "f000052", 
+   "language": "en", 
+   "lines": [
+    "Winter"
+   ]
+  }, 
+  {
+   "begin": "30.040", 
+   "end": "30.200", 
+   "id": "f000053", 
+   "language": "en", 
+   "lines": [
+    "will"
+   ]
+  }, 
+  {
+   "begin": "30.200", 
+   "end": "30.440", 
+   "id": "f000054", 
+   "language": "en", 
+   "lines": [
+    "be"
+   ]
+  }, 
+  {
+   "begin": "30.440", 
+   "end": "30.840", 
+   "id": "f000055", 
+   "language": "en", 
+   "lines": [
+    "here"
+   ]
+  }, 
+  {
+   "begin": "30.840", 
+   "end": "31.880", 
+   "id": "f000056", 
+   "language": "en", 
+   "lines": [
+    "soon."
+   ]
+  }
+ ]
+}

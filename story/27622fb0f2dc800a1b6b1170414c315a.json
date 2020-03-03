@@ -1,0 +1,292 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.840", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Gubbi"
+   ]
+  }, 
+  {
+   "begin": "0.840", 
+   "end": "0.960", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "did"
+   ]
+  }, 
+  {
+   "begin": "0.960", 
+   "end": "1.320", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "not"
+   ]
+  }, 
+  {
+   "begin": "1.320", 
+   "end": "1.600", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "know"
+   ]
+  }, 
+  {
+   "begin": "1.600", 
+   "end": "1.840", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "what"
+   ]
+  }, 
+  {
+   "begin": "1.840", 
+   "end": "2.000", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "2.000", 
+   "end": "2.960", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "do."
+   ]
+  }, 
+  {
+   "begin": "2.960", 
+   "end": "3.240", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "She"
+   ]
+  }, 
+  {
+   "begin": "3.240", 
+   "end": "3.520", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "wished"
+   ]
+  }, 
+  {
+   "begin": "3.520", 
+   "end": "4.360", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "someone"
+   ]
+  }, 
+  {
+   "begin": "4.360", 
+   "end": "4.400", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "would"
+   ]
+  }, 
+  {
+   "begin": "4.400", 
+   "end": "4.680", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "do"
+   ]
+  }, 
+  {
+   "begin": "4.680", 
+   "end": "5.120", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "as"
+   ]
+  }, 
+  {
+   "begin": "5.120", 
+   "end": "5.480", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "she"
+   ]
+  }, 
+  {
+   "begin": "5.480", 
+   "end": "6.320", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "said."
+   ]
+  }, 
+  {
+   "begin": "6.320", 
+   "end": "7.160", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "Suddenly,"
+   ]
+  }, 
+  {
+   "begin": "7.160", 
+   "end": "7.880", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "she"
+   ]
+  }, 
+  {
+   "begin": "7.880", 
+   "end": "8.440", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "remembered"
+   ]
+  }, 
+  {
+   "begin": "8.440", 
+   "end": "8.680", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "her"
+   ]
+  }, 
+  {
+   "begin": "8.680", 
+   "end": "9.560", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "friend,"
+   ]
+  }, 
+  {
+   "begin": "9.560", 
+   "end": "9.840", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "9.840", 
+   "end": "11.320", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "ant."
+   ]
+  }, 
+  {
+   "begin": "11.320", 
+   "end": "11.880", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "Gubbi"
+   ]
+  }, 
+  {
+   "begin": "11.880", 
+   "end": "12.360", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "knew"
+   ]
+  }, 
+  {
+   "begin": "12.360", 
+   "end": "12.800", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "he"
+   ]
+  }, 
+  {
+   "begin": "12.800", 
+   "end": "12.960", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "could"
+   ]
+  }, 
+  {
+   "begin": "12.960", 
+   "end": "13.320", 
+   "id": "f000027", 
+   "language": "en", 
+   "lines": [
+    "help"
+   ]
+  }, 
+  {
+   "begin": "13.320", 
+   "end": "13.640", 
+   "id": "f000028", 
+   "language": "en", 
+   "lines": [
+    "her"
+   ]
+  }, 
+  {
+   "begin": "13.640", 
+   "end": "14.160", 
+   "id": "f000029", 
+   "language": "en", 
+   "lines": [
+    "get"
+   ]
+  }, 
+  {
+   "begin": "14.160", 
+   "end": "14.560", 
+   "id": "f000030", 
+   "language": "en", 
+   "lines": [
+    "her"
+   ]
+  }, 
+  {
+   "begin": "14.560", 
+   "end": "14.720", 
+   "id": "f000031", 
+   "language": "en", 
+   "lines": [
+    "fruit"
+   ]
+  }, 
+  {
+   "begin": "14.720", 
+   "end": "15.400", 
+   "id": "f000032", 
+   "language": "en", 
+   "lines": [
+    "back."
+   ]
+  }
+ ]
+}

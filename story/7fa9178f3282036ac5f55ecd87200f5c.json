@@ -1,0 +1,67 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.760", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "The"
+   ]
+  }, 
+  {
+   "begin": "0.760", 
+   "end": "1.560", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "night"
+   ]
+  }, 
+  {
+   "begin": "1.560", 
+   "end": "2.360", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "sky"
+   ]
+  }, 
+  {
+   "begin": "2.360", 
+   "end": "2.880", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "was"
+   ]
+  }, 
+  {
+   "begin": "2.880", 
+   "end": "3.480", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "filled"
+   ]
+  }, 
+  {
+   "begin": "3.480", 
+   "end": "3.840", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "with"
+   ]
+  }, 
+  {
+   "begin": "3.840", 
+   "end": "5.120", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "stars!"
+   ]
+  }
+ ]
+}

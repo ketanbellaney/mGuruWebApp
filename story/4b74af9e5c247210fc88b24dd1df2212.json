@@ -1,0 +1,112 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.000", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "The"
+   ]
+  }, 
+  {
+   "begin": "0.000", 
+   "end": "1.560", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "churidaar"
+   ]
+  }, 
+  {
+   "begin": "1.560", 
+   "end": "2.440", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "pulls"
+   ]
+  }, 
+  {
+   "begin": "2.440", 
+   "end": "2.680", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "2.680", 
+   "end": "3.640", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "tugs"
+   ]
+  }, 
+  {
+   "begin": "3.640", 
+   "end": "5.120", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "everywhere."
+   ]
+  }, 
+  {
+   "begin": "5.120", 
+   "end": "5.760", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "Nothing"
+   ]
+  }, 
+  {
+   "begin": "5.760", 
+   "end": "6.360", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "perfect"
+   ]
+  }, 
+  {
+   "begin": "6.360", 
+   "end": "6.760", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "seems"
+   ]
+  }, 
+  {
+   "begin": "6.760", 
+   "end": "6.920", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "6.920", 
+   "end": "7.080", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "be"
+   ]
+  }, 
+  {
+   "begin": "7.080", 
+   "end": "8.200", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "there."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,112 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.240", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "0.240", 
+   "end": "0.720", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "am"
+   ]
+  }, 
+  {
+   "begin": "0.720", 
+   "end": "1.120", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "Timmy.\n"
+   ]
+  }, 
+  {
+   "begin": "1.120", 
+   "end": "1.240", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    ""
+   ]
+  }, 
+  {
+   "begin": "1.240", 
+   "end": "1.240", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    ""
+   ]
+  }, 
+  {
+   "begin": "1.240", 
+   "end": "2.880", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "This"
+   ]
+  }, 
+  {
+   "begin": "2.880", 
+   "end": "3.400", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "is"
+   ]
+  }, 
+  {
+   "begin": "3.400", 
+   "end": "3.720", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "my"
+   ]
+  }, 
+  {
+   "begin": "3.720", 
+   "end": "4.240", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "friend,"
+   ]
+  }, 
+  {
+   "begin": "4.240", 
+   "end": "5.440", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "Pepe,"
+   ]
+  }, 
+  {
+   "begin": "5.440", 
+   "end": "5.880", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "5.880", 
+   "end": "6.680", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "puppy."
+   ]
+  }
+ ]
+}

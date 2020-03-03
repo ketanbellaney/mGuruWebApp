@@ -1,0 +1,166 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.360", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "The"
+   ]
+  }, 
+  {
+   "begin": "0.360", 
+   "end": "1.040", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "elephant,"
+   ]
+  }, 
+  {
+   "begin": "1.040", 
+   "end": "2.000", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "cheetah,"
+   ]
+  }, 
+  {
+   "begin": "2.000", 
+   "end": "3.120", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "bear"
+   ]
+  }, 
+  {
+   "begin": "3.120", 
+   "end": "3.440", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "3.440", 
+   "end": "4.160", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "deer"
+   ]
+  }, 
+  {
+   "begin": "4.160", 
+   "end": "4.520", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "were"
+   ]
+  }, 
+  {
+   "begin": "4.520", 
+   "end": "5.000", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "all"
+   ]
+  }, 
+  {
+   "begin": "5.000", 
+   "end": "5.320", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "worried.\n"
+   ]
+  }, 
+  {
+   "begin": "5.320", 
+   "end": "6.560", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "Who"
+   ]
+  }, 
+  {
+   "begin": "6.560", 
+   "end": "7.120", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "would"
+   ]
+  }, 
+  {
+   "begin": "7.120", 
+   "end": "7.320", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "stick"
+   ]
+  }, 
+  {
+   "begin": "7.320", 
+   "end": "7.520", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "their"
+   ]
+  }, 
+  {
+   "begin": "7.520", 
+   "end": "7.960", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "hand"
+   ]
+  }, 
+  {
+   "begin": "7.960", 
+   "end": "8.200", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "into"
+   ]
+  }, 
+  {
+   "begin": "8.200", 
+   "end": "8.320", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "8.320", 
+   "end": "8.960", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "lion's"
+   ]
+  }, 
+  {
+   "begin": "8.960", 
+   "end": "9.800", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "mouth?"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,157 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.280", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "It"
+   ]
+  }, 
+  {
+   "begin": "0.280", 
+   "end": "0.680", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "was"
+   ]
+  }, 
+  {
+   "begin": "0.680", 
+   "end": "0.720", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "0.720", 
+   "end": "1.600", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "bright"
+   ]
+  }, 
+  {
+   "begin": "1.600", 
+   "end": "2.200", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "moonlit"
+   ]
+  }, 
+  {
+   "begin": "2.200", 
+   "end": "3.520", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "night."
+   ]
+  }, 
+  {
+   "begin": "3.520", 
+   "end": "3.800", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "All"
+   ]
+  }, 
+  {
+   "begin": "3.800", 
+   "end": "4.000", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "4.000", 
+   "end": "4.760", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "animals"
+   ]
+  }, 
+  {
+   "begin": "4.760", 
+   "end": "5.000", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "in"
+   ]
+  }, 
+  {
+   "begin": "5.000", 
+   "end": "5.560", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "Mangu's"
+   ]
+  }, 
+  {
+   "begin": "5.560", 
+   "end": "6.360", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "farm"
+   ]
+  }, 
+  {
+   "begin": "6.360", 
+   "end": "6.640", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "were"
+   ]
+  }, 
+  {
+   "begin": "6.640", 
+   "end": "6.920", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "sleeping."
+   ]
+  }, 
+  {
+   "begin": "6.920", 
+   "end": "8.040", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "&nbsp;"
+   ]
+  }, 
+  {
+   "begin": "8.040", 
+   "end": "8.640", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "Except"
+   ]
+  }, 
+  {
+   "begin": "8.640", 
+   "end": "9.560", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "Tinku!"
+   ]
+  }
+ ]
+}

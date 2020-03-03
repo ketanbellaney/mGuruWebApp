@@ -1,0 +1,112 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.840", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Green"
+   ]
+  }, 
+  {
+   "begin": "0.840", 
+   "end": "1.680", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "frogs,"
+   ]
+  }, 
+  {
+   "begin": "1.680", 
+   "end": "2.120", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "brown"
+   ]
+  }, 
+  {
+   "begin": "2.120", 
+   "end": "2.760", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "frogs,"
+   ]
+  }, 
+  {
+   "begin": "2.760", 
+   "end": "3.440", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "big"
+   ]
+  }, 
+  {
+   "begin": "3.440", 
+   "end": "4.440", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "frogs,"
+   ]
+  }, 
+  {
+   "begin": "4.440", 
+   "end": "4.840", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "little"
+   ]
+  }, 
+  {
+   "begin": "4.840", 
+   "end": "5.720", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "frogs,"
+   ]
+  }, 
+  {
+   "begin": "5.720", 
+   "end": "5.920", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "are"
+   ]
+  }, 
+  {
+   "begin": "5.920", 
+   "end": "6.280", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "playing"
+   ]
+  }, 
+  {
+   "begin": "6.280", 
+   "end": "6.440", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "all"
+   ]
+  }, 
+  {
+   "begin": "6.440", 
+   "end": "7.480", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "around."
+   ]
+  }
+ ]
+}

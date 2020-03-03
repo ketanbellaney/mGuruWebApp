@@ -1,0 +1,112 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.440", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "0.440", 
+   "end": "1.280", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "love"
+   ]
+  }, 
+  {
+   "begin": "1.280", 
+   "end": "2.160", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "cakes"
+   ]
+  }, 
+  {
+   "begin": "2.160", 
+   "end": "2.560", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "2.560", 
+   "end": "3.080", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "all"
+   ]
+  }, 
+  {
+   "begin": "3.080", 
+   "end": "3.560", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "kinds"
+   ]
+  }, 
+  {
+   "begin": "3.560", 
+   "end": "3.640", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "of"
+   ]
+  }, 
+  {
+   "begin": "3.640", 
+   "end": "4.720", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "sweets,"
+   ]
+  }, 
+  {
+   "begin": "4.720", 
+   "end": "5.120", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "just"
+   ]
+  }, 
+  {
+   "begin": "5.120", 
+   "end": "5.440", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "like"
+   ]
+  }, 
+  {
+   "begin": "5.440", 
+   "end": "5.520", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "you."
+   ]
+  }, 
+  {
+   "begin": "5.520", 
+   "end": "6.640", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "&nbsp;"
+   ]
+  }
+ ]
+}

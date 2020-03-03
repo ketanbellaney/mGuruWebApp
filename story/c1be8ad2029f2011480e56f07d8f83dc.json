@@ -1,0 +1,103 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.440", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "In"
+   ]
+  }, 
+  {
+   "begin": "0.440", 
+   "end": "1.480", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "tears,"
+   ]
+  }, 
+  {
+   "begin": "1.480", 
+   "end": "1.760", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "he"
+   ]
+  }, 
+  {
+   "begin": "1.760", 
+   "end": "2.080", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "walked"
+   ]
+  }, 
+  {
+   "begin": "2.080", 
+   "end": "2.480", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "off"
+   ]
+  }, 
+  {
+   "begin": "2.480", 
+   "end": "2.720", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "by"
+   ]
+  }, 
+  {
+   "begin": "2.720", 
+   "end": "3.480", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "himself"
+   ]
+  }, 
+  {
+   "begin": "3.480", 
+   "end": "4.120", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "past"
+   ]
+  }, 
+  {
+   "begin": "4.120", 
+   "end": "4.400", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "4.400", 
+   "end": "4.840", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "village"
+   ]
+  }, 
+  {
+   "begin": "4.840", 
+   "end": "5.920", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "forest."
+   ]
+  }
+ ]
+}

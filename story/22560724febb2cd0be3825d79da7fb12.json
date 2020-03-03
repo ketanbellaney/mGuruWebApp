@@ -1,0 +1,94 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.360", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "It's"
+   ]
+  }, 
+  {
+   "begin": "0.360", 
+   "end": "1.080", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "hard"
+   ]
+  }, 
+  {
+   "begin": "1.080", 
+   "end": "1.280", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "1.280", 
+   "end": "1.760", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "say"
+   ]
+  }, 
+  {
+   "begin": "1.760", 
+   "end": "2.320", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "no,"
+   ]
+  }, 
+  {
+   "begin": "2.320", 
+   "end": "3.000", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "3.000", 
+   "end": "3.520", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "toes"
+   ]
+  }, 
+  {
+   "begin": "3.520", 
+   "end": "3.840", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "that"
+   ]
+  }, 
+  {
+   "begin": "3.840", 
+   "end": "4.400", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "wiggle"
+   ]
+  }, 
+  {
+   "begin": "4.400", 
+   "end": "5.320", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "so."
+   ]
+  }
+ ]
+}

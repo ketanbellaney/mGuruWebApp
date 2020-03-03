@@ -1,0 +1,256 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.560", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "\u201cPaperwala,"
+   ]
+  }, 
+  {
+   "begin": "0.560", 
+   "end": "1.760", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "kaidalu*!"
+   ]
+  }, 
+  {
+   "begin": "1.760", 
+   "end": "2.080", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "Papere"
+   ]
+  }, 
+  {
+   "begin": "2.080", 
+   "end": "2.840", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "kaidalu!\u201d"
+   ]
+  }, 
+  {
+   "begin": "2.840", 
+   "end": "2.920", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "sang"
+   ]
+  }, 
+  {
+   "begin": "2.920", 
+   "end": "2.960", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "Cheenu\u2019s"
+   ]
+  }, 
+  {
+   "begin": "2.960", 
+   "end": "2.960", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "father,"
+   ]
+  }, 
+  {
+   "begin": "2.960", 
+   "end": "3.040", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "3.040", 
+   "end": "4.480", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "Kabadiwala**."
+   ]
+  }, 
+  {
+   "begin": "4.480", 
+   "end": "4.680", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "Even"
+   ]
+  }, 
+  {
+   "begin": "4.680", 
+   "end": "6.200", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "from"
+   ]
+  }, 
+  {
+   "begin": "6.200", 
+   "end": "6.640", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "outside,"
+   ]
+  }, 
+  {
+   "begin": "6.640", 
+   "end": "7.040", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "he"
+   ]
+  }, 
+  {
+   "begin": "7.040", 
+   "end": "7.640", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "could"
+   ]
+  }, 
+  {
+   "begin": "7.640", 
+   "end": "7.800", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "see"
+   ]
+  }, 
+  {
+   "begin": "7.800", 
+   "end": "8.000", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "Cheenu\u2019s"
+   ]
+  }, 
+  {
+   "begin": "8.000", 
+   "end": "8.160", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "grin."
+   ]
+  }, 
+  {
+   "begin": "8.160", 
+   "end": "8.400", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "&nbsp;"
+   ]
+  }, 
+  {
+   "begin": "8.400", 
+   "end": "9.880", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "&nbsp;"
+   ]
+  }, 
+  {
+   "begin": "9.880", 
+   "end": "10.760", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "*Kaidalu:"
+   ]
+  }, 
+  {
+   "begin": "10.760", 
+   "end": "11.160", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "Paper"
+   ]
+  }, 
+  {
+   "begin": "11.160", 
+   "end": "11.280", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "in"
+   ]
+  }, 
+  {
+   "begin": "11.280", 
+   "end": "11.680", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "Telugu,"
+   ]
+  }, 
+  {
+   "begin": "11.680", 
+   "end": "12.400", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "**Kabadiwala:"
+   ]
+  }, 
+  {
+   "begin": "12.400", 
+   "end": "12.720", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "Junk"
+   ]
+  }, 
+  {
+   "begin": "12.720", 
+   "end": "12.720", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "dealer"
+   ]
+  }, 
+  {
+   "begin": "12.720", 
+   "end": "12.760", 
+   "id": "f000027", 
+   "language": "en", 
+   "lines": [
+    "in"
+   ]
+  }, 
+  {
+   "begin": "12.760", 
+   "end": "13.520", 
+   "id": "f000028", 
+   "language": "en", 
+   "lines": [
+    "Hindi."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,328 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.480", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "The"
+   ]
+  }, 
+  {
+   "begin": "0.480", 
+   "end": "1.240", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "moment"
+   ]
+  }, 
+  {
+   "begin": "1.240", 
+   "end": "1.760", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "Anu"
+   ]
+  }, 
+  {
+   "begin": "1.760", 
+   "end": "2.120", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "entered"
+   ]
+  }, 
+  {
+   "begin": "2.120", 
+   "end": "2.680", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "Aunty\u2019s"
+   ]
+  }, 
+  {
+   "begin": "2.680", 
+   "end": "3.320", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "house"
+   ]
+  }, 
+  {
+   "begin": "3.320", 
+   "end": "3.520", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "she"
+   ]
+  }, 
+  {
+   "begin": "3.520", 
+   "end": "3.960", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "shouted,"
+   ]
+  }, 
+  {
+   "begin": "3.960", 
+   "end": "3.960", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "\u201cAunty!"
+   ]
+  }, 
+  {
+   "begin": "3.960", 
+   "end": "4.160", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "Where"
+   ]
+  }, 
+  {
+   "begin": "4.160", 
+   "end": "4.240", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "is"
+   ]
+  }, 
+  {
+   "begin": "4.240", 
+   "end": "5.200", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "5.200", 
+   "end": "5.920", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "baby?\u201d"
+   ]
+  }, 
+  {
+   "begin": "5.920", 
+   "end": "10.160", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "\u201cShhhh...\u201d"
+   ]
+  }, 
+  {
+   "begin": "10.160", 
+   "end": "10.560", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "said"
+   ]
+  }, 
+  {
+   "begin": "10.560", 
+   "end": "11.000", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "Aunty"
+   ]
+  }, 
+  {
+   "begin": "11.000", 
+   "end": "11.120", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "Jui,"
+   ]
+  }, 
+  {
+   "begin": "11.120", 
+   "end": "11.760", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "with"
+   ]
+  }, 
+  {
+   "begin": "11.760", 
+   "end": "12.080", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "her"
+   ]
+  }, 
+  {
+   "begin": "12.080", 
+   "end": "12.560", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "finger"
+   ]
+  }, 
+  {
+   "begin": "12.560", 
+   "end": "12.960", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "on"
+   ]
+  }, 
+  {
+   "begin": "12.960", 
+   "end": "13.120", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "her"
+   ]
+  }, 
+  {
+   "begin": "13.120", 
+   "end": "13.440", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "lips."
+   ]
+  }, 
+  {
+   "begin": "13.440", 
+   "end": "15.600", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "\u201cSoftly."
+   ]
+  }, 
+  {
+   "begin": "15.600", 
+   "end": "16.280", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "The"
+   ]
+  }, 
+  {
+   "begin": "16.280", 
+   "end": "16.760", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "baby"
+   ]
+  }, 
+  {
+   "begin": "16.760", 
+   "end": "17.080", 
+   "id": "f000027", 
+   "language": "en", 
+   "lines": [
+    "is"
+   ]
+  }, 
+  {
+   "begin": "17.080", 
+   "end": "18.120", 
+   "id": "f000028", 
+   "language": "en", 
+   "lines": [
+    "sleeping.\u201d\n"
+   ]
+  }, 
+  {
+   "begin": "18.120", 
+   "end": "20.360", 
+   "id": "f000029", 
+   "language": "en", 
+   "lines": [
+    "Sleeping?"
+   ]
+  }, 
+  {
+   "begin": "20.360", 
+   "end": "20.680", 
+   "id": "f000030", 
+   "language": "en", 
+   "lines": [
+    "What"
+   ]
+  }, 
+  {
+   "begin": "20.680", 
+   "end": "20.880", 
+   "id": "f000031", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "20.880", 
+   "end": "22.320", 
+   "id": "f000032", 
+   "language": "en", 
+   "lines": [
+    "bore."
+   ]
+  }, 
+  {
+   "begin": "22.320", 
+   "end": "22.720", 
+   "id": "f000033", 
+   "language": "en", 
+   "lines": [
+    "Anu"
+   ]
+  }, 
+  {
+   "begin": "22.720", 
+   "end": "23.480", 
+   "id": "f000034", 
+   "language": "en", 
+   "lines": [
+    "began"
+   ]
+  }, 
+  {
+   "begin": "23.480", 
+   "end": "23.640", 
+   "id": "f000035", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "23.640", 
+   "end": "24.040", 
+   "id": "f000036", 
+   "language": "en", 
+   "lines": [
+    "sulk."
+   ]
+  }
+ ]
+}

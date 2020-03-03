@@ -1,0 +1,292 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.320", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "In"
+   ]
+  }, 
+  {
+   "begin": "0.320", 
+   "end": "0.680", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "0.680", 
+   "end": "1.520", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "dream,"
+   ]
+  }, 
+  {
+   "begin": "1.520", 
+   "end": "1.640", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "1.640", 
+   "end": "2.080", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "pretty"
+   ]
+  }, 
+  {
+   "begin": "2.080", 
+   "end": "2.480", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "fairy"
+   ]
+  }, 
+  {
+   "begin": "2.480", 
+   "end": "3.120", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "came"
+   ]
+  }, 
+  {
+   "begin": "3.120", 
+   "end": "3.320", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "3.320", 
+   "end": "3.800", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "told"
+   ]
+  }, 
+  {
+   "begin": "3.800", 
+   "end": "4.000", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "Ramya,"
+   ]
+  }, 
+  {
+   "begin": "4.000", 
+   "end": "4.680", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "\u201cDon\u2019t"
+   ]
+  }, 
+  {
+   "begin": "4.680", 
+   "end": "5.120", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "worry"
+   ]
+  }, 
+  {
+   "begin": "5.120", 
+   "end": "5.600", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "Ramya,"
+   ]
+  }, 
+  {
+   "begin": "5.600", 
+   "end": "5.920", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "5.920", 
+   "end": "6.560", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "have"
+   ]
+  }, 
+  {
+   "begin": "6.560", 
+   "end": "7.680", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "thousands"
+   ]
+  }, 
+  {
+   "begin": "7.680", 
+   "end": "7.880", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "of"
+   ]
+  }, 
+  {
+   "begin": "7.880", 
+   "end": "8.200", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "new"
+   ]
+  }, 
+  {
+   "begin": "8.200", 
+   "end": "8.560", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "stars"
+   ]
+  }, 
+  {
+   "begin": "8.560", 
+   "end": "8.840", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "for"
+   ]
+  }, 
+  {
+   "begin": "8.840", 
+   "end": "8.960", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "8.960", 
+   "end": "10.480", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "sky!\u201d"
+   ]
+  }, 
+  {
+   "begin": "10.480", 
+   "end": "10.920", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "Ramya"
+   ]
+  }, 
+  {
+   "begin": "10.920", 
+   "end": "11.160", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "woke"
+   ]
+  }, 
+  {
+   "begin": "11.160", 
+   "end": "11.240", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "up,"
+   ]
+  }, 
+  {
+   "begin": "11.240", 
+   "end": "11.400", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "11.400", 
+   "end": "11.960", 
+   "id": "f000027", 
+   "language": "en", 
+   "lines": [
+    "do"
+   ]
+  }, 
+  {
+   "begin": "11.960", 
+   "end": "12.240", 
+   "id": "f000028", 
+   "language": "en", 
+   "lines": [
+    "you"
+   ]
+  }, 
+  {
+   "begin": "12.240", 
+   "end": "12.880", 
+   "id": "f000029", 
+   "language": "en", 
+   "lines": [
+    "know"
+   ]
+  }, 
+  {
+   "begin": "12.880", 
+   "end": "13.080", 
+   "id": "f000030", 
+   "language": "en", 
+   "lines": [
+    "what"
+   ]
+  }, 
+  {
+   "begin": "13.080", 
+   "end": "13.320", 
+   "id": "f000031", 
+   "language": "en", 
+   "lines": [
+    "she"
+   ]
+  }, 
+  {
+   "begin": "13.320", 
+   "end": "14.560", 
+   "id": "f000032", 
+   "language": "en", 
+   "lines": [
+    "saw?"
+   ]
+  }
+ ]
+}

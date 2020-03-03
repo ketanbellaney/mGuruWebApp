@@ -1,0 +1,139 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "1.040", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "\u201cLook,"
+   ]
+  }, 
+  {
+   "begin": "1.040", 
+   "end": "1.200", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "1.200", 
+   "end": "1.600", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "have"
+   ]
+  }, 
+  {
+   "begin": "1.600", 
+   "end": "2.320", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "eyes!\u201d"
+   ]
+  }, 
+  {
+   "begin": "2.320", 
+   "end": "2.320", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "2.320", 
+   "end": "3.560", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "say."
+   ]
+  }, 
+  {
+   "begin": "3.560", 
+   "end": "5.200", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "\u201cWoof,\u201d"
+   ]
+  }, 
+  {
+   "begin": "5.200", 
+   "end": "5.640", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "says"
+   ]
+  }, 
+  {
+   "begin": "5.640", 
+   "end": "6.200", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "Pepe."
+   ]
+  }, 
+  {
+   "begin": "6.200", 
+   "end": "7.400", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "That"
+   ]
+  }, 
+  {
+   "begin": "7.400", 
+   "end": "7.800", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "means"
+   ]
+  }, 
+  {
+   "begin": "7.800", 
+   "end": "7.800", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "he"
+   ]
+  }, 
+  {
+   "begin": "7.800", 
+   "end": "8.640", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "has"
+   ]
+  }, 
+  {
+   "begin": "8.640", 
+   "end": "9.160", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "eyes"
+   ]
+  }, 
+  {
+   "begin": "9.160", 
+   "end": "10.040", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "too."
+   ]
+  }
+ ]
+}

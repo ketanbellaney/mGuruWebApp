@@ -1,0 +1,561 @@
+{
+	"fragments": [{
+			"begin": "0.000",
+			"end": "0.480",
+			"id": "f000001",
+			"language": "en",
+			"lines": [
+				"Butterfly,"
+			]
+		},
+		{
+			"begin": "0.480",
+			"end": "7.640",
+			"id": "f000002",
+			"language": "en",
+			"lines": [
+				"butterfly"
+			]
+		},
+		{
+			"begin": "7.640",
+			"end": "8.520",
+			"id": "f000003",
+			"language": "en",
+			"lines": [
+				"fly"
+			]
+		},
+		{
+			"begin": "8.520",
+			"end": "9.240",
+			"id": "f000004",
+			"language": "en",
+			"lines": [
+				"with"
+			]
+		},
+		{
+			"begin": "9.240",
+			"end": "11.360",
+			"id": "f000005",
+			"language": "en",
+			"lines": [
+				"me\n"
+			]
+		},
+		{
+			"begin": "11.360",
+			"end": "13.080",
+			"id": "f000006",
+			"language": "en",
+			"lines": [
+				"butterfly,"
+			]
+		},
+		{
+			"begin": "13.080",
+			"end": "14.560",
+			"id": "f000007",
+			"language": "en",
+			"lines": [
+				"butterfly"
+			]
+		},
+		{
+			"begin": "14.560",
+			"end": "15.440",
+			"id": "f000008",
+			"language": "en",
+			"lines": [
+				"fly"
+			]
+		},
+		{
+			"begin": "15.440",
+			"end": "16.640",
+			"id": "f000009",
+			"language": "en",
+			"lines": [
+				"with"
+			]
+		},
+		{
+			"begin": "16.640",
+			"end": "17.040",
+			"id": "f000010",
+			"language": "en",
+			"lines": [
+				"me\n"
+			]
+		},
+		{
+			"begin": "17.040",
+			"end": "18.920",
+			"id": "f000011",
+			"language": "en",
+			"lines": [
+				"butterfly,"
+			]
+		},
+		{
+			"begin": "18.920",
+			"end": "20.720",
+			"id": "f000012",
+			"language": "en",
+			"lines": [
+				"butterfly"
+			]
+		},
+		{
+			"begin": "20.720",
+			"end": "21.200",
+			"id": "f000013",
+			"language": "en",
+			"lines": [
+				"fly"
+			]
+		},
+		{
+			"begin": "21.200",
+			"end": "21.800",
+			"id": "f000014",
+			"language": "en",
+			"lines": [
+				"with"
+			]
+		},
+		{
+			"begin": "21.800",
+			"end": "22.640",
+			"id": "f000015",
+			"language": "en",
+			"lines": [
+				"me\n"
+			]
+		},
+		{
+			"begin": "22.640",
+			"end": "24.520",
+			"id": "f000016",
+			"language": "en",
+			"lines": [
+				"butterfly,"
+			]
+		},
+		{
+			"begin": "24.520",
+			"end": "25.800",
+			"id": "f000017",
+			"language": "en",
+			"lines": [
+				"butterfly"
+			]
+		},
+		{
+			"begin": "25.800",
+			"end": "26.080",
+			"id": "f000018",
+			"language": "en",
+			"lines": [
+				"fly"
+			]
+		},
+		{
+			"begin": "26.080",
+			"end": "26.840",
+			"id": "f000019",
+			"language": "en",
+			"lines": [
+				"with"
+			]
+		},
+		{
+			"begin": "27.040",
+			"end": "29.480",
+			"id": "f000020",
+			"language": "en",
+			"lines": [
+				"me\n\n"
+			]
+		},
+		{
+			"begin": "29.480",
+			"end": "29.480",
+			"id": "f000021",
+			"language": "en",
+			"lines": [
+				""
+			]
+		},
+		{
+			"begin": "29.480",
+			"end": "29.880",
+			"id": "f000022",
+			"language": "en",
+			"lines": [
+				"Butterfly,"
+			]
+		},
+		{
+			"begin": "29.880",
+			"end": "31.080",
+			"id": "f000023",
+			"language": "en",
+			"lines": [
+				"butterfly"
+			]
+		},
+		{
+			"begin": "31.080",
+			"end": "31.880",
+			"id": "f000024",
+			"language": "en",
+			"lines": [
+				"dance"
+			]
+		},
+		{
+			"begin": "31.880",
+			"end": "33.000",
+			"id": "f000025",
+			"language": "en",
+			"lines": [
+				"with"
+			]
+		},
+		{
+			"begin": "33.000",
+			"end": "35.560",
+			"id": "f000026",
+			"language": "en",
+			"lines": [
+				"me\n"
+			]
+		},
+		{
+			"begin": "35.560",
+			"end": "36.440",
+			"id": "f000027",
+			"language": "en",
+			"lines": [
+				"butterfly,"
+			]
+		},
+		{
+			"begin": "36.440",
+			"end": "37.400",
+			"id": "f000028",
+			"language": "en",
+			"lines": [
+				"butterfly"
+			]
+		},
+		{
+			"begin": "37.400",
+			"end": "38.840",
+			"id": "f000029",
+			"language": "en",
+			"lines": [
+				"dance"
+			]
+		},
+		{
+			"begin": "38.840",
+			"end": "40.000",
+			"id": "f000030",
+			"language": "en",
+			"lines": [
+				"with"
+			]
+		},
+		{
+			"begin": "40.000",
+			"end": "42.560",
+			"id": "f000031",
+			"language": "en",
+			"lines": [
+				"me\n"
+			]
+		},
+		{
+			"begin": "42.560",
+			"end": "42.960",
+			"id": "f000032",
+			"language": "en",
+			"lines": [
+				"butterfly,"
+			]
+		},
+		{
+			"begin": "42.960",
+			"end": "43.320",
+			"id": "f000033",
+			"language": "en",
+			"lines": [
+				"butterfly"
+			]
+		},
+		{
+			"begin": "43.320",
+			"end": "44.000",
+			"id": "f000034",
+			"language": "en",
+			"lines": [
+				"dance"
+			]
+		},
+		{
+			"begin": "44.000",
+			"end": "44.400",
+			"id": "f000035",
+			"language": "en",
+			"lines": [
+				"with"
+			]
+		},
+		{
+			"begin": "44.400",
+			"end": "45.080",
+			"id": "f000036",
+			"language": "en",
+			"lines": [
+				"me\n"
+			]
+		},
+		{
+			"begin": "45.080",
+			"end": "45.160",
+			"id": "f000037",
+			"language": "en",
+			"lines": [
+				"butterfly,"
+			]
+		},
+		{
+			"begin": "45.160",
+			"end": "45.800",
+			"id": "f000038",
+			"language": "en",
+			"lines": [
+				"butterfly"
+			]
+		},
+		{
+			"begin": "45.800",
+			"end": "47.560",
+			"id": "f000039",
+			"language": "en",
+			"lines": [
+				"dance"
+			]
+		},
+		{
+			"begin": "47.560",
+			"end": "49.440",
+			"id": "f000040",
+			"language": "en",
+			"lines": [
+				"with"
+			]
+		},
+		{
+			"begin": "49.440",
+			"end": "52.040",
+			"id": "f000041",
+			"language": "en",
+			"lines": [
+				"me\n\n"
+			]
+		},
+		{
+			"begin": "52.040",
+			"end": "52.040",
+			"id": "f000042",
+			"language": "en",
+			"lines": [
+				""
+			]
+		},
+		{
+			"begin": "52.040",
+			"end": "52.760",
+			"id": "f000043",
+			"language": "en",
+			"lines": [
+				"Butterfly,"
+			]
+		},
+		{
+			"begin": "52.760",
+			"end": "53.880",
+			"id": "f000044",
+			"language": "en",
+			"lines": [
+				"butterfly"
+			]
+		},
+		{
+			"begin": "53.880",
+			"end": "55.400",
+			"id": "f000045",
+			"language": "en",
+			"lines": [
+				"come"
+			]
+		},
+		{
+			"begin": "55.400",
+			"end": "56.120",
+			"id": "f000046",
+			"language": "en",
+			"lines": [
+				"with"
+			]
+		},
+		{
+			"begin": "56.120",
+			"end": "58.680",
+			"id": "f000047",
+			"language": "en",
+			"lines": [
+				"me\n"
+			]
+		},
+		{
+			"begin": "58.680",
+			"end": "59.480",
+			"id": "f000048",
+			"language": "en",
+			"lines": [
+				"butterfly,"
+			]
+		},
+		{
+			"begin": "59.480",
+			"end": "60.080",
+			"id": "f000049",
+			"language": "en",
+			"lines": [
+				"butterfly"
+			]
+		},
+		{
+			"begin": "60.080",
+			"end": "60.800",
+			"id": "f000050",
+			"language": "en",
+			"lines": [
+				"come"
+			]
+		},
+		{
+			"begin": "60.800",
+			"end": "62.760",
+			"id": "f000051",
+			"language": "en",
+			"lines": [
+				"with"
+			]
+		},
+		{
+			"begin": "62.760",
+			"end": "64.360",
+			"id": "f000052",
+			"language": "en",
+			"lines": [
+				"me\n"
+			]
+		},
+		{
+			"begin": "64.360",
+			"end": "65.000",
+			"id": "f000053",
+			"language": "en",
+			"lines": [
+				"butterfly,"
+			]
+		},
+		{
+			"begin": "65.000",
+			"end": "65.720",
+			"id": "f000054",
+			"language": "en",
+			"lines": [
+				"butterfly"
+			]
+		},
+		{
+			"begin": "65.720",
+			"end": "66.440",
+			"id": "f000055",
+			"language": "en",
+			"lines": [
+				"come"
+			]
+		},
+		{
+			"begin": "66.440",
+			"end": "66.880",
+			"id": "f000056",
+			"language": "en",
+			"lines": [
+				"with"
+			]
+		},
+		{
+			"begin": "66.880",
+			"end": "68.440",
+			"id": "f000057",
+			"language": "en",
+			"lines": [
+				"me\n"
+			]
+		},
+		{
+			"begin": "68.440",
+			"end": "69.280",
+			"id": "f000058",
+			"language": "en",
+			"lines": [
+				"butterfly,"
+			]
+		},
+		{
+			"begin": "69.280",
+			"end": "70.320",
+			"id": "f000059",
+			"language": "en",
+			"lines": [
+				"butterfly"
+			]
+		},
+		{
+			"begin": "70.320",
+			"end": "71.360",
+			"id": "f000060",
+			"language": "en",
+			"lines": [
+				"come"
+			]
+		},
+		{
+			"begin": "71.360",
+			"end": "72.480",
+			"id": "f000061",
+			"language": "en",
+			"lines": [
+				"with"
+			]
+		},
+		{
+			"begin": "72.480",
+			"end": "73.600",
+			"id": "f000062",
+			"language": "en",
+			"lines": [
+				"me"
+			]
+		}
+	]
+}

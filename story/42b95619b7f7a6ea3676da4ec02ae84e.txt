@@ -1,0 +1,229 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "end": "0.080",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "It"
+   ]
+  },
+  {
+   "begin": "0.080",
+   "end": "0.240",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "was"
+   ]
+  },
+  {
+   "begin": "0.240",
+   "end": "1.280",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "true."
+   ]
+  },
+  {
+   "begin": "1.280",
+   "end": "1.560",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "There"
+   ]
+  },
+  {
+   "begin": "1.560",
+   "end": "1.920",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "was"
+   ]
+  },
+  {
+   "begin": "1.920",
+   "end": "1.920",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "a"
+   ]
+  },
+  {
+   "begin": "1.920",
+   "end": "2.160",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "puppy"
+   ]
+  },
+  {
+   "begin": "2.160",
+   "end": "2.360",
+   "id": "f000008",
+   "language": "en",
+   "lines": [
+    "in"
+   ]
+  },
+  {
+   "begin": "2.360",
+   "end": "2.720",
+   "id": "f000009",
+   "language": "en",
+   "lines": [
+    "her"
+   ]
+  },
+  {
+   "begin": "2.720",
+   "end": "3.280",
+   "id": "f000010",
+   "language": "en",
+   "lines": [
+    "garden."
+   ]
+  },
+  {
+   "begin": "3.280",
+   "end": "4.400",
+   "id": "f000011",
+   "language": "en",
+   "lines": [
+    "Shankar!"
+   ]
+  },
+  {
+   "begin": "4.400",
+   "end": "4.400",
+   "id": "f000012",
+   "language": "en",
+   "lines": [
+    ""
+   ]
+  },
+  {
+   "begin": "4.400",
+   "end": "4.920",
+   "id": "f000013",
+   "language": "en",
+   "lines": [
+    "\"But"
+   ]
+  },
+  {
+   "begin": "4.920",
+   "end": "5.000",
+   "id": "f000014",
+   "language": "en",
+   "lines": [
+    "he\u2019s"
+   ]
+  },
+  {
+   "begin": "5.000",
+   "end": "6.040",
+   "id": "f000015",
+   "language": "en",
+   "lines": [
+    "not"
+   ]
+  },
+  {
+   "begin": "6.040",
+   "end": "6.560",
+   "id": "f000016",
+   "language": "en",
+   "lines": [
+    "black,\"."
+   ]
+  },
+   {
+   "begin": "7.880",
+   "end": "8.760",
+   "id": "f000019",
+   "language": "en",
+   "lines": [
+    "\"He\u2019s"
+   ]
+  },
+  {
+   "begin": "8.760",
+   "end": "9.520",
+   "id": "f000020",
+   "language": "en",
+   "lines": [
+    "brown.\u2019\""
+   ]
+  },
+  {
+   "begin": "9.520",
+   "end": "11.240",
+   "id": "f000021",
+   "language": "en",
+   "lines": [
+    "\"Oh,\""
+   ]
+  },
+  {
+   "begin": "11.240",
+   "end": "11.680",
+   "id": "f000022",
+   "language": "en",
+   "lines": [
+    "said"
+   ]
+  },
+  {
+   "begin": "11.680",
+   "end": "12.200",
+   "id": "f000023",
+   "language": "en",
+   "lines": [
+    "Ammu."
+   ]
+  },
+  {
+   "begin": "12.200",
+   "end": "13.280",
+   "id": "f000024",
+   "language": "en",
+   "lines": [
+    "\"I"
+   ]
+  },
+  {
+   "begin": "13.280",
+   "end": "13.520",
+   "id": "f000025",
+   "language": "en",
+   "lines": [
+    "made"
+   ]
+  },
+  {
+   "begin": "13.520",
+   "end": "14.040",
+   "id": "f000026",
+   "language": "en",
+   "lines": [
+    "that"
+   ]
+  },
+  {
+   "begin": "14.040",
+   "end": "14.080",
+   "id": "f000027",
+   "language": "en",
+   "lines": [
+    "up!\""
+   ]
+  }
+ ]
+}

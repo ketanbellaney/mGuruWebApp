@@ -1,0 +1,337 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.000", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Syeda"
+   ]
+  }, 
+  {
+   "begin": "0.000", 
+   "end": "1.200", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "picked"
+   ]
+  }, 
+  {
+   "begin": "1.200", 
+   "end": "1.600", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "up"
+   ]
+  }, 
+  {
+   "begin": "1.600", 
+   "end": "1.760", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "1.760", 
+   "end": "2.320", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "crumpled"
+   ]
+  }, 
+  {
+   "begin": "2.320", 
+   "end": "3.880", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "paper.\n"
+   ]
+  }, 
+  {
+   "begin": "3.880", 
+   "end": "3.880", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    ""
+   ]
+  }, 
+  {
+   "begin": "3.880", 
+   "end": "3.880", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    ""
+   ]
+  }, 
+  {
+   "begin": "3.880", 
+   "end": "4.360", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "She"
+   ]
+  }, 
+  {
+   "begin": "4.360", 
+   "end": "4.520", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "stuck"
+   ]
+  }, 
+  {
+   "begin": "4.520", 
+   "end": "4.640", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "4.640", 
+   "end": "5.200", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "pencil"
+   ]
+  }, 
+  {
+   "begin": "5.200", 
+   "end": "5.360", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "into"
+   ]
+  }, 
+  {
+   "begin": "5.360", 
+   "end": "5.440", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "it"
+   ]
+  }, 
+  {
+   "begin": "5.440", 
+   "end": "6.000", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "6.000", 
+   "end": "7.720", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "said,&nbsp;\u201cWould"
+   ]
+  }, 
+  {
+   "begin": "7.720", 
+   "end": "8.120", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "you"
+   ]
+  }, 
+  {
+   "begin": "8.120", 
+   "end": "8.120", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "like"
+   ]
+  }, 
+  {
+   "begin": "8.120", 
+   "end": "8.840", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "this"
+   ]
+  }, 
+  {
+   "begin": "8.840", 
+   "end": "9.400", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "lollipop?"
+   ]
+  }, 
+  {
+   "begin": "9.400", 
+   "end": "9.720", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "When"
+   ]
+  }, 
+  {
+   "begin": "9.720", 
+   "end": "10.120", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "10.120", 
+   "end": "10.200", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "am"
+   ]
+  }, 
+  {
+   "begin": "10.200", 
+   "end": "10.440", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "big,"
+   ]
+  }, 
+  {
+   "begin": "10.440", 
+   "end": "10.880", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "10.880", 
+   "end": "11.240", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "am"
+   ]
+  }, 
+  {
+   "begin": "11.240", 
+   "end": "11.480", 
+   "id": "f000027", 
+   "language": "en", 
+   "lines": [
+    "going"
+   ]
+  }, 
+  {
+   "begin": "11.480", 
+   "end": "11.480", 
+   "id": "f000028", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "11.480", 
+   "end": "11.960", 
+   "id": "f000029", 
+   "language": "en", 
+   "lines": [
+    "sell"
+   ]
+  }, 
+  {
+   "begin": "11.960", 
+   "end": "12.320", 
+   "id": "f000030", 
+   "language": "en", 
+   "lines": [
+    "many"
+   ]
+  }, 
+  {
+   "begin": "12.320", 
+   "end": "13.040", 
+   "id": "f000031", 
+   "language": "en", 
+   "lines": [
+    "kinds"
+   ]
+  }, 
+  {
+   "begin": "13.040", 
+   "end": "13.200", 
+   "id": "f000032", 
+   "language": "en", 
+   "lines": [
+    "of"
+   ]
+  }, 
+  {
+   "begin": "13.200", 
+   "end": "13.640", 
+   "id": "f000033", 
+   "language": "en", 
+   "lines": [
+    "lollipops"
+   ]
+  }, 
+  {
+   "begin": "13.640", 
+   "end": "13.720", 
+   "id": "f000034", 
+   "language": "en", 
+   "lines": [
+    "in"
+   ]
+  }, 
+  {
+   "begin": "13.720", 
+   "end": "13.920", 
+   "id": "f000035", 
+   "language": "en", 
+   "lines": [
+    "my"
+   ]
+  }, 
+  {
+   "begin": "13.920", 
+   "end": "14.440", 
+   "id": "f000036", 
+   "language": "en", 
+   "lines": [
+    "sweet"
+   ]
+  }, 
+  {
+   "begin": "14.440", 
+   "end": "15.360", 
+   "id": "f000037", 
+   "language": "en", 
+   "lines": [
+    "shop.\u201d"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,175 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.440", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "When"
+   ]
+  }, 
+  {
+   "begin": "0.440", 
+   "end": "0.760", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "two"
+   ]
+  }, 
+  {
+   "begin": "0.760", 
+   "end": "1.360", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "rams"
+   ]
+  }, 
+  {
+   "begin": "1.360", 
+   "end": "1.720", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "meet,"
+   ]
+  }, 
+  {
+   "begin": "1.720", 
+   "end": "2.560", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "they"
+   ]
+  }, 
+  {
+   "begin": "2.560", 
+   "end": "2.960", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "greet\n"
+   ]
+  }, 
+  {
+   "begin": "2.960", 
+   "end": "2.960", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    ""
+   ]
+  }, 
+  {
+   "begin": "2.960", 
+   "end": "3.280", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "each"
+   ]
+  }, 
+  {
+   "begin": "3.280", 
+   "end": "3.640", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "other"
+   ]
+  }, 
+  {
+   "begin": "3.640", 
+   "end": "3.880", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "by"
+   ]
+  }, 
+  {
+   "begin": "3.880", 
+   "end": "4.360", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "turning"
+   ]
+  }, 
+  {
+   "begin": "4.360", 
+   "end": "4.600", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "their"
+   ]
+  }, 
+  {
+   "begin": "4.600", 
+   "end": "5.320", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "heads\n"
+   ]
+  }, 
+  {
+   "begin": "5.320", 
+   "end": "5.320", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    ""
+   ]
+  }, 
+  {
+   "begin": "5.320", 
+   "end": "5.520", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "5.520", 
+   "end": "5.960", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "showing"
+   ]
+  }, 
+  {
+   "begin": "5.960", 
+   "end": "6.200", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "off"
+   ]
+  }, 
+  {
+   "begin": "6.200", 
+   "end": "6.480", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "their"
+   ]
+  }, 
+  {
+   "begin": "6.480", 
+   "end": "7.440", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "horns."
+   ]
+  }
+ ]
+}

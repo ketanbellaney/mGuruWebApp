@@ -1,0 +1,418 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.240", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "The"
+   ]
+  }, 
+  {
+   "begin": "0.240", 
+   "end": "0.760", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "rains"
+   ]
+  }, 
+  {
+   "begin": "0.760", 
+   "end": "1.240", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "have"
+   ]
+  }, 
+  {
+   "begin": "1.240", 
+   "end": "2.440", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "stopped."
+   ]
+  }, 
+  {
+   "begin": "2.440", 
+   "end": "2.680", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "But"
+   ]
+  }, 
+  {
+   "begin": "2.680", 
+   "end": "3.360", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "winter"
+   ]
+  }, 
+  {
+   "begin": "3.360", 
+   "end": "3.600", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "is"
+   ]
+  }, 
+  {
+   "begin": "3.600", 
+   "end": "4.120", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "not"
+   ]
+  }, 
+  {
+   "begin": "4.120", 
+   "end": "4.520", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "here"
+   ]
+  }, 
+  {
+   "begin": "4.520", 
+   "end": "5.480", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "yet."
+   ]
+  }, 
+  {
+   "begin": "5.480", 
+   "end": "6.680", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "This&nbsp;season"
+   ]
+  }, 
+  {
+   "begin": "6.680", 
+   "end": "6.920", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "is"
+   ]
+  }, 
+  {
+   "begin": "6.920", 
+   "end": "7.520", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "called"
+   ]
+  }, 
+  {
+   "begin": "7.520", 
+   "end": "8.800", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "Autumn."
+   ]
+  }, 
+  {
+   "begin": "8.800", 
+   "end": "8.920", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "It"
+   ]
+  }, 
+  {
+   "begin": "8.920", 
+   "end": "9.200", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "is"
+   ]
+  }, 
+  {
+   "begin": "9.200", 
+   "end": "9.600", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "called"
+   ]
+  }, 
+  {
+   "begin": "9.600", 
+   "end": "10.040", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "Sharat"
+   ]
+  }, 
+  {
+   "begin": "10.040", 
+   "end": "10.360", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "Ritu"
+   ]
+  }, 
+  {
+   "begin": "10.360", 
+   "end": "10.720", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "in"
+   ]
+  }, 
+  {
+   "begin": "10.720", 
+   "end": "13.800", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "Sanskrit.&nbsp;Aksheeee!"
+   ]
+  }, 
+  {
+   "begin": "13.800", 
+   "end": "14.400", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "14.400", 
+   "end": "15.000", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "have"
+   ]
+  }, 
+  {
+   "begin": "15.000", 
+   "end": "15.120", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "15.120", 
+   "end": "16.000", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "cold."
+   ]
+  }, 
+  {
+   "begin": "16.000", 
+   "end": "16.040", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "The"
+   ]
+  }, 
+  {
+   "begin": "16.040", 
+   "end": "16.800", 
+   "id": "f000027", 
+   "language": "en", 
+   "lines": [
+    "change"
+   ]
+  }, 
+  {
+   "begin": "16.800", 
+   "end": "16.960", 
+   "id": "f000028", 
+   "language": "en", 
+   "lines": [
+    "in"
+   ]
+  }, 
+  {
+   "begin": "16.960", 
+   "end": "16.960", 
+   "id": "f000029", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "16.960", 
+   "end": "17.240", 
+   "id": "f000030", 
+   "language": "en", 
+   "lines": [
+    "weather"
+   ]
+  }, 
+  {
+   "begin": "17.240", 
+   "end": "17.640", 
+   "id": "f000031", 
+   "language": "en", 
+   "lines": [
+    "seems"
+   ]
+  }, 
+  {
+   "begin": "17.640", 
+   "end": "17.720", 
+   "id": "f000032", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "17.720", 
+   "end": "18.240", 
+   "id": "f000033", 
+   "language": "en", 
+   "lines": [
+    "make"
+   ]
+  }, 
+  {
+   "begin": "18.240", 
+   "end": "19.160", 
+   "id": "f000034", 
+   "language": "en", 
+   "lines": [
+    "so"
+   ]
+  }, 
+  {
+   "begin": "19.160", 
+   "end": "19.360", 
+   "id": "f000035", 
+   "language": "en", 
+   "lines": [
+    "many"
+   ]
+  }, 
+  {
+   "begin": "19.360", 
+   "end": "19.720", 
+   "id": "f000036", 
+   "language": "en", 
+   "lines": [
+    "people"
+   ]
+  }, 
+  {
+   "begin": "19.720", 
+   "end": "20.080", 
+   "id": "f000037", 
+   "language": "en", 
+   "lines": [
+    "ill."
+   ]
+  }, 
+  {
+   "begin": "20.080", 
+   "end": "21.480", 
+   "id": "f000038", 
+   "language": "en", 
+   "lines": [
+    "Granny"
+   ]
+  }, 
+  {
+   "begin": "21.480", 
+   "end": "22.640", 
+   "id": "f000039", 
+   "language": "en", 
+   "lines": [
+    "says"
+   ]
+  }, 
+  {
+   "begin": "22.640", 
+   "end": "22.960", 
+   "id": "f000040", 
+   "language": "en", 
+   "lines": [
+    "all"
+   ]
+  }, 
+  {
+   "begin": "22.960", 
+   "end": "23.560", 
+   "id": "f000041", 
+   "language": "en", 
+   "lines": [
+    "children"
+   ]
+  }, 
+  {
+   "begin": "23.560", 
+   "end": "23.840", 
+   "id": "f000042", 
+   "language": "en", 
+   "lines": [
+    "will"
+   ]
+  }, 
+  {
+   "begin": "23.840", 
+   "end": "24.040", 
+   "id": "f000043", 
+   "language": "en", 
+   "lines": [
+    "be"
+   ]
+  }, 
+  {
+   "begin": "24.040", 
+   "end": "24.440", 
+   "id": "f000044", 
+   "language": "en", 
+   "lines": [
+    "well"
+   ]
+  }, 
+  {
+   "begin": "24.440", 
+   "end": "24.800", 
+   "id": "f000045", 
+   "language": "en", 
+   "lines": [
+    "before"
+   ]
+  }, 
+  {
+   "begin": "24.800", 
+   "end": "25.760", 
+   "id": "f000046", 
+   "language": "en", 
+   "lines": [
+    "Dasara."
+   ]
+  }
+ ]
+}

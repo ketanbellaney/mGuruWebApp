@@ -1,0 +1,472 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.000", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "But"
+   ]
+  }, 
+  {
+   "begin": "0.000", 
+   "end": "0.480", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "0.480", 
+   "end": "1.400", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "sun\n"
+   ]
+  }, 
+  {
+   "begin": "1.400", 
+   "end": "1.720", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "The"
+   ]
+  }, 
+  {
+   "begin": "1.720", 
+   "end": "2.800", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "glorious"
+   ]
+  }, 
+  {
+   "begin": "2.800", 
+   "end": "3.360", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "brave"
+   ]
+  }, 
+  {
+   "begin": "3.360", 
+   "end": "4.360", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "shining"
+   ]
+  }, 
+  {
+   "begin": "4.360", 
+   "end": "5.240", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "golden"
+   ]
+  }, 
+  {
+   "begin": "5.240", 
+   "end": "6.480", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "sun\n"
+   ]
+  }, 
+  {
+   "begin": "6.480", 
+   "end": "6.720", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "He"
+   ]
+  }, 
+  {
+   "begin": "6.720", 
+   "end": "7.360", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "fights"
+   ]
+  }, 
+  {
+   "begin": "7.360", 
+   "end": "7.560", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "7.560", 
+   "end": "8.240", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "Darkness"
+   ]
+  }, 
+  {
+   "begin": "8.240", 
+   "end": "9.280", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "demon\n"
+   ]
+  }, 
+  {
+   "begin": "9.280", 
+   "end": "9.600", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "All"
+   ]
+  }, 
+  {
+   "begin": "9.600", 
+   "end": "10.520", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "night,"
+   ]
+  }, 
+  {
+   "begin": "10.520", 
+   "end": "11.000", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "every"
+   ]
+  }, 
+  {
+   "begin": "11.000", 
+   "end": "11.840", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "night\n"
+   ]
+  }, 
+  {
+   "begin": "11.840", 
+   "end": "12.040", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "And"
+   ]
+  }, 
+  {
+   "begin": "12.040", 
+   "end": "12.320", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "by"
+   ]
+  }, 
+  {
+   "begin": "12.320", 
+   "end": "13.400", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "morning,\n"
+   ]
+  }, 
+  {
+   "begin": "13.400", 
+   "end": "13.840", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "He\u2019s"
+   ]
+  }, 
+  {
+   "begin": "13.840", 
+   "end": "14.360", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "whole"
+   ]
+  }, 
+  {
+   "begin": "14.360", 
+   "end": "15.040", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "again"
+   ]
+  }, 
+  {
+   "begin": "15.040", 
+   "end": "15.560", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "15.560", 
+   "end": "15.840", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "back"
+   ]
+  }, 
+  {
+   "begin": "15.840", 
+   "end": "16.360", 
+   "id": "f000027", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "16.360", 
+   "end": "17.520", 
+   "id": "f000028", 
+   "language": "en", 
+   "lines": [
+    "rule.\n"
+   ]
+  }, 
+  {
+   "begin": "17.520", 
+   "end": "17.960", 
+   "id": "f000029", 
+   "language": "en", 
+   "lines": [
+    "That\u2019s"
+   ]
+  }, 
+  {
+   "begin": "17.960", 
+   "end": "18.360", 
+   "id": "f000030", 
+   "language": "en", 
+   "lines": [
+    "where"
+   ]
+  }, 
+  {
+   "begin": "18.360", 
+   "end": "18.680", 
+   "id": "f000031", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "18.680", 
+   "end": "18.920", 
+   "id": "f000032", 
+   "language": "en", 
+   "lines": [
+    "think"
+   ]
+  }, 
+  {
+   "begin": "18.920", 
+   "end": "19.040", 
+   "id": "f000033", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "19.040", 
+   "end": "19.400", 
+   "id": "f000034", 
+   "language": "en", 
+   "lines": [
+    "sun"
+   ]
+  }, 
+  {
+   "begin": "19.400", 
+   "end": "19.760", 
+   "id": "f000035", 
+   "language": "en", 
+   "lines": [
+    "goes"
+   ]
+  }, 
+  {
+   "begin": "19.760", 
+   "end": "19.960", 
+   "id": "f000036", 
+   "language": "en", 
+   "lines": [
+    "at"
+   ]
+  }, 
+  {
+   "begin": "19.960", 
+   "end": "20.920", 
+   "id": "f000037", 
+   "language": "en", 
+   "lines": [
+    "night.\n"
+   ]
+  }, 
+  {
+   "begin": "20.920", 
+   "end": "21.240", 
+   "id": "f000038", 
+   "language": "en", 
+   "lines": [
+    "Into"
+   ]
+  }, 
+  {
+   "begin": "21.240", 
+   "end": "21.520", 
+   "id": "f000039", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "21.520", 
+   "end": "22.000", 
+   "id": "f000040", 
+   "language": "en", 
+   "lines": [
+    "mouth"
+   ]
+  }, 
+  {
+   "begin": "22.000", 
+   "end": "22.320", 
+   "id": "f000041", 
+   "language": "en", 
+   "lines": [
+    "of"
+   ]
+  }, 
+  {
+   "begin": "22.320", 
+   "end": "22.400", 
+   "id": "f000042", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "22.400", 
+   "end": "23.680", 
+   "id": "f000043", 
+   "language": "en", 
+   "lines": [
+    "monster\n"
+   ]
+  }, 
+  {
+   "begin": "23.680", 
+   "end": "24.040", 
+   "id": "f000044", 
+   "language": "en", 
+   "lines": [
+    "After"
+   ]
+  }, 
+  {
+   "begin": "24.040", 
+   "end": "24.280", 
+   "id": "f000045", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "24.280", 
+   "end": "25.040", 
+   "id": "f000046", 
+   "language": "en", 
+   "lines": [
+    "terrible"
+   ]
+  }, 
+  {
+   "begin": "25.040", 
+   "end": "26.000", 
+   "id": "f000047", 
+   "language": "en", 
+   "lines": [
+    "fight.\n"
+   ]
+  }, 
+  {
+   "begin": "26.000", 
+   "end": "26.280", 
+   "id": "f000048", 
+   "language": "en", 
+   "lines": [
+    "I\u2019m"
+   ]
+  }, 
+  {
+   "begin": "26.280", 
+   "end": "27.400", 
+   "id": "f000049", 
+   "language": "en", 
+   "lines": [
+    "clever,"
+   ]
+  }, 
+  {
+   "begin": "27.400", 
+   "end": "27.840", 
+   "id": "f000050", 
+   "language": "en", 
+   "lines": [
+    "aren\u2019t"
+   ]
+  }, 
+  {
+   "begin": "27.840", 
+   "end": "28.240", 
+   "id": "f000051", 
+   "language": "en", 
+   "lines": [
+    "I,"
+   ]
+  }, 
+  {
+   "begin": "28.240", 
+   "end": "29.600", 
+   "id": "f000052", 
+   "language": "en", 
+   "lines": [
+    "sister?"
+   ]
+  }
+ ]
+}

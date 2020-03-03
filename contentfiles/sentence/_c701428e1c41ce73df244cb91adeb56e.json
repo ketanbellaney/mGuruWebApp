@@ -1,0 +1,76 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "2.720", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Hush-a-bye, baby,"
+   ]
+  }, 
+  {
+   "begin": "2.720", 
+   "end": "4.840", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "in the tree top."
+   ]
+  }, 
+  {
+   "begin": "4.840", 
+   "end": "6.600", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "When the wind blows,"
+   ]
+  }, 
+  {
+   "begin": "6.600", 
+   "end": "9.680", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "the cradle will rock."
+   ]
+  }, 
+  {
+   "begin": "9.680", 
+   "end": "11.800", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "When the bough breaks,"
+   ]
+  }, 
+  {
+   "begin": "11.800", 
+   "end": "13.760", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "the cradle will fall,"
+   ]
+  }, 
+  {
+   "begin": "13.760", 
+   "end": "15.320", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "And down will come baby,"
+   ]
+  }, 
+  {
+   "begin": "15.320", 
+   "end": "19.840", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "cradle and all."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,283 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.840", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Rupa"
+   ]
+  }, 
+  {
+   "begin": "0.840", 
+   "end": "1.200", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "stopped"
+   ]
+  }, 
+  {
+   "begin": "1.200", 
+   "end": "2.440", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "crying."
+   ]
+  }, 
+  {
+   "begin": "2.440", 
+   "end": "2.880", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "She"
+   ]
+  }, 
+  {
+   "begin": "2.880", 
+   "end": "3.000", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "looked"
+   ]
+  }, 
+  {
+   "begin": "3.000", 
+   "end": "3.120", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "at"
+   ]
+  }, 
+  {
+   "begin": "3.120", 
+   "end": "3.800", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "herself"
+   ]
+  }, 
+  {
+   "begin": "3.800", 
+   "end": "3.920", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "all"
+   ]
+  }, 
+  {
+   "begin": "3.920", 
+   "end": "4.680", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "round.\n"
+   ]
+  }, 
+  {
+   "begin": "4.680", 
+   "end": "5.360", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "She"
+   ]
+  }, 
+  {
+   "begin": "5.360", 
+   "end": "5.720", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "was"
+   ]
+  }, 
+  {
+   "begin": "5.720", 
+   "end": "6.040", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "so"
+   ]
+  }, 
+  {
+   "begin": "6.040", 
+   "end": "6.400", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "proud"
+   ]
+  }, 
+  {
+   "begin": "6.400", 
+   "end": "6.680", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "6.680", 
+   "end": "7.160", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "happy.\n"
+   ]
+  }, 
+  {
+   "begin": "7.160", 
+   "end": "8.400", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "\"Oh,"
+   ]
+  }, 
+  {
+   "begin": "8.400", 
+   "end": "8.760", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "8.760", 
+   "end": "8.960", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "am"
+   ]
+  }, 
+  {
+   "begin": "8.960", 
+   "end": "9.320", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "as"
+   ]
+  }, 
+  {
+   "begin": "9.320", 
+   "end": "9.760", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "pretty"
+   ]
+  }, 
+  {
+   "begin": "9.760", 
+   "end": "10.280", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "as"
+   ]
+  }, 
+  {
+   "begin": "10.280", 
+   "end": "10.400", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "10.400", 
+   "end": "10.560", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "wedding"
+   ]
+  }, 
+  {
+   "begin": "10.560", 
+   "end": "11.600", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "Shamiana,\""
+   ]
+  }, 
+  {
+   "begin": "11.600", 
+   "end": "12.560", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "she"
+   ]
+  }, 
+  {
+   "begin": "12.560", 
+   "end": "12.920", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "said.\n"
+   ]
+  }, 
+  {
+   "begin": "12.920", 
+   "end": "14.080", 
+   "id": "f000027", 
+   "language": "en", 
+   "lines": [
+    "\"Won't"
+   ]
+  }, 
+  {
+   "begin": "14.080", 
+   "end": "14.080", 
+   "id": "f000028", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "14.080", 
+   "end": "14.800", 
+   "id": "f000029", 
+   "language": "en", 
+   "lines": [
+    "children"
+   ]
+  }, 
+  {
+   "begin": "14.800", 
+   "end": "15.240", 
+   "id": "f000030", 
+   "language": "en", 
+   "lines": [
+    "love"
+   ]
+  }, 
+  {
+   "begin": "15.240", 
+   "end": "16.200", 
+   "id": "f000031", 
+   "language": "en", 
+   "lines": [
+    "me!\""
+   ]
+  }
+ ]
+}

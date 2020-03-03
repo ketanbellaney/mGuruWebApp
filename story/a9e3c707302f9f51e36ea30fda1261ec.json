@@ -1,0 +1,238 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "1.200", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Wednesday"
+   ]
+  }, 
+  {
+   "begin": "1.200", 
+   "end": "1.640", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "was"
+   ]
+  }, 
+  {
+   "begin": "1.640", 
+   "end": "2.200", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "hot."
+   ]
+  }, 
+  {
+   "begin": "2.200", 
+   "end": "3.560", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "\u201cMa,"
+   ]
+  }, 
+  {
+   "begin": "3.560", 
+   "end": "4.520", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "WHY"
+   ]
+  }, 
+  {
+   "begin": "4.520", 
+   "end": "5.000", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "doesn\u2019t"
+   ]
+  }, 
+  {
+   "begin": "5.000", 
+   "end": "5.040", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "it"
+   ]
+  }, 
+  {
+   "begin": "5.040", 
+   "end": "5.600", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "rain?\u201d"
+   ]
+  }, 
+  {
+   "begin": "5.600", 
+   "end": "6.120", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "asked"
+   ]
+  }, 
+  {
+   "begin": "6.120", 
+   "end": "6.720", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "Manu."
+   ]
+  }, 
+  {
+   "begin": "6.720", 
+   "end": "8.520", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "\u201cSon,"
+   ]
+  }, 
+  {
+   "begin": "8.520", 
+   "end": "8.800", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "8.800", 
+   "end": "9.200", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "think"
+   ]
+  }, 
+  {
+   "begin": "9.200", 
+   "end": "9.280", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "it"
+   ]
+  }, 
+  {
+   "begin": "9.280", 
+   "end": "9.480", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "will"
+   ]
+  }, 
+  {
+   "begin": "9.480", 
+   "end": "10.160", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "rain"
+   ]
+  }, 
+  {
+   "begin": "10.160", 
+   "end": "10.520", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "very"
+   ]
+  }, 
+  {
+   "begin": "10.520", 
+   "end": "11.840", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "soon."
+   ]
+  }, 
+  {
+   "begin": "11.840", 
+   "end": "12.560", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "Maybe"
+   ]
+  }, 
+  {
+   "begin": "12.560", 
+   "end": "12.960", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "even"
+   ]
+  }, 
+  {
+   "begin": "12.960", 
+   "end": "13.480", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "before"
+   ]
+  }, 
+  {
+   "begin": "13.480", 
+   "end": "13.520", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "it"
+   ]
+  }, 
+  {
+   "begin": "13.520", 
+   "end": "13.800", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "is"
+   ]
+  }, 
+  {
+   "begin": "13.800", 
+   "end": "14.760", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "noon,\u201d"
+   ]
+  }, 
+  {
+   "begin": "14.760", 
+   "end": "15.240", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "said"
+   ]
+  }, 
+  {
+   "begin": "15.240", 
+   "end": "16.400", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "Ma."
+   ]
+  }
+ ]
+}

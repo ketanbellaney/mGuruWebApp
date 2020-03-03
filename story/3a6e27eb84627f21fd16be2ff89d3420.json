@@ -1,0 +1,301 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.640", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "0.640", 
+   "end": "1.080", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "wore"
+   ]
+  }, 
+  {
+   "begin": "1.080", 
+   "end": "1.320", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "1.320", 
+   "end": "1.880", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "bright"
+   ]
+  }, 
+  {
+   "begin": "1.880", 
+   "end": "2.120", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "blue"
+   ]
+  }, 
+  {
+   "begin": "2.120", 
+   "end": "2.440", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "sweater"
+   ]
+  }, 
+  {
+   "begin": "2.440", 
+   "end": "2.480", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "2.480", 
+   "end": "2.480", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "2.480", 
+   "end": "2.760", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "fair."
+   ]
+  }, 
+  {
+   "begin": "2.760", 
+   "end": "3.320", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "There"
+   ]
+  }, 
+  {
+   "begin": "3.320", 
+   "end": "4.520", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "were"
+   ]
+  }, 
+  {
+   "begin": "4.520", 
+   "end": "5.160", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "many"
+   ]
+  }, 
+  {
+   "begin": "5.160", 
+   "end": "5.840", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "stalls"
+   ]
+  }, 
+  {
+   "begin": "5.840", 
+   "end": "6.720", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "all"
+   ]
+  }, 
+  {
+   "begin": "6.720", 
+   "end": "7.320", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "along"
+   ]
+  }, 
+  {
+   "begin": "7.320", 
+   "end": "7.760", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "7.760", 
+   "end": "9.120", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "road."
+   ]
+  }, 
+  {
+   "begin": "9.120", 
+   "end": "9.800", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "Manu"
+   ]
+  }, 
+  {
+   "begin": "9.800", 
+   "end": "10.040", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "wanted"
+   ]
+  }, 
+  {
+   "begin": "10.040", 
+   "end": "10.240", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "10.240", 
+   "end": "10.680", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "go"
+   ]
+  }, 
+  {
+   "begin": "10.680", 
+   "end": "10.680", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "on"
+   ]
+  }, 
+  {
+   "begin": "10.680", 
+   "end": "10.720", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "10.720", 
+   "end": "11.680", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "merry-go-round."
+   ]
+  }, 
+  {
+   "begin": "11.680", 
+   "end": "12.240", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "12.240", 
+   "end": "12.480", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "wanted"
+   ]
+  }, 
+  {
+   "begin": "12.480", 
+   "end": "13.600", 
+   "id": "f000027", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "13.600", 
+   "end": "14.000", 
+   "id": "f000028", 
+   "language": "en", 
+   "lines": [
+    "buy"
+   ]
+  }, 
+  {
+   "begin": "14.000", 
+   "end": "14.760", 
+   "id": "f000029", 
+   "language": "en", 
+   "lines": [
+    "grandma"
+   ]
+  }, 
+  {
+   "begin": "14.760", 
+   "end": "15.800", 
+   "id": "f000030", 
+   "language": "en", 
+   "lines": [
+    "a"
+   ]
+  }, 
+  {
+   "begin": "15.800", 
+   "end": "16.800", 
+   "id": "f000031", 
+   "language": "en", 
+   "lines": [
+    "warm,"
+   ]
+  }, 
+  {
+   "begin": "16.800", 
+   "end": "17.640", 
+   "id": "f000032", 
+   "language": "en", 
+   "lines": [
+    "soft"
+   ]
+  }, 
+  {
+   "begin": "17.640", 
+   "end": "18.600", 
+   "id": "f000033", 
+   "language": "en", 
+   "lines": [
+    "shawl."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,130 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.760", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "Birds"
+   ]
+  }, 
+  {
+   "begin": "0.760", 
+   "end": "1.040", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "use"
+   ]
+  }, 
+  {
+   "begin": "1.040", 
+   "end": "1.240", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "their"
+   ]
+  }, 
+  {
+   "begin": "1.240", 
+   "end": "1.800", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "tails"
+   ]
+  }, 
+  {
+   "begin": "1.800", 
+   "end": "1.920", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "1.920", 
+   "end": "2.480", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "change"
+   ]
+  }, 
+  {
+   "begin": "2.480", 
+   "end": "3.200", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "direction"
+   ]
+  }, 
+  {
+   "begin": "3.200", 
+   "end": "3.200", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "in"
+   ]
+  }, 
+  {
+   "begin": "3.200", 
+   "end": "4.160", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "flight"
+   ]
+  }, 
+  {
+   "begin": "4.160", 
+   "end": "4.440", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "as"
+   ]
+  }, 
+  {
+   "begin": "4.440", 
+   "end": "4.600", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "well"
+   ]
+  }, 
+  {
+   "begin": "4.600", 
+   "end": "5.200", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "as"
+   ]
+  }, 
+  {
+   "begin": "5.200", 
+   "end": "5.400", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "for"
+   ]
+  }, 
+  {
+   "begin": "5.400", 
+   "end": "6.400", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "display."
+   ]
+  }
+ ]
+}

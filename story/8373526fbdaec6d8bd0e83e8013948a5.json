@@ -1,0 +1,31 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.680", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "saluting"
+   ]
+  }, 
+  {
+   "begin": "0.680", 
+   "end": "1.040", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "with"
+   ]
+  }, 
+  {
+   "begin": "1.040", 
+   "end": "2.160", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "hands...."
+   ]
+  }
+ ]
+}

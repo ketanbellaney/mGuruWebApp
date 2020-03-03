@@ -1,0 +1,364 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "0.400", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "After"
+   ]
+  }, 
+  {
+   "begin": "0.400", 
+   "end": "1.240", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "she"
+   ]
+  }, 
+  {
+   "begin": "1.240", 
+   "end": "1.480", 
+   "id": "f000003", 
+   "language": "en", 
+   "lines": [
+    "had"
+   ]
+  }, 
+  {
+   "begin": "1.480", 
+   "end": "1.640", 
+   "id": "f000004", 
+   "language": "en", 
+   "lines": [
+    "reached"
+   ]
+  }, 
+  {
+   "begin": "1.640", 
+   "end": "1.960", 
+   "id": "f000005", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "1.960", 
+   "end": "2.560", 
+   "id": "f000006", 
+   "language": "en", 
+   "lines": [
+    "next"
+   ]
+  }, 
+  {
+   "begin": "2.560", 
+   "end": "4.120", 
+   "id": "f000007", 
+   "language": "en", 
+   "lines": [
+    "building,"
+   ]
+  }, 
+  {
+   "begin": "4.120", 
+   "end": "4.440", 
+   "id": "f000008", 
+   "language": "en", 
+   "lines": [
+    "Ritu"
+   ]
+  }, 
+  {
+   "begin": "4.440", 
+   "end": "5.520", 
+   "id": "f000009", 
+   "language": "en", 
+   "lines": [
+    "stopped"
+   ]
+  }, 
+  {
+   "begin": "5.520", 
+   "end": "5.800", 
+   "id": "f000010", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "5.800", 
+   "end": "6.040", 
+   "id": "f000011", 
+   "language": "en", 
+   "lines": [
+    "took"
+   ]
+  }, 
+  {
+   "begin": "6.040", 
+   "end": "6.320", 
+   "id": "f000012", 
+   "language": "en", 
+   "lines": [
+    "out"
+   ]
+  }, 
+  {
+   "begin": "6.320", 
+   "end": "6.480", 
+   "id": "f000013", 
+   "language": "en", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "6.480", 
+   "end": "7.240", 
+   "id": "f000014", 
+   "language": "en", 
+   "lines": [
+    "postcard"
+   ]
+  }, 
+  {
+   "begin": "7.240", 
+   "end": "7.640", 
+   "id": "f000015", 
+   "language": "en", 
+   "lines": [
+    "once"
+   ]
+  }, 
+  {
+   "begin": "7.640", 
+   "end": "8.920", 
+   "id": "f000016", 
+   "language": "en", 
+   "lines": [
+    "again."
+   ]
+  }, 
+  {
+   "begin": "8.920", 
+   "end": "9.200", 
+   "id": "f000017", 
+   "language": "en", 
+   "lines": [
+    "What"
+   ]
+  }, 
+  {
+   "begin": "9.200", 
+   "end": "9.400", 
+   "id": "f000018", 
+   "language": "en", 
+   "lines": [
+    "if"
+   ]
+  }, 
+  {
+   "begin": "9.400", 
+   "end": "10.040", 
+   "id": "f000019", 
+   "language": "en", 
+   "lines": [
+    "Pooja"
+   ]
+  }, 
+  {
+   "begin": "10.040", 
+   "end": "10.080", 
+   "id": "f000020", 
+   "language": "en", 
+   "lines": [
+    "Aunty"
+   ]
+  }, 
+  {
+   "begin": "10.080", 
+   "end": "10.480", 
+   "id": "f000021", 
+   "language": "en", 
+   "lines": [
+    "did"
+   ]
+  }, 
+  {
+   "begin": "10.480", 
+   "end": "10.800", 
+   "id": "f000022", 
+   "language": "en", 
+   "lines": [
+    "not"
+   ]
+  }, 
+  {
+   "begin": "10.800", 
+   "end": "11.720", 
+   "id": "f000023", 
+   "language": "en", 
+   "lines": [
+    "realise"
+   ]
+  }, 
+  {
+   "begin": "11.720", 
+   "end": "12.120", 
+   "id": "f000024", 
+   "language": "en", 
+   "lines": [
+    "how"
+   ]
+  }, 
+  {
+   "begin": "12.120", 
+   "end": "12.680", 
+   "id": "f000025", 
+   "language": "en", 
+   "lines": [
+    "eager"
+   ]
+  }, 
+  {
+   "begin": "12.680", 
+   "end": "12.760", 
+   "id": "f000026", 
+   "language": "en", 
+   "lines": [
+    "Ritu"
+   ]
+  }, 
+  {
+   "begin": "12.760", 
+   "end": "13.200", 
+   "id": "f000027", 
+   "language": "en", 
+   "lines": [
+    "was"
+   ]
+  }, 
+  {
+   "begin": "13.200", 
+   "end": "13.240", 
+   "id": "f000028", 
+   "language": "en", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "13.240", 
+   "end": "13.600", 
+   "id": "f000029", 
+   "language": "en", 
+   "lines": [
+    "see"
+   ]
+  }, 
+  {
+   "begin": "13.600", 
+   "end": "14.760", 
+   "id": "f000030", 
+   "language": "en", 
+   "lines": [
+    "Mani?"
+   ]
+  }, 
+  {
+   "begin": "14.760", 
+   "end": "15.280", 
+   "id": "f000031", 
+   "language": "en", 
+   "lines": [
+    "So"
+   ]
+  }, 
+  {
+   "begin": "15.280", 
+   "end": "15.440", 
+   "id": "f000032", 
+   "language": "en", 
+   "lines": [
+    "Ritu"
+   ]
+  }, 
+  {
+   "begin": "15.440", 
+   "end": "15.680", 
+   "id": "f000033", 
+   "language": "en", 
+   "lines": [
+    "took"
+   ]
+  }, 
+  {
+   "begin": "15.680", 
+   "end": "15.840", 
+   "id": "f000034", 
+   "language": "en", 
+   "lines": [
+    "out"
+   ]
+  }, 
+  {
+   "begin": "15.840", 
+   "end": "16.040", 
+   "id": "f000035", 
+   "language": "en", 
+   "lines": [
+    "her"
+   ]
+  }, 
+  {
+   "begin": "16.040", 
+   "end": "16.520", 
+   "id": "f000036", 
+   "language": "en", 
+   "lines": [
+    "pencil"
+   ]
+  }, 
+  {
+   "begin": "16.520", 
+   "end": "17.520", 
+   "id": "f000037", 
+   "language": "en", 
+   "lines": [
+    "again"
+   ]
+  }, 
+  {
+   "begin": "17.520", 
+   "end": "18.040", 
+   "id": "f000038", 
+   "language": "en", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "18.040", 
+   "end": "18.320", 
+   "id": "f000039", 
+   "language": "en", 
+   "lines": [
+    "wrote,"
+   ]
+  }, 
+  {
+   "begin": "18.320", 
+   "end": "20.600", 
+   "id": "f000040", 
+   "language": "en", 
+   "lines": [
+    "\u2018PLEEEESE.\u2019"
+   ]
+  }
+ ]
+}

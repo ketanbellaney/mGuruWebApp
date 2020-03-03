@@ -1,0 +1,2586 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="bengali_array">
+        <item>--- দিয়ে শুরু হওয়া ছবিগুলি খোঁজো</item>
+        <item>বাক্যটি সম্পূর্ণ করো</item>
+        <item>স্বরবর্ণ মিশ্রণ</item>
+        <item>শব্দের সাথে মেলাও</item>
+        <item>শব্দটি শোনো</item>
+        <item>ছবিগুলি চেনো যাতে আছে</item>
+        <item>শূন্যস্থান পূরন করো</item>
+        <item>ছবিগুলি চেনো যা শেষ হচ্ছে</item>
+        <item>আপনার উত্তর বাছাই করো</item>
+        <item>বাক্যটি তৈরী করো</item>
+        <item>অক্ষরগুলি পড়ো এবং পুনরাবৃত্তি করো</item>
+        <item>হারিয়ে যাওয়া শব্দটি পূরন করো</item>
+        <item>হারিয়ে যাওয়া অক্ষরটি পূরন করো</item>
+        <item>বাক্যাংশ তৈরী করতে শব্দগুলিকে সাজাও</item>
+        <item>স্তম্ভগুলি মেলাও</item>
+        <item>সঠিক জোড়ায় মেলাও</item>
+        <item>অক্ষরটির আওয়াজটি শোনো</item>
+        <item>অক্ষরের উপর আঙুল দিয়ে লেখো</item>
+        <item>নিম্নলিখিত ধ্বনি দিয়ে উচ্চারিত শব্দগুলি খোজো</item>
+        <item>এই ধ্বনির অক্ষরগুলি বেছে নাও</item>
+        <item>অক্ষরগুলিকে তাদের জায়গায় টানো এবং বসাও</item>
+        <item>--- দিয়ে শুরু হওয়া ছবিগুলি খোঁজো</item>
+        <item>আওয়াজটি শোনো এবং পূনরাবৃত্তি করো</item>
+        <item>আওয়াজটি শোনো এবং অনুসরন করো</item>
+        <item>এর মত আওয়াজের অক্ষরগুলি বাছাই করো</item>
+        <item>শুরু</item>
+        <item>পরবর্তী</item>
+        <item>পিছনে</item>
+        <item>সম্পাদিত</item>
+        <item>দারুন করেছ</item>
+        <item>তুমি আমাকে ভাল খাওয়াবে</item>
+        <item>স্টার রেটিং</item>
+        <item>আবার চেষ্টা করো</item>
+        <item>জমা করো</item>
+        <item>সঠিক উত্তরটি হল</item>
+        <item>আরে, নাহ!</item>
+        <item>সঠিক</item>
+        <item>1</item>
+        <item>কোনটি সত্য</item>
+        <item>পুনরাবৃত্তি করব</item>
+        <item>পুনরায়</item>
+        <item>বদ্ধ হয়ে গেছে</item>
+        <item>তোমাদের সকলের এই গল্পটি পড়ার জন্য কিছু আমের দরকার</item>
+        <item>এখুনি খোলো</item>
+        <item>অপর্যাপ্ত আম</item>
+        <item>তুমি প্রতিদিনের চ্যালেঞ্জ এবং এক্সপ্লোরে অন্যান্য কার্যকলাপ সম্পাদনের দ্বারা আরো আম
+            যোগাড় করতে পারো
+        </item>
+        <item>বন্ধ করো</item>
+        <item>আজ আমরা নিম্নলিখিত শব্দগুলি শিখব</item>
+        <item>গল্প পড়ো</item>
+        <item>গল্প শেষ</item>
+        <item>তুমি গল্পটি সম্পর্কে কিছু প্রশ্নের উত্তর দিয়ে 100 টি পর্যন্ত আম আয় করতে পারো অথবা
+            তুমি অন্য গল্প পড়তে পারো
+        </item>
+        <item>অন্যটি পড়তে চাও?</item>
+        <item>আম সংগ্রহ করো</item>
+        <item>আম</item>
+        <item>শব্দসমূহ</item>
+        <item>ধারণাগুলি</item>
+        <item>ছবি পরিবর্তন করতে চাও?</item>
+        <item>নাম</item>
+        <item>বয়স</item>
+        <item>শ্রেণি</item>
+        <item>স্কুল</item>
+        <item>সেভ</item>
+        <item>ইউজারনেম</item>
+        <item>পাসওয়ার্ড</item>
+        <item>সাইন আপ</item>
+        <item>ইতিমধ্যে একজন ব্যবহারকারী? সাইন ইন করো</item>
+        <item>যেভাবেই হোক এগিয়ে যাও</item>
+        <item>পাসওয়ার্ড ভুলে গেছ</item>
+        <item>সাইন ইন</item>
+        <item>নতুন ইউজার? সাইন আপ করো</item>
+        <item>স্বাগতম</item>
+        <item>তোমার নিজের সম্পর্কে একটু বলো</item>
+        <item>ফোন নং</item>
+        <item>শ্রেণি</item>
+        <item>বোর্ড</item>
+        <item>আমি হলাম মোটু</item>
+        <item>আমি তোমাকে নতুন অনেক কিছু শিখতে সাহায্য করব ! চলো কিছু প্রশ্নের উত্তর দাও আর দেখি আমরা
+            কতটা জানি।
+        </item>
+        <item>এড়িয়ে যাও</item>
+        <item>এগিয়ে চলো!</item>
+        <item>ভূলে গেছ?</item>
+        <item>ইউজারনেম দাও</item>
+        <item>শান্ত হও</item>
+        <item>তোমার নতুন পাসওয়ার্ড এসএমএস দ্বারা পাঠানো হয়েছে</item>
+        <item>মেসেজসমূহে যাও</item>
+        <item>লগইন এ ফেরত যাও</item>
+        <item>পুনরায় স্বাগতম!</item>
+        <item>নতুন পাসওয়ার্ড দাও</item>
+        <item>রিসেট</item>
+        <item>প্রতিদিনের অন্বেষণ</item>
+        <item>খোঁজ</item>
+        <item>গল্পসমূহ</item>
+        <item>প্রোফাইল</item>
+        <item>খুব সহজ? আগে এগিয়ে চলো</item>
+        <item>এই লেবেলটি বর্তমানে বদ্ধ অবস্থায় আছে। পূর্ববর্তী লেবেলের সাথেই এগোতে থাকো অথবা এই
+            লেবেলটি এখনই চালু কর
+        </item>
+        <item>শব্দের খেলা</item>
+        <item>আমরা এখন বিভিন্ন অক্ষরের আওয়াজগুলি শিখব।</item>
+        <item>নতুন শব্দাবলী</item>
+        <item>চলো আজকের শব্দাবলী থেকে নতুন ধ্বনিগুলো শিখি।</item>
+        <item>অক্ষরসমূহের ধ্বনি</item>
+        <item>বর্ণমালার অক্ষরগুলোর উচ্চারণগুলো শিখি! পুরো সময় জুড়ে নতুন শব্দ নিই আর ইংরেজী আওয়াজের
+            একজন দারুন শ্রোতাতে রুপান্তরিত হই।
+        </item>
+        <item>স্বরবর্ণ বন্ধুরা</item>
+        <item>শব্দ গঠন করার জন্য স্বরবর্ণ এবং ব্যঞ্জনবর্ণকে একসাথে রাখা দরকার। চলো শেখা যাক কিভাবে
+            স্বরবর্ণ মেশাতে আর আপনার শব্দভান্ডারকে বাড়াতে হয়!
+        </item>
+        <item>শব্দময় পাখী</item>
+        <item>নতুন শব্দাবলী এবং ধ্বনির চ্যালেঞ্জের মোকাবেলা করো ! ইংরেজি উচ্চারণে অল্পবিস্তর জটিলতা
+            এবং বিভিন্ন নিয়ম আছে, তাই সতর্কতা অবলম্বন করে এই অ্যাডভান্সড লেবেল সম্পূর্ণ করো!
+        </item>
+        <item>আকাশের বাক্যাংশগুলি</item>
+        <item>এই লেবেলে তোমার শোনার এবং উচ্চারণের দক্ষতাকে শানিয়ে নাও। আরো উন্নত শব্দ, বাক্যাংশ, এবং
+            শব্দ শিখতে এই সুযোগ নাও!
+        </item>
+        <item>ব্যাকরণের স্থান</item>
+        <item>গাছের মাথায় তোমাকে স্বাগত! ব্যাকরণ হল সেই সব রীতি যা ভাষাকে সৌন্দর্য্যমন্ডিত করে, এই
+            লেবেলের 33 টি বিভিন্ন ধারণা এবং কয়েক ডজন ক্রিয়াকলাপ তোমাকে বিধ্বস্ত করবে।
+        </item>
+        <item>ছবিগুলি চেনো যা শেষ হচ্ছে</item>
+        <item>ছবিগুলি চেনো যাতে আছে</item>
+        <item>বাক্যাংশটি শোনো এবং পূনরাবৃত্তি করো।</item>
+        <item>অনুগ্রহ করে তোমার ইউজারনেম দাও।</item>
+        <item>অনুগ্রহ করে তোমার পাসওয়ার্ড দাও</item>
+        <item>অনুগ্রহ করে তোমার 10 সংখ্যার মোবাইল নম্বর দাও।</item>
+        <item>অনুগ্রহ করে তোমার স্কুলের নাম লিখ।</item>
+        <item>অনুগ্রহ করে তোমার নতুন পাসওয়ার্ড দাও।</item>
+        <item>অনুগ্রহ করে তোমার ইন্টারনেটের সংযোগ পরীক্ষা কর।</item>
+        <item>সম্পাদনা</item>
+        <item>লগ আউট</item>
+        <item>অতিথি ব্যবহারকারী</item>
+        <item>ক্যানসেল</item>
+        <item>আপনি কি নিশ্চিত রুপে mGuru থেকে লগ আউট করতে চান?</item>
+        <item>হ্যাঁ</item>
+        <item>না</item>
+        <item>এখানে এমন কোনো শব্দ নেই যা শেখা হয়নি।</item>
+        <item>ছবি নিন</item>
+        <item>গ্যালারী খুলুন</item>
+        <item>লিখেছেন</item>
+        <item>সজ্জিত করেছেন</item>
+        <item>অনুবাদ করেছেন</item>
+        <item>এসেছে</item>
+        <item>আপনার কাছে যথেষ্ট 888 টি আম রয়েছে পরবর্তী গল্পটিতে যাওয়ার জন্য!</item>
+        <item>চলো!</item>
+        <item>আওয়াজের সাথে মিল আছে শব্দটি বাছাই করো</item>
+        <item>সঠিক ছবিটি নির্বাচন করো!</item>
+        <item>তুমি কি বেরোতে চাও?</item>
+        <item>ক্রেডিট</item>
+        <item>ভাষা পরিবর্তন করো</item>
+        <item>অনুগ্রহ করে বিকল্প নির্বাচন করো</item>
+        <item>অনুগ্রহ করে তোমার নাম লেখো</item>
+        <item>এখানে এমন কোনো ধারণা নেই যা শেখা হয়নি।</item>
+        <item>শব্দের ধ্বনিটি খোঁজো</item>
+        <item>বলো</item>
+        <item>বিনামূল্যের আম</item>
+        <item>এই অ্যাপটি শেয়ার করো আর বিনামূল্যে আম পাও!</item>
+        <item>mGuru শেয়ার করো এবং আরো আম পাও! তোমার দেওয়া লিংক বা কোড দিয়ে সাইন আপ করা প্রতিটি
+            বন্ধুর বদলে 400 টি করে আম পাও
+        </item>
+        <item>mGuru ইংরেজী! এটা কেজি থেকে 5ম শ্রেনী পর্যন্ত বাচ্চাদের ইংরেজী শেখার জন্য এক
+            আশ্চর্যজনক অ্যাপ্লিকেশন। আপনার বাচ্চাকে দ্রুততার সাথে ইংরেজী পড়তে এবং বলতে শেখান!
+            বিনামূল্যেই এখানে একবার চেষ্টা করে দেখুনঃ http://www.mguruenglish.com/registration/
+        </item>
+        <item>কোনো শব্দ এখনো শেখা হয়নি</item>
+        <item>কোনো ধারনা সম্পূর্ণ হয়নি</item>
+        <item>চ্যালেঞ্জ গ্রহণ করো</item>
+        <item>অবৈধ ইউজারনেম বা পাসওয়ার্ড।</item>
+        <item>এই ইউজারনেম এখানে বিদ্যমান।</item>
+        <item>চালিয়ে যেতে অনুগ্রহ করে সাইন আপ বা আইন ইন করো</item>
+        <item>ধ্বনিটি শোনো</item>
+        <item>ঠিক আছে</item>
+        <item>দারুণ কাজ!</item>
+        <item>অসাধারণ হয়েছে!</item>
+        <item>স্টার</item>
+        <item>পরের গল্পে যাওয়ার জন্য তোমার কাছে যথেষ্ট আম আছে!</item>
+        <item>গল্পগুলিতে যাও</item>
+        <item>এক্সপ্লোরে যাও</item>
+        <item>গল্পগুলিতে ফেরত এসো</item>
+        <item>ডাউনলোড হচ্ছে</item>
+        <item>গল্প ডাউনলোড হওয়া পর্যন্ত অপেক্ষা করো</item>
+        <item>তুমি কি তোমার অগ্রগতিতে ____ অনুমতি দিতে চাও?</item>
+        <item>রিপোর্ট কার্ড</item>
+        <item>বর্তমান কার্যকলাপ</item>
+        <item>শেখা শব্দসমূহ</item>
+        <item>মোট অগ্রগতি</item>
+        <item>এই সপ্তাহে</item>
+        <item>এখনও কোনো রিপোর্ট কার্ড হয়নি</item>
+        <item>এখনও কোনো কার্যকলাপ করা হয়নি</item>
+        <item>কোনো শব্দ এখনো শেখা হয়নি</item>
+        <item>ইয়া! তুমি বেশ ভাল করেছে। তুমি কি চ্যালেঞ্জ নিতে চাও এবং আগে এগিয়ে যাও?</item>
+        <item>যাও</item>
+        <item>অভিনন্দন! তুমি সমাপ্ত করতে পেরেছ</item>
+        <item>চ্যালেঞ্জ!</item>
+        <item>মোট নম্বর</item>
+        <item>দয়া করে আর একটা নির্বাচন কর।</item>
+        <item>পুনরায় শোনো।</item>
+        <item>সমাপ্তি</item>
+        <item>এখন একজন টপার হোন</item>
+        <item>একজন টপার হোন</item>
+        <item>টপার প্ল্যান</item>
+        <item>400 টিরও বেশী পাঠঅনুশীলনে সীমাহীন প্রবেশাধিকার পান</item>
+        <item>60টিরও বেশী সকল গল্পগুলিকে অনলক করুন</item>
+        <item>30 টিরও বেশী ব্যাকরণের উন্নত পাঠঅনুশীলনী</item>
+        <item>এখনই আপগ্রেড করুন</item>
+        <item>সর্বাধিক জনপ্রিয়</item>
+        <item>টপার প্ল্যানে আপগ্রেড করুন</item>
+        <item>এক বছর @ 54 / মাস </item>
+        <item>মোট ₹ 640 (+3 মাস বিনামূল্যে)</item>
+        <item>তিন মাস @ ₹ 360</item>
+        <item>এক মাস @ ₹ 120</item>
+        <item>প্রোমো কোড</item>
+        <item>এগিয়ে যান</item>
+        <item>1 বছরের প্ল্যান</item>
+        <item>ক্যারিয়ার বিলিং এ পরিশোধ করুন</item>
+        <item>Paytm এ পরিশোধ করুন</item>
+        <item>পেমেন্ট স্ট্যাটাস</item>
+        <item>আপনাকে ধন্যবাদ! সফলতার সাথে আপনার পেমেন্ট হয়ে গেছে।</item>
+        <item>লেনদেন ID</item>
+        <item>পরিমাণ</item>
+        <item>Paytm ওয়ালেট দিয়ে পরিশোধ </item>
+        <item>ই-মেইল আইডি লিখুন</item>
+        <item>অথবা</item>
+        <item>মোবাইল নম্বর লিখুন</item>
+        <item>লেনদেন শুরু</item>
+        <item>দিন বাকি</item>
+        <item>খুব সহজ</item>
+        <item>বই</item>
+        <item>ভিডিও</item>
+        <item>প্লে ভিডিও</item>
+        <item>ভিডিও সম্পূর্ণ হয়েগেছে</item>
+        <item>আরেকটি ভিডিও দেখতে চান?</item>
+        <item>আপনি কিছু প্রশ্নের উত্তর দিয়ে 100 পর্যন্ত আম আয় করতে পারেন অথবা আরেকটি ভিডিও দেখতে
+            পারেন।
+        </item>
+        <item>ভিডিওতে যান</item>
+        <item>তোমার স্থান</item>
+        <item>এর মধ্যে</item>
+        <item>শতকরা</item>
+        <item>শীর্ষ</item>
+        <item>mGuru শীর্ষ লার্নার</item>
+        <item>স্থান</item>
+        <item>গণিত</item>
+        <item>যে শব্দটি অন্যদের থেকে ভিন্ন শব্দ দিয়ে শুরু তা খুঁজে বের কারো।
+        </item>
+        <item>যে শব্দটি অন্যদের থেকে ভিন্ন শব্দ দিয়ে শেষ তা খুঁজে বের কারো।
+        </item>
+        <item>সীমাহীন গণিত সমস্যা</item>
+        <item>মোবাইল নম্বর বৈধ হতে হবে।</item>
+        <item>mGuru শীর্ষে প্ল্যানের 14 দিন বিনামূল্যে প্রবেশ করুন!</item>
+        <item>আপনার জন্য গল্প|</item>
+        <item>আজকের গল্প।</item>
+        <item>সম্পাদকের পছন্দ|</item>
+        <item>আপনার জন্য ভিডিও|</item>
+        <item>আজকের ভিডিও|</item>
+        <item>বিনামূল্যে 2 সপ্তাহের জন্যে mGuru Topper পরিকল্পনা উপভোগ করুন!</item>
+        <item>আপনার বিনামূল্যে ট্রায়াল মেয়াদ শেষ হয়ে গেছে. আপগ্রেড করুন আর mGuru র আনন্দ নিন</item>
+        <item>আপগ্রেড</item>
+
+    </array>
+    <array name="eng_array">
+        <item>Find the image starting with</item>
+        <item>Complete the sentence</item>
+        <item>Vowel Blending</item>
+        <item>Match the word</item>
+        <item>Listen to the word</item>
+        <item>Find the image containing</item>
+        <item>Fill in the blank</item>
+        <item>Find the image ending with</item>
+        <item>Please select your answer</item>
+        <item>Make the sentence</item>
+        <item>Listen to the letter and repeat</item>
+        <item>Fill in the missing word</item>
+        <item>Fill in the missing letter</item>
+        <item>Arrange words to make a phrase</item>
+        <item>Match the Columns</item>
+        <item>Match the correct pairs</item>
+        <item>Listen to the sound of the letter</item>
+        <item>Trace the letters</item>
+        <item>Find the word that starts with the following sound</item>
+        <item>Choose the letter for this sound</item>
+        <item>Drag and drop the letter on its place</item>
+        <item>Find the image starting with</item>
+        <item>Listen to the sound and repeat</item>
+        <item>Listen to the sound and trace</item>
+        <item>Choose the letter that sounds like this</item>
+        <item>Start</item>
+        <item>Next</item>
+        <item>Back</item>
+        <item>Done</item>
+        <item>Good job</item>
+        <item>You fed me well</item>
+        <item>Star rating</item>
+        <item>Try again</item>
+        <item>Submit</item>
+        <item>The correct answer is</item>
+        <item>Oh No!</item>
+        <item>Correct</item>
+        <item>1</item>
+        <item>Which one is true</item>
+        <item>Replay</item>
+        <item>Redo</item>
+        <item>Locked</item>
+        <item>All you need are some mangoes to read this story</item>
+        <item>Unlock Now</item>
+        <item>Insufficient mangoes</item>
+        <item>You can earn more mangoes by doing daily challenge and other activities in explore
+        </item>
+        <item>Close</item>
+        <item>Today we will learn the following words</item>
+        <item>Read story</item>
+        <item>Story Complete</item>
+        <item>You can earn upto 100 mangoes by answering some questions about the story or you can
+            read another story.
+        </item>
+        <item>Read another?</item>
+        <item>Earn Mangoes</item>
+        <item>Mangoes</item>
+        <item>Words</item>
+        <item>Concepts</item>
+        <item>Change picture?</item>
+        <item>Name</item>
+        <item>Age</item>
+        <item>Class</item>
+        <item>School</item>
+        <item>Save</item>
+        <item>Username</item>
+        <item>Password</item>
+        <item>Sign Up</item>
+        <item>Already a user? Sign in</item>
+        <item>Continue Anyway</item>
+        <item>Forgot Password</item>
+        <item>Sign In</item>
+        <item>New User? Sign Up</item>
+        <item>Welcome</item>
+        <item>Tell us a bit about yourself</item>
+        <item>Phone No.</item>
+        <item>Class</item>
+        <item>Board</item>
+        <item>I\'m Motu</item>
+        <item>I\'m here to help you learn a lot of new things! Let\'s answer some questions and see
+            how much we know.
+        </item>
+        <item>Skip</item>
+        <item>OK, Go!</item>
+        <item>Forgot?</item>
+        <item>Enter Username</item>
+        <item>Be patient</item>
+        <item>Your new password has been sent to you via SMS</item>
+        <item>Go to messages</item>
+        <item>Back to login</item>
+        <item>Hello again!</item>
+        <item>Enter new password</item>
+        <item>Reset</item>
+        <item>Daily Quest</item>
+        <item>Explore</item>
+        <item>Stories</item>
+        <item>Profile</item>
+        <item>Too Easy? Jump ahead</item>
+        <item>This level is currently locked. Continue with the preceding level or unlock the level
+            now.
+        </item>
+        <item>Word Game</item>
+        <item>We\'ll learn sound of various letters.</item>
+        <item>New Sounds</item>
+        <item>Let\'s learn new sounds from words today.</item>
+        <item>Sound of Letters</item>
+        <item>Learn how to pronounce the letters of the alphabet! Get new words along the way and
+            become a super listener for English sounds.
+        </item>
+        <item>Vowel Friends</item>
+        <item>Putting vowels and consonants together is essential to making words. Learn how to
+            blend vowels and keep adding to your vocabulary!
+        </item>
+        <item>Wordy Birdy</item>
+        <item>Tackle challenging new words and sounds! English has tricky pronunciation and many
+            different rules, so be careful and tackle this advanced level!
+        </item>
+        <item>Phrases in the Sky</item>
+        <item>Hone in your listening and pronunciation skills in this level. Take this chance to
+            learn more advanced sounds, phrases, and words!
+        </item>
+        <item>Grammar Space</item>
+        <item>Welcome to the top of the tree! Grammar is the rules that make up a language, and this
+            level challenges you with over 33 different concepts and dozens of activities to attack.
+        </item>
+        <item>Find the image ending with</item>
+        <item>Find the image containing</item>
+        <item>Listen to the phrases and repeat.</item>
+        <item>Please enter your username.</item>
+        <item>Please enter your password.</item>
+        <item>Please enter your 10 digit mobile no.</item>
+        <item>Please enter your school name.</item>
+        <item>Please enter new password.</item>
+        <item>Please check internet connection.</item>
+        <item>Edit</item>
+        <item>Logout</item>
+        <item>Guest User</item>
+        <item>Cancel</item>
+        <item>Are you sure you want to logout of mGuru?</item>
+        <item>Yes</item>
+        <item>No</item>
+        <item>There are no words learned yet.</item>
+        <item>Take Photo</item>
+        <item>Open Gallery</item>
+        <item>Written by</item>
+        <item>Illustrated by</item>
+        <item>Translated by</item>
+        <item>Source from</item>
+        <item>You have enough mangoes 888 to unlock your next story!</item>
+        <item>Go!</item>
+        <item>Choose the word matching to the sound</item>
+        <item>Select the correct image!</item>
+        <item>Would you like to exit?</item>
+        <item>Credits</item>
+        <item>Change Language</item>
+        <item>Please select option</item>
+        <item>Please enter your name.</item>
+        <item>There are no concepts learned yet.</item>
+        <item>Find the sound in the word</item>
+        <item>Say</item>
+        <item>Free Mangoes</item>
+        <item>Share the app and get free Mangoes!</item>
+        <item>Share mGuru and get mangoes! 400 mangoes for each friend that signs up with your link
+            or code.
+        </item>
+        <item>mGuru English! It’s an amazing English learning app for children, from KG till 5th
+            std. Get your kids reading and speaking English quickly! Try it here for free:
+            http://www.mguruenglish.com/registration/
+        </item>
+        <item>No words learned yet</item>
+        <item>No concepts completed</item>
+        <item>Take the Challenge</item>
+        <item>Invalid username or password.</item>
+        <item>Username already exists.</item>
+        <item>Please sign up or sign in to be continue</item>
+        <item>Listen to the sound</item>
+        <item>OK</item>
+        <item>Good job!</item>
+        <item>Great job!</item>
+        <item>Star</item>
+        <item>You have enough mangoes to unlock your next story!</item>
+        <item>Go to Stories</item>
+        <item>Go To Explore</item>
+        <item>Go back to Stories</item>
+        <item>Downloading</item>
+        <item>Please wait while the story downloads</item>
+        <item>Would you like to give ____ access to your progress?</item>
+        <item>Report Card</item>
+        <item>Recent Activity</item>
+        <item>Words Learned</item>
+        <item>Total Progress</item>
+        <item>This week</item>
+        <item>No report card yet</item>
+        <item>No recent activity yet</item>
+        <item>No words learned yet</item>
+        <item>Yay! You\'re doing so well. Would you like to take a challenge and skip ahead?</item>
+        <item>Go To</item>
+        <item>Congratulations! You finished</item>
+        <item>Challenge!</item>
+        <item>Total marks</item>
+        <item>Please select at least one more</item>
+        <item>Replay</item>
+        <item>Finish</item>
+        <item>Become a topper</item>
+        <item>Become a topper</item>
+        <item>Topper Plan</item>
+        <item>Unlimited access to 400+ Lessons</item>
+        <item>All 60+ Stories Unlocked</item>
+        <item>30+ Advanced Grammar Lessons</item>
+        <item>Upgrade now</item>
+        <item>Most Popular</item>
+        <item>Upgrade to Topper Plan</item>
+        <item>1 Year @ ₹ 54/month</item>
+        <item>Total ₹ 640 (+3 months free)</item>
+        <item>3 months @ ₹360</item>
+        <item>1 Month @ ₹120</item>
+        <item>Promo Code</item>
+        <item>Go</item>
+        <item>1 Year Plan</item>
+        <item>Pay with Carrier Billing</item>
+        <item>Pay with PayTM</item>
+        <item>Payment Status</item>
+        <item>Thank you! Your payment was successful.</item>
+        <item>Transaction ID</item>
+        <item>Amount</item>
+        <item>Pay with PayTM Wallet</item>
+        <item>Enter email id</item>
+        <item>OR</item>
+        <item>Enter mobile number</item>
+        <item>Start transaction</item>
+        <item>days left</item>
+        <item>Too Easy</item>
+        <item>Books</item>
+        <item>Videos</item>
+        <item>Play video</item>
+        <item>Video Complete</item>
+        <item>Watch another Video?</item>
+        <item>You can earn upto 100 mangoes by answering some questions or you can watch another
+            video.
+        </item>
+        <item>Go to Videos</item>
+        <item>Your Ranking</item>
+        <item>out of</item>
+        <item>percentile</item>
+        <item>Toppers</item>
+        <item>mGuru Top Learner</item>
+        <item>Ranking</item>
+        <item>Math</item>
+        <item>Choose the word that starts with a different sound from the others.
+        </item>
+        <item>Choose the word that ends with a different sound from the others.
+        </item>
+        <item>Unlimited math problems</item>
+        <item>Mobile Number must be valid.</item>
+        <item>Earn 14 days of free access to mGuru\'s Topper Plan!</item>
+        <item>Story for You</item>
+        <item>Story of the Day</item>
+        <item>Editor\'s Choice</item>
+        <item>Video for You</item>
+        <item>Video of the Day</item>
+        <item>Enjoy 2 weeks of mGuru Topper Plan for FREE!</item>
+        <item>Your free trial has expired. Upgrade and enjoy UNLIMITED mGuru.</item>
+        <item>Upgrade</item>
+    </array>
+    <array name="gujrati_array">
+        <item>---- થી શરુ થવા વાળું ચિત્ર ઓળખો</item>
+        <item>વાક્ય પૂરું કરો</item>
+        <item>સ્વર મિશ્રણ</item>
+        <item>શબ્દોને જોડો</item>
+        <item>શબ્દ સાંભળો</item>
+        <item>---- ચિત્ર શોધો જેમાં આ હોય</item>
+        <item>ખાલી જગ્યા ભરો</item>
+        <item>અંતમાં ---- થવા વાળું ચિત્ર ઓળખો</item>
+        <item>કૃપા કરીને જવાબ પસંદ કરો</item>
+        <item>વાક્ય બનાવો</item>
+        <item>શબ્દ સાંભળો અને ફરી બોલો</item>
+        <item>ખાલી જગ્યામાં શબ્દ ભરો</item>
+        <item>ખાલી જગ્યામાં અક્ષર ભરો</item>
+        <item>શબ્દો જોડી કહેવત બનાવો</item>
+        <item>જોડી બનાવો</item>
+        <item>સાચી જોડ બનાવો</item>
+        <item>અક્ષરનો અવાજ સાંભળો</item>
+        <item>અક્ષર શોધો</item>
+        <item>નોચે આપેલા અવાજ થી શરુ થતા અક્ષર ઓળખો</item>
+        <item>આ અવાજનો અક્ષર પસંદ કરો</item>
+        <item>અક્ષર ને ખેચીને તેની સાચી જગ્યાએ મૂકો</item>
+        <item>---- થી શરુ થવા વાળું ચિત્ર ઓળખો</item>
+        <item>અવાજ સાંભળો અને ફરી બોલો</item>
+        <item>અવાજ સાંભળો અને અક્ષર શોધો</item>
+        <item>નોચે આપેલા અવાજ વાળો અક્ષર પસંદ કરો</item>
+        <item>શરૂઆત</item>
+        <item>આગળ</item>
+        <item>પાછળ</item>
+        <item>પૂરું</item>
+        <item>ઘણું સરસ!</item>
+        <item>તમે મને ઘણું ખવડાવ્યું છે</item>
+        <item>તારા મૂલ્યાંકન</item>
+        <item>ફરી પ્રયત્ન કરો</item>
+        <item>સબમિટ કરો</item>
+        <item>સાચો જવાબ નીચે આપેલ છે</item>
+        <item>અરે!</item>
+        <item>સાચું</item>
+        <item>સાચું</item>
+        <item>કયું સાચું છે?</item>
+        <item>ફરી સાંભળો</item>
+        <item>ફરી કરો</item>
+        <item>લોક કરેલ</item>
+        <item>આ વાર્તા વાંચવા માટે તમારે થોડી કેરીઓની જરૂર પડશે</item>
+        <item>હવે અનલોક કરો</item>
+        <item>પૂરતી કેરીઓ નથી</item>
+        <item>દૈનિક કસોટી પૂરી કરીને અને \'એક્સ્પ્લોર\' માં બતાવેલ અન્ય પ્રવૃતિઓ પૂરી કરીને તમે વધુ
+            કેરીઓ મેળવી શકો છો
+        </item>
+        <item>બંધ</item>
+        <item>આજે આપણે નીચે આપેલ શબ્દ શીખીશું</item>
+        <item>વાર્તા વાંચો</item>
+        <item>વાર્તા પૂરી થઇ</item>
+        <item>વાર્તાના પ્રશ્નોના જવાબ આપીને તમે 100 કેરીઓ મેળવી શકો છો અથવા નવી વાર્તા વાંચી શકો
+            છો
+        </item>
+        <item>નવી વાર્તા વાંચવી છે?</item>
+        <item>કેરીઓ મેળવો</item>
+        <item>કેરી</item>
+        <item>શબ્દ</item>
+        <item>મુદ્દો</item>
+        <item>ચિત્ર બદલીએ?</item>
+        <item>નામ</item>
+        <item>ઉમર</item>
+        <item>વર્ગ</item>
+        <item>શાળા</item>
+        <item>સાચવો</item>
+        <item>વપરાશકારનું નામ</item>
+        <item>સાંકેતિક શબ્દ</item>
+        <item>ખાતું ખોલો</item>
+        <item>પહેલેથી વાપરો છો? દાખલ થાઓ</item>
+        <item>આગળ વધો</item>
+        <item>સાંકેતિક શબ્દ ભૂલી ગયા?</item>
+        <item>દાખલ થાઓ</item>
+        <item>નવા વપરાશકાર? ખાતું ખોલો</item>
+        <item>સ્વાગત છે!</item>
+        <item>તમારા વિષે ટૂંકમાં બતાવો</item>
+        <item>મોબાઈલ નંબર</item>
+        <item>વર્ગ</item>
+        <item>બોર્ડ</item>
+        <item>હું મોટું છું</item>
+        <item>નવી વાતો શીખવા માટે તમારી મદદ કરવા આવ્યો છું. ચાલો, કેટલાક પ્રશ્નોના જવાબ આપીને જાણીએ
+            કે આપણે કેટલું જાણીએ છીએ
+        </item>
+        <item>આગળ</item>
+        <item>આગળ વધો</item>
+        <item>ભૂલી ગયા</item>
+        <item>વપરાશકારનું નામ ભરો</item>
+        <item>ધીરજ રાખો</item>
+        <item>તમારો નવો સાંકેતિક શબ્દ એસએમએસ દ્વારા મોકલવામાં આવ્યો છે</item>
+        <item>મેસેજમાં શોધો</item>
+        <item>પાછળ જાઓ</item>
+        <item>ફરી નમસ્તે</item>
+        <item>નવો સાંકેતિક શબ્દ ભરો</item>
+        <item>પૂર્વવત કરો</item>
+        <item>રોજની શોધ</item>
+        <item>શોધ</item>
+        <item>વાર્તાઓ</item>
+        <item>જાણકારી</item>
+        <item>ઘણું આસાન છે? આગળ વધો</item>
+        <item>આ લેવલ હમણાં લોક કરેલ છે. પહેલાના લેવલ પર રમવાનું ચાલુ રાખો અથવા હવે આ લેવળ અનલોક
+            કરો
+        </item>
+        <item>શબ્દ રમત</item>
+        <item>આવો, અક્ષરોના અવાજ સમજીએ</item>
+        <item>નવો અવાજ</item>
+        <item>આવો, આજે આપણે શબ્દોથી નવો અવાજ શીખીએ</item>
+        <item>અક્ષરોના અવાજ</item>
+        <item>બારાખડીના અક્ષરોનું ઉચ્ચારણ કેવી રીતે કરવું તે શીખો. તે સાથે નવા શબ્દો શીખીને
+            અંગ્રેજીના ઉત્તમ શ્રોતા બનો
+        </item>
+        <item>સ્વર મિત્ર</item>
+        <item>શબ્દ બનાવવા માટે સ્વર અને વ્યંજન સાથે હોવા જરૂરી હોય છે. સ્વરોનું ઉચ્ચારણ કવી રીતે થાય
+            છે તે શીખો અને શબ્દ સંગ્રહ વધારો
+        </item>
+        <item>શબ્દ પક્ષી</item>
+        <item>નવા શબ્દો અને અવાજની કસોટી સ્વીકારો. અંગ્રેજીના ઉચ્ચારણો થોડા મુશ્કેલ છે અને ઘણાં
+            નિયમો છે. તેથી સાવચેતી સાથે આ લેવલ પૂરું કરો
+        </item>
+        <item>આકાશમાં કહેવતો</item>
+        <item>તમારો સાંભળવા અને ઉચ્ચારની કુશળતા આ લેવલમાં વધુ સારી થશે. તમને આમાં નવા અવાજ, શબ્દ અને
+            કહેવતો શીખવાનો અવસર મળશે
+        </item>
+        <item>વ્યાકરણ</item>
+        <item>વૃક્ષ ની ઉપલી ટોચ પર તમારું સ્વાગત છે. વ્યાકરણ ભાષાના બધા નિયમો બતાવે છે. આ લેવલમાં
+            તમારે વિવિધ 33 હેતુઓ અને ડઝન પ્રવૃતિઓ કરવાની હોય છે
+        </item>
+        <item>સાથે પૂરા થતા ચિત્રો શોધો</item>
+        <item>જેમાં આ સામેલ હોય તેવા ચિત્રો શોધો</item>
+        <item>વાક્યપ્રયોગો સાંભળો અને પુનરાવર્તન કરો</item>
+        <item>કૃપયા તમારું વપરાશકાર નામ દાખલ કરો</item>
+        <item>કૃપયા તમારો સાંકેતિક શબ્દ દાખલ કરો</item>
+        <item>કૃપયા તમારો 10 આંકડાનો મોબાઈલ નંબર દાખલ કરો</item>
+        <item>કૃપયા તમારું શાળાનું નામ દાખલ કરો</item>
+        <item>કૃપયા નવો સાંકેતિક શબ્દ દાખલ કરો</item>
+        <item>કૃપયા ઈન્ટરનેટ જોડાણ તપાસો</item>
+        <item>સુધારો</item>
+        <item>લોગ આઉટ</item>
+        <item>મહેમાન વપરાશકાર</item>
+        <item>રદ કરો</item>
+        <item>શું તમે mGuruમાંથી લોગ આઉટ થવા માટે ચોક્કસ છો?</item>
+        <item>હા</item>
+        <item>ના</item>
+        <item>હજી કોઈ શબ્દો શીખ્યા નથી</item>
+        <item>ફોટો લો</item>
+        <item>ગેલેરી ખોલો</item>
+        <item>દ્વારા લખાયેલ</item>
+        <item>દ્વારા દર્શાવાયેલ</item>
+        <item>દ્વારા અનુવાદિત કરાયેલ</item>
+        <item>દ્વારા સ્ત્રોત</item>
+        <item>તમારી આગલી વાર્તા ખોલવા માટે તમારી પાસે પૂરતી 888 કેરીઓ છે !</item>
+        <item>જાઓ!</item>
+        <item>અવાજ સાથે મેળ ખાતો શબ્દ પસંદ કરો</item>
+        <item>સાચો ફોટો પસંદ કરો !</item>
+        <item>શું તમે બહાર જવા માંગો છો?</item>
+        <item>ઋણસ્વીકાર</item>
+        <item>ભાષા બદલો</item>
+        <item>કૃપયા વિકલ્પ પસંદ કરો</item>
+        <item>કૃપયા તમારું નામ દાખલ કરો</item>
+        <item>હજી કોઈ ખ્યાલ શીખ્યા નથી</item>
+        <item>શબ્દમાં અવાજ શોધો</item>
+        <item>કહો</item>
+        <item>મફત કેરીઓ</item>
+        <item>એપ્લીકેશન બીજાઓને આપો અને મફત કેરી મેળવો!</item>
+        <item>mGuru બીજાને આપો અને મફત કેરી મેળવો ! તમારી લિક અથવા કોડ સાથે સાઈન અપ કરતા દરેક મિત્ર
+            માટે તમને 400 કેરીઓ મળશે.
+        </item>
+        <item>mGuru English! તે બાલમંદિર થી 5 માં ધોરણ સુધી ભણતા બાળકો માટે એક અદભુત અંગ્રેજી શીખવતી
+            એપ્લીકેશન છે . તમારા બાળકોનેઅંગ્રેજી સરળતાથી બોલતા અને વાંચતા કરી દો! તે માટે અહી મફતમાં
+            જાઓ :http://www.mguruenglish.com/registration/
+        </item>
+        <item>હજી કોઈ શબ્દો શીખ્યા નથી</item>
+        <item>કોઈ ખ્યાલ પૂરા થયા નથી</item>
+        <item>પડકાર ઉઠાવો</item>
+        <item>અમાન્ય વપરાશકર્તા નામ અથવા સાંકેતિક શબ્દ</item>
+        <item>વપરાશકર્તા નામ પહેલેથી હાજર છે</item>
+        <item>ચાલુ રાખવા માટે કૃપયા સાઈન અપ અથવા સાઈન ઇન કરો</item>
+        <item>અવાજ સાંભળો</item>
+        <item>ઠીક છે</item>
+        <item>સારુ કામ!</item>
+        <item>મહાન કામ!</item>
+        <item>તારો</item>
+        <item>આગલી વાર્તા ખોલવા માટે તમારી પાસે પૂરતી કેરીઓ છે!</item>
+        <item>વાર્તાઓ પર જાઓ</item>
+        <item>શોધો પર જાઓ</item>
+        <item>ફરી વાર્તાઓ પર જાઓડા</item>
+        <item>ડાઉનલોડ કરી રહ્યા છે</item>
+        <item>જ્યાં સુધી વાર્તા ડાઉનલોડ થાય ત્યાં સુધી કૃપયા રાહ જુઓ</item>
+        <item>શું તમે તમારા પ્રોગ્રેસ જોવા માટે ____ ને મંજૂરી આપશો?</item>
+        <item>રીપોર્ટ કાર્ડ</item>
+        <item>હાલની પ્રવૃત્તિ</item>
+        <item>શીખેલ શબ્દો</item>
+        <item>કુલ વિકાસ</item>
+        <item>this week</item>
+        <item>હજી કોઈ રીપોર્ટ કાર્ડ નથી .</item>
+        <item>કોઈ હાલની પ્રવૃત્તિ નથી .</item>
+        <item>હજી કોઈ શબ્દો શીખ્યા નથી.</item>
+        <item>હુર્રે! તમે ઘણું સારું કરી રહ્યા છો. શું તમે પડકાર ઉઠાવીને આગળ વધવા માંગો છો ?</item>
+        <item>Go To</item>
+        <item>અભિનંદન! તમે પૂરું કર્યું!</item>
+        <item>પડકાર.</item>
+        <item>કુલ મેળવેલ ગુણ</item>
+        <item>કૃપા કરીને ઓછામાં ઓછી એક વધુ પસંદ કરો</item>
+        <item>ફરી રમવું</item>
+        <item>સમાપ્ત</item>
+        <item>હવે એક ટોપર બનો</item>
+        <item>ટોપર બનવું</item>
+        <item>ટોપર પ્લાન</item>
+        <item>400થી વધુ પાઠો માં અમર્યાદિત પ્રવેશ</item>
+        <item>બધી 60થી વધુ વાર્તાઓ ખુલી</item>
+        <item>30થી વધુ એડવાન્સ વ્યાકરણ પાઠો</item>
+        <item>હમણાં અપગ્રેડ કરો</item>
+        <item>સૌથી વધુ પ્રખ્યાત</item>
+        <item>ટોપર પ્લાનમાં અપગ્રેડ કરો</item>
+        <item>1 વર્ષ@ 54/મહિના</item>
+        <item>કુલ ₹640 (+3 મહિના મફત)</item>
+        <item>3 મહિનો@ ₹360</item>
+        <item>1 મહિનો@ ₹120</item>
+        <item>પ્રોમો કોડ</item>
+        <item>જાઓ</item>
+        <item>1 વર્ષનો પ્લાન</item>
+        <item>કેરિયર બિલીંગ માં ચુકવણી કરો</item>
+        <item>PayTM સાથે ચુકવણી કરો</item>
+        <item>ચુકવણી સ્થિતિ</item>
+        <item>તમારો આભાર ! તમારી ચુકવણી સફળ થઇ છે</item>
+        <item>વ્યવહાર ID</item>
+        <item>રકમ</item>
+        <item>PayTMવોલેટથી ચુકવણી કરો</item>
+        <item>ઈમેઈલ આઈડી દાખલ કરો</item>
+        <item>અથવા</item>
+        <item>મોબાઈલ નંબર દાખલ કરો</item>
+        <item>વ્યવહાર ચાલુ કરો</item>
+        <item>દિવસો બાકી છે</item>
+        <item>ખૂબ સરળ</item>
+        <item>પુસ્તકો</item>
+        <item>વિડિઓઝ</item>
+        <item>વિડીયો ચલાવો</item>
+        <item>વિડીયો પૂરી થઇ</item>
+        <item>બીજી વિડીયો જોવી છે ?</item>
+        <item>તમે કેટલાક પ્રશ્નોના જવાબ આપીને 100 કેરીઓ મેળવી શકો છો અથવા તમે અન્ય વિડીયો જોઈ શકો છો
+            .
+        </item>
+        <item>વિડિઓઝ પર જાઓ</item>
+        <item>તમારું સ્થાન</item>
+        <item>કુલ માં થી</item>
+        <item>ટકા</item>
+        <item>ટૉપર્સ</item>
+        <item>mGuru શીખનારા ટોચના નામો</item>
+        <item>સ્થાન</item>
+        <item>ગણિત</item>
+        <item>શબ્દ પસંદ કરો જે બીજા શબ્દોથી
+            અલગ ધ્વનિથી પ્રારંભ થાય છે.
+        </item>
+        <item>અન્ય શબ્દોથી અલગ ધ્વનિ સાથે સમાપ્ત થતો શબ્દ પસંદ કરો.
+        </item>
+        <item>અમર્યાદિત ગણિત સમસ્યાઓ</item>
+        <item>મોબાઇલ નંબર માન્ય હોવો જોઈએ</item>
+        <item>14 દિવસ સુધી mGuruના ટોપર પ્લાનને મફત વાપરો</item>
+        <item>તમારા માટે વાર્તા</item>
+        <item>આજ માટે વાર્તા</item>
+        <item>સંપાદકની પસંદગી</item>
+        <item>તમારા માટે વિડિઓ</item>
+        <item>આજ માટે વિડિઓ</item>
+        <item>Enjoy 2 weeks of mGuru Topper Plan for FREE!</item>
+        <item>Your free trial has expired. Upgrade and enjoy UNLIMITED mGuru.</item>
+        <item>Upgrade</item>
+    </array>
+    <array name="hindi_array">
+        <item>---   आवाज से शुरू होने वाला चित्र पहचानें|</item>
+        <item>वाक्य पूर्ण करें|</item>
+        <item>स्वर मिश्रण</item>
+        <item>शब्दों को मिलाएँ|</item>
+        <item>शब्द सुनें|</item>
+        <item>---   आवाज होने वाला चित्र पहचानें|</item>
+        <item>रिक्त स्थान भरें|</item>
+        <item>अंत में  ----- आवाज होने वाला चित्र पहचानें|</item>
+        <item>कृपया उत्तर चुनें|</item>
+        <item>वाक्य बनाएं|</item>
+        <item>शब्द सुनें और फ़िर से बोले|</item>
+        <item>रिक्त स्थान में शब्द लिखें|</item>
+        <item>रिक्त स्थान में अक्षर लिखें|</item>
+        <item>शब्दों से मुहावरा बनाए|</item>
+        <item>जोडियाँ मिलाए|</item>
+        <item>सही जोडियाँ मिलाए|</item>
+        <item>अक्षर का आवाज सुनें|</item>
+        <item>अक्षर के ऊपर उंगली से लिखें|</item>
+        <item>निम्न आवाज से शुरू होने वाला शब्द ढूंढे|</item>
+        <item>इस आवाज का अक्षर चुनें|</item>
+        <item>अक्षर खींचकर सही जगह रखें|</item>
+        <item>--- आवाज से शुरू होने वाला चित्र पहचानें|</item>
+        <item>आवाज सुनें और फ़िर से बोले|</item>
+        <item>आवाज सुनें और अक्षर के ऊपर उंगली से लिखें|</item>
+        <item>निम्न आवाज होनेवाला अक्षर चुनें|</item>
+        <item>शुरु करें|</item>
+        <item>आगे</item>
+        <item>पीछे</item>
+        <item>आगे बढे|</item>
+        <item>उत्तम!</item>
+        <item>आपने मुझे खूब खिलाया है|</item>
+        <item>सितारा मुल्यांकन</item>
+        <item>फ़िर से प्रयास करें</item>
+        <item>सबमिट</item>
+        <item>सही उत्तर नीचे दिया है|</item>
+        <item>उफ़!</item>
+        <item>सही</item>
+        <item>1</item>
+        <item>कौन-सा सही है?</item>
+        <item>फ़िर से सुनें|</item>
+        <item>फ़िर से करें|</item>
+        <item>बंद है|</item>
+        <item>यह कहानी पढ़ने के लिए आपको और आम की जरुरत है|</item>
+        <item>शुरू करें|</item>
+        <item>पर्याप्त आम नही है|</item>
+        <item>दैनिक चुनौती\' पूर्ण करके और \'Explore\' की गतीविधीयां पूर्ण करके आप आम कमा सकते है|
+        </item>
+        <item>बंद</item>
+        <item>आज हम नीचे दिये शब्द सीखेंगे|</item>
+        <item>कहानी पढ़ें|</item>
+        <item>कहानी पूर्ण हुई|</item>
+        <item>कहानी के प्रश्नों के उत्तर देकर आप 100 तक आम पा सकते है या नई कहानी पढ़ सकते है|</item>
+        <item>नई कहानी पढ़नी है?</item>
+        <item>आम कमाए|</item>
+        <item>आम</item>
+        <item>शब्द</item>
+        <item>संकल्पना</item>
+        <item>फोटो बदलना है?</item>
+        <item>नाम</item>
+        <item>उम्र</item>
+        <item>कक्षा</item>
+        <item>स्कूल</item>
+        <item>जतन करें|</item>
+        <item>यूजरनेम</item>
+        <item>पासवर्ड</item>
+        <item>खाता खोलें|</item>
+        <item>पहले से इस्तेमाल करते है? प्रवेश करें|</item>
+        <item>आगे बढे|</item>
+        <item>पासवर्ड भूल गए?</item>
+        <item>प्रवेश करें|</item>
+        <item>नये उपयोगकर्ता? खाता खोलें|</item>
+        <item>स्वागत है!</item>
+        <item>आप के बारे में संक्षिप्त में बतायें|</item>
+        <item>मोबाईल नंबर</item>
+        <item>कक्षा</item>
+        <item>बोर्ड</item>
+        <item>मै मोटू हूँ|</item>
+        <item>नई बातें सीखने में आपकी मदत करने मैं आया हूँ| चलो, कुछ प्रश्नों के उत्तर देकर पता करते
+            है के हमें कितना आता है|
+        </item>
+        <item>आगे</item>
+        <item>आगे बढ़ें|</item>
+        <item>भूल गयें|</item>
+        <item>यूजरनेम भरें|</item>
+        <item>संयम रखें|</item>
+        <item>आपका नया पासवर्ड एस एम एस द्वारा भेजा गया है|</item>
+        <item>मेसेज में ढूंढे|</item>
+        <item>पीछे आये|</item>
+        <item>नमस्ते|</item>
+        <item>नया संकेतशब्द भरें|</item>
+        <item>पूर्ववत करें|</item>
+        <item>आज की चुनौती</item>
+        <item>खोज</item>
+        <item>कहानियाँ</item>
+        <item>प्रोफाइल</item>
+        <item>बहोत आसान है? आगे बढें|</item>
+        <item>यह लेवल अभी बंद है| पिछले लेवल पूर्ण करे या लेवल शुरू करने के लिये आगे बढे|</item>
+        <item>शब्द खेल</item>
+        <item>आओ, अक्षरों के ध्वनि सीखें|</item>
+        <item>नया आवाज</item>
+        <item>आओ, आज हम शब्दों से नये आवाज सीखें|</item>
+        <item>अक्षरों कें आवाज</item>
+        <item>बारहखडी के अक्षरों का उच्चारण कैसे करे यह सीखें| साथ ही नये शब्द सिखकर अंग्रेजी के
+            उत्तम श्रोता बनें|
+        </item>
+        <item>स्वर मित्र</item>
+        <item>शब्द बनने के लिये स्वर और व्यंजन साथ में आना जरुरी होता है| स्वरों का उच्चारण कैसे करे
+            यह सीखें और शब्दसंग्रह बढायें|
+        </item>
+        <item>शब्द पंछी</item>
+        <item>नये शब्द और ध्वनि की चुनौती स्वीकार करें| अंग्रेजी के उच्चारण थोडे मुश्कील है और बहोत
+            सारे नियम है| इसलिये याह लेवल संभलकर पूर्ण करें|
+        </item>
+        <item>मुहावरे आसमान में</item>
+        <item>आपके श्रवण तथा उच्चार कौशल इस लेवल में अधिक दृढ बनेंगे| नये ध्वनि, शब्द और मुहावरें
+            सीखने का अवसर इसमे आपको प्राप्त होगा|
+        </item>
+        <item>व्याकरण</item>
+        <item>पेड के उपरी टहनी पर आपका स्वागत है! व्याकरण भाषा के सभी नियम बताता है| इस लेवल में
+            आपको अलग-अलग 33 संकल्पनायें तथा दर्जनों गतीविधीयों के चुनौती का सामना करना है|
+        </item>
+        <item>अंत में ---- आवाज होने वाला चित्र पहचानें|</item>
+        <item>--- आवाज होने वाला चित्र पहचानें|</item>
+        <item>मुहावरें सुनें और फ़िर से बोलें|</item>
+        <item>कृपया यूजरनेम भरें|</item>
+        <item>कृपया पासवर्ड भरें|</item>
+        <item>कृपया आपका 10 अंकवाला मोबाईल नंबर भरें|</item>
+        <item>कृपया आपके स्कूल का नाम लिखें|</item>
+        <item>कृपया नया पासवर्ड भरें|</item>
+        <item>कृपया इंटरनेट कनेक्शन जाँच लें|</item>
+        <item>जानकारी बदलें|</item>
+        <item>प्रस्थान</item>
+        <item>अतिथि उपयेागकर्ता</item>
+        <item>रद्द करें|</item>
+        <item>क्या आपका mGuru से बाहर निकलना निश्चित है?</item>
+        <item>हाँ|</item>
+        <item>नहीं|</item>
+        <item>अभी तक कोई भी शब्द नहीं सीखा|</item>
+        <item>फोटो लें|</item>
+        <item>गैलरी खोलें|</item>
+        <item>लेखक/लेखिका</item>
+        <item>चित्रकार</item>
+        <item>अनुवादक</item>
+        <item>स्रोत</item>
+        <item>अगली कहानी पढ़ने के लिए आपके पास पर्याप्त आम है|</item>
+        <item>आगे बढ़े|</item>
+        <item>निचे दिए आवाज से समानता वाला शब्द चुनें|</item>
+        <item>सही चित्र चुनें|</item>
+        <item>क्या आपको बाहर निकलना है?</item>
+        <item>श्रेय</item>
+        <item>भाषा बदलें|</item>
+        <item>सही विकल्प चुनें|</item>
+        <item>कृपया आपका नाम लिखें|</item>
+        <item>अभी तक कोई भी संकल्पना नहीं सीखें|</item>
+        <item>शब्द में छिपा आवाज़ पहचानें|</item>
+        <item>बोलें</item>
+        <item>मुफ्त आम</item>
+        <item>ऐप शेअर करें और आम मुफ्त में कमाएँ|</item>
+        <item>mGuru शेअर करें और आम कमाएँ| आपने शेअर किये लिंक या कोड से ऐप लेने वाले हर व्यक्ति से
+            आपको 400 आम मिलेंगे|
+        </item>
+        <item>mGuru English app इस्तेमाल करें| पूर्वप्राथमिक से कक्षा 5 वी के बच्चों को अति लाभदायी|
+            आपके बच्चों को शीघ्रता से अंग्रेजी बोलने तथा पढ़ने के लिये आज ही इस्तेमाल करें| एकदम
+            फ्री! http://www.mguruenglish.com/registration/"
+        </item>
+        <item>अभी तक कोई भी शब्द नहीं सीखा|</item>
+        <item>कोई भी संकल्पना पूर्ण नहीं की है|</item>
+        <item>चुनौती लें|</item>
+        <item>यूजरनेम या पासवर्ड गलत है|</item>
+        <item>यूजरनेम पहले से इस्तेमाल में है|</item>
+        <item>आगे जाने के लिये सही विकल्प चुनें|</item>
+        <item>आवाज सुनें|</item>
+        <item>ठीक</item>
+        <item>उत्तम!</item>
+        <item>अत्युत्तम</item>
+        <item>सितारे</item>
+        <item>अगली कहानी डाउनलोड करने के लिये आपके पास अभी पर्याप्त आम है!</item>
+        <item>"कहानियाँ" में जाए|</item>
+        <item>"ख़ोज" में जाए|</item>
+        <item>"कहानियाँ" में वापस जाए|</item>
+        <item>डाउनलोडिंग शुरू है|</item>
+        <item>कहानी डाउनलोड होने तक प्रतिक्षा करें|</item>
+        <item>आपके प्रगति की जानकारी ____ को देना चाहते है क्या?</item>
+        <item>रिपोर्ट कार्ड</item>
+        <item>हाल ही में पूर्ण की गई एक्टीविटी</item>
+        <item>सीखें हुए शब्द</item>
+        <item>कुल प्रगति</item>
+        <item>इस सप्ताह की प्रगति</item>
+        <item>अभी तक रिपोर्ट कार्ड नही है|</item>
+        <item>हाल ही में पूर्ण की गई एक्टीविटी नही है|</item>
+        <item>अभी तक कोई भी शब्द नहीं सीखा|</item>
+        <item>आप एकदम सही जवाब दे रहे है| क्या आपको \'चुनौती\' पूर्ण करके और आगे जाना है?</item>
+        <item>------ में जाइये</item>
+        <item>अभिनन्दन!</item>
+        <item>चुनौती</item>
+        <item>कुल अंक</item>
+        <item>कृपया और एक विकल्प चुनें|</item>
+        <item>फ़िर से सुनें|</item>
+        <item>समाप्त|</item>
+        <item>अब अव्वल (टॉपर) बने</item>
+        <item>अव्वल (टॉपर) बने</item>
+        <item>अव्वल योजना</item>
+        <item>400+ गतीविधीयों का अमर्यादित इस्तेमाल</item>
+        <item>सभी 60+ कहानियाँ</item>
+        <item>30+ व्याकरण की गतिविधियाँ</item>
+        <item>अभी अपग्रेड करें|</item>
+        <item>सर्वाधिक लोकप्रिय</item>
+        <item>अव्वल योजना शुरू करे</item>
+        <item>1 पुरे साल के लिये ₹ 54 प्रतिमाह</item>
+        <item>कुल ₹640 (+3 माह मुफ्त)</item>
+        <item>3 माह के लिये ₹360</item>
+        <item>एक माह के लिये ₹120</item>
+        <item>प्रोमो कोड</item>
+        <item>आगे बढें</item>
+        <item>एक वर्ष का प्लान</item>
+        <item>मोबाईल रिचार्ज से पैसे भरें|</item>
+        <item>PayTM से पैसे भरें|</item>
+        <item>पेमेंट की स्थिती</item>
+        <item>धन्यवाद! आपका पेमेंट सफल हुआ है|</item>
+        <item>व्यवहार क्रमांक</item>
+        <item>कुल रकम</item>
+        <item>PayTM से पैसे भरें|</item>
+        <item>इ-मेल आयडी भरें|</item>
+        <item>अथवा</item>
+        <item>मोबाईल नंबर भरें|</item>
+        <item>व्यवहार शुरू करें|</item>
+        <item>दिन शेष है|</item>
+        <item>बहुत आसान</item>
+        <item>पुस्तकें</item>
+        <item>वीडियो</item>
+        <item>विडिओ शुरू करें|</item>
+        <item>विडिओ पूरा हुआ|</item>
+        <item>क्या दूसरा विडिओ देखना चाहते है?</item>
+        <item>कुछ प्रश्नों के उत्तर देकर आप 100 आम कमा सकते है या फिर दुसरे विडिओ देख सकते हैं|
+        </item>
+        <item>वीडियो के लिए जाना</item>
+        <item>आपका स्थान|</item>
+        <item>कुल में से|</item>
+        <item>पर्सेंटाईल|</item>
+        <item>टॉपर्स|</item>
+        <item>mGuru सिखनेवाले अव्वल नाम|</item>
+        <item>स्थान|</item>
+        <item>गणित</item>
+        <item>निम्न शब्दों में से अलग आवाज से शुरू होनेवाला शब्द चुनें|
+        </item>
+        <item>निम्न शब्दों में से अलग आवाज से अंत होनेवाला शब्द चुनें|
+        </item>
+        <item>असीमित गणित समस्याएं|</item>
+        <item>मोबाइल नंबर वैध होना चाहिए|</item>
+        <item>14 दिनों तक mGuru का Topper Plan मुफ्त में इस्तेमाल करे|</item>
+        <item>आपके लिए कहानी</item>
+        <item>आज की कहानी</item>
+        <item>संपादकों की पसंद</item>
+        <item>आपके लिए वीडियो</item>
+        <item>आज का वीडियो</item>
+        <item>mGuru का टॉपर प्लान 2 हफ्ते मुफ्त में इस्तेमाल करे और आनंद ले|</item>
+        <item>आपका मुफ्त इस्तेमाल का समय समाप्त हो चुका है| अपग्रेड करे और mGuru का अमर्याद इस्तेमाल करे|</item>
+        <item>Upgrade</item>
+    </array>
+    <array name="marathi_array">
+        <item>---- आवाजाने सुरु होणारे चित्र ओळखा.</item>
+        <item>वाक्य पूर्ण करा.</item>
+        <item>स्वर मिश्रण</item>
+        <item>जोड्या जुळवा.</item>
+        <item>शब्द ऐका.</item>
+        <item>----- आवाज असणारे चित्र ओळखा.</item>
+        <item>गाळलेली जागा भरुया.</item>
+        <item>शेवटी----- आवाज असणारे चित्र ओळखा.</item>
+        <item>कृपया उत्तर निवडा.</item>
+        <item>वाक्य बनवा.</item>
+        <item>शब्द ऐका आणि पुन्हा म्हणा.</item>
+        <item>गाळलेला शब्द लिहा.</item>
+        <item>गाळलेले अक्षर लिहा.</item>
+        <item>शब्द वापरून वाक्प्रचार तयार करा.</item>
+        <item>जोड्या जुळवा.</item>
+        <item>योग्य जोडी जुळवा.</item>
+        <item>अक्षराचा आवाज ऐका.</item>
+        <item>अक्षरावर बोटाने लिहा.</item>
+        <item>खालील आवाजापासून सुरु होणारा शब्द शोधा.</item>
+        <item>या आवाजाचे अक्षर निवडा.</item>
+        <item>अक्षर ओढून योग्य जागी ठेवा.</item>
+        <item>---- आवाजाने सुरु होणारे चित्र ओळखा.</item>
+        <item>आवाज ऐका आणि पुन्हा म्हणा.</item>
+        <item>आवाज ऐका आणि अक्षरावर बोटाने लिहा.</item>
+        <item>खालील आवाज येणारे अक्षर निवडा.</item>
+        <item>सुरु करा.</item>
+        <item>पुढे</item>
+        <item>मागे</item>
+        <item>पुढे जा.</item>
+        <item>उत्तम!</item>
+        <item>तू मला भरपूर भरवले आहेस.</item>
+        <item>तारा मुल्यांकन</item>
+        <item>पुन्हा प्रयत्न करा</item>
+        <item>सबमिट</item>
+        <item>बरोबर उत्तर खालीलप्रमाणे आहे.</item>
+        <item>अरेरे!</item>
+        <item>बरोबर</item>
+        <item>1</item>
+        <item>कोणते बरोबर आहे?</item>
+        <item>पुन्हा ऐका.</item>
+        <item>पुन्हा करा.</item>
+        <item>बंद आहे.</item>
+        <item>ही गोष्ट वाचण्यासाठी तुम्हाला काही आंब्यांची गरज लागेल.</item>
+        <item>सुरु करा.</item>
+        <item>आंबे पुरेसे नाहीत.</item>
+        <item>दैनिक आव्हान\' पूर्ण करून आणि \'Explore\' मधील उपक्रम पूर्ण करून तुम्ही आंबे मिळवू
+            शकता.
+        </item>
+        <item>बंद</item>
+        <item>आज आपण खाली दिलेले शब्द शिकणार आहोत.</item>
+        <item>गोष्ट वाचा.</item>
+        <item>गोष्ट पूर्ण झाली.</item>
+        <item>गोष्टीवरील प्रश्नांची उत्तरे देवून तुम्ही 100 पर्यंत आंबे मिळवू शकता किंवा नवीन गोष्ट
+            वाचू शकता.
+        </item>
+        <item>नवीन गोष्ट वाचायची आहे?</item>
+        <item>आंबे मिळवा.</item>
+        <item>आंबे</item>
+        <item>शब्द</item>
+        <item>संकल्पना</item>
+        <item>फोटो बदलायचा आहे?</item>
+        <item>नाव</item>
+        <item>वय</item>
+        <item>वर्ग</item>
+        <item>शाळा</item>
+        <item>जतन करा.</item>
+        <item>यूजरनेम</item>
+        <item>पासवर्ड</item>
+        <item>खाते उघडा</item>
+        <item>आधीपासून वापरता? प्रवेश करा.</item>
+        <item>पुढे जा.</item>
+        <item>पासवर्ड विसरलात का?</item>
+        <item>प्रवेश करा.</item>
+        <item>नवीन वापरकर्ता? खाते उघडा.</item>
+        <item>स्वागत आहे!</item>
+        <item>तुमच्याविषयी थोडक्यात सांगा.</item>
+        <item>मोबाईल क्रमांक</item>
+        <item>वर्ग</item>
+        <item>बोर्ड</item>
+        <item>मी मोटू आहे.</item>
+        <item>नविन बाबी शिकण्यास मदत करायला मी आलो आहे. आपण काही प्रश्नांची उत्तरे देवू या आणि
+            शोधुया की, आपल्याला किती माहिती आहे.
+        </item>
+        <item>पुढे</item>
+        <item>पुढे जा.</item>
+        <item>विसरलात?</item>
+        <item>यूजरनेम भरा.</item>
+        <item>संयम पाळा.</item>
+        <item>तुमचा नवीन पासवर्ड एस एम एस द्वारे पाठवला आहे.</item>
+        <item>मेसेज मध्ये शोधा.</item>
+        <item>मागे या.</item>
+        <item>नमस्कार.</item>
+        <item>नविन संकेतशब्द भरा.</item>
+        <item>पूर्ववत करा.</item>
+        <item>आजचे आव्हान</item>
+        <item>शोध</item>
+        <item>गोष्टी</item>
+        <item>प्रोफाइल</item>
+        <item>खुप सोपे आहे? पुढे पळा.</item>
+        <item>ही लेवल आता बंद आहे. मागच्या लेवल पूर्ण करा किंवा लेवल सुरु करण्यासाठी पुढे जा.</item>
+        <item>शब्द खेळ</item>
+        <item>अनेक अक्षरांचे आवाज शिकूया.</item>
+        <item>नवीन आवाज</item>
+        <item>आज आपण शब्दांपासून नवीन आवाज शिकूया.</item>
+        <item>अक्षरांचे आवाज</item>
+        <item>बाराखडीतील अक्षरांचे उच्चार कसे करावे ते शिकूया. सोबतच नवीन शब्द शिकून इंग्रजीचे उत्तम
+            श्रोते होऊ या.
+        </item>
+        <item>स्वर मित्र</item>
+        <item>शब्द तयार करण्यासाठी स्वर आणि व्यंजन एकत्र येणे महत्वाचे असते. स्वर कसे उच्चारावे ते
+            शिकूया आणि शब्दसंग्रह वाढवू या.
+        </item>
+        <item>शब्द पक्षी</item>
+        <item>नवीन शब्द आणि आवाजांचे आव्हान स्वीकारा. इंग्रजीचे उच्चार अवघड आहेत आणि त्यात खूप नियम
+            आहेत. त्यामुळे काळजीपूर्वक ही लेवल पूर्ण करा.
+        </item>
+        <item>वाक्प्रचार आकाशात</item>
+        <item>तुमच्या श्रवण आणि उच्चार कौशल्यांना या लेवल मध्ये अधिक दृढता येइल. अधिक प्रगत आवाज,
+            शब्द आणि वाक्प्रचार शिकण्याची संधी यात आहे.
+        </item>
+        <item>व्याकरण</item>
+        <item>झाडाच्या शेंड्यावर आपले स्वागत आहे! व्याकरण भाषेचे सर्व नियम सांगत असतो. ही लेवल विविध
+            33 संकल्पना आणि डझनभर उपक्रम घेऊन तुम्हाला आव्हान देत आहे.
+        </item>
+        <item>शेवटी --- आवाज असणारे चित्र ओळखा.</item>
+        <item>---- आवाज असणारे चित्र ओळखा.</item>
+        <item>शब्दसमूह ऐकुया आणि पुन्हा बोलूया.</item>
+        <item>कृपया यूजरनेम भरा.</item>
+        <item>कृपया पासवर्ड भरा.</item>
+        <item>कृपया तुमचा 10 अंकी मोबाईल क्रमांक भरा.</item>
+        <item>कृपया तुमच्या शाळेचे नाव भरा.</item>
+        <item>कृपया नवीन पासवर्ड भरा.</item>
+        <item>कृपया इंटरनेट कनेक्शनची खात्री करा.</item>
+        <item>माहिती बदला.</item>
+        <item>बाहेर निघा.</item>
+        <item>अतिथी वापरकर्ता</item>
+        <item>रद्द करा.</item>
+        <item>तुम्हाला mGuru मधून नक्की बाहेर निघायचे आहे का?</item>
+        <item>होय.</item>
+        <item>नाही.</item>
+        <item>अजूनपर्यंत एकही शब्द शिकला नाही.</item>
+        <item>फोटो काढा.</item>
+        <item>गैलरी उघडा.</item>
+        <item>लेखक/लेखिका</item>
+        <item>चित्रकार</item>
+        <item>अनुवादक</item>
+        <item>स्रोत</item>
+        <item>पुढील गोष्ट वाचण्यासाठी पुरसे आंबे तुमच्याकडे आहेत.</item>
+        <item>पुढे जा.</item>
+        <item>खालील आवाजाशी समान असणारा शब्द निवडा.</item>
+        <item>योग्य चित्र निवडा.</item>
+        <item>तुम्हाला बाहेर निघायचे आहे का?</item>
+        <item>श्रेय</item>
+        <item>भाषा बदला.</item>
+        <item>योग्य पर्याय निवडा.</item>
+        <item>कृपया तुमचे नाव लिहा.</item>
+        <item>अजूनपर्यंत एकही संकल्पना शिकले नाही.</item>
+        <item>शब्दातील आवाज ओळखूया.</item>
+        <item>बोला</item>
+        <item>मोफत आंबे</item>
+        <item>एप शेअर करा मोफत आंबे मिळवा.</item>
+        <item>mGuru शेअर करा आणि आंबे मिळवा! तुम्ही शेअर केलेल्या लिंक किंवा कोड वरून एप घेणाऱ्या
+            प्रत्येक व्यक्तीकडून 400 आंबे मिळतील.
+        </item>
+        <item>mGuru English app वापरून बघा. पूर्वप्राथमिक ते इयत्ता 5 वी पर्यंतच्या विद्यार्थ्याना
+            अतिशय उपयुक्त. तुमच्या मुलांना त्वरीत इंग्रजी बोलण्यासाठी व वाचण्यासाठी आजच वापरून बघा.
+            अगदी मोफत! http://www.mguruenglish.com/registration/"
+        </item>
+        <item>अजूनपर्यंत एकही शब्द शिकला नाही.</item>
+        <item>एकही संकल्पना पूर्ण केली नाही.</item>
+        <item>आव्हान स्वीकारा.</item>
+        <item>यूजरनेम किंवा पासवर्ड चुकीचा आहे.</item>
+        <item>यूजरनेम आधीपासून वापरात आहे.</item>
+        <item>पुढे जाण्यासाठी योग्य पर्याय निवडा.</item>
+        <item>आवाज ऐका.</item>
+        <item>साधारण</item>
+        <item>उत्तम!</item>
+        <item>अत्युत्तम</item>
+        <item>तारे</item>
+        <item>पुढील गोष्ट डाउनलोड करण्यासाठी आता तुमच्याकडे पुरेसे आंबे आहेत!</item>
+        <item>"गोष्टी" मध्ये जा.</item>
+        <item>"शोध" मध्ये जा.</item>
+        <item>"गोष्टी" मध्ये परत जा.</item>
+        <item>डाउनलोडिंग सुरु आहे.</item>
+        <item>गोष्ट डाउनलोड होईपर्यंत वाट बघा.</item>
+        <item>तुमच्या प्रगतीची माहिती "____" ला देण्यास तुम्हाला आवडेल काय?</item>
+        <item>रिपोर्ट कार्ड</item>
+        <item>नुकतीच पूर्ण केलेली एक्टीविटी</item>
+        <item>शिकलेले शब्द</item>
+        <item>एकूण प्रगती</item>
+        <item>या आठवड्यातील प्रगती</item>
+        <item>अजूनपर्यंत रिपोर्ट कार्ड नाही.</item>
+        <item>नुकतीच पूर्ण केलेली एक्टीविटी नाही.</item>
+        <item>अजूनपर्यंत एकही शब्द शिकला नाही.</item>
+        <item>तुम्ही अगदी बरोबर उत्तरे देत आहात. \'आव्हान\' स्वीकारून तुम्हाला सरळ पुढे जायला आवडेल
+            का?
+        </item>
+        <item>-------- मध्ये जा.</item>
+        <item>अभिनंदन!</item>
+        <item>आव्हान</item>
+        <item>एकूण गुण</item>
+        <item>कृपया पुन्हा एक पर्याय निवडा.</item>
+        <item>पुन्हा ऐका.</item>
+        <item>समाप्त.</item>
+        <item>आता अव्वल (टॉपर) बना</item>
+        <item>अव्वल (टॉपर) बना</item>
+        <item>अव्वल योजना</item>
+        <item>400+ पाठांचा अमर्यादित वापर</item>
+        <item>सर्व 60+ गोष्टी</item>
+        <item>30+ व्याकरण पाठ</item>
+        <item>आत्ताच अपग्रेड करा.</item>
+        <item>सर्वाधिक लोकप्रिय</item>
+        <item>अव्वल योजना शुरू करे</item>
+        <item>1 पूर्ण वर्षासाठी ₹ 54 प्रति महिना</item>
+        <item>एकूण ₹640 (+3 महिने मोफत)</item>
+        <item>तीन महिन्यासाठी ₹360</item>
+        <item>एक महिन्यासाठी ₹120</item>
+        <item>प्रोमो कोड</item>
+        <item>पुढे जा.</item>
+        <item>एक वर्षाचा प्लान</item>
+        <item>मोबाईल रिचार्ज ने पैसे भरा.</item>
+        <item>PayTM ने पैसे भरा.</item>
+        <item>पेमेंटची स्थिती</item>
+        <item>धन्यवाद! तुमचे पेमेंट यशस्वी झाले आहे.</item>
+        <item>व्यवहार क्रमांक</item>
+        <item>एकूण रक्कम</item>
+        <item>PayTM ने पैसे भरा.</item>
+        <item>इ-मेल आयडी भरा.</item>
+        <item>किंवा</item>
+        <item>मोबाईल नंबर भरा.</item>
+        <item>व्यवहार सुरु करा.</item>
+        <item>दिवस शिल्लक आहेत.</item>
+        <item>खूप सोपे</item>
+        <item>पुस्तके</item>
+        <item>व्हिडिओ</item>
+        <item>विडिओ सुरु करा.</item>
+        <item>विडिओ पूर्ण झाला.</item>
+        <item>दुसरा विडिओ बघायचा आहे का?</item>
+        <item>काही प्रश्नांची उत्तरे देऊन तुम्ही 100 आंबे मिळवू शकता किंवा दुसरे विडिओ बघू शकता.
+        </item>
+        <item>व्हिडिओ जा</item>
+        <item>तुमचे स्थान.</item>
+        <item>एकूण पैकी.</item>
+        <item>पर्सेंटाईल.</item>
+        <item>टॉपर्स.</item>
+        <item>mGuru शिकणारी अव्वल नावे.</item>
+        <item>स्थान.</item>
+        <item>गणित</item>
+        <item>खालील शब्दांपैकी वेगळ्या आवाजाने सुरु होणारा शब्द शोधा.
+        </item>
+        <item>खालील शब्दांपैकी वेगळ्या आवाजाने शेवट होणारा शब्द शोधा.
+        </item>
+        <item>अमर्यादित गणित समस्या</item>
+        <item>मोबाइल नंबर वैध असणे आवश्यक आहे</item>
+        <item>14 दिवसापर्यंत mGuru चा Topper plan मोफत वापरा.</item>
+        <item>आपल्यासाठी कथा.</item>
+        <item>आजची कथा.</item>
+        <item>संपादकीय निवड.</item>
+        <item>आपल्यासाठी व्हिडिओ</item>
+        <item>आजचा व्हिडिओ</item>
+        <item>mGuru चा टॉपर प्लान 2 आठवडे मोफत वापरा आणि आनंद मिळवा.</item>
+        <item>तुमचा मोफत वापराचा कालावधी संपला आहे. अपग्रेड करा  आणि mGuru अमर्याद वापरा.</item>
+        <item>Upgrade</item>
+    </array>
+    <array name="kannada_array">
+        <item>ಶಬ್ದದಿಂದ ಶುರುವಾಗುವ ಚಿತ್ರವನ್ನು ಗುರುತಿಸಿ</item>
+        <item>ವಾಕ್ಯವನ್ನು ಪೂರ್ಣಗೊಳಿಸಿ</item>
+        <item>ಸ್ವರ ಮಿಶ್ರಣ</item>
+        <item>ಹೊಂದಿಸಿ ಬರೆಯಿರಿ</item>
+        <item>ಪದವನ್ನು ಕೇಳಿಸಿಕೊಳ್ಳಿ</item>
+        <item>------ ಶಬ್ದದಿಂದ ಶುರುವಾಗುವ ಚಿತ್ರವನ್ನು ಗುರುತಿಸಿ</item>
+        <item>ಖಾಲಿ ಜಾಗವನ್ನು ಭರ್ತಿ ಮಾಡಿ</item>
+        <item>-------- ಇಂದ ಕೊನೆಗೊಳ್ಳುವ ಚಿತ್ರವನ್ನು ಗುರುತಿಸಿ</item>
+        <item>ದಯವಿಟ್ಟು ನಿಮ್ಮ ಉತ್ತರ ಆಯ್ಕೆ ಮಾಡಿ</item>
+        <item>ವಾಕ್ಯ ರಚನೆ ಮಾಡಿ</item>
+        <item>ಶಬ್ದವನ್ನು ಕೇಳಿಸಿಕೊಂಡು ಪುನರಾವರ್ತಿಸಿ</item>
+        <item>ಖಾಲಿ ಇರುವ ಪದವನ್ನು ಭರ್ತಿ ಮಾಡಿ</item>
+        <item>ಖಾಲಿ ಇರುವ ಅಕ್ಷರವನ್ನು ಭರ್ತಿ ಮಾಡಿ</item>
+        <item>ಪದಗಳನ್ನು ಸೇರಿಸಿ ಗಾದೆಯನ್ನು ಪೂರ್ಣಗೊಳಿಸಿ</item>
+        <item>ಜೋಡಿಗಳನ್ನು ಸೇರಿಸಿ</item>
+        <item>ಸರಿಯಾದ ಜೋಡಿಯನ್ನು ಸೇರಿಸಿ</item>
+        <item>ಅಕ್ಷರದ ಶಬ್ದವನ್ನು ಕೇಳಿಸಿಕೊಳ್ಳೀ</item>
+        <item>ಅಕ್ಷರದ ಮೇಲೆ ಬೆರಳಿನಲ್ಲಿ ಬರೆಯಿರಿ</item>
+        <item>ಈ ಕೆಳಗಿರುವ ಶಬ್ದದಿಂದ ಶುರುವಾಗುವ ಪದವನ್ನು ಹುಡುಕಿ</item>
+        <item>ಈ ಶಬ್ದಕ್ಕೆ ಅನುಗುಣವಾಗುವ ಅಕ್ಷರವನ್ನು ಹುಡುಕಿ</item>
+        <item>ಅಕ್ಷರವನ್ನು ಎಳೆದು ಅದರ ಜಾಗಕ್ಕೆ ಸೇರಿಸಿ</item>
+        <item>------- ಶಬ್ದದಿಂದ ಶುರುವಾಗುವ ಚಿತ್ರವನ್ನು ಗುರುತಿಸಿ</item>
+        <item>ಶಬ್ದವನ್ನು ಕೇಳಿಸಿಕೊಂಡು ಪುನರಾವರ್ತಿಸಿ</item>
+        <item>ಶಬ್ದವನ್ನು ಕೇಳಿಸಿಕೊಂಡು ಅಕ್ಷರದ ಮೇಲೆ ಬೆರಳಿನಲ್ಲಿ ಬರೆಯಿರಿ</item>
+        <item>ಈ ಕೆಳಗಿನ ಶಬ್ದಕ್ಕೆ ಅನುಸಾರವಾದ ಅಕ್ಶರವನ್ನು ಆಯ್ಕೆ ಮಾಡಿ</item>
+        <item>ಶುರು ಮಾಡಿ</item>
+        <item>ಮುಂದೆ</item>
+        <item>ಹಿಂದೆ</item>
+        <item>ಮುಂದಿನ ಹಂತ</item>
+        <item>ಅತ್ಯುತ್ತಮ</item>
+        <item>ನನ್ನ ಆನಂದಕ್ಕೆ ನೀವೇ ಕಾರಣರಾಗಿದ್ದೀರಿ</item>
+        <item>ವಿಮರ್ಷಾ ಮೂಲ್ಯಾಂಕನ</item>
+        <item>ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ</item>
+        <item>ಕಳುಹಿಸಿ</item>
+        <item>ಸರಿಯಾದ ಉತ್ತರ ಇಲ್ಲಿದೆ</item>
+        <item>ಆಯ್ಯೋ!</item>
+        <item>ಸರಿಯಾಗಿದೆ</item>
+        <item>1</item>
+        <item>ಯಾವುದು ಸರಿ?</item>
+        <item>ಮತ್ತೊಮ್ಮೆ ಕೇಳಿ</item>
+        <item>ಮತ್ತೊಮ್ಮೆ ಮಾಡಿ</item>
+        <item>ಬಂಧ್ ಆಗಿದೆ</item>
+        <item>ಈ ಕಥೆಯನ್ನು ಓದುವುದಕ್ಕೆ ನಿಮಗೆ ಕೆಲವು ಮಾವಿನಹಣ್ಣು ಬೇಕಾಗಿದೆ.</item>
+        <item>ಶುರು ಮಾಡಿ</item>
+        <item>ಬೇಕಾದಷ್ಟು ಮಾವಿನಹಣ್ಣು ಇಲ್ಲ</item>
+        <item>Exploreನಲ್ಲಿರುವ ದೈನಂದಿನ ಸವಾಲುಗಳು ಹಾಗು ಇನ್ನಿತರ ಚಟುವಟಿಕೆಗಳನ್ನು ಮಾಡುವುದರಿಂದ
+            ಮಾವಿನಹಣ್ಣುಗಳನ್ನು ಹೆಚ್ಚು ಮಾಡಿಕೊಳ್ಳಬಹುದು
+        </item>
+        <item>ಮುಚ್ಚಿ</item>
+        <item>ಇಂದು ನಾವು ಈ ಪದಗಳನ್ನು ಕಲಿಯುತ್ತೇವೆ.</item>
+        <item>ಕಥೆಯನ್ನು ಓದಿ</item>
+        <item>ಕಥೆ ಮುಗುದಿದೆ.</item>
+        <item>ಈ ಕಥೆಯ ಬಗೆಗಿನ ಕೆಲವು ಪ್ರಶ್ನೆಗಳನ್ನು ಉತ್ತರಿಸುವ ಮೂಲಕ ನೀವು ೧೦೦ ಮಾವಿನಹಣ್ಣುಗಳ ತನಕ ಗೆಲ್ಲಬಹುದು.
+            ಇನ್ನೊಂದು ಕಥೆಯನ್ನು ಓದಿ
+        </item>
+        <item>ಇನ್ನೊಂದು ಓದಲು ಇಚ್ಛಿಸುವಿರಾ?</item>
+        <item>ಮಾವಿನಹಣ್ಣುಗಳನ್ನು ಗಳಿಸಿ</item>
+        <item>ಮಾವಿನಹಣ್ಣುಗಳು</item>
+        <item>ಪದಗಳು</item>
+        <item>ಪರಿಕಲ್ಪನೆಗಳು</item>
+        <item>ಚಿತ್ರವನ್ನು ಬದಲಿಸುತ್ತೀರ?</item>
+        <item>ಹೆಸರು</item>
+        <item>ವಯಸ್ಸು</item>
+        <item>ತರಗತಿ</item>
+        <item>ಶಾಲೆ</item>
+        <item>ಉಳಿಸು</item>
+        <item>ಯೂಸರ್ ಹೆಸರು</item>
+        <item>ಗುಪ್ತಪದ</item>
+        <item>ಪ್ರವೇಶ ಪಡೆಯಿರಿ</item>
+        <item>ಖಾತೆ ಹೊಂದಿದ್ದೀರ? ಪ್ರವೇಶಿಸಿ</item>
+        <item>ಮುಂದುವರೆಸಿ</item>
+        <item>ಗುಪ್ತಪದ ಮರೆತಿದ್ದೀರ?</item>
+        <item>ಒಳಗೆ ಪ್ರವೇಶಿಸಿ</item>
+        <item>ಹೊಸ ಬಳಕೆದಾರರ? ಪ್ರವೇಶ ಪಡೆಯಿರಿ</item>
+        <item>ಸ್ವಾಗತ</item>
+        <item>ನಿಮ್ಮ ಬಗ್ಗೆ ಸ್ವಲ್ಪ ತಿಳಿಸಿ</item>
+        <item>ದೂರವಾಣಿ ಸಂಖ್ಯೆ</item>
+        <item>ತರಗತಿ</item>
+        <item>ಬೋರ್ಡ್</item>
+        <item>ನಾನು ಮೋಟು</item>
+        <item>ನಾನು ನಿಮಗೆ ಹೊಸ ವಿಷಯಗಳನ್ನು ಕಲಿಸಲು ಬಂದಿದ್ದೇನೆ. ಕೆಲವು ಪ್ರಶ್ನೆಗಳನ್ನು ಉತ್ತರಿಸಿ ನೋಡೋಣ
+            ನಮಗೆಷ್ಟು ಗೊತ್ತಿದೆ
+        </item>
+        <item>ಮುಂದಿನ ಹೆಜ್ಜೆಗೆ ಹೋಗಿ</item>
+        <item>ಸರಿ, ಮುಂದುವರೆಯಿರಿ!</item>
+        <item>ಮರೆತಿದ್ದೀರ?</item>
+        <item>ಯೂಸರ್ ಹೆಸರು ನಮೂದಿಸಿ</item>
+        <item>ಸ್ವಲ್ಪ ಸಹಕರಿಸಿ</item>
+        <item>ನಿಮ್ಮ ಹೊಸ ಗುಪ್ತಪದವನ್ನು ಎಸ್.ಎಂ.ಎಸ್ ಮೂಲಕ ಕಳುಹಿಸಲಾಗಿದೆ</item>
+        <item>ಸಂದೇಶಗಳಿಗೆ ಹೋಗಿ</item>
+        <item>ಮತ್ತೆ ಲಾಗಿನ್ ಮಾಡಿ</item>
+        <item>ಮತ್ತೊಮ್ಮೆ ಸ್ವಾಗತ</item>
+        <item>ಹೊಸ ಗುಪ್ತಪದವನ್ನು ನಮೂದಿಸಿ</item>
+        <item>ರೀಸೆಟ್ ಮಾಡಿ</item>
+        <item>ಪ್ರತಿದಿನದ ಸವಾಲು</item>
+        <item>ಇನ್ನೂ ಕಲೆಯಿರಿ</item>
+        <item>ಕಥೆಗಳು</item>
+        <item>ಸ್ವವಿವರ</item>
+        <item>ತುಂಬಾ ಸುಲಭವಾಗಿರುವುದಾ? ಮುಂದೆ ಹೋಗಿ</item>
+        <item>ಈ ಹಂತವು ಅಭೇಧ್ಯವಾಗಿದೆ. ಹಿಂದಿನ ಹಂತವನ್ನು ಮುಗಿಸಿ ಇದೀಗ</item>
+        <item>ಪದಗಳ ಆಟ</item>
+        <item>ನಾವು ಹೊಸ ಅಕ್ಷರಗಳ ಧ್ವನಿಯನ್ನು ಕಲಿತುಕೊಳ್ಳೋಣ</item>
+        <item>ಹೊಸ ಶಬ್ದಗಳು</item>
+        <item>ಇಂದು ನಾವು ಪದಗಳ ಹೊಸ ಧ್ವನಿಯನ್ನು ಕಲಿತುಕೊಳ್ಳೋಣ</item>
+        <item>ಅಕ್ಶರಗಳ ಶಬ್ದ</item>
+        <item>ವರ್ಣಮಾಲೆಯ ಅಕ್ಷರಗಳನ್ನು ಹೇಳುವ ಬಗೆಯನ್ನು ಕಲಿತುಕೊಳ್ಳೋಣ. ಹಾಗೇ ಹೊಸ ಪದಗಳನ್ನು ಕಲಿಯಿರಿ ಹಾಗೂ...
+            ಇಂಗ್ಲಿಷ್ ಶಬ್ದಗಳ ಒಳ್ಳೆಯ ಕೇಳುಗರಾಗಿ
+        </item>
+        <item>ಸ್ವರ ಸ್ನೇಹಿತರು</item>
+        <item>ಸ್ವರಗಳು ಹಾಗೂ ವ್ಯಂಜನಗಳನ್ನು ಸೇರಿಸಿದರೆ ಪದಗಳಾಗುತ್ತದೆ. ಅದು ಹೇಗೆಂದು ತಿಳಿಯಿರಿ. ಸ್ವರಮಿಶ್ರಣದಿಂದ
+            ನಿಮ್ಮ ಪದಪುಂಜವನ್ನು ವೃದ್ಧಿಸಿಕೊಳ್ಳಿ.
+        </item>
+        <item>ಪದ ಪಕ್ಷಿ</item>
+        <item>ಹೊಸ ಪದಗಳು ಹಾಗೂ ಧ್ವನಿಗಳ ಸವಾಲನ್ನು ಸ್ವೀಕರಿಸಿ. ಇಂಗ್ಲೀಷ್ ಮಾತನಾಡುವುದು ಸ್ವಲ್ಪ ಕ್ಲಿಷ್ಟ. ಅದಕ್ಕೆ
+            ಅದರದೇ ನಿಯಮಗಳಿವೆ. ಆದ್ದರಿಂದ ಈ ಹಂತವನ್ನು ಮುಗಿಸಿ ಮುಂದಿನ ಹಂತಕ್ಕೆ ಹೋಗಿ.
+        </item>
+        <item>ಆಕಾಶದಲ್ಲಿ ಗಾದೆಗಳು</item>
+        <item>ನಿಮ್ಮ ಉಚ್ಛಾರಣೆ ಹಾಗು ಕೇಳುವಿಕೆಯನ್ನು ಈ ಹಂತದಲ್ಲಿ ವೃದ್ಧಿಸಿಕೊಳ್ಳಿ ಇನ್ನೂ ಕ್ಲಿಷ್ಟಕರ ಶಬ್ದಗಳು,
+            ಪದಗಳು ಹಾಗೂ ವಾಕ್ಯಗಳನ್ನು ಕಲೆತುಕೊಳ್ಳಿ.
+        </item>
+        <item>ವ್ಯಾಕರಣ</item>
+        <item>ಈ ಹಂತಕ್ಕೆ ಸ್ವಾಗತ. ವ್ಯಾಕರಣ ಒಂದು ಭಾಷೆಗೆ ಅತ್ಯವಶ್ಯಕ ಹಾಗೂ ಈ ಹಂತವು ನಿಮಗೆ ೩೩ ಪರಿಕಲ್ಪನೆಗಳು
+            ಹಾಗೂ ಹತ್ತಾರು ಚಟುವಟಿಕೆಗಳ ಮೂಲಕ ಸವಾಲೊಡ್ಡುತ್ತದೆ.
+        </item>
+        <item>------ ಇಂದ ಕೊನೆಗೊಳ್ಳುವ ಚಿತ್ರವನ್ನು ಗುರುತಿಸಿ</item>
+        <item>------ ಅನ್ನು ಹೊಂದಿರುವ ಚಿತ್ರವನ್ನು ಗುರುತಿಸಿ</item>
+        <item>ಈ ವಾಕ್ಯವನ್ನು ಕೇಳಿ ಹಾಗು ಪುನರಾವರ್ತಿಸಿ</item>
+        <item>ದಯವಿಟ್ಟು ನಿಮ್ಮ ಹೆಸರು ನಮೂದಿಸಿ</item>
+        <item>ದಯವಿಟ್ಟು ನಿಮ್ಮ ಗುಪ್ತಪದವನ್ನು ನಮೂದಿಸಿ</item>
+        <item>ನಿಮ್ಮ ೧೦ ಅಂಕಿಯ ಮೊಬೈಲ್ ನಂಬರ್ ಅನ್ನು ನಮೂದಿಸಿ</item>
+        <item>ದಯವಿಟ್ಟು ನಿಮ್ಮ ಶಾಲೆಯ ಹೆಸರನ್ನು ನಮೂದಿಸಿ</item>
+        <item>ದಯವಿಟ್ಟು ನಿಮ್ಮ ಹೊಸ ಗುಪ್ತನಾಮವನ್ನು ನಮೂದಿಸಿ</item>
+        <item>ನಿಮ್ಮ ಅಂತರ್ಜಾಲ ಸಂಪರ್ಕವನ್ನು ಪರಿಶೀಲಿಸಿ</item>
+        <item>ಸಂಪಾದಿಸಿ</item>
+        <item>ಹೊರಹೋಗಿ</item>
+        <item>ಅತಿಥಿ ಬಳಕೆದಾರ</item>
+        <item>ರದ್ದುಪಡಿಸು</item>
+        <item>ನೀವು mGuru ಇಂದ ಲಾಗೌಟ್ ಮಾಡುವುದು ಖಚಿತವಾ?</item>
+        <item>ಹೌದು</item>
+        <item>ಇಲ್ಲ</item>
+        <item>ಇದುವರೆಗೂ ಯಾವ ಪದಗಳನ್ನೂ ಕಲಿತಿಲ್ಲ</item>
+        <item>ಛಾಯಾಚಿತ್ರ ತೆಗೆದುಕೊಳ್ಳಿ</item>
+        <item>ಗ್ಯಾಲರೀ ತೆರೆಯಿರಿ</item>
+        <item>ಇದನ್ನು ಬರೆದಿರುವುದು</item>
+        <item>ಚಿತ್ರ ಬರೆದಿರುವುದು</item>
+        <item>ಅನುವಾದಿಸಿರುವುದು</item>
+        <item>ಆಕರ</item>
+        <item>ಮುಂದಿನ ಕಥೆಯನ್ನು ಭೇಧಿಸಲು ನಿಮ್ಮ ಬಳಿ ೮೮೮ ಮಾವಿನಹಣ್ಣುಗಳಿವೆ</item>
+        <item>ಮುಂದುವರೆಯಿರಿ!</item>
+        <item>ಧ್ವನಿಗೆ ಹೊಂದುವ ಪದವನ್ನು ಆಯ್ಕೆ ಮಾಡಿ</item>
+        <item>ಸರಿಯಾದ ಛಾಯಾಚಿತ್ರವನ್ನು ಆಯ್ಕೆ ಮಾಡಿ</item>
+        <item>ಹೊರಹೋಗಲು ಬಯಸುವಿರಾ?</item>
+        <item>ಶ್ರೇಯ</item>
+        <item>ಭಾಷೆ ಬದಲಿಸಿ</item>
+        <item>ನಿಮ್ಮ ಆಯ್ಕೆ ಆಯ್ದುಕೊಳ್ಳಿ</item>
+        <item>ದಯವಿಟ್ಟು ನಿಮ್ಮ ಹೆಸರು ನಮೂದಿಸಿ</item>
+        <item>ಇದುವರೆಗೂ ಯಾವ ಪರಿಕಲ್ಪನೆಗಳನ್ನು ಕಲಿತಿಲ್ಲ</item>
+        <item>ಪದದಲ್ಲಿರುವ ಧ್ವನಿಯನ್ನು ಹುಡುಕಿ</item>
+        <item>ಹೇಳಿ</item>
+        <item>ಉಚಿತ ಮಾವಿನಹಣ್ಣುಗಳು</item>
+        <item>ಈ App ಹಂಚಿಕೊಳ್ಳಿ ಹಾಗೂ ಉಚಿತ ಮಾವಿನಹಣ್ಣು ಪಡೆಯಿರಿ.</item>
+        <item>mGuru ಹಂಚಿಕೊಳ್ಳಿ ಹಾಗೂ ನಿಮ್ಮ ಲಿಂಕ್ ಬಳಸಿ ನಿಮ್ಮ ಸ್ನೇಹಿತರು ಸೈನ್ ಅಪ್ ಮಾಡಿದಾಗ ೪೦೦ ಮಾವಿನಹಣ್ಣು
+            ಪಡೆಯಿರಿ! ಅಥವಾ ಕೋಡ್
+        </item>
+        <item>mGuru ಇಂಗ್ಲಿಷ್. ಇದೊಂದು ಇಂಗ್ಲಿಷ್ ಕಲಿಕಾ ಸಾಧನ. ಕೆಜಿ ಇಂದ ಐದನೇ ತರಗತಿಯ ಮಕ್ಕಳಿಗೆ. ನಿಮ್ಮ
+            ಮಕ್ಕಳಿಗೆ ಇಂಗ್ಲಿಷ್ ಕಲಿಸಿರಿ. ಉಚಿತವಾಗಿ ಉಪಯೋಗಿಸಿ ನೋಡಿ.
+            http://www.mguruenglish.com/registration/
+        </item>
+        <item>ಯಾವುದೇ ಪದಗಳನ್ನು ಕಲಿತಿಲ್ಲ</item>
+        <item>ಪರಿಕಲ್ಪನೆಗಳು ಪೂರ್ಣಗೊಳಿಸಿಲ್ಲ</item>
+        <item>ಚುನೌತಿಯನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ</item>
+        <item>ಯುಸರ್ ನೇಮ್ ಮತ್ತು ಪಾಸ್ವರ್ಡ್ ಅನಧಿಕೃತ</item>
+        <item>ಯೂಸರ್ ನೇಮ್ ಈಗಾಗಲೇ ಚಲಾವಣೆಯಲ್ಲಿದೆ</item>
+        <item>ಮುಂದುವರೆಯಲು ಸೈನ್ ಅಪ್ ಆಗಿ</item>
+        <item>ಶಬ್ದವನ್ನು ಕೇಳಿಸಿಕೊಳ್ಳಿ</item>
+        <item>ಓಕೇ</item>
+        <item>ಉತ್ತಮ</item>
+        <item>ಅತ್ಯುತ್ತಮ</item>
+        <item>ನಕ್ಷತ್ರ</item>
+        <item>ಮುಂದಿನ ಕಥೆಗೆ ನಿಮ್ಮ ಬಳಿ ಬೇಕಾದಷ್ಟು ಮಾವಿನಹಣ್ಣಿದೆ</item>
+        <item>ಕಥೆಗಳಿಗೆ ಹೋಗಿ</item>
+        <item>ಶೋಧಿಸಿ</item>
+        <item>ಮತ್ತೆ ಕಥೆಗಳಿಗೆ ಹೋಗಿ</item>
+        <item>ಡೌನ್ಲೋಡ್ ಆಗುತ್ತಿದೆ</item>
+        <item>ಕಥೆ ಡೌನ್ಲೋಡ್ ಆಗುವ ತನಕ ಕಾಯಿರಿ</item>
+        <item>ನಿಮ್ಮ ಪ್ರಗತಿಯ ಮಾಹಿತಿಯನ್ನು -------- ಇವರಿಗೆ ಕೊಡಲು ಬಯಸುವಿರಾ?</item>
+        <item>ರಿಪೋರ್ಟ್ ಕಾರ್ಡ್</item>
+        <item>ನಿಕಟ ಚಟುವಟಿಕೆಗಳು</item>
+        <item>ಕಲಿತಿರುವ ಪದಗಳು</item>
+        <item>ಒಟ್ಟು ಪ್ರಗತಿ</item>
+        <item>ಈ ವಾರ</item>
+        <item>ಯಾವುದೇ ರಿಪೋರ್ಟ್ ಕಾರ್ಡ್ ಇಲ್ಲ</item>
+        <item>ನಿಕಟ ಚಟುವಟಿಕೆಗಳು ಇಲ್ಲ</item>
+        <item>ಯಾವುದೇ ಪದಗಳನ್ನು ಕಲಿತಿಲ್ಲ</item>
+        <item>ನೀವು ತುಂಬಾ ಚೆನ್ನಾಗಿ ಕಲಿಯುತ್ತಿದ್ದೀರ. ಮುಂದಿನ ಚುನೌತಿಯನ್ನು ತೆಗೆದುಕೊಳ್ಳಲು ಬಯಸುವಿರಾ?</item>
+        <item>ಹೋಗಿ</item>
+        <item>ಶುಭಾಶಯ! ನೀವು ಮುಗುಸಿದ್ದೀರಿ.</item>
+        <item>ಚುನೌತಿ!</item>
+        <item>ಒಟ್ಟು ಅಂಕಗಳು</item>
+        <item>ದಯವಿಟ್ಟು ಇನ್ನೊಂದನ್ನು ಆಯ್ಕೆ ಮಾಡಿರಿ</item>
+        <item>ಇನ್ನೊಮ್ಮೆ ನೋಡಿ</item>
+        <item>ಮುಗಿಯಿತು</item>
+        <item>ಅತ್ಯುತ್ತಮರಾಗಿ</item>
+        <item>ಅತ್ಯುತ್ತಮರಾಗಿ</item>
+        <item>ಟಾಪರ್ ಪ್ಲಾನ್!</item>
+        <item>೪೦೦+ ಪಾಠಗಳನ್ನು ಬಳಸಿ</item>
+        <item>ಎಲ್ಲಾ ೬೦+ ಕಥೆಗಳು ಅನ್ಲಾಕ್ ಆಗಿವೆ</item>
+        <item>೩೦+ ವ್ಯಾಕರಣ ಪಾಠಗಳು</item>
+        <item>ಅಪ್ಗ್ರೇಡ್ ಆಗಿರಿ!</item>
+        <item>ಅತ್ಯಂತ ಜನಪ್ರಿಯ</item>
+        <item>ಟಾಪರ್ ಪ್ಲಾನ್ ಗೆ ಅಪ್ಗ್ರೇಡ್ ಆಗಿರಿ!</item>
+        <item>೧ ವರ್ಷಕ್ಕೆ ೫೪ರೂ/ತಿಂಗಳು</item>
+        <item>ಒಟ್ಟು ೬೪೦ ರೂ (೩ ತಿಂಗಳು ಉಚಿತ)</item>
+        <item>೩ ತಿಂಗಳಿಗೆ ೩೬೦ ರೂ</item>
+        <item>ಒಂದು ತಿಂಗಳಿಗೆ ೧೨೦ ರೂ</item>
+        <item>ಪ್ರೋಮೋ ಕೋಡ್</item>
+        <item>ಹೋಗಿ</item>
+        <item>೧ ವರ್ಷದ ಪ್ಲಾನ್</item>
+        <item>ಕೆರಿಯರ್ ಬಿಲ್ಲಿನ್ಗ್ ನಿಂದ ಪಾವತಿಸಿ</item>
+        <item>ಪೇಟಿಎಂ ನಿಂದ ಪಾವತಿಸಿ</item>
+        <item>ಪಾವತಿ ಪ್ರಗತಿ</item>
+        <item>ಧನ್ಯವಾದ! ನಿಮ್ಮ ಹಣ ಸಂದಾಯವಾಗಿದೆ.</item>
+        <item>ಟ್ರ್ಯಾನ್ಸಾಕ್ಶನ್ ಐ.ಡಿ.</item>
+        <item>ಮೊತ್ತ</item>
+        <item>ಪೇಟಿಎಂ ವಾಲೆಟ್ ನಿಂದ ಪಾವತಿಸಿ</item>
+        <item>ಈಮೇಲ್ ಐ.ಡಿ. ದಾಖಲಿಸಿ</item>
+        <item>ಅಥವಾ</item>
+        <item>ದೂರವಾಣಿ ಸಂಖ್ಯೆ ದಾಖಲಿಸಿ</item>
+        <item>ಪಾವತಿ ಶುರು ಮಾಡಿ</item>
+        <item>ಉಳಿದಿರುವ ದಿನ</item>
+        <item>ತುಂಬಾ ಸುಲಭ</item>
+        <item>ಫುಸ್ತಕಗಳು</item>
+        <item>ವಿಡಿಯೋಗಳು</item>
+        <item>ವಿಡಿಯೋ ಪ್ಲೇ ಮಾಡಿ</item>
+        <item>ವಿಡಿಯೋ ಸಂಪೂರ್ಣ</item>
+        <item>ಇನ್ನೊಂದು ವಿಡಿಯೋ ನೋಡಲು ಬಯಸುವಿರಾ?</item>
+        <item>ನೀವು ಉತ್ತರ ಕೊಡುವ ಮೂಲಕ ೧೦೦ ಮಾವಿನಹಣ್ಣುಗಳನ್ನು ಪಡೆಯಬಹುದು. ಇಲ್ಲವಾದಲ್ಲಿ ಇನ್ನೊಂದು ವಿಡಿಯೋ
+            ನೋಡಬಹುದು
+        </item>
+        <item>ವೀಡಿಯೋಗೆ ಹೋಗಿ</item>
+        <item>ನಿಮ್ಮ ಸ್ಥಾನ</item>
+        <item>ಇದರಲ್ಲಿ</item>
+        <item>ಪರ್ಸೆಂಟೈಲ್</item>
+        <item>ಟಾಪರ್ಸ್</item>
+        <item>mGuru ಟಾಪ್ ಲರ್ನರ್</item>
+        <item>ಸ್ಥಾನಗಳು</item>
+        <item>ಗಣಿತ</item>
+        <item>ಒಂದು ಪದವನ್ನು ಆಯ್ದುಕೊಳ್ಳಿ ಅದು ಇಂದ ಶುರುವಾಗಿ ಶಬ್ದದಿಂದ ಕೊನೆಗೊಳ್ಳಬೇಕು
+        </item>
+        <item>ಒಂದು ಪದವನ್ನು ಆಯ್ದುಕೊಳ್ಳಿ ಅದು ಇಂದ ಶುರುವಾಗಿ ಶಬ್ದದಿಂದ ಕೊನೆಗೊಳ್ಳಬೇಕು
+        </item>
+        <item>ಅನಿಯಮಿತ ಗಣಿತ ಸಮಸ್ಯೆಗಳು</item>
+        <item>ಮೊಬೈಲ್ ಸಂಖ್ಯೆ ಸರಿಯಾಗಿರಬೇಕು</item>
+        <item>Earn 14 days of free access to mGuru\'s Topper Plan!</item>
+        <item>ನಿಮಗಾಗಿ ಕಥೆ</item>
+        <item>ಇಂದಿನ ಕಥೆ</item>
+        <item>ಸಂಪಾದಕರ ಆಯ್ಕೆ</item>
+        <item>ನಿಮಗಾಗಿ ವೀಡಿಯೊ</item>
+        <item>ಇಂದಿನ ವೀಡಿಯೊ</item>
+        <item>Enjoy 2 weeks of mGuru Topper Plan for FREE!</item>
+        <item>Your free trial has expired. Upgrade and enjoy UNLIMITED mGuru.</item>
+        <item>Upgrade</item>
+    </array>
+    <array name="tamil_array">
+        <item> ---ல் ஆரம்பிக்கும் வடிவத்தை கண்டு பிடிக்கவும்</item>
+        <item>வாக்கியத்தை நிறைவு செய்யவும்</item>
+        <item>உயிர் எழுத்துக்களின் கலவை</item>
+        <item>வார்த்தையைப் பொருத்தவும்</item>
+        <item>வார்த்தையைக் கவனித்துக் கேட்கவும்</item>
+        <item>--- கொண்ட வடிவத்தை கண்டுபிடிக்கவும்</item>
+        <item>நிரப்பப்படாத காலியிடத்தை நிரப்பவும்</item>
+        <item>--- ல் முடியும் வடிவத்தை கண்டுபிடிக்கவும்</item>
+        <item>தயவு செய்து உங்கள் பதிலைத் தேர்வு செய்யவும்</item>
+        <item>வாக்கியத்தை அமைக்கவும்</item>
+        <item>எழுத்தின் உச்சரிப்பைக் கவனமாகக் கேட்டுத் திரும்பச் சொல்லவும்</item>
+        <item>விடப்பட்ட வார்த்தையால் நிரப்பவும்</item>
+        <item>விடப்பட்ட எழுத்தால் நிரப்பவும்</item>
+        <item>ஒரு சொற்றொடொரை ஏற்படுத்துமாறு வார்த்தைகளை வரிசைப் படுத்தவும்</item>
+        <item>பத்திகளைப் பொருத்தவும்</item>
+        <item>சரியான ஜோடிகளைப் பொருத்தவும்</item>
+        <item>எழுத்தின் உச்சரிப்பைக் கவனிக்கவும்</item>
+        <item>எழுத்துக்களைக் கண்டுபிடி</item>
+        <item>கீழே கொடுக்கப்பட்டுள்ள உச்சரிப்ப்பில் தொடங்கும் வார்த்தையை கண்டுபிடிக்கவும்</item>
+        <item>இந்த உச்சரிப்புக்கு ஏற்ற எழுத்தைத் தேர்வு செய்யவும்</item>
+        <item>இந்த இடத்தில் எழுத்தை இழுத்து சேர்க்கவும்</item>
+        <item>--- ல் ஆரம்பிக்கும் வடிவத்தை கண்டுபிடிக்கவும்</item>
+        <item>வார்த்தையின் உச்சரிப்பைக் கேட்டுத் திரும்பச் சொல்லவும்</item>
+        <item>உச்சரிப்பைக் கேட்டப்பின் அதைக் கண்டுப்பிடிக்கவும்</item>
+        <item>இதைப்போல் உச்சரிக்கப்படும் எழுத்தைக் கண்டுபிடிக்கவும்</item>
+        <item>ஆரம்பிக்கவும்</item>
+        <item>அடுத்தது</item>
+        <item>பின்</item>
+        <item>முடிந்தது</item>
+        <item>சிறப்பு</item>
+        <item>ந்ன்றாகத் தீனி போட்டீர்கள்</item>
+        <item>நட்சத்திர மதிப்பீடு</item>
+        <item>மறுபடியும் முயற்சிக்கவும்</item>
+        <item>சமர்ப்பிக்கவும்</item>
+        <item>சரியான பதில்</item>
+        <item>ஓ இல்லை!</item>
+        <item>சரி</item>
+        <item>1</item>
+        <item>எது சரி</item>
+        <item>மறுபடியும் போடவும்</item>
+        <item>திரும்பச் செய்யவும்</item>
+        <item>பூட்டப்பட்டுள்ளது</item>
+        <item>இந்தக் கதையைப் படிக்கத் தேவை சில மாம்பழங்கள் மட்டுமே</item>
+        <item>இப்பொழுது திறக்கவும்</item>
+        <item>தேவைக்குக் குறைந்த மாம்பழங்கள்</item>
+        <item>’தினச் சவால்’ மற்றும் ’ஆராய்ந்து பார்’ பகுதிகளிலுள்ள பயிர்ச்சிகளைத் தினமும் செய்வதின்
+            மூலம் அதிக மாம்பழங்களைப் பெறலாம்
+        </item>
+        <item>மூடவும்</item>
+        <item>கீழே கொடுக்கப்பட்டிருக்கும் வார்த்தைகளை இன்று படிக்கலாம்</item>
+        <item>கதையை வாசிக்கவும்</item>
+        <item>கதை முடிந்தது</item>
+        <item>பதில் கூறுவதன் மூலம் நீங்கள் 100 மாம்பழங்கள் வரை பெறலாம்</item>
+        <item>இன்னொன்றும் வாசிக்கலாமா?</item>
+        <item>மாம்பழங்களைச் சம்பாதியுங்கள்</item>
+        <item>மாம்பழங்கள்</item>
+        <item>வார்த்தைகள்</item>
+        <item>கருத்துக்கள்</item>
+        <item>படத்தை மாற்றலாமா?</item>
+        <item>பெயர்</item>
+        <item>வயது</item>
+        <item>வகுப்பு</item>
+        <item>பள்ளி</item>
+        <item>சேமிக்கவும்</item>
+        <item>பயனர்பெயர்</item>
+        <item>கடவுச்சொல்</item>
+        <item>பதிவு செய்க</item>
+        <item>ஏற்கனவே பயன் படுத்துகிறவரா? பதிவு செய்க</item>
+        <item>இருப்பினும் தொடரவும்</item>
+        <item>கடவுச்சொல்லை மறந்துவிட்டேன்</item>
+        <item>உள் நுழைக</item>
+        <item>புதிய பயனாளியா? பதிவு செய்க</item>
+        <item>நல்வரவு</item>
+        <item>உங்களைப் பற்றி சிறிது கூறவும்</item>
+        <item>தொலைப் பேசி நம்பர்</item>
+        <item>வகுப்பு</item>
+        <item>கல்வி முறை</item>
+        <item>நான் மோட்டு</item>
+        <item>ஏராளமான புதிய காரியங்களைக் கற்க உதவவே நான் இருக்கிறேன். சில கேள்விகளுக்கு
+            விடையளித்துப் பார்ப்போம் நமக்கு எவளவு தெரியும்
+        </item>
+        <item>தவிர்க்கவும்</item>
+        <item>சரி, செல்</item>
+        <item>மறந்துவிட்டதா?</item>
+        <item>பயனர் பெயரை உள்ளிடுக</item>
+        <item>பொறுமைக் காக்கவும்</item>
+        <item>உங்கள் கைப்பேசி மூலம் உங்களது புதிய அடையாளச்சொல் அனுப்பப்பட்டுள்ளது</item>
+        <item>தூதுக்குறிப்புகளுக்குச் செல்லவும்</item>
+        <item>பின்னால்</item>
+        <item>மீண்டும் வணக்கம்</item>
+        <item>புதிய கடவுச்சொல்லை உள்ளிடவும்</item>
+        <item>மீட்டமைக்கவும்</item>
+        <item>தினத் தேடல்</item>
+        <item>ஆராய்க</item>
+        <item>கதைகள்</item>
+        <item>சுய விவரம்</item>
+        <item>மிக எளிதா? மேலே செல்லவும்</item>
+        <item>இந்த நிலைத் தற்போது பூட்டப்பட்டுள்ளது. முந்திய நிலையில் தொடரவும், அல்லது அடுத்த
+            நிலையைத் திறக்கவும் இப்போது.
+        </item>
+        <item>வார்த்தை விளையாட்டு</item>
+        <item>பல எழுத்துக்களின் உச்சரிப்புக்களை நாம் கற்கலாம்.</item>
+        <item>புதிய உச்சரிப்புக்கள்</item>
+        <item>இன்று வார்த்தைகளிலிருந்து புதிய உச்சரிப்புக்களைக் கற்போம்.</item>
+        <item>கடிதத்தின் ஒலிகள்</item>
+        <item>எழுத்துக் கோர்வையிலுள்ள எழுத்துக்களின் உச்சரிப்புக்களைக் கற்கலாம்! அப்போதே புதிய
+            வார்த்தைகளையும் தெரிந்து கொள்ளலாம். மேலும் ஆங்கில் உச்சரிப்பில் தேர்ச்சிப்பெற்ற கேட்டுப்
+            படிப்பவராய் மாறலாம்.
+        </item>
+        <item>உயிர் எழுத்து\nநண்பர்கள்</item>
+        <item>வார்த்தைகள் புனைவதில் உயிர் எழுத்துக்களையும் மெய் எழுத்துக்களையும் ஒன்றிணைப்பது மிக
+            அவசியம்.உங்கள் வார்த்தைக் கோர்வையை அதிகரிக்க இந்த ஒருங்கிணைக்கும் முறையைத் தெரிந்து
+            கொள்ளுங்கள்.
+        </item>
+        <item>வாயாடிப் பறவை</item>
+        <item>சவாலாயிருக்கும் வார்த்தைகளையும் உச்சரிப்புக்களையும் சமாளியுங்கள். ஆங்கிலத்தில்
+            திறமையுடன் கையாளவேண்டிய உச்சரிப்புக்களும் பல வித்தியாசமான விதிமுறைகளும் உள்ளன. எனவே இந்த
+            மேம்பட்ட நிலையை சமாளிப்பதில் கவனம் செலுத்த வேண்டியுள்ளது.
+        </item>
+        <item>ஆகாயத்தில் \nசொற்றொடர்கள்</item>
+        <item>இந்த நிலையில் உங்கள் கேட்கும் திறனையும் உச்சரிக்கும் ஆற்றாலையும் மேம்படுத்த
+            வேண்டியுள்ளது. இந்த சந்தர்ப்பத்தைப் பயன்படுத்தி அதிகச் சிக்கலான உச்சரிப்புக்களையும்
+            சொற்றொடர்களையும், வார்த்தைகளையும் கற்கவும்.
+        </item>
+        <item>இலக்கணத்திற்கான\nஇடம்</item>
+        <item>உச்ச நிலைக்கு உங்களை வரவேற்கிறோம்! இலக்கணம் என்பது ஒரு மொழியை நிறைவு செய்யும்
+            ஒன்றாகும். இந்த நிலை 33-க்கு அதிக சவால்களான கருத்துக்களோடும் பல பயிற்சி செயல்பாடுகளோடும்
+            உங்களை எதிர் கொள்கிறது.
+        </item>
+        <item>--- ல் முடிவுறும் வடிவத்தை கண்டுபிடிக்கவும்.</item>
+        <item>--- ஐ கொண்ட வடிவத்தை கண்டுபிடிக்கவும்.</item>
+        <item>இந்த சொற்றொடர்களை கவனித்துக் கேட்டு திரும்ப சொல்லவும்.</item>
+        <item>உங்கள் பயன்படுத்துபவர் பெயரை பதிவு செய்யவும்.</item>
+        <item>உங்கள் அடையாள சொல்லைப் பதிவு செய்யவும்.</item>
+        <item>உங்கள் 10 இலக்கம் கொண்ட கைப்பேசி எண்ணைப் பதிவு செய்யவும்.</item>
+        <item>உங்கள் பள்ளியின் பெயரைப் பதிவு செய்யவும்.</item>
+        <item>உங்கள் அடையாளச் சொல்லைப் பதிவு செய்யவும்.</item>
+        <item>இணையத் தொடர்பை சரிபார்க்கவும்.</item>
+        <item>திருத்தியமைக்கவும்</item>
+        <item>வெளியேறவும்</item>
+        <item>விருந்தினர்</item>
+        <item>ரத்து செய்</item>
+        <item>எம்குருவை விட்டு உறுதியாக வெளியேறுகிறீர்களா?</item>
+        <item>ஆம்</item>
+        <item>இல்லை</item>
+        <item>இன்னும் ஒரு வார்த்தை கூட படிக்கவில்லை.</item>
+        <item>புகைப்படம் எடுக்கவும்</item>
+        <item>கேலறியைத் திறக்கவும்</item>
+        <item>எழுதியவர்</item>
+        <item>விளக்கப் படம் தீட்டியவர்</item>
+        <item>மொழி பெயர்த்தவர்</item>
+        <item>மூலம்</item>
+        <item>அடுத்தக் கதையைத் திறக்க உங்களிடம் போதிய மாம்பழங்கள் 888 உள்ளன!</item>
+        <item>செல்லவும்!</item>
+        <item>உச்சரிப்பிற்குப் பொருந்தும் வார்த்தையைத் தேர்வு செய்யவும்</item>
+        <item>சரியான படத்தைத் தேர்வு செய்யவும்</item>
+        <item>வெளியேற விரும்புகிறீர்களா?</item>
+        <item>பொறுப்பேர்ப்புரிமம்</item>
+        <item>மொழியை மாற்றவும்</item>
+        <item>விருப்பத்தைத் தேர்வு செய்யவும்</item>
+        <item>உங்கள் பெயரைப் பதிவுச் செய்யவும்</item>
+        <item>இன்னும் ஒரு கருத்தும் கற்றுக்கொள்ளப் படவில்லை.</item>
+        <item>வார்த்தையிலுள்ள உச்சரிப்பைக் கண்டுபிடிக்கவும்</item>
+        <item>சொல்லவும்</item>
+        <item>இலவச மாம்பழங்கள்</item>
+        <item>பயன்பாட்டைப் பகிர்ந்து இலவச மாம்பழங்களைப் பெற்றுக் கொள்ளவும்!</item>
+        <item>எம்குருவைப் பகிர்ந்து மாம்பழங்களைப் பெறவும்! உங்கள் இணைப்பில் உங்கள் நண்பர்கள் பதிவு
+            செய்யும்போது ஒவ்வொரு நண்பருக்கும் 400 மாம்பழங்கள் பெறுவீர்கள். அல்லது குறியீடு.
+        </item>
+        <item>எம்குரு ஆங்கிலம்! சிறு குழந்தை வகுப்பிலிருந்து 5-ஆம் வகுப்பு வரைப் படிக்கும்
+            குழந்தைகளுக்கு ஆங்கிலம் பயில அற்புதமான ஒரு உபகரணம். உங்கள் குழந்தைகள் துரிதமாக ஆங்கிலம்
+            பேசவும் எழுதவும் உதவுங்கள். இலவசமாக இங்கே சோதித்துப் பாற்கவும்:
+            http://www.mguruenglish.com/registration/
+        </item>
+        <item>இன்னும் ஒரு வார்த்தையும் பயிலவில்லை</item>
+        <item>ஒரு கருத்தும் முடிவு பெறவில்லை</item>
+        <item>சவாலை ஏற்கவும்</item>
+        <item>தவறான பயனாளிப் பெயர் அல்லது அடையாளச் சொல்</item>
+        <item>பயனாளிப் பெயர் ஏற்கனவே உள்ளது/</item>
+        <item>தொடர்ந்து செயல்பட, தயவு செய்து பதிவு செய்யவும் அல்லது உள்ளே நுழையவும்</item>
+        <item>உச்சரிப்பைக் கவனமாகக் கேட்கவும்</item>
+        <item>சரி</item>
+        <item>நன்று!</item>
+        <item>சிறப்பு!</item>
+        <item>நட்சத்திர அங்கீகாரம் பெறுகிறீர்கள்!</item>
+        <item>அடுத்த கதையைத் திறக்கப் போதிய மாம்பழங்கள் பெற்றுள்ளீர்கள்!</item>
+        <item>கதைகளுக்குச் செல்லவும்</item>
+        <item>ஆய்வுக்குச் செல்லவும்</item>
+        <item>கதைகளுக்குத் திரும்பச் செல்லவும்</item>
+        <item>பதிவிறக்கம் செய்து கொண்டிருக்கிறது</item>
+        <item>கதை பதிவிறக்கம் செய்யும் போது காத்திருக்கவும்</item>
+        <item>உங்கள் முன்னேற்றத்திற்கு ……… நுழையுரிமைக் கொடுக்க விரும்புகிறீர்களா?</item>
+        <item>அறிக்கை அட்டை</item>
+        <item>சமீபத்திய நடவடிக்கை</item>
+        <item>கற்ற வார்த்தைகள்</item>
+        <item>ஒட்டு மொத்த முன்னேற்றம்</item>
+        <item>இந்த வாரம்</item>
+        <item>இன்னும் முன்னேற்ற அட்டை தயாரிக்கப் படவில்லை</item>
+        <item>சமீபத்தில் நடவடிக்கைகள் ஒன்றும் இல்லை</item>
+        <item>இன்னும் வார்த்தைகள் ஒன்றும் கற்கவில்லை</item>
+        <item>நீங்கள் மிகவும் சிறப்பாக கற்கிறீர்கள். சவாலை ஏற்று தாவி முன்னேற விரும்புகிறீர்களா?
+        </item>
+        <item>செல்லுங்கள்</item>
+        <item>வாழ்த்துக்கள்! நீங்கள் முடித்து விட்டீர்கள்.</item>
+        <item>சவாலா?</item>
+        <item>மொத்த மதிப்பெண்கள்</item>
+        <item>இன்னும் ஒன்றையாவது தேர்ந்தெடுங்கள்</item>
+        <item>திரும்பப் போடவும்</item>
+        <item>முடிக்கவும்</item>
+        <item>முதலிடத்தைப் பெற விரும்புகிறீர்களா?</item>
+        <item>முதலிடத்தைப் பெற விரும்புகிறீர்களா?</item>
+        <item>முதலிடத்தைப் பெற ஒருத் திட்டம்</item>
+        <item>400+ பாடங்களுக்கு வரம்பற்ற அநுமதி</item>
+        <item>அனைத்து 60+ கதைகளும் திறக்கப்பட்டுள்ளன.</item>
+        <item>30+ உயர் நிலை இலக்கணப் பாடங்கள்</item>
+        <item>இப்போது திறம் உயர்த்தவும்</item>
+        <item>மிகவும் பிரபலமானது</item>
+        <item>உச்ச நிலையாளர் திட்டத்திற்கு உயர் நிலைப் படுத்தவும்</item>
+        <item>1 ஆண்டு @ மாதம் 50 ரூபாய்</item>
+        <item>மொத்தம் 640 ரூபாய் (+3 மாதம் இலவசம்)</item>
+        <item>3 மாதம் @ 360 ரூபாய்</item>
+        <item>1 மாதம் @ 120 ரூபாய்</item>
+        <item>விளம்பரக் குறியீடு</item>
+        <item>செல்</item>
+        <item>1 வருடத் திட்டம்</item>
+        <item>மின்னலை மூலம் பணம் செலுத்தவும்</item>
+        <item>பேய் டிஎம் மூலம் பணம் செலுத்தவும்</item>
+        <item>பண வழங்கீடு நிலை</item>
+        <item>நன்றி! வெற்றிகரமாக பணத்தைச் செலுத்தி முடித்தீர்கள்.</item>
+        <item>பரிவர்த்தனையின் அடையாளம்</item>
+        <item>தொகை</item>
+        <item>பேய் டிஎம் பணப்பை மூலம் பணம் செலுத்தவும்</item>
+        <item>மின்னஞ்சல் ஐ டி</item>
+        <item>அல்லது</item>
+        <item>கைபேசி எண்ணைப் பதிவு செய்யவும்</item>
+        <item>பரிவர்த்தனையை தொடங்கவும்</item>
+        <item>எஞ்சியுள்ள நாட்கள்</item>
+        <item>மிக எழிது</item>
+        <item>புத்தகங்கள்</item>
+        <item>காணொளிகள்</item>
+        <item>காணொளியை இயக்கவும்</item>
+        <item>காணொளி முடிந்தது</item>
+        <item>இன்னொரு காணொளியைப் பார்க்கவும்</item>
+        <item>சிலக் கேள்விகளுக்கு பதிலளிப்பதின் மூலம் நீங்கள் 100 மாம்பழங்கள் வரைச் சம்பாதிக்கலாம்
+            அல்லது இன்னொரு காணொளியைப் பார்க்கலாம் காணொளி
+        </item>
+        <item>காணொளிகளுக்குச் செல்லவும்</item>
+        <item>உங்கள் தரவரிசை</item>
+        <item>மொத்தம்</item>
+        <item>சதமானம்</item>
+        <item>முதலிடத்தில் உள்ளவர்கள்</item>
+        <item>எம்குருவின் முதல் மாணவர்</item>
+        <item>தர வரிசை</item>
+        <item>கணிதம்</item>
+        <item>மற்ற வார்த்தைகளை விட மாறு பட்ட உச்சரிப்பில் ஆரம்பிக்கும் வார்தையைத்
+            தேர்ந்தெடுக்கவும்.
+        </item>
+        <item>மற்ற வார்த்தைகளை விட மாறு பட்ட உச்சரிப்பில் முடியும் வார்தையைத்
+            தேர்ந்தெடுக்கவும்.
+        </item>
+        <item>வரம்பில்லா கணித பயிற்சிகள்</item>
+        <item>கைப் பேசி எண் சரியானதாக இருக்கவேண்டும்.</item>
+        <item>Earn 14 days of free access to mGuru\'s Topper Plan!</item>
+        <item>உங்களுக்கு கதை</item>
+        <item>இன்று கதை</item>
+        <item>ஆசிரியர் தேர்வு</item>
+        <item>உனக்காக வீடியோ</item>
+        <item>இன்றைய வீடியோ</item>
+        <item>Enjoy 2 weeks of mGuru Topper Plan for FREE!</item>
+        <item>Your free trial has expired. Upgrade and enjoy UNLIMITED mGuru.</item>
+        <item>Upgrade</item>
+    </array>
+    <array name="manayalam_array">
+        <item>---- തുടങ്ങുന്ന ചിത്രം കണ്ടുപിടിക്കുക</item>
+        <item>വാക്യം പൂരിപ്പിക്കുക</item>
+        <item>സ്വര മിശ്രണം</item>
+        <item>വാക്കുകള്‍ ചേരുംപടി ചേര്‍ക്കുക</item>
+        <item>വാക്ക് ശ്രവിക്കുക</item>
+        <item>---- ഉള്ള ചിതം കണ്ടുപിടിക്കുക</item>
+        <item>പൂരിപ്പിക്കുക</item>
+        <item>---- അവസാനിക്കുന്ന ചിത്രം കണ്ടുപിടിക്കുക</item>
+        <item>ദയവായി ഉത്തരം തിരഞ്ഞെടുക്കുക</item>
+        <item>വാക്യം നിര്‍മ്മിക്കുക</item>
+        <item>അക്ഷരം കേട്ട് ആവര്‍ത്തിക്കുക</item>
+        <item>ഇല്ലാത്ത വാക്ക് പൂരിപ്പിക്കുക</item>
+        <item>ഇല്ലാത്ത അക്ഷരം പൂരിപ്പിക്കുക</item>
+        <item>വാക്കുകള്‍ ചേര്‍ത്ത് പദസമുച്ച്ചയമുണ്ടാക്കുക</item>
+        <item>കോളങ്ങള്‍ ചേരുംപടി ചേര്‍ക്കുക</item>
+        <item>ശരിയായ ജോടികള്‍ തമ്മില്‍ ചേര്‍ക്കുക</item>
+        <item>അക്ഷരത്തിന്‍റെ ശബ്ടം ശ്രവിക്കുക</item>
+        <item>അക്ഷരങ്ങള്‍ കണ്ടെത്തുക</item>
+        <item>താഴെപറയുന്ന ശബ്ദത്തില്‍തുടങ്ങുന്ന വാക്ക് കണ്ടുപിടിക്കുക</item>
+        <item>ഈ ശബ്ദം നല്‍കുന്ന അക്ഷരംകണ്ടുപിടിക്കുക</item>
+        <item>അക്ഷരം യഥാസ്ഥാനത്ത് വലിച്ചിടുക</item>
+        <item>---- തുടങ്ങുന്ന ചിത്രം കണ്ടുപിടിക്കുക</item>
+        <item>ശബ്ദം കേട്ട ശേഷം ആവര്‍ത്തിക്കുക</item>
+        <item>ശബ്ദം കേട്ട ശേഷം കണ്ടെത്തുക</item>
+        <item>ഇതുപോലെ ഉച്ചരിക്കുന്ന അക്ഷരം തിരഞ്ഞെടുക്കുക</item>
+        <item>തുടങ്ങുക</item>
+        <item>അടുത്തത്</item>
+        <item>പുറകോട്ട്</item>
+        <item>കഴിഞ്ഞു</item>
+        <item>നന്നായി ചെയ്തു</item>
+        <item>നിങ്ങളെന്നെ നന്നായി പോറ്റി</item>
+        <item>സ്റ്റാര്‍ റെറ്റിംഗ്</item>
+        <item>വിണ്ടും ശ്രമിക്കുക</item>
+        <item>സമര്‍പ്പിക്കുക</item>
+        <item>ശരിയായ ഉത്തരം</item>
+        <item>ഏയ്‌ അല്ല</item>
+        <item>ശരി</item>
+        <item>1</item>
+        <item>ഏതാണ് ശരി</item>
+        <item>വിണ്ടും കാണുക</item>
+        <item>വിണ്ടും ചെയുക</item>
+        <item>അടച്ചു</item>
+        <item>ഈ കഥ വായിക്കാന്‍ നിങ്ങള്‍ക്ക് കുറച്ച് മാങ്ങകള്‍ കൂടി വേണം</item>
+        <item>ഇപ്പോള്‍ തുറക്കുക</item>
+        <item>മാങ്ങകള്‍ തികയില്ല</item>
+        <item>ദിവസവുമുള്ള അഭ്യാസങ്ങള്‍ ചെയ്യുകയും \ എക്സ്പ്ലോര്‍ \ ലുള്ള മറ്റ്
+            പ്രവര്‍ത്തിപരിചയങ്ങളില്‍ ഏര്‍പ്പെടുകയും ചെയ്‌താല്‍ കൂടുതല്‍ മാങ്ങകള്‍ നേടാം
+        </item>
+        <item>അടക്കുക</item>
+        <item>iഇന്ന് നമ്മള്‍ താഴെക്കാണുന്ന വാക്കുകള്‍ പഠിക്കും</item>
+        <item>കഥ വായിക്കുക</item>
+        <item>കഥ പൂര്‍ത്തിയായി</item>
+        <item>കഥയെക്കുറിച്ചുള്ള ചില ചോദ്യങ്ങള്‍ക്ക് ഉത്തരംനല്‍കി നിങ്ങള്‍ക്ക് 100 മാങ്ങകള്‍ നേടാം
+            അല്ലെങ്കില്‍ നിങ്ങള്‍ക്ക് മറ്റൊരു കഥ വായിക്കാം
+        </item>
+        <item>മറ്റൊന്ന് വായിക്കണോ</item>
+        <item>മാങ്ങകള്‍ ശേഖരിക്കുക</item>
+        <item>മാങ്ങകള്‍</item>
+        <item>വാക്കുകള്‍</item>
+        <item>ആശയങ്ങള്‍</item>
+        <item>ചിത്രം മാറ്റണമോ</item>
+        <item>പേര്</item>
+        <item>വയസ്സ്</item>
+        <item>ക്ലാസ്</item>
+        <item>സ്കൂള്‍</item>
+        <item>സൂക്ഷിക്കുക</item>
+        <item>യൂസര്‍നെയിം</item>
+        <item>പാസ് വേര്‍ഡ്‌</item>
+        <item>ചേരുക</item>
+        <item>ഉപഭോക്താവാണോ, പ്രവേശിക്കുക</item>
+        <item>ഏതായാലും തുടരുക</item>
+        <item>പാസ് വേര്‍ഡ്‌ മറന്നുപോയോ</item>
+        <item>പ്രവേശിക്കുക</item>
+        <item>പുതിയ ഉപഭോക്താവാണോ, ചേരുക</item>
+        <item>സ്വാഗതം</item>
+        <item>നിങ്ങളെക്കുറിച്ച് അല്പം കാര്യങ്ങള്‍ പറയുക</item>
+        <item>ഫോണ്‍ നമ്പര്‍</item>
+        <item>ക്ലാസ്</item>
+        <item>ബോര്‍ഡ്</item>
+        <item>ഞാന്‍ മോട്ടു</item>
+        <item>നിങ്ങളെ ധാരാളം പുതിയ കാര്യങ്ങള്‍ പഠിക്കാന്‍ സഹായിക്കാന്‍ ഞാനുണ്ട്. നമുക്ക് ചില
+            ചോദ്യങ്ങളുടെ ഉത്തരം നല്‍കാം നമുക്ക് എത്രമാത്രം അറിയാം
+        </item>
+        <item>വിട്ടുകളയുക</item>
+        <item>ശരി, പോകാം</item>
+        <item>മറന്നുപോയോ</item>
+        <item>യൂസര്‍നെയിം ഉപയോഗിക്കുക</item>
+        <item>ക്ഷമയോടെ കാത്തിരിക്കുക</item>
+        <item>നിങ്ങളുടെ പുതിയ പാസ് വേര്‍ഡ് SMS വഴി നിങ്ങള്‍ക്കയച്ചിട്ടുണ്ട്</item>
+        <item>സന്ദേശങ്ങളിലേക്ക് പോകുക</item>
+        <item>തിരികെ ലോഗിനിലേക്ക്</item>
+        <item>ഹെലോ വീണ്ടും</item>
+        <item>പുതിയ പാസ് വേര്‍ഡ്‌ രേഖപ്പെടുത്തുക</item>
+        <item>റിസെറ്റ്‌</item>
+        <item>പ്രതിദിന പരിശോധന</item>
+        <item>തിരയുക</item>
+        <item>കഥകള്‍</item>
+        <item>നിങ്ങളെക്കുറിച്ച്</item>
+        <item>വളരെ എളുപ്പം? മുന്നോട്ട് ചാടൂ</item>
+        <item>ഈ നില ഇപ്പോള്‍ പൂട്ടിയിരിക്കുകയാണ് . ഒന്നുകില്‍ കഴിഞ്ഞ നിലയില്‍ തുടരുക അല്ലെങ്കില്‍ ഈ
+            നിലയുടെ പൂട്ട് തുറക്കുക ഇപ്പോള്‍
+        </item>
+        <item>വാക്കുകള്‍ കൊണ്ടുള്ള കളി</item>
+        <item>നമുക്ക് വിവിധ അക്ഷരങ്ങളുടെ ശബ്ദങ്ങള്‍ പഠിക്കാം</item>
+        <item>പുതിയ ശബ്ദങ്ങള്‍</item>
+        <item>ഇന്ന് നമുക്ക് വാക്കുകളില്‍നിന്നും പുതിയ ശബ്ദങ്ങള്‍ പഠിക്കാം</item>
+        <item>അക്ഷരങ്ങളുടെ\nശബ്ദങ്ങള്‍</item>
+        <item>അക്ഷരങ്ങള്‍ ഉച്ചരിക്കാന്‍ പഠിക്കുക. പുതിയ വാക്കുകള്‍ വഴിയേ പഠിക്കുക, ഇംഗ്ലീഷ് ഭാഷയുടെ
+            നല്ല ഒരു സ്രോതാവാകുക.
+        </item>
+        <item>സ്വര സുഹൃത്തുക്കള്‍</item>
+        <item>വാക്കുകള്‍ നിര്‍മ്മിക്കാന്‍ സ്വരങ്ങളും വ്യഞ്ജനങ്ങളും തമ്മില്‍ ചേര്‍ക്കേണ്ടത്
+            അത്യാവശ്യമാണ് സ്വരങ്ങള്‍ സമന്വയിപ്പിക്കാനും അവയെ നിങ്ങളുടെ പദാവലിയിലേക്ക് ചേര്‍ക്കാനും
+            പഠിക്കുക.
+        </item>
+        <item>വാക് പക്ഷി</item>
+        <item>പയാസമുള്ള പുതിയ വാക്കുകളും ശബ്ദങ്ങളും മനസ്സിലാക്കുക. ഇംഗ്ലീഷ് ഉച്ചാരണത്തിന് ചില
+            സുത്രങ്ങളും പല നിയമങ്ങളുമുണ്ട്, അതുകൊണ്ട് ഈ നില തരണം ചെയ്യുമ്പോള്‍ ജാഗ്രത പുലര്‍ത്തുക
+        </item>
+        <item>പദാംബരം</item>
+        <item>ഈ നിലയില്‍ നിങ്ങളുടെ ഭാഷ ശ്രവിക്കുവാനും ഉച്ചരിക്കുവാനുമുള്ള കഴിവുകള്‍
+            മെച്ചപ്പെടുത്തുക. പുതിയ ശബ്ദങ്ങളും പദസമുച്ചയങ്ങളും വാക്കുകളും പഠിക്കാന്‍ ഈഅവസരം
+            പ്രയോജനപ്പെടുത്തുക.
+        </item>
+        <item>വ്യാകരണത്തറ</item>
+        <item>വൃക്ഷത്തിന്‍റെ തലപ്പത്തേക്ക് സ്വാഗതം. ഒരു ഭാഷയെ നയിക്കുന്ന നിയമങ്ങളാണ്‌ വ്യാകരണം, ഈ
+            നിലയില്‍ 33 വ്യത്യസ്ത ആശയങ്ങളും ധാരാളം അഭ്യാസങ്ങളും നിങ്ങളെ പരീക്ഷിക്കുന്നു
+        </item>
+        <item>---ല്‍ അവസാനിക്കുന്ന ചിത്രം കണ്ടുപിടിക്കുക</item>
+        <item>--- ഉള്ള ചിത്രം കണ്ടുപിടിക്കുക</item>
+        <item>പദസമുച്ചയങ്ങള്‍ കേട്ട് ആവര്‍ത്തിക്കുക</item>
+        <item>ദയവായി നിങ്ങളുടെ യൂസര്‍ നെയിം ടൈപ് ചെയ്യുക</item>
+        <item>ദയവായി നിങ്ങളുടെ പാസ് വേര്‍ഡ് ടൈപ് ചെയ്യുക</item>
+        <item>ദയവായി നിങ്ങളുടെ 10 അക്ക മൊബൈല്‍ നമ്പര്‍ ടൈപ് ചെയ്യുക</item>
+        <item>ദയവായി നിങ്ങളുടെ സ്കൂളിലെ പേര്‍ ടൈപ്ചെയ്യുക</item>
+        <item>ദയവായി പുതിയ പാസ് വേര്‍ഡ്‌ ടൈപ് ചെയ്യുക</item>
+        <item>ദയവായി ഇന്‍റെര്‍നെറ്റ് കണക്ഷന്‍ പരിശോധിക്കുക</item>
+        <item>എഡിറ്റ്‌</item>
+        <item>പുറത്തിറങ്ങുക</item>
+        <item>അതിഥി</item>
+        <item>ഇല്ലാതാക്കുക</item>
+        <item>mGuru വില്‍ നിന്നും പുറത്തിറങ്ങണമെന്ന് ഉറപ്പാണോ</item>
+        <item>അതെ</item>
+        <item>അല്ല</item>
+        <item>ഇതുവരെ ഒരു വാക്കും പഠിച്ചിട്ടില്ല</item>
+        <item>ഫോട്ടാ എടുക്കുക</item>
+        <item>ഗാലറി തുറക്കുക</item>
+        <item>എഴുതിയത്</item>
+        <item>ചിത്രങ്ങള്‍ വരച്ചത്</item>
+        <item>പരിഭാഷ</item>
+        <item>ഉറവിടം</item>
+        <item>നിങ്ങള്‍ക്ക് ആവശ്യത്തിനുള്ള മാങ്ങകള്‍ കിട്ടിക്കഴിഞ്ഞു. നിങ്ങളുടെ അടുത്ത കഥ തുറക്കാന്‍
+            888 ടൈപ് ചെയ്യുക
+        </item>
+        <item>പോകാം</item>
+        <item>ശബ്ദത്തിന് അനുയോജ്യമായ വാക്ക് തിരഞ്ഞെടുക്കുക</item>
+        <item>ശരിയായ ചിത്രം തിരഞ്ഞെടുക്കുക</item>
+        <item>നിങ്ങള്‍ക്ക് പുറത്തിറങ്ങാന്‍ ആഗഹിക്കുന്നുവോ?</item>
+        <item>കടപ്പാടുകള്‍</item>
+        <item>ഭാഷ മാറ്റുക</item>
+        <item>ദയവായി നിങ്ങളുടെ താല്പര്യം തിരഞ്ഞെടുക്കുക</item>
+        <item>ദയവായി നിങ്ങളുടെ പേര്‍ ടൈപ് ചെയ്യുക</item>
+        <item>ഇതുവരെ ഒരാശയങ്ങളും പഠിച്ചിട്ടില്ല</item>
+        <item>വാക്കിലെ ശബ്ദം തിരിച്ചറിയുക</item>
+        <item>പറയുക</item>
+        <item>മാങ്ങകള്‍ സൗജന്യം</item>
+        <item>ആപ് പങ്കിട്ട് സൗജന്യ മാങ്ങകള്‍ കരസ്ഥമാക്കുക</item>
+        <item>mGuru പങ്കിട്ട് മാങ്ങകള്‍ കരസ്ഥമാക്കുക! നിങ്ങളുടെ ലിങ്കില്‍ അല്ലെങ്കില്‍ കോഡ്
+            ഉപയോഗിച്ച് ചേരുന്ന ഓരോ സുഹൃത്തിനും 400 മാങ്ങകള്‍
+        </item>
+        <item>mGuru English! ഇത് KG മുതല്‍ അഞ്ചാം ക്ലാസ് വരെയുള്ള കുട്ടികള്‍ക്കുള്ള
+            അതിശയിപ്പിക്കുന്ന ഒരു ഇംഗ്ലീഷ് പഠന ആപ് ആണ് നിങ്ങളുടെ കുട്ടികളെ വേഗത്തില്‍ ഇംഗ്ലീഷ്
+            വായിക്കാനും പറയാനും പ്രാപ്തരാക്കൂ. ഇത് സൗജന്യമായി ഇവിടെ പരീക്ഷിക്കുക
+            http://www.mguruenglish.com/registration/
+        </item>
+        <item>വാക്കുകളൊന്നും ഇതുവരെ പഠിച്ചിട്ടില്ല</item>
+        <item>ആശയങ്ങള്‍ പൂര്‍ണമാക്കിയിട്ടില്ല</item>
+        <item>വെല്ലുവിളി ഏറ്റെടുക്കുക</item>
+        <item>തെറ്റായ യൂസര്‍നെയിം അല്ലെങ്കില്‍ പാസ്‌വേര്‍ഡ ആണ്</item>
+        <item>യൂസര്‍നെയിം നിലവിലുണ്ട്</item>
+        <item>തുടരണമെങ്കില്‍ ദയവായി ചേരുകയോ പ്രവേശിക്കുകയോ ചെയ്യുക</item>
+        <item>ശബ്ദം ശ്രവിക്കുക</item>
+        <item>ശരി</item>
+        <item>നല്ല ശ്രമം</item>
+        <item>നന്നായി ശ്രമിച്ചു</item>
+        <item>നക്ഷത്രം</item>
+        <item>അടുത്ത കഥ തുറക്കാന്‍ ആവശ്യമായ മാങ്ങകള്‍ നിങ്ങള്‍ക്കുണ്ട്</item>
+        <item>കഥകളിലേക്ക് പോകുക</item>
+        <item>അന്വേഷണത്തിലേക്ക് പോകുക</item>
+        <item>കഥകളിലേക്ക് തിരികെ പോകുക</item>
+        <item>ഡൌണ്‍ലോഡ് ചെയ്തുകൊണ്ടിരിക്കുന്നു</item>
+        <item>കഥ ഡൌണ്‍ലോഡ് ചെയ്യുന്നവരെ കാത്തിരിക്കുക</item>
+        <item>നിങ്ങളുടെ പുരോഗതി അറിയാന്‍ ------- നെ നിങ്ങള്‍ അനുവദിക്കുമോ</item>
+        <item>റിപ്പോര്‍ട്ട് കാര്‍ഡ്</item>
+        <item>അടുത്തായി ചെയ്ത പ്രവര്‍ത്തികള്‍</item>
+        <item>പഠിച്ച വാക്കുകള്‍</item>
+        <item>ആകെയുള്ള പുരോഗതി</item>
+        <item>ഈ ആഴ്ച</item>
+        <item>ഇതുവരെയും റിപ്പോര്‍ട്ട് കാര്‍ഡില്ല</item>
+        <item>അടുത്തായി പ്രവര്‍ത്തനങ്ങള്‍ ഒന്നും ഇല്ല</item>
+        <item>ഇതുവരെയും വാക്കുകള്‍ പഠിച്ചിട്ടില്ല</item>
+        <item>ഹായ്! നിങ്ങള്‍ നന്നായി ചെയ്യുന്നു. ഒരു വെല്ലുവിളി സ്വീകരിച്ച് മുന്നോട്ട് പോകുന്നോ?
+        </item>
+        <item>പോകാം</item>
+        <item>ആശംസകള്‍, നിങ്ങള്‍ തീര്‍ത്തു</item>
+        <item>വെല്ലുവിളി</item>
+        <item>ആകെ മാര്‍ക്ക്</item>
+        <item>ദയവായി ഒന്നുകൂടി തിരഞ്ഞെടുക്കുക</item>
+        <item>വീണ്ടും കാണുക</item>
+        <item>തീര്‍ക്കുക</item>
+        <item>ഒന്നാമനാകുക</item>
+        <item>ഒന്നാമനാകുക</item>
+        <item>ഒന്നാമനാകാനുള്ള പദ്ധതി</item>
+        <item>400 + പാഠങ്ങളിലേക്ക് പരിധിയില്ലാത്ത പ്രവേശനം</item>
+        <item>60 + വരുന്ന തുറന്ന കഥകള്‍</item>
+        <item>30 + ഉയര്‍ന്ന വ്യാകരണ പാഠങ്ങള്‍</item>
+        <item>അപ്ഗ്രേഡ് ചെയ്യുക</item>
+        <item>ജനസമ്മിതി നേടിയത്</item>
+        <item>ടോപ്പര്‍ പ്ലാനിലേക്ക് മൂല്യം ഉയര്‍ത്തുക</item>
+        <item>1 വര്‍ഷം @ 54 /മാസം</item>
+        <item>ആകെ 640 ( 3+ മാസം സൗജന്യം )</item>
+        <item>3 മാസം @ 360</item>
+        <item>1 മാസം @ 120</item>
+        <item>പ്രോമോ കോഡ്</item>
+        <item>പോകാം</item>
+        <item>1 വര്‍ഷത്തെ പ്ലാന്‍</item>
+        <item>വരുന്ന ആള്‍ വശം പണം നല്‍കുക</item>
+        <item>PayTM വഴി പണമടക്കുക</item>
+        <item>പണമിടപാടിന്‍റെ നില</item>
+        <item>നന്ദി, നിങ്ങളുടെ പണമിടപാട് വിജയിച്ചു</item>
+        <item>പണമിടപാടിന്‍റെ ID</item>
+        <item>തുക</item>
+        <item>PayTM വാലറ്റ് വഴി പണമടക്കുക</item>
+        <item>ഈമെയില്‍ ID ടൈപ് ചെയ്യുക</item>
+        <item>അല്ലെങ്കില്‍</item>
+        <item>മൊബയില്‍ നമ്പര്‍ ടൈപ് ചെയ്യുക</item>
+        <item>പണമിടപാട് ആരംഭിക്കുക</item>
+        <item>ബാക്കിയുള്ള ദിവസങ്ങള്‍</item>
+        <item>വളരെ എളുപ്പം</item>
+        <item>പുസ്തകങ്ങള്‍</item>
+        <item>വീഡിയോ ചിതങ്ങള്‍</item>
+        <item>വീഡിയോ കാണുക</item>
+        <item>വീഡിയോ പൂര്‍ത്തിയായി</item>
+        <item>അടുത്ത വീഡിയോ കാണുന്നുവോ?</item>
+        <item>ചില ചോദ്യങ്ങള്‍ക്ക് ഉത്തരംനല്‍കി നിങ്ങള്‍ക്ക് 100 മാങ്ങകള്‍ നേടാം അല്ലെങ്കില്‍
+            നിങ്ങള്‍ക്ക് മറ്റൊരു വീഡിയോ കാണാം
+        </item>
+        <item>വീഡിയോ ചിത്രങ്ങളിലേക്ക് പോകുക</item>
+        <item>നിങ്ങളുടെ റാങ്ക്</item>
+        <item>---- ല്‍</item>
+        <item>ശതമാനത്തില്‍</item>
+        <item>ഒന്നാമത് എത്തിയവര്‍</item>
+        <item>mGuru ഒന്നാമന്‍</item>
+        <item>നിലവാരം</item>
+        <item>കണക്ക്</item>
+        <item>
+            ശബ്ദത്തില്‍ ഉള്ള മറ്റുള്ള വാക്കുകളില്‍ നിന്നും വ്യത്യസ്തമായിട്ടുള്ള
+            ശബ്ദത്തില്‍ തുടങ്ങുന്ന വാക്ക് തിരഞ്ഞെടുക്കുക
+        </item>
+        <item>
+            ശബ്ദത്തില്‍ ഉള്ള മറ്റുള്ള വാക്കുകളില്‍ നിന്നും വ്യത്യസ്തമായിട്ടുള്ള
+            ശബ്ദത്തില്‍ അവസാനിക്കുന്ന വാക്ക് തിരഞ്ഞെടുക്കുക
+        </item>
+        <item>പരിധിയില്ലാത്ത ഗണിത പ്രശ്നങ്ങള്‍</item>
+        <item>നിലവിലുള്ള മൊബയില്‍ നമ്പര്‍ ആയിരിക്കണം</item>
+        <item>Earn 14 days of free access to mGuru\'s Topper Plan!</item>
+        <item>നിങ്ങൾക്കായി കഥ</item>
+        <item>ഇന്നത്തെ കഥ</item>
+        <item>എഡിറ്റർമാർ തിരഞ്ഞെടുത്തത്</item>
+        <item>നിങ്ങൾക്കായി വീഡിയോ</item>
+        <item>ഇന്നത്തെ വീഡിയോ</item>
+        <item>Enjoy 2 weeks of mGuru Topper Plan for FREE!</item>
+        <item>Your free trial has expired. Upgrade and enjoy UNLIMITED mGuru.</item>
+        <item>Upgrade</item>
+    </array>
+
+    <string name="app_name">mGuru</string>
+    <!-- for old app -->
+    <!--<string name="projectToken">7a84c97e6b12bc573bd67f8118d1e7c3</string>-->
+
+    <!-- for new app -->
+    <string name="projectToken">66249f37ed7758f0bf20ca8d7c96ef14</string>
+
+    <string name="api_key">158060289438</string>
+
+    <!-- For Language Screen -->
+    <string name="english">Learn English from English</string>
+    <string name="hindi">हिंदी से अंग्रेज़ी सीखिये</string>
+    <string name="marathi">मराठीतून इंग्रजी शिका</string>
+    <string name="gujrati">ગુજરાતી માંથી અંગ્રેજી શીખો</string>
+    <string name="bengali">বাংলা থেকে ইংরেজি শিখুন</string>
+    <string name="kannada">ಕನ್ನಡದಿಂದ ಇಂಗ್ಲಿಷ್ ಕಲಿಯಿರಿ</string>
+    <string name="tamil">தமிழ் மொழியிலிருந்து ஆங்கிலம் கற்றுக்கொள்ளுங்கள்</string>
+    <string name="manayalam">മലയാളത്തിൽ നിന്ന് ഇംഗ്ലീഷ് പഠിക്കുക</string>
+
+    <!-- For Mix Panel Event -->
+    <string name="open_app">Open App</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="activity_start">Activity Start</string>
+    <string name="activity_end">Activity End</string>
+    <string name="profile_check">Profile Check</string>
+    <string name="story_start">Story Start</string>
+    <string name="story_end">Story End</string>
+    <string name="story_question_start">Story Question Start</string>
+    <string name="story_question_end">Story Question End</string>
+    <string name="diagnostic_start">Diagnostic Start</string>
+    <string name="diagnostic_end">Diagnostic End</string>
+    <string name="select_language_medium">Select Language Medium</string>
+    <string name="help_video_start">Video start</string>
+    <string name="help_video_end">Video end</string>
+    <string name="help_video_question_start">Video Question Start</string>
+    <string name="help_video_question_end">Video Question End</string>
+
+    <!-- For Paytm -->
+    <string name="order_id">Order Id : </string>
+    <string name="customer_id">Customer Id : </string>
+    <string name="transaction_amount">Transaction Amount : </string>
+    <string name="channel_id">Channel Id : </string>
+    <string name="industry_type_id">Industry Type Id : </string>
+    <string name="website">Website : </string>
+    <string name="theme">Theme : </string>
+    <string name="cust_email_id">Email Id : </string>
+    <string name="cust_mobile_no">Mobile Number : </string>
+    <string name="merchant_id">Merchant Id : </string>
+    <string name="checksum_generation_url">Checksum Generation URL : </string>
+    <string name="checksum_verification_url">Checksum Verification URL : </string>
+    <string name="start_transaction">Start Transaction</string>
+    <string name="sample_order_id">ORDER</string>
+    <string name="sample_customer_id">CUST</string>
+    <string name="sample_transaction_amount">1</string>
+    <string name="sample_channel_id">WAP</string>
+    <string name="sample_industry_type_id">Education</string>
+    <string name="sample_website">MGuruEdwap</string>
+    <string name="sample_theme">merchant</string>
+    <string name="sample_cust_email_id">Enter email id</string>
+    <string name="sample_cust_mobile_no">Enter mobile number</string>
+    <string name="sample_merchant_id_staging">MGurue48078797720775</string>
+    <string name="sample_checksum_generation_url">https://api001.mguru.co.in/paytm/generatechecksum</string>
+    <string name="sample_checksum_verification_url">https://api001.mguru.co.in/paytm/verifychecksum</string>
+
+    <bool name="isTablet">false</bool>
+    <string name="facebook_app_id">298367747184913</string>
+
+    <string-array name="grammar_concept">
+        <item>Am, Is, Are</item>
+        <item>Am, Is, Are Questions</item>
+        <item>I am doing</item>
+        <item>Are you doing?</item>
+        <item>I do, etc</item>
+        <item>I don’t...</item>
+        <item>Do you...?</item>
+        <item>in, at, on (part 1)</item>
+        <item>Adjectives</item>
+        <item>Plurals</item>
+        <item>I am doing and I do</item>
+        <item>I have and I’ve got</item>
+        <item>Can</item>
+        <item>in, at, on (part 2)</item>
+        <item>was/ were</item>
+        <item>I did</item>
+        <item>I didn’t... did you?</item>
+        <item>in, at, on (part 3)</item>
+        <item>I was doing</item>
+        <item>I was doing and I did</item>
+        <item>Be, have, do</item>
+        <item>Regular and Irregular verbs</item>
+        <item>in, at, on, to</item>
+        <item>what are you doing tomorrow?</item>
+        <item>I’m going to</item>
+        <item>will</item>
+        <item>I/me; he/him; they/them, etc.</item>
+        <item>my, his, their, etc.</item>
+        <item>whose is this?</item>
+        <item>I/ me/ my/ mine</item>
+        <item>this/ that/ these/ those</item>
+        <item>And but or so</item>
+        <item>Before, after, during, while</item>
+        <!--<item>under/ behind/ opposite</item>-->
+
+
+    </string-array>
+
+    <!-- For am/is/are concept -->
+    <string name="am_is_are_concept_1_1">Hi, I’m Motu!</string>
+    <string name="am_is_are_concept_1_2">I’m 10 years old.</string>
+    <string name="am_is_are_concept_1_3">I’m a monkey.</string>
+    <string name="am_is_are_concept_1_4">My favourite fruit is the mango.</string>
+
+    <string name="am_is_are_concept_3_1">I’m a girl.</string>
+    <string name="am_is_are_concept_3_2">I’m 6 years old.</string>
+    <string name="am_is_are_concept_3_3">We’re Indian.</string>
+    <string name="am_is_are_concept_3_4">It’s light.</string>
+
+    <string name="am_is_are_concept_5_1">You aren’t well.</string>
+    <string name="am_is_are_concept_5_2">He isn’t tall.</string>
+    <string name="am_is_are_concept_5_3">It isn’t sunny.</string>
+    <string name="am_is_are_concept_5_4">They aren’t early.</string>
+
+    <!-- For am/is/are question concept -->
+    <string name="am_is_are_question_concept_1_1">Where are you?</string>
+    <string name="am_is_are_question_concept_1_2">Are you human?</string>
+    <string name="am_is_are_question_concept_1_3">Am I brown?</string>
+    <string name="am_is_are_question_concept_1_4">Are we friends?</string>
+
+    <string name="am_is_are_question_concept_3_1">Am I sleepy?</string>
+    <string name="am_is_are_question_concept_3_2">Are you tall?</string>
+    <string name="am_is_are_question_concept_3_3">Is she here?</string>
+    <string name="am_is_are_question_concept_3_4">Is Karan early?</string>
+
+    <string name="am_is_are_question_concept_5_1">What is the cat’s name?</string>
+    <string name="am_is_are_question_concept_5_2">Where are you from?</string>
+    <string name="am_is_are_question_concept_5_3">Who is Lata?</string>
+    <string name="am_is_are_question_concept_5_4">Why is Ali late?</string>
+
+    <string name="am_is_are_question_concept_8_1">Am I on time? — Yes, you are.</string>
+    <string name="am_is_are_question_concept_8_2">Is Mohan tall? — Yes, he is.</string>
+    <string name="am_is_are_question_concept_8_3">Is Tanishtha old? — No, she isn’t.</string>
+    <string name="am_is_are_question_concept_8_4">Are we tired? — No, we aren’t.</string>
+
+    <!-- For am/is/are question concept -->
+    <string name="are_you_doing_concept_1_1">Are you listening to music, Motu?</string>
+    <string name="are_you_doing_concept_1_2">Are you reading a book, Motu?</string>
+
+    <string name="are_you_doing_concept_2_1">Are you eating a mango, Motu?</string>
+    <string name="are_you_doing_concept_2_2">Are you sleeping right now, Motu?</string>
+
+    <string name="are_you_doing_concept_4_1">Are you sleeping well?</string>
+    <string name="are_you_doing_concept_4_2">Is Joseph eating his vegetables?</string>
+    <string name="are_you_doing_concept_4_3">Are Amal and Kanika going to the cinema today?</string>
+    <string name="are_you_doing_concept_4_4">Am I talking too loudly?</string>
+
+    <string name="are_you_doing_concept_7_1">Are you studying well? \n— Yes, I am.</string>
+    <string name="are_you_doing_concept_7_2">Is she going to the market? \n— Yes, she is.</string>
+    <string name="are_you_doing_concept_7_3">Are we visiting our grandparents today? \n— No, we aren’t.</string>
+    <string name="are_you_doing_concept_7_4">Are your pets playing in the garden? \n— No, they aren’t.</string>
+
+    <!-- For adjective concept -->
+    <string name="adjective_concept_1_1">Motu is brown.</string>
+    <string name="adjective_concept_1_2">Motu looks cute.</string>
+    <string name="adjective_concept_1_3">Motu feels soft.</string>
+    <string name="adjective_concept_1_4">Motu sounds fun.</string>
+
+    <string name="adjective_concept_3_1">He is a happy boy.</string>
+    <string name="adjective_concept_3_2">They are upset with her.</string>
+    <string name="adjective_concept_3_3">This chair feels hard.</string>
+    <string name="adjective_concept_3_4">This phone looks new.</string>
+
+    <!-- For plurals concept -->
+    <string name="plurals_concept_1_1">many flowers</string>
+    <string name="plurals_concept_1_2">many boxes</string>
+    <string name="plurals_concept_1_3">many potatoes</string>
+
+    <string name="plurals_concept_2_1">buses</string>
+    <string name="plurals_concept_2_2">dishes</string>
+    <string name="plurals_concept_2_3">churches</string>
+    <string name="plurals_concept_2_4">boxes</string>
+
+    <string name="plurals_concept_3_1">parties</string>
+    <string name="plurals_concept_3_2">babies</string>
+    <string name="plurals_concept_3_3">dictionaries</string>
+
+    <string name="plurals_concept_4_1">Scissors</string>
+    <string name="plurals_concept_4_2">Glasses</string>
+    <string name="plurals_concept_4_3">Trousers or pants</string>
+    <string name="plurals_concept_4_4">Jeans</string>
+    <string name="plurals_concept_4_5">Shorts</string>
+    <string name="plurals_concept_4_6">Pyjamas</string>
+    <string name="plurals_concept_4_7">Police</string>
+    <string name="plurals_concept_4_8">People</string>
+
+    <string name="plurals_concept_5_1">men</string>
+    <string name="plurals_concept_5_2">feet</string>
+    <string name="plurals_concept_5_3">sheep</string>
+    <string name="plurals_concept_5_4">women</string>
+
+    <string name="plurals_concept_6_1">women</string>
+    <string name="plurals_concept_6_2">teeth</string>
+    <string name="plurals_concept_6_3">fish</string>
+    <string name="plurals_concept_6_4">children</string>
+    <string name="plurals_concept_6_5">mice</string>
+
+
+    <!-- For Before, after, during, while concept -->
+    <string name="before_after_during_while_1">We went to the cinema before we went shopping.</string>
+    <string name="before_after_during_while_2">7 comes after 6.</string>
+    <string name="before_after_during_while_3">Please do not talk during the film.</string>
+    <string name="before_after_during_while_4">They made new friends while they were on holiday.</string>
+
+    <!-- For Can concept -->
+    <string name="can_concept_1_1">I can eat mangoes every day!</string>
+    <string name="can_concept_1_2">Motu can’t sleep for more than 5 hours.</string>
+
+    <string name="can_concept_2_1">I can listen to music with my headphones.</string>
+    <string name="can_concept_2_2">Motu cannot read long stories.</string>
+
+    <string name="can_concept_3_1">Kiran can sing many songs.</string>
+    <string name="can_concept_3_2">Sufiyan can tell you a story.</string>
+    <string name="can_concept_3_3">Jamal cannot lift 20 kilos.</string>
+    <string name="can_concept_3_4">I can’t fight the monster.</string>
+
+    <!-- For Do you...? -->
+    <string name="do_you_concept_3_1">What do you know about science?</string>
+    <string name="do_you_concept_3_2">Who do you call at night?</string>
+    <string name="do_you_concept_3_3">What subject does she like the most?</string>
+    <string name="do_you_concept_3_4">Why do you draw like this?</string>
+
+    <string name="do_you_concept_4_1">I/ we/ you they do.</string>
+    <string name="do_you_concept_4_2">he/ she/ it does.</string>
+    <string name="do_you_concept_4_3">I/ we/ you they don’t.</string>
+    <string name="do_you_concept_4_4">he/ she/ it doesn’t.</string>
+
+    <string name="do_you_concept_5_1">Do you know me? — Yes, I do.</string>
+    <string name="do_you_concept_5_2">Do Karan and Monika run a shop? — Yes, they do.</string>
+    <string name="do_you_concept_5_3">Does he sleep well? — No, he doesn’t.</string>
+    <string name="do_you_concept_5_4">Does Manasi like vegetables? — No, she doesn’t.</string>
+
+    <!-- For I am doing concept-->
+    <string name="i_am_doing_concept_1_1">I am listening to music.</string>
+    <string name="i_am_doing_concept_1_2">I am reading a book.</string>
+
+    <string name="i_am_doing_concept_2_1">Motu is eating a mango.</string>
+    <string name="i_am_doing_concept_2_2">Motu is sleeping.</string>
+
+    <string name="i_am_doing_concept_6_1">I am walking to school.</string>
+    <string name="i_am_doing_concept_6_2">He isn’t sleeping well.</string>
+    <string name="i_am_doing_concept_6_3">We’re going home.</string>
+    <string name="i_am_doing_concept_6_4">They aren’t coming today.</string>
+
+    <!-- For I am doing and i do concept -->
+    <string name="i_am_doing_and_id_do_concept_3_1">I’m eating cake. I like cake.</string>
+    <string name="i_am_doing_and_id_do_concept_3_2">The cats are sleeping.\nThey sleep all day.</string>
+    <string name="i_am_doing_and_id_do_concept_3_3">We’re cooking pasta.\nWe love to cook.</string>
+    <string name="i_am_doing_and_id_do_concept_3_4">Sujata is visiting today. She’s 24.</string>
+
+    <!-- For I was doing concept-->
+    <string name="i_am_doing_concept_7_1">I was listening to music at 10 o’clock.</string>
+    <string name="i_am_doing_concept_7_2">I was reading a book at noon.</string>
+
+    <string name="i_am_doing_concept_8_1">I was eating a mango at 3 o’clock.</string>
+    <string name="i_am_doing_concept_8_2">I was sleeping at 9 o’clock.</string>
+
+    <string name="i_am_doing_concept_12_1">I was sleeping in school all day.</string>
+    <string name="i_am_doing_concept_12_2">She wasn’t feeling well last week.</string>
+    <string name="i_am_doing_concept_12_3">Mala and Yusuf were sneezing all day today.</string>
+    <string name="i_am_doing_concept_12_4">We weren’t doing anything last night.</string>
+
+    <!-- For I did concept -->
+    <string name="i_did_concept_1_1">Motu listened to music at 6 pm yesterday.</string>
+    <string name="i_did_concept_1_2">Motu played badminton at 7.30 pm yesterday.</string>
+
+    <string name="i_did_concept_2_1">Motu watched TV at 7:45 yesterday.</string>
+    <string name="i_did_concept_2_2">Motu danced by himself at 8 pm yesterday.</string>
+
+    <string name="i_did_concept_5_1">I cleaned the car today.</string>
+    <string name="i_did_concept_5_2">We enjoyed ourselves last night.</string>
+    <string name="i_did_concept_5_3">She finished her homework.</string>
+    <string name="i_did_concept_5_4">They stayed late.</string>
+
+    <!-- For I didnot...did you concept -->
+    <string name="i_didnot_did_you_concept_2_1">I didn’t like mangoes when I was little.</string>
+    <string name="i_didnot_did_you_concept_2_2">He didn’t like to wake up early when I went to school.</string>
+    <string name="i_didnot_did_you_concept_2_3">You didn’t know how to read when I was a baby.</string>
+    <string name="i_didnot_did_you_concept_2_4">They didn’t see us coming.</string>
+
+    <string name="i_didnot_did_you_concept_4_1">Did you check if Sheela is coming?</string>
+    <string name="i_didnot_did_you_concept_4_2">Did he go to school today?</string>
+    <string name="i_didnot_did_you_concept_4_3">Did it rain last night?</string>
+    <string name="i_didnot_did_you_concept_4_4">Did you see me last year?</string>
+
+    <!-- For i do, etc concept -->
+    <string name="i_do_concept_1_1">I always go to school.</string>
+    <string name="i_do_concept_2_1">I go to the hospital when I’m sick.</string>
+    <string name="i_do_concept_3_1">Motu sleeps at 8 o’clock every day.</string>
+
+    <string name="i_do_concept_4_1">I never go to the cinema.</string>
+    <string name="i_do_concept_4_2">She often reads books in bed.</string>
+    <string name="i_do_concept_4_3">We usually eat dinner at 9 o’clock.</string>
+    <string name="i_do_concept_4_4">They visit us sometimes.</string>
+
+    <!-- For i dont... concept -->
+    <string name="i_dont_concept_1_1">I don’t eat pineapples.</string>
+    <string name="i_dont_concept_2_1">I don’t like to wake up early.</string>
+    <string name="i_dont_concept_3_1">I don’t know how to use this.</string>
+
+    <string name="i_dont_concept_5_1">We don’t see you much anymore.</string>
+    <string name="i_dont_concept_5_2">Clark doesn’t eat a lot of vegetables.</string>
+    <string name="i_dont_concept_5_3">Manish and his dogs don’t like to swim.</string>
+    <string name="i_dont_concept_5_4">I don’t boil my water before I drink it.</string>
+
+
+    <!-- For i have and i'va concept -->
+    <string name="i_have_and_i_ve_concept_3_1">I have a headache (or)\nI’ve got a headache.</string>
+    <string name="i_have_and_i_ve_concept_3_2">I have a sports car (or)\nI’ve got a sports car.</string>
+    <string name="i_have_and_i_ve_concept_3_3">We have three rooms (or)\nWe’ve got three rooms.</string>
+    <string name="i_have_and_i_ve_concept_3_4">Ali and Raj have the same book (or)\nAli and Raj have got the same book.</string>
+
+    <!-- For I was doing and I did concept -->
+    <string name="i_was_doing_and_i_did_concept_3_1">I was sleeping when you called.</string>
+    <string name="i_was_doing_and_i_did_concept_3_2">They were playing in the park when they saw the cat.</string>
+    <string name="i_was_doing_and_i_did_concept_3_3">We were cooking dinner when the guests arrived.</string>
+    <string name="i_was_doing_and_i_did_concept_3_4">I was driving to work when the accident happened.</string>
+
+    <!-- For I/me; he/him; they/them, etc concept -->
+    <string name="i_me_he_him_they_them_concept_1_1">I own this mango. This mango belongs to me.</string>
+    <string name="i_me_he_him_they_them_concept_2_1">He owns this mango. This mango belongs to him.</string>
+    <string name="i_me_he_him_they_them_concept_3_1">She owns this mango. This mango belongs to her.</string>
+    <string name="i_me_he_him_they_them_concept_4_1">We own this mango. This mango belongs to us.</string>
+    <string name="i_me_he_him_they_them_concept_4_2">They own that mango. That mango belongs to them.</string>
+
+    <!-- For my_his_their concept -->
+    <string name="my_his_their_concept_1_1">This is my mango.</string>
+    <string name="my_his_their_concept_2_1">This is his mango.</string>
+    <string name="my_his_their_concept_3_1">This is her mango.</string>
+    <string name="my_his_their_concept_4_1">This is our mango.</string>
+    <string name="my_his_their_concept_4_2">This is their mango.</string>
+
+    <!-- For my_his_their concept -->
+    <string name="who_is_this_concept_1_1">Whose mango is this? This mango is mine.</string>
+    <string name="who_is_this_concept_2_1">Whose mango is this? This mango is his.</string>
+    <string name="who_is_this_concept_3_1">Whose mango is this? This mango is hers.</string>
+    <string name="who_is_this_concept_4_1">Whose mango is this? This mango is ours.</string>
+    <string name="who_is_this_concept_4_2">Whose mango is this? This mango is theirs.</string>
+
+    <!-- For I/me/my/mine concept -->
+    <string name="i_me_my_mine_concept_1_1">I own this mango.\nThis is my mango.\nThis mango belongs to me.\nThis mango is mine.</string>
+
+    <!-- For I’m going to Concept-->
+    <string name="i_am_going_to_concept_1_1">We use am/is/are + going to... to talk about a plan we have made for the future.</string>
+    <string name="i_am_going_to_concept_1_2">We also use it to talk about something that is going to happen.</string>
+    <string name="i_am_going_to_concept_2_1">I’m going to buy some bread tomorrow.</string>
+    <string name="i_am_going_to_concept_2_2">What are you going to say to Philip?</string>
+    <string name="i_am_going_to_concept_2_3">It’s cloudy. It’s going to rain.</string>
+    <string name="i_am_going_to_concept_2_4">It’s already 10 am. We’re going to be late for school!</string>
+
+    <!-- For I’m going to Concept-->
+    <string name="regular_and_irregular_verbs_concept_1_1">Motu ate a lot of mangoes yesterday.</string>
+    <string name="regular_and_irregular_verbs_concept_1_2">Motu slept at 10 o’clock last night.</string>
+    <string name="regular_and_irregular_verbs_concept_2_1">Many verbs are regular in the past simple tense, which means you simply add “-ed” to the verb to make it past tense.</string>
+    <string name="regular_and_irregular_verbs_concept_2_2">But some verbs are irregular, which means you cannot add “-ed” to them to make it past tense.</string>
+    <string name="regular_and_irregular_verbs_concept_2_3">You simply have to learn the simple past tense of these verbs by heart.</string>
+    <string name="regular_and_irregular_verbs_concept_4_1">I began work at 10 am yesterday.</string>
+    <string name="regular_and_irregular_verbs_concept_4_2">He made you some tea.</string>
+    <string name="regular_and_irregular_verbs_concept_4_3">Jason went to Peru on holiday.</string>
+    <string name="regular_and_irregular_verbs_concept_4_4">Apoorva and Fiona knew me when I was little.</string>
+
+    <!-- For this/ that/ these/ those Concept-->
+    <string name="this_that_these_those_concept_1_1">This is a mango.</string>
+    <string name="this_that_these_those_concept_2_1">That is a mango.</string>
+    <string name="this_that_these_those_concept_3_1">These are my relatives.</string>
+    <string name="this_that_these_those_concept_3_2">Those are my relatives.</string>
+
+    <!-- For under/ behind/ opposite to Concept-->
+    <string name="under_behind_opposite_concept_1_1">Motu is sitting under the tree.</string>
+    <string name="under_behind_opposite_concept_2_1">Motu is sitting behind the tree.</string>
+    <string name="under_behind_opposite_concept_3_1">Motu is sitting opposite the tree.</string>
+    <string name="under_behind_opposite_concept_4_1">The pencil is under the table.</string>
+    <string name="under_behind_opposite_concept_4_2">The dog is behind the tree.</string>
+    <string name="under_behind_opposite_concept_4_3">The doctor’s office is opposite the mall.</string>
+
+    <!-- For was/ were concept -->
+    <string name="was_were_concept_1_1">Right now, Motu is at school.\nLast night, Motu was not at school.\nMotu was asleep last night.</string>
+    <string name="was_were_concept_4_1">Janaki was at the party last week.</string>
+    <string name="was_were_concept_4_2">Kishan wasn’t home yesterday.</string>
+    <string name="was_were_concept_4_3">Were you with your mum when I saw you?</string>
+    <string name="was_were_concept_4_4">They weren’t too happy with me then.</string>
+
+    <string name="was_were_concept_5_1">I/ he/ she/ it was.</string>
+    <string name="was_were_concept_5_2">you/ we/ they were.</string>
+    <string name="was_were_concept_5_3">I/ he/ she/ it wasn\'t.</string>
+    <string name="was_were_concept_5_4">you/ we/ they weren\'t.</string>
+
+    <string name="was_were_concept_6_1">Were you asleep? — Yes, I was.</string>
+    <string name="was_were_concept_6_2">Was she angry? — No, she wasn’t.</string>
+    <string name="was_were_concept_6_3">Were Minnie and Bosco there? — Yes, they were.</string>
+    <string name="was_were_concept_6_4">Was Mitul sleepy? — No, he wasn’t.</string>
+
+    <!-- For will concept -->
+    <string name="will_concept_3_1">The ducks will eat the extra bread.</string>
+    <string name="will_concept_3_2">Will you be at work tomorrow morning?</string>
+    <string name="will_concept_3_3">She won’t come here next week.</string>
+    <string name="will_concept_3_4">You’ll get sick if you eat too much ice cream.</string>
+
+    <!-- For what are you doing -->
+    <string name="what_are_you_doing_tomorrow_concept_3_1">I am eating dinner (right now).</string>
+    <string name="what_are_you_doing_tomorrow_concept_3_2">I am calling my friend (right now).</string>
+    <string name="what_are_you_doing_tomorrow_concept_3_3">We are playing cricket (right now).</string>
+    <string name="what_are_you_doing_tomorrow_concept_3_4">They are singing loudly (right now).</string>
+
+    <string name="what_are_you_doing_tomorrow_concept_4_1">But you can use the same tense to talk about something you have planned to do.</string>
+    <string name="what_are_you_doing_tomorrow_concept_4_2">I am doing something tomorrow means you have a plan to do something</string>
+
+    <string name="what_are_you_doing_tomorrow_concept_5_1">I’m meeting Mina tomorrow.</string>
+    <string name="what_are_you_doing_tomorrow_concept_5_2">I’m playing badminton with her tomorrow.</string>
+    <string name="what_are_you_doing_tomorrow_concept_5_3">We’re shopping for clothes tomorrow.</string>
+    <string name="what_are_you_doing_tomorrow_concept_5_4">They’re cooking for us tomorrow.</string>
+
+    <!-- For Be Have -->
+    <string name="be_have_do_concept_2_1">I am 7 years old.</string>
+    <string name="be_have_do_concept_2_2">It was cold yesterday.</string>
+    <string name="be_have_do_concept_2_3">He is sweet.</string>
+    <string name="be_have_do_concept_2_4">They were on holiday last week.</string>
+
+    <string name="be_have_do_concept_4_1">She has a question for you.</string>
+    <string name="be_have_do_concept_4_2">We had a Maths lesson the day before yesterday. </string>
+    <string name="be_have_do_concept_4_3">I have a dream.</string>
+    <string name="be_have_do_concept_4_4">The dog had a bone in its mouth this morning.</string>
+
+    <string name="be_have_do_concept_6_1">He does yoga every evening.</string>
+    <string name="be_have_do_concept_6_2">We did a dance at her wedding.</string>
+    <string name="be_have_do_concept_6_3">Maya does like you.</string>
+    <string name="be_have_do_concept_6_4">Sheetal and Monal did not see you.</string>
+
+    <!-- For will concept -->
+    <string name="and_but_so_concept_1_1">I like apples and mangoes.</string>
+    <string name="and_but_so_concept_1_2">Ali loves to sing, but Mary likes to draw instead.</string>
+    <string name="and_but_so_concept_1_3">Do you want to drink apple juice or orange juice?</string>
+    <string name="and_but_so_concept_1_4">Ameen fell down, so he had to go to the doctor.</string>
+
+    <string name="error_player">There was an error initializing the YouTubePlayer (%1$s)</string>
+
+
+</resources>

@@ -1,0 +1,22 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "end": "1.280", 
+   "id": "f000001", 
+   "language": "en", 
+   "lines": [
+    "\ufeffWhatever you give\n"
+   ]
+  }, 
+  {
+   "begin": "1.280", 
+   "end": "3.400", 
+   "id": "f000002", 
+   "language": "en", 
+   "lines": [
+    "comes back to you!"
+   ]
+  }
+ ]
+}
