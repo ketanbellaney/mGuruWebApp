@@ -4,7 +4,7 @@
  * Simple PHP library for interacting with the v3 bit.ly api (only deals with
  * JSON format, but supports new OAuth endpoints).
  * REQUIREMENTS: PHP, Curl, JSON
- * 
+ *
  * @link https://github.com/Falicon/BitlyPHP
  * @author Kevin Marshall <info@falicon.com>
  */
@@ -13,11 +13,13 @@
  * The URI of the standard bitly v3 API.
  */
 define('bitly_api', 'http://api.bit.ly/v3/');
+define('bitly_api_v4', 'https://api-ssl.bitly.com/v4/bitlinks');
 
 /**
  * The URI of the bitly OAuth endpoints.
  */
 define('bitly_oauth_api', 'https://api-ssl.bit.ly/v3/');
+define('bitly_oauth_api_v4', 'https://api-ssl.bitly.com/v4/bitlinks');
 
 /**
  * The URI for OAuth access token requests.
@@ -79,27 +81,27 @@ function bitly_oauth_access_token($code, $redirect, $client_id, $client_secret) 
  *   - access_token: The OAuth access token for specified user.
  *
  */
- 
+
 function bitly_oauth_access_token_via_password($username, $password, $client_id, $client_secret) {
   $results = array();
   $url = bitly_oauth_access_token . "access_token";
-  
+
   $headers = array();
   $headers[] = 'Authorization: Basic '.base64_encode($client_id . ":" . $client_secret);
-    
+
   $params = array();
   $params['grant_type'] = "password";
   $params['username'] = $username;
   $params['password'] = $password;
-  
+
   $output = bitly_post_curl($url, $params, $headers);
-  
+
   $decoded_output = json_decode($output,1);
 
   $results = array(
   	"access_token" => $decoded_output['access_token']
   );
-  
+
   return $results;
 }
 
@@ -120,6 +122,9 @@ function bitly_oauth_access_token_via_password($username, $password, $client_id,
  */
 function bitly_get($endpoint, $params, $complex=false) {
   $result = array();
+  if(isset($params['longUrl'])) {
+        $params['long_url'] = $params['longUrl'];
+  }
   if ($complex) {
     $url_params = "";
     foreach ($params as $key => $val) {
@@ -137,7 +142,24 @@ function bitly_get($endpoint, $params, $complex=false) {
     }
     $url = bitly_oauth_api . $endpoint . "?" . substr($url_params, 1);
   } else {
-    $url = bitly_oauth_api . $endpoint . "?" . http_build_query($params);
+    $token = $params['access_token'];
+    unset($params['access_token']);
+    unset($params['longUrl']);
+
+    $url = bitly_oauth_api_v4;
+    $ch = curl_init($url);
+    curl_setopt($ch, CURLOPT_POSTFIELDS, json_encode($params));
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+    curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
+    curl_setopt($ch, CURLOPT_HTTPHEADER, [
+        "Authorization: Bearer $token",
+        "Content-Type: application/json"
+    ]);
+
+    $result['data'] = json_decode(curl_exec($ch), true);
+    $result['data']['url'] = $result['data']['link'];
+
+    return $result;
   }
 
   //echo $url . "\n";
@@ -201,11 +223,11 @@ function bitly_post_curl($uri, $fields, $header_array = array()) {
   rtrim($fields_string,'&');
   try {
     $ch = curl_init($uri);
-    
+
     if(is_array($header_array) && !empty($header_array)){
     	curl_setopt($ch, CURLOPT_HTTPHEADER, $header_array);
     }
-    
+
     curl_setopt($ch, CURLOPT_HEADER, 0);
     curl_setopt($ch,CURLOPT_POST,count($fields));
     curl_setopt($ch,CURLOPT_POSTFIELDS,$fields_string);
